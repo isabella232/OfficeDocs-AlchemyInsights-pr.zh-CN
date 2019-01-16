@@ -1,0 +1,31 @@
+---
+title: Office 365 教育版计划和定价
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 4/12/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
+ms.openlocfilehash: 253de69aacf7d8f8dea19f61c876976ecc374743
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28277609"
+---
+# <a name="get-office-365-free-for-your-entire-school"></a>为您的整个学校获取免费 Office 365
+
+改进免费的工作效率工具与课堂和学校协作。您需要验证您要利用这些提供获得资格鉴定学术机构。
+  
+- [查看培训计划](https://products.office.com/en-us/academic/compare-office-365-education-plans)
+    
+- [开始使用 Office 365 教育版](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+    
+- [比较所有 Office 365 计划](https://products.office.com/en-us/business/compare-more-office-365-for-business-plans)
+    
+
