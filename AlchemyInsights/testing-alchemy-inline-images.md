@@ -1,0 +1,28 @@
+---
+title: 测试 Alchemy 内嵌图像
+ms.author: pebaum
+author: pebaum
+ms.date: 11/16/2017
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 28d8036f-9df2-4dff-835b-9424bfe988a2
+ms.openlocfilehash: 9de1656e3e1fc3d64daf745eaa56e107bad82253
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28277517"
+---
+# <a name="access-the-domains-page"></a>访问域页
+
+若要访问域页，只需单击此图标：
+  
+![域图标](media/e8377292-1d1f-4b45-a91d-05eb2914519c.png)
+  
+然后您可以添加、 修改或删除您的域。
+  
+有关详细信息，请参阅[域 FAQ。](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)
+  
+
