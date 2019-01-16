@@ -1,0 +1,28 @@
+---
+title: 查看版本历史记录
+ms.author: toresing
+author: tomresing
+ms.date: 6/21/2018
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
+ms.openlocfilehash: 19efeed84bb3449cfa6595772d9b20122e405f3b
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28277439"
+---
+# <a name="view-version-history-of-a-file-or-list-item"></a>查看版本历史记录的文件或列表项
+
+1. 转到 SharePoint 网站并从快速启动栏中打开列表或库。如果未出现的列表或库的名称，单击**网站内容**或**查看所有网站内容**，然后单击名称。
+    
+2. 右键单击项目或文档名称和日期之间的间距，然后从菜单中单击**版本历史记录**。您可能需要滚动以查看**版本历史记录**菜单。如果您看不到它，单击对话框中的省略号 （...），然后单击**版本历史记录**。
+    
+3. 在版本历史记录对话框中，指向您希望查看并单击右侧若要获取的选项列表的向下箭头的版本。单击**视图**。
+    
+[了解有关版本历史记录](https://go.microsoft.com/fwlink/?linkid=875709)
+  
+
