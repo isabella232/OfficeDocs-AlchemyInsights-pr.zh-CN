@@ -1,0 +1,43 @@
+---
+title: 其中是 Power Pivot？
+ms.author: chrsm
+author: chrsm
+manager: jecon
+ms.date: 2/27/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
+ms.openlocfilehash: 11f4f4526ba34db0c3001f3414f7b9d24c91b327
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28277895"
+---
+# <a name="where-is-power-pivot"></a>其中是 Power Pivot？
+
+有三个为什么看不到 Power Pivot 的原因：
+  
+ **您的 Excel 版本不包括它**
+  
+并非所有版本的 Excel 都包括 Power Pivot。您将需要升级到 Office，其中包括 Power Pivot 的版本。[检查受支持版本的列表。](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+  
+ **尚未启用 Power Pivot**
+  
+如果您正在支持 Power Pivot 的 Excel 版本中，检查外接程序启用了：
+  
+1. 选择**文件** \> **选项** \> **外接程序**。
+    
+2. 在**管理**下拉列表框中，选择**COM 加载项**，然后单击**转到**。
+    
+3. **Com 加载项**对话框中，选择**Microsoft Power Pivot for Excel**，旁边的复选框，然后单击**确定**。 
+    
+ **您有多个订阅或帐户**
+  
+您可能具有不同 Office 365 订阅分配给不同的用户帐户。请确保您为具有版本的 Excel 支持 Power Pivot 的帐户登录。检查列表中的[受支持的版本](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)，然后按照到[不同的 Office 帐户之间切换](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)的说明。
+  
+

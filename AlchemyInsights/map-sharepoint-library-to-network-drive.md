@@ -1,0 +1,31 @@
+---
+title: 映射到网络驱动器的 SharePoint 库
+ms.author: toresing
+author: tomresing
+manager: scotv
+ms.date: 12/10/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
+ms.openlocfilehash: d04740c019f0d755e15cf7e564bf8ba9398278f9
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28278116"
+---
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>映射到网络驱动器的 SharePoint 库
+
+若要使用文件资源管理器中的网站库，我们建议使用 OneDrive 同步客户端，而不映射到网络驱动器的库。驱动器映射是只是临时解决方案。使用同步客户端使文件可供用户甚至在脱机时。同步客户端还提供了更好的性能，而无需下载它们使用[文件点播](https://support.office.com/en-us/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E)允许访问文件，并不需要使用 Internet Explorer 的安装程序。 
+  
+- [在 Windows 中使用新版 OneDrive 同步客户端来同步文件](https://go.microsoft.com/fwlink/?linkid=866427)。
+    
+- [Ways to work with site library files in File Explorer](https://go.microsoft.com/fwlink/?linkid=866291)（在文件资源管理器中处理网站库文件的方法）
+    
+- [配置和解决映射的网络驱动器](https://support.microsoft.com/kb/2616712)
+    
+
