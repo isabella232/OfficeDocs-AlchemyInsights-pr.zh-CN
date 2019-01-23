@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 7faa043358da5874e3e630ac55c907cd6e663aaf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278099"
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383157"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>将多功能设备或应用程序发送电子邮件使用 Office 365 设置
 
 若要了解有关您的选项和步骤，请参阅[如何将多功能设备或应用程序发送电子邮件使用 Office 365 设置](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4)。
   
- ** *注意：* * * 如果您有设备或应用程序已停止工作，请[注意我们最近做了改进](https://support.microsoft.com/help/4458479/)，可能有影响您。我们现在，从而可能**导致拒绝的邮件，如果该邮箱已满**的邮箱**保存消息的发送文件夹**。此外，我们现在需要邮件的 SMTP 规范每要设置格式。例如，提交设备必须包含尖括号周围的电子邮件地址，如*\<christine@contoso.com\> * 。 
+ ** *注意：* * * 如果您有设备或应用程序已停止工作，请[注意我们最近做了改进](https://support.microsoft.com/help/4458479/)，可能有影响您。我们现在，从而可能**导致拒绝的邮件，如果该邮箱已满**的邮箱**保存消息的发送文件夹**。此外，我们现在需要邮件的 SMTP 规范每要设置格式。例如，提交设备必须包含尖括号周围的电子邮件地址，如*christine@contoso.com*中所示。 
   
 
