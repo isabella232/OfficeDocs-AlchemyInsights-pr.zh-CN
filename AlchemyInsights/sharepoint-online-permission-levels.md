@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 8c89b43d52738c22f0f242626a94045e9692e3dd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277360"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459934"
 ---
 # <a name="sharepoint-online-permission-levels"></a>SharePoint Online 的权限级别
 
@@ -24,6 +24,6 @@ SharePoint 附带了您可以使用，如参与讨论和仅查看一些默认权
   
 - [了解权限级别](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [如何创建和编辑权限级别](https://go.microsoft.com/fwlink/?linkid=867072)
+- 如何创建和编辑权限级别
     
 

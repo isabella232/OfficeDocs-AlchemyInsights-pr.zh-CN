@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277775"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459883"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>如何向用户分配许可证
 
 用户需要有权访问服务的许可证。下面是步骤添加、 更改或删除用户的许可证。
   
-1. 在管理中心中，转到[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)页中，或选择**用户** \> **活动用户**。
+1. 在管理中心，转到[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)页面，或者选择" **用户**"\>" **活动用户**"。
     
 2. 选择要向其分配、 更改或删除许可证的用户的名称旁边的框。
     

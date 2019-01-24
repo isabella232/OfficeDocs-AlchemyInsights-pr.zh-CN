@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
 ms.openlocfilehash: 0ceb1737040f0304bfe8b611241ce1deef487652
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276958"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459717"
 ---
  **问题：** 新建的或不将 Exchange 管理中心中的更新的保留策略应用于邮箱或不移动到存档邮箱或删除项。 
   
@@ -30,7 +30,7 @@ ms.locfileid: "28276958"
 
 - 这也如果**RetentionHold**已**启用**邮箱发生。如果邮箱已被 RetentionHold 置于，将不会在该时段中处理邮箱的保留策略。有关详细信息时 RetentionHold 设置请参阅：[邮箱保留挂起](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)。
     
-    **解决方案：**
+    **解决方案**
     
   - 检查[EXO powershell](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)中的特定邮箱的 RetentionHold 设置的状态：
     

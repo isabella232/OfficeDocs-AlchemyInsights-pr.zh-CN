@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276963"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459647"
 ---
 可以选择以电子邮件附件的形式接收帐单副本。如果执行此操作，请注意：
   
@@ -22,11 +22,11 @@ ms.locfileid: "28276963"
     
 - 您将收到两个单独的电子邮件： 允许您知道您 bill 是好，说明登录到管理中心进行查看，并且第二个电子邮件的其中一个包含作为附件帐单。
     
-若要在电子邮件中收到您帐单：
+以电子邮件的方式接收帐单
   
-1. 在管理中心，转到[帐单通知](https://go.microsoft.com/fwlink/p/?linkid=853212)页上，或选择**帐单** \> **帐单通知**。
+1. 在管理中心，转到[帐单通知](https://go.microsoft.com/fwlink/p/?linkid=853212)页面，或选择" **帐单**"\>" **帐单通知**"。
     
-    如果您使用的 Office 365 德国，转到此[帐单通知](https://go.microsoft.com/fwlink/p/?linkid=853213)页。 
+    如果使用 Office 365 Germany，请转到此[帐单通知](https://go.microsoft.com/fwlink/p/?linkid=853213)页。 
     
 2. 在**您想要接收作为电子邮件附件帐单？**，切换到**上**的切换。您可以通过停止接收帐单语句电子邮件随时切换到**禁用**的切换。
     

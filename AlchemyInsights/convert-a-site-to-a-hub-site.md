@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
 ms.openlocfilehash: ea8bdfd8b75d4730303394905f9cd190fa9074c4
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277393"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459718"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>创建 SharePoint 中心网站
 
@@ -24,7 +24,7 @@ ms.locfileid: "28277393"
 3. 输入中心站点的显示名称并指定的单个用户或您要允许与集线器关联网站的安全组。
     
     > [!NOTE]
-    >  我们建议您选择通信网站或使用新模板的工作组网站。如果您使用经典工作组网站，只能在现代页面上将显示集线器导航和集线器站点设置才会显示在现代的页面。> 不能网站已与另一个中心关联的注册为中心站点。 
+    >  我们建议您选择通信网站或使用新模板的工作组网站。如果您使用经典工作组网站，只能在现代页面上将显示集线器导航和集线器站点设置才会显示在现代的页面。不能 > 网站已与另一个中心关联的注册为中心站点。 
   
 [了解有关中心站点](https://go.microsoft.com/fwlink/?linkid=869149)
   

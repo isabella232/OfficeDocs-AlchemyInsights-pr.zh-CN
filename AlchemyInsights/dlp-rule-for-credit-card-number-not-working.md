@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
 ms.openlocfilehash: a56f32b54e6cb32fa044d26d08868bac8c368de5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277164"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459935"
 ---
 您是否有问题**数据丢失防护 (DLP)** 时使用 O365 中的 DLP 敏感信息类型包含**信用卡号**的内容不起作用？如果是这样，请确保您的内容包含所需的信息以触发 DLP 策略时对它求值。例如，对于配置了 85%可信度**信用卡策略**，以下计算和必须要触发的规则检测到： 
   
@@ -32,11 +32,11 @@ ms.locfileid: "28277164"
     
   - 找到 Keyword_cc_verification 中的一个关键字。
     
-  - 找到从 Keyword_cc_name 关键字
+  - 找到 Keyword_cc_name 中的一个关键字。
     
   - 函数 Func_expiration_date 找到正确日期格式的日期。
     
-  - 校验和传递
+  - 校验和通过。
     
     例如，下面的示例将触发 DLP 信用卡号策略：
     

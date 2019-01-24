@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
 ms.openlocfilehash: 05ab8844df6b34a9c7ae556b91ece341e1370ccd
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277269"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459635"
 ---
 # <a name="set-up-information-management-policies"></a>信息管理策略设置
 
@@ -21,7 +21,7 @@ ms.locfileid: "28277269"
     
 2. 单击**设置**，然后单击**网站设置**。如果网站是 Office 365 连接组的网站，单击**设置**，单击**网站内容**，，然后单击**网站设置**。
     
-3. 在**网站集管理**下单击**网站集功能**。
+3. 在“网站集管理”下，单击“网站集功能”。
     
 4. **在位置记录管理**下面，单击**激活**。
     

@@ -13,11 +13,11 @@ ms.custom: Adm_O365
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
 description: 如果您的防病毒软件、 防火墙、 代理设置或连接阻止您安装 Office 时，可能会看到此错误。下面是一些事项可以尝试修复问题。
 ms.openlocfilehash: 14ccd27264f357af9cd735bfceebb0bddca19eaf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277781"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459508"
 ---
 如果您的防病毒软件、 防火墙、 代理设置或连接阻止您安装 Office 时，可能会看到此错误。下面是一些事项可以尝试修复问题。
   

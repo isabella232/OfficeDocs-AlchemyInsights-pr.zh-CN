@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
 ms.openlocfilehash: 89a4dd910d43d70e849be19d5f88e281f6d19834
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277048"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459234"
 ---
 # <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>一个内部部署联合身份验证服务证书即将过期
 

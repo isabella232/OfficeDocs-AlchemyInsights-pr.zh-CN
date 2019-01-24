@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
 ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277902"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459262"
 ---
 # <a name="view-my-bill"></a>查看我 bill
 
-1. 在管理中心，转到[清单](https://go.microsoft.com/fwlink/p/?linkid=848039)页上，或选择**帐单** \> **账单**。
+1. 在管理中心中，转到"[帐单](https://go.microsoft.com/fwlink/p/?linkid=848039)"页面，或选择" **计费**"\>" **帐单**"。
     
 2. 选择所需发票的月份和日期，然后选择" **查看**"。
     

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
 ms.openlocfilehash: bf1843d007da336520c47d3a6782fb43d280bcb3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278107"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459137"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>要执行的操作如果邮箱大小已经是 100 GB
 

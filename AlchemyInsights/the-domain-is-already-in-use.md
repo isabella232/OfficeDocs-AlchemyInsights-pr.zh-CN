@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 429b091255933de57c2f179355e88625144d6eb1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277840"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459923"
 ---
 # <a name="the-domain-is-already-in-use"></a>域已在使用
 
 您尝试已添加的域属于其他组织。您可以将其添加到此组织之前，您必须首先删除从组织的域。下面的文章将指导您完成这些过程。
   
-- [从 Office 365 中删除域](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- 从 Office 365 中删除域
     
 - [添加域并创建 DNS 记录](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
