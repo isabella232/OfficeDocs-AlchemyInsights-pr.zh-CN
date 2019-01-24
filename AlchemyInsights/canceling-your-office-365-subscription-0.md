@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
 ms.openlocfilehash: 3f9c25022af3c634379705312103ecdb8f5042f1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277281"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459665"
 ---
-# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="c1284-102">取消您的 Office 365 订阅？</span><span class="sxs-lookup"><span data-stu-id="c1284-102">Canceling your Office 365 subscription?</span></span>
+# <a name="canceling-your-office-365-subscription"></a><span data-ttu-id="fafaf-102">取消您的 Office 365 订阅？</span><span class="sxs-lookup"><span data-stu-id="fafaf-102">Canceling your Office 365 subscription?</span></span>
 
-<span data-ttu-id="c1284-103">抱歉看到您转 ！</span><span class="sxs-lookup"><span data-stu-id="c1284-103">We're sorry to see you go!</span></span> 
+<span data-ttu-id="fafaf-103">抱歉看到您转 ！</span><span class="sxs-lookup"><span data-stu-id="fafaf-103">We're sorry to see you go!</span></span> 
   
-<span data-ttu-id="c1284-p101">根据您组织的数据，我们认为您当前的所有订阅都有小于 25 个座位。若要取消订阅联机，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或转到**帐单** \> **订阅**，然后选择**多个操作** \> **取消订阅**。</span><span class="sxs-lookup"><span data-stu-id="c1284-p101">Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**, then choose **More actions** \> **Cancel subscription**.</span></span>
+<span data-ttu-id="fafaf-p101">根据您组织的数据，我们认为您当前的所有订阅都有小于 25 个座位。若要取消订阅联机，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或转到**帐单** \> **订阅**，然后选择**多个操作** \> **取消订阅**。</span><span class="sxs-lookup"><span data-stu-id="fafaf-p101">Based on your organization data, we believe all your current subscriptions have less than 25 seats. To cancel your subscription online, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**, then choose **More actions** \> **Cancel subscription**.</span></span>
   
-<span data-ttu-id="c1284-106">若要了解有关取消订阅或有关分步说明，请参阅这篇文章：[取消业务的 Office 365](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="c1284-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
+<span data-ttu-id="fafaf-106">若要了解有关取消订阅或有关分步说明，请参阅这篇文章：[取消业务的 Office 365](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span><span class="sxs-lookup"><span data-stu-id="fafaf-106">To learn more about canceling a subscription or for step-by-step instructions, see this article: [Cancel Office 365 for business](https://support.office.com/en-us/article/b1bc0bef-4608-4601-813a-cdd9f746709a)</span></span>
   
 

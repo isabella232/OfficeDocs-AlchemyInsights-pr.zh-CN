@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
 ms.openlocfilehash: 61adcd2ba21a98793d072d3fad2d9d2e68fa3c20
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277775"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459883"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="73626-102">如何向用户分配许可证</span><span class="sxs-lookup"><span data-stu-id="73626-102">How to assign a license to a user</span></span>
+# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="64d8b-102">如何向用户分配许可证</span><span class="sxs-lookup"><span data-stu-id="64d8b-102">How to assign a license to a user</span></span>
 
-<span data-ttu-id="73626-p101">用户需要有权访问服务的许可证。下面是步骤添加、 更改或删除用户的许可证。</span><span class="sxs-lookup"><span data-stu-id="73626-p101">A user needs a license to have access to services. Here are steps to add, change, or remove a license from a user.</span></span>
+<span data-ttu-id="64d8b-p101">用户需要有权访问服务的许可证。下面是步骤添加、 更改或删除用户的许可证。</span><span class="sxs-lookup"><span data-stu-id="64d8b-p101">A user needs a license to have access to services. Here are steps to add, change, or remove a license from a user.</span></span>
   
-1. <span data-ttu-id="73626-105">在管理中心中，转到[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)页中，或选择**用户** \> **活动用户**。</span><span class="sxs-lookup"><span data-stu-id="73626-105">In the Admin center, go to the [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="64d8b-105">在管理中心，转到[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)页面，或者选择" **用户**"\>" **活动用户**"。</span><span class="sxs-lookup"><span data-stu-id="64d8b-105">In the Admin center, go to the [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
     
-2. <span data-ttu-id="73626-106">选择要向其分配、 更改或删除许可证的用户的名称旁边的框。</span><span class="sxs-lookup"><span data-stu-id="73626-106">Select the box next to the name of the user to whom you want to assign, change, or remove a license.</span></span>
+2. <span data-ttu-id="64d8b-106">选择要向其分配、 更改或删除许可证的用户的名称旁边的框。</span><span class="sxs-lookup"><span data-stu-id="64d8b-106">Select the box next to the name of the user to whom you want to assign, change, or remove a license.</span></span>
     
-3. <span data-ttu-id="73626-107">在右侧的" **产品许可证**"行中，选择" **编辑**"。</span><span class="sxs-lookup"><span data-stu-id="73626-107">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="64d8b-107">在右侧的" **产品许可证**"行中，选择" **编辑**"。</span><span class="sxs-lookup"><span data-stu-id="64d8b-107">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
     
-4. <span data-ttu-id="73626-108">在" **产品许可证**"窗格中，将想要分配给此用户的许可证的开关切换到" **开**"位置。</span><span class="sxs-lookup"><span data-stu-id="73626-108">In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span> 
+4. <span data-ttu-id="64d8b-108">在" **产品许可证**"窗格中，将想要分配给此用户的许可证的开关切换到" **开**"位置。</span><span class="sxs-lookup"><span data-stu-id="64d8b-108">In the **Product licenses** pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span> 
     
-    <span data-ttu-id="73626-p102">默认情况下，与该许可证关联的所有服务都将自动分配给该用户。若要限制哪些服务对用户可用，请将不希望用户具备的服务的开关切换到" **关**"位置。</span><span class="sxs-lookup"><span data-stu-id="73626-p102">By default, all services associated with that license are automatically assigned to the user. To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have.</span></span> 
+    <span data-ttu-id="64d8b-p102">默认情况下，与该许可证关联的所有服务都将自动分配给该用户。若要限制哪些服务对用户可用，请将不希望用户具备的服务的开关切换到" **关**"位置。</span><span class="sxs-lookup"><span data-stu-id="64d8b-p102">By default, all services associated with that license are automatically assigned to the user. To limit which services are available to the user, switch the toggles to the **Off** position for the services that you don't want that user to have.</span></span> 
     
-    <span data-ttu-id="73626-111">切换到**关闭**位置删除许可证的切换。</span><span class="sxs-lookup"><span data-stu-id="73626-111">Switch the toggle to the **Off** position to remove a license.</span></span> 
+    <span data-ttu-id="64d8b-111">切换到**关闭**位置删除许可证的切换。</span><span class="sxs-lookup"><span data-stu-id="64d8b-111">Switch the toggle to the **Off** position to remove a license.</span></span> 
     
-5. <span data-ttu-id="73626-112">在" **产品许可证**"窗格底部，选择" **保存**"\>" **关闭**"\>" **关闭**"。</span><span class="sxs-lookup"><span data-stu-id="73626-112">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+5. <span data-ttu-id="64d8b-112">在" **产品许可证**"窗格底部，选择" **保存**"\>" **关闭**"\>" **关闭**"。</span><span class="sxs-lookup"><span data-stu-id="64d8b-112">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
     
-<span data-ttu-id="73626-113">有关详细信息，请参阅[分配对业务的 Office 365 中的用户的许可证](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)，并[删除来自企业的 Office 365 中的用户的许可证](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)。</span><span class="sxs-lookup"><span data-stu-id="73626-113">For more information, see [Assign licenses to users in Office 365 for business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), and [Remove licenses from users in Office 365 for business](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).</span></span>
+<span data-ttu-id="64d8b-113">有关详细信息，请参阅[分配对业务的 Office 365 中的用户的许可证](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)，并[删除来自企业的 Office 365 中的用户的许可证](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)。</span><span class="sxs-lookup"><span data-stu-id="64d8b-113">For more information, see [Assign licenses to users in Office 365 for business](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), and [Remove licenses from users in Office 365 for business](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).</span></span>
   
 
