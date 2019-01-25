@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
 ms.openlocfilehash: 1fce7ae1e127f5318dcdf7edd245cab88f89c0ff
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278040"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459825"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="a68e1-102">管理搜索词典</span><span class="sxs-lookup"><span data-stu-id="a68e1-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="eabf0-102">管理搜索词典</span><span class="sxs-lookup"><span data-stu-id="eabf0-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="a68e1-p101">在 SharePoint Online 术语库位于经典 SharePoint Online 管理中心中管理搜索词典中 SharePoint online。有关如何添加或编辑搜索词典的详细信息，请参阅[管理搜索词典](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="a68e1-p101">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the classic SharePoint Online Admin Center. For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="eabf0-p101">在 SharePoint Online 术语库位于经典 SharePoint Online 管理中心中管理搜索词典中 SharePoint online。有关如何添加或编辑搜索词典的详细信息，请参阅[管理搜索词典](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="eabf0-p101">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the classic SharePoint Online Admin Center. For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="a68e1-p102">如果您看不到搜索词典术语集出现在术语库，请等待 24 小时。如果仍然不出现在 24 小时后的词典请登录支持票证，从而。</span><span class="sxs-lookup"><span data-stu-id="a68e1-p102">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours. If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="eabf0-p102">如果您看不到搜索词典术语集出现在术语库，请等待 24 小时。如果仍然不出现在 24 小时后的词典请登录支持票证，从而。</span><span class="sxs-lookup"><span data-stu-id="eabf0-p102">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours. If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   
 
