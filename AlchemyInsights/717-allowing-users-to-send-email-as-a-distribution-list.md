@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
 ms.openlocfilehash: 5def8c3d396c1324112bfc9288ad18755142c14d
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277758"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497968"
 ---
 # <a name="allow-users-to-send-email-as-a-distribution-group"></a>允许用户与通讯组发送电子邮件
 
 若要允许用户可以发送看似来自现有通讯组的邮件，请按照下列步骤：
   
-1. 在[Exchange 管理中心](https://outlook.office365.com/ecp/)中，转到**收件人** \> **组**。
+1. 在 Exchange 管理中心，转到" [收件人](https://outlook.office365.com/ecp/)"****" \>"。
     
 2. 选择您想要修改的通讯组，然后单击**编辑**。
     
