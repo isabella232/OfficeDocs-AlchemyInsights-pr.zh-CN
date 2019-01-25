@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
 ms.openlocfilehash: 04774654e774a49b62fdc802b047bc3fcb4379c0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277075"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500704"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="9a1c1-102">发送电子邮件别名或辅地址</span><span class="sxs-lookup"><span data-stu-id="9a1c1-102">Send email from an alias or secondary address</span></span>
+# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="5c36d-102">发送电子邮件别名或辅地址</span><span class="sxs-lookup"><span data-stu-id="5c36d-102">Send email from an alias or secondary address</span></span>
 
-<span data-ttu-id="9a1c1-p101">Office 365 当前不支持从别名或辅助电子邮件地址发送电子邮件。电子邮件别名可以用于接收电子邮件仅。如果您想要从另一个电子邮件地址发送电子邮件，您需要创建共享的邮箱。共享的邮箱将为您提供其他电子邮件地址，而无需其他许可证。</span><span class="sxs-lookup"><span data-stu-id="9a1c1-p101">Office 365 does not currently support sending email from an alias or secondary email address. Email aliases can be used to receive emails only. If you want to send email from another email address, you need to create a shared mailbox. The shared mailbox will give you another email address, without requiring another license.</span></span> 
+<span data-ttu-id="5c36d-p101">Office 365 当前不支持从别名或辅助电子邮件地址发送电子邮件。电子邮件别名可以用于接收电子邮件仅。如果您想要从另一个电子邮件地址发送电子邮件，您需要创建共享的邮箱。共享的邮箱将为您提供其他电子邮件地址，而无需其他许可证。</span><span class="sxs-lookup"><span data-stu-id="5c36d-p101">Office 365 does not currently support sending email from an alias or secondary email address. Email aliases can be used to receive emails only. If you want to send email from another email address, you need to create a shared mailbox. The shared mailbox will give you another email address, without requiring another license.</span></span> 
   
-- [<span data-ttu-id="9a1c1-107">转到此处创建共享的邮箱</span><span class="sxs-lookup"><span data-stu-id="9a1c1-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="5c36d-107">转到此处创建共享的邮箱</span><span class="sxs-lookup"><span data-stu-id="5c36d-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
     
-<span data-ttu-id="9a1c1-108">您还可以阅读[创建共享邮箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)文章，其中将告知您需要了解的有关共享邮箱，包括如何使用它们的全部内容。</span><span class="sxs-lookup"><span data-stu-id="9a1c1-108">You can also read the [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span> 
+<span data-ttu-id="5c36d-108">您还可以阅读[创建共享邮箱](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9)文章，其中将告知您需要了解的有关共享邮箱，包括如何使用它们的全部内容。</span><span class="sxs-lookup"><span data-stu-id="5c36d-108">You can also read the [Create a shared mailbox](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span> 
   
 
