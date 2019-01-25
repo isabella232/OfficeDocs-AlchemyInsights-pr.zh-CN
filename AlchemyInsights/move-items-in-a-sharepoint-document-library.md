@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
 ms.openlocfilehash: 6d3674a57ccbe10f274ee8f12493bcf5c6b08702
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277616"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458936"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>移动 SharePoint 文档库中的项目
 

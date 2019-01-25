@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 7eec0265-23ec-4081-a4f1-6c353c135bb2
 description: 启动很短的简介 （1 句子） 与您的文章。将自己放置读者就地-为何此处是它们？他们应该怎么做？
 ms.openlocfilehash: 60effc638665606f5687cd25c22b64020c0ee7d0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277696"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458986"
 ---
 启动很短的简介 （1 句子） 与您的文章。将自己放置读者就地-为何此处是它们？他们应该怎么做？ 
   

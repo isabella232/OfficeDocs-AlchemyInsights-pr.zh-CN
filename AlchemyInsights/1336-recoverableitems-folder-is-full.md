@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
 ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277319"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459414"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>可恢复邮件文件夹已满
 
@@ -34,7 +34,7 @@ Office 365 中的 Exchange Online 邮箱，可恢复邮件文件夹的默认存�
   
 - [搜索和删除邮件](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
     
-- [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- Search-Mailbox
     
 对于处于保持状态的邮箱，管理员必须删除保留，他们可以从可恢复邮件文件夹的已删除的项目之前。有关详细信息，请参阅[删除在可恢复项目文件夹中的基于云的邮箱的保留的项目](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)。
   

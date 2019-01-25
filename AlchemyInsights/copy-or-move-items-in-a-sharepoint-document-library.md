@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276857"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459065"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>复制或移动 SharePoint 文档库中的项目
 
@@ -37,6 +37,6 @@ ms.locfileid: "28276857"
 3. 单击**此处复制**或**移动到此处**。
     
 > [!NOTE]
->  您可以一次复制达 500 MB 的文件和文件夹。> 复制时有版本历史记录的文档，复制只有最新版本。移动文档时，也被移动他们的历史记录。 
+>  您可以一次复制达 500 MB 的文件和文件夹。> 复制有版本历史记录，只有最新版本的文档时进行复制。移动文档时，也被移动他们的历史记录。 
   
 

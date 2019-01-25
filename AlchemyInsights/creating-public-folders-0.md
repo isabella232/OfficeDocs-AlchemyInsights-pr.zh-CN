@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
 ms.openlocfilehash: e66cbd0dc4b3d59b137892391b6b7eebc078de49
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277251"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459186"
 ---
 # <a name="creating-public-folders"></a>创建公用文件夹
 
@@ -24,7 +24,7 @@ ms.locfileid: "28277251"
     
 2. 导航到**公用文件夹** \> **公用文件夹邮箱**，然后单击**添加**。
     
-3. **公用文件夹邮箱**中, 提供了公用文件夹邮箱的名称。
+3. 在"公用文件夹邮箱"中，为此公用文件夹邮箱提供名称。
     
 4. 单击 **"保存"**。
     

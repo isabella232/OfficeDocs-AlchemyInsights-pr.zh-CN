@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
 ms.openlocfilehash: 3973f5bf584343d3353e7389f22bc727827b5c35
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277606"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29458935"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>访问被拒绝邮件疑难解答
 
@@ -21,7 +21,7 @@ ms.locfileid: "28277606"
   
 1. 浏览到的网站，单击设置图标，然后单击**网站设置**。
     
-2. 在**网站集管理**下单击**网站集功能**。
+2. 在“网站集管理”下，单击“网站集功能”。
     
 3. 旁边**有限访问用户权限锁定模式下**，单击**停用**。
     

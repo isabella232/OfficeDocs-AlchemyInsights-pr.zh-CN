@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
 ms.openlocfilehash: 6eae9146d33f5fc307085dbf931d57bdbb28b82e
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278120"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459074"
 ---
 您是否有问题**数据丢失防护 (DLP)** 包含**美国银行帐号**O365 中使用的 DLP 敏感信息类型时的内容不起作用？如果是这样，确保您的内容包含所需的信息的 DLP 策略查找的内容时对它求值。 
   
@@ -28,7 +28,7 @@ ms.locfileid: "28278120"
     
 - **[定义：](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)** DLP 策略是相信它已检测到此类型的敏感信息的 75 %if、 内 300 个字符的邻近性： 
     
-  - 正则表达式 Regex_usa_bank_account_number 找到与模式匹配的内容
+  - 正则表达式 Regex_usa_bank_account_number 找到与该模式匹配的内容。
     
   - 找到 Keyword_usa_Bank_Account 中的一个关键字。
     

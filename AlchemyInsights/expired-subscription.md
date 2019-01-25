@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
 ms.openlocfilehash: 604e645175696043a8e9e9a0d796b2c904786e23
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277394"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459191"
 ---
 # <a name="expired-subscription"></a>订阅已到期
 
 它将显示您有一个或多个过期的订阅。如果您想要继续服务，您必须重新激活该订阅，或新购买。
   
- **“重新激活”**
+ “重新激活”
   
 1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
     

@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.assetid: d55c9095-317d-4283-860d-a82032f5e9f6
 description: 如果您在遇到登录到 for Business 的 Skype 的问题，您可以解决支持和恢复助手 (SaRA)。此工具可帮助您自动诊断和解决登录 for Business 的 Skype 涉及的已知问题的范围。
 ms.openlocfilehash: 53ed1ac82ed5d731e987fcc0a0350cab511d05a7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277981"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459422"
 ---
 如果您在遇到登录到 for Business 的 Skype 的问题，您可以解决支持和恢复助手 (SaRA)。此工具可帮助您自动诊断和解决登录 for Business 的 Skype 涉及的已知问题的范围。
   
