@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
 ms.openlocfilehash: 0ee0b188882659742ca50f9188a584f64a767e03
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277173"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459410"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="65d52-102">如何创建和管理会议室邮箱</span><span class="sxs-lookup"><span data-stu-id="65d52-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="63043-102">如何创建和管理会议室邮箱</span><span class="sxs-lookup"><span data-stu-id="63043-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="65d52-103">若要创建和修改会议室邮箱，请参阅[创建和管理会议室邮箱](https://technet.microsoft.com/library/jj215781.aspx)。</span><span class="sxs-lookup"><span data-stu-id="65d52-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="63043-103">若要创建和修改会议室邮箱，请参阅[创建和管理会议室邮箱](https://technet.microsoft.com/library/jj215781.aspx)。</span><span class="sxs-lookup"><span data-stu-id="63043-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
   
-<span data-ttu-id="65d52-104">若要了解有关房间和设备邮箱 （也称为资源邮箱） 的详细信息，请参阅[房间和设备的邮箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)。</span><span class="sxs-lookup"><span data-stu-id="65d52-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
+<span data-ttu-id="63043-104">若要了解有关房间和设备邮箱 （也称为资源邮箱） 的详细信息，请参阅[房间和设备的邮箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b)。</span><span class="sxs-lookup"><span data-stu-id="63043-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
   
 

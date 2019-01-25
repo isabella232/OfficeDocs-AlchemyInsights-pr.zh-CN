@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.openlocfilehash: 877f5746ee97fe6ff5b912235974bc5ea0cdc3c3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278092"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459338"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="d5b88-102">正在运行的服务事件</span><span class="sxs-lookup"><span data-stu-id="d5b88-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="80ab4-102">正在运行的服务事件</span><span class="sxs-lookup"><span data-stu-id="80ab4-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="d5b88-p101">您可能会影响服务事件或顾问的正在调查。您可以通过转到[服务运行状况](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)页上检查的最新状态。</span><span class="sxs-lookup"><span data-stu-id="d5b88-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="80ab4-p101">您可能会影响服务事件或顾问的正在调查。您可以通过转到[服务运行状况](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)页上检查的最新状态。</span><span class="sxs-lookup"><span data-stu-id="80ab4-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="d5b88-105">为方便起见，您可以找到该事件下面的摘要：</span><span class="sxs-lookup"><span data-stu-id="d5b88-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="80ab4-105">为方便起见，您可以找到该事件下面的摘要：</span><span class="sxs-lookup"><span data-stu-id="80ab4-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="d5b88-106">**事件编号：**[{} IncidentId](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="d5b88-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="80ab4-106">**事件编号：**[{} IncidentId](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="80ab4-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
     
-> <span data-ttu-id="d5b88-107">影响说明: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="d5b88-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="80ab4-107">影响说明: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="80ab4-107">Impact description: {ImpactDescription}</span></span>
     
 

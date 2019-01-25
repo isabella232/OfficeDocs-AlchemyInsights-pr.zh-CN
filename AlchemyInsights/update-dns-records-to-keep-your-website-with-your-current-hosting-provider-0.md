@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
 ms.openlocfilehash: a79302259e294ea5bf3b1d29393a412edb27a388
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277334"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459420"
 ---
-# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="463e2-102">更新 DNS 记录以便利用当前的托管提供商继续托管网站</span><span class="sxs-lookup"><span data-stu-id="463e2-102">Update DNS records to keep your website with your current hosting provider</span></span>
+# <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a><span data-ttu-id="a33d3-102">更新 DNS 记录以便利用当前的托管提供商继续托管网站</span><span class="sxs-lookup"><span data-stu-id="a33d3-102">Update DNS records to keep your website with your current hosting provider</span></span>
 
-1. <span data-ttu-id="463e2-103">在" [域](https://portal.office.com/adminportal/home#/Domains) "页面上的域列表中，选择要用于你的网站的域，然后在管理窗格中选择" **DNS 设置** "。</span><span class="sxs-lookup"><span data-stu-id="463e2-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span> 
+1. <span data-ttu-id="a33d3-103">在" [域](https://portal.office.com/adminportal/home#/Domains) "页面上的域列表中，选择要用于你的网站的域，然后在管理窗格中选择" **DNS 设置** "。</span><span class="sxs-lookup"><span data-stu-id="a33d3-103">On the [Domains](https://portal.office.com/adminportal/home#/Domains) page, in the list of domains, select the domain you're using for your website, and then select **DNS settings** in the management pane.</span></span> 
     
-2. <span data-ttu-id="463e2-104">选择" **+ 新增自定义记录** "，然后输入以下信息：</span><span class="sxs-lookup"><span data-stu-id="463e2-104">Select **+ New custom record** and enter the following:</span></span> 
+2. <span data-ttu-id="a33d3-104">选择" **+ 新增自定义记录** "，然后输入以下信息：</span><span class="sxs-lookup"><span data-stu-id="a33d3-104">Select **+ New custom record** and enter the following:</span></span> 
     
-  - <span data-ttu-id="463e2-105">对于" **DNS 类型** "，请输入： **A (地址)**</span><span class="sxs-lookup"><span data-stu-id="463e2-105">For **DNS type** enter: **A (Address)**</span></span>
+  - <span data-ttu-id="a33d3-105">对于" **DNS 类型** "，请输入： **A (地址)**</span><span class="sxs-lookup"><span data-stu-id="a33d3-105">For **DNS type** enter: **A (Address)**</span></span>
     
-  - <span data-ttu-id="463e2-106">对于" **主机名或别名** "，请键入： **@**</span><span class="sxs-lookup"><span data-stu-id="463e2-106">For **Host name or Alias**, type the following: **@**</span></span>
+  - <span data-ttu-id="a33d3-106">对于" **主机名或别名** "，请键入： **@**</span><span class="sxs-lookup"><span data-stu-id="a33d3-106">For **Host name or Alias**, type the following: **@**</span></span>
     
-  - <span data-ttu-id="463e2-107">对于" **IP 地址** "，请键入网站当前托管位置的静态 IP 地址（例如 172.16.140.1）。</span><span class="sxs-lookup"><span data-stu-id="463e2-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span> 
+  - <span data-ttu-id="a33d3-107">对于" **IP 地址** "，请键入网站当前托管位置的静态 IP 地址（例如 172.16.140.1）。</span><span class="sxs-lookup"><span data-stu-id="a33d3-107">For **IP Address**, type the static IP address for your website where it's currently hosted (for example, 172.16.140.1).</span></span> 
     
-    <span data-ttu-id="463e2-p101">必须是该网站的 *静态*  IP 地址，不能是  *动态*  IP 地址。 请与您的网站的托管网站核实，确保可以获得您的公共网站的静态 IP 地址。</span><span class="sxs-lookup"><span data-stu-id="463e2-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span> 
+    <span data-ttu-id="a33d3-p101">必须是该网站的 *静态*  IP 地址，不能是  *动态*  IP 地址。 请与您的网站的托管网站核实，确保可以获得您的公共网站的静态 IP 地址。</span><span class="sxs-lookup"><span data-stu-id="a33d3-p101">This must be a  *static*  IP address for the website, not a  *dynamic*  IP address. Check with site where your website is hosted to make sure you can get a static IP address for your public website.</span></span> 
     
-3. <span data-ttu-id="463e2-110">选择" **保存** "。</span><span class="sxs-lookup"><span data-stu-id="463e2-110">Select **Save**.</span></span> 
+3. <span data-ttu-id="a33d3-110">选择" **保存** "。</span><span class="sxs-lookup"><span data-stu-id="a33d3-110">Select **Save**.</span></span> 
     
-<span data-ttu-id="463e2-111">此外，您可以创建 CNAME 记录以帮助客户找到您的网站。</span><span class="sxs-lookup"><span data-stu-id="463e2-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
+<span data-ttu-id="a33d3-111">此外，您可以创建 CNAME 记录以帮助客户找到您的网站。</span><span class="sxs-lookup"><span data-stu-id="a33d3-111">In addition, you can create a CNAME record to help customers find your website.</span></span>
   
-1. <span data-ttu-id="463e2-112">选择" **+ 新增自定义记录** "，然后输入以下信息：</span><span class="sxs-lookup"><span data-stu-id="463e2-112">Select **+ New custom record** and enter the following:</span></span> 
+1. <span data-ttu-id="a33d3-112">选择" **+ 新增自定义记录** "，然后输入以下信息：</span><span class="sxs-lookup"><span data-stu-id="a33d3-112">Select **+ New custom record** and enter the following:</span></span> 
     
-  - <span data-ttu-id="463e2-113">对于" **DNS 类型** "，请输入： **CNAME (别名)**</span><span class="sxs-lookup"><span data-stu-id="463e2-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
+  - <span data-ttu-id="a33d3-113">对于" **DNS 类型** "，请输入： **CNAME (别名)**</span><span class="sxs-lookup"><span data-stu-id="a33d3-113">For **DNS type** enter: **CNAME (Alias)**</span></span>
     
-  - <span data-ttu-id="463e2-114">对于" **主机名或别名** "，请键入： **www**</span><span class="sxs-lookup"><span data-stu-id="463e2-114">For **Host name or Alias**, type the following: **www**</span></span>
+  - <span data-ttu-id="a33d3-114">对于" **主机名或别名** "，请键入： **www**</span><span class="sxs-lookup"><span data-stu-id="a33d3-114">For **Host name or Alias**, type the following: **www**</span></span>
     
-  - <span data-ttu-id="463e2-115">对于" **指向地址** "，请键入网站的完全限定域名 (FQDN)，例如 contoso.com。</span><span class="sxs-lookup"><span data-stu-id="463e2-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span> 
+  - <span data-ttu-id="a33d3-115">对于" **指向地址** "，请键入网站的完全限定域名 (FQDN)，例如 contoso.com。</span><span class="sxs-lookup"><span data-stu-id="a33d3-115">For **Points to address**, type the fully qualified domain name (FQDN) for your website (for example, contoso.com).</span></span> 
     
-2. <span data-ttu-id="463e2-116">选择" **保存** "。</span><span class="sxs-lookup"><span data-stu-id="463e2-116">Select **Save**.</span></span> 
+2. <span data-ttu-id="a33d3-116">选择" **保存** "。</span><span class="sxs-lookup"><span data-stu-id="a33d3-116">Select **Save**.</span></span> 
     
 
