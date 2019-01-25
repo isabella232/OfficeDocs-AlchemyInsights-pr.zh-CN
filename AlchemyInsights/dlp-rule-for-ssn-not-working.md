@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
 ms.openlocfilehash: b92d122b774d97cd2e44cc0880dc5001065b57cc
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277046"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459972"
 ---
 您是否有问题**数据丢失防护 (DLP)** 包含**社会保险号码 (SSN)** 时使用 Office 365 中的敏感信息类型的内容不起作用？如果是这样，请确保您的内容包含的 DLP 策略正在查找所需的信息。 
   
@@ -36,7 +36,7 @@ ms.locfileid: "28277046"
     
 - **[定义：](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP 策略是 85%相信它已检测到此类型的敏感信息 if、 内 300 个字符的邻近性： 
     
-  - [函数 Func_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)查找与模式匹配的内容。 
+  - 函数 Func_ssn 找到与该模式匹配的内容。 
     
   - 找到从[Keyword_ssn](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn)关键字。关键字的示例包括：*社会保险社会保险 #、 Soc 秒、 SSN* 。例如，下面的示例将触发 DLP SSN 策略： **SSN: 489-36 8350**
     

@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.openlocfilehash: 48e9f895cad8d11b7e04cc7f8765c2ecb7839f72
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276881"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459988"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>更改您在 Outlook.com 中的电子邮件名称
 

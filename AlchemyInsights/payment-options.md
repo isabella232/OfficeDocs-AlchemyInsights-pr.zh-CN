@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278041"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459845"
 ---
- **付款选项**
+ “支付选项”。
   
 信用卡、 银行帐户 （直接借记卡） 和发票 （通过检查支付或电子资金转接）
   
@@ -32,12 +32,12 @@ ms.locfileid: "28278041"
   
 如果按发票支付为您的订阅时，您将获取指出您帐单已准备好查看电子邮件。此电子邮件不包含您帐单的副本。但是，也可以选择为[接收电子邮件中您帐单语句的副本](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email)。您帐单包括有关付款选项的详细信息。如果您购买订阅时输入 purchase order （采购订单） 数字，该号码显示在与帐单语句。有关访问帐单语句的信息，请参阅[您的 bill 或发票的视图](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide)。
   
- **更改您的付薪**
+ “更改付款方式”。
   
 如果您想要更改您如何支付的当前订阅，请按照说明[此处](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide)。
   
  **其他信息**
   
-[用于 Office 365 业务订阅](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[支付 Office 365 商业版订阅费用](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

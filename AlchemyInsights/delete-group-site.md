@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
 ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28277491"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459966"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>删除 Office 365 组所属的 SharePoint 网站
 

@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28276843"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459937"
 ---
 # <a name="create-a-shared-mailbox"></a>创建共享邮箱
 
-共享的邮箱允许多个用户发送和接收电子邮件别名，如**sales@contoso.com**，而不分配另一个许可证。
+共享邮箱允许多个人发送和接收别名电子邮件，如 sales@contoso.com，无需分配其他许可证。
   
 有关详细信息，请参阅[创建共享邮箱](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9)。 
   

@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28278038"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29459804"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>O365 业务 Essentials 订阅设置
 
 创建 Office 365 帐户并添加您的域
   
-- 在此步骤，您可以使用安装向导为您的用户创建 Office 365 帐户并添加您自己的域。向导，可以对每个人的用户 ID 和您的业务，如[rob@contoso.com](mailto:rob@contoso.com)电子邮件进行个性化设置。
+- 在此步骤中，可以使用"设置"向导为用户创建 Office 365 帐户并添加自己的域。向导允许个性化设置企业中每个人的用户 ID 和电子邮件，如 rob@contoso.com。
     
 - 转到 [Office 365 管理中心](https://login.partner.microsoftonline.cn/)。
     
