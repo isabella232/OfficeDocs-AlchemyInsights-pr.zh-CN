@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4807dbfbabcea1f13785bd39bb48e4bbaa8d0f0f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 09d8b134a4e99912301aa92c2e989fec9dd30a7b
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459808"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656377"
 ---
 # <a name="how-to-disable-external-groups"></a>如何禁用外部组
 
@@ -27,6 +27,6 @@ Yammer 外部消息适用 Exchange 传输规则 (ETRs)，一套主动控件，�
     
 - 选择" **保存**"。 
     
-有关详细信息，请参阅[外部消息与 Exchange 传输规则的 Yammer 网络中的控件](https://support.office.com/en-us/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+有关详细信息，请参阅[外部消息与 Exchange 传输规则的 Yammer 网络中的控件](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
   
 

@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 1657865d328ca9a891a2928b8a37d82db553575b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 75ed65775d4d96284d3411dcdc15eb58afbdfcc4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459215"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659509"
 ---
 # <a name="creating-public-folders"></a>创建公用文件夹
 
@@ -26,11 +26,11 @@ ms.locfileid: "29459215"
     
 2. 转到**公用文件夹** \> **公用文件夹邮箱**，然后单击**添加**。
     
-3. 在"公用文件夹邮箱"中，为此公用文件夹邮箱提供名称。
+3. **公用文件夹邮箱**中, 提供了公用文件夹邮箱的名称。
     
-4. 单击 **"保存"**。
+4. 单击“**保存**”。
     
-一旦创建邮箱，可以开始创建单个文件夹或告知您的用户到[开始创建和使用 Outlook 中的公用文件夹](https://support.office.com/en-us/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)。作为管理员，您还可以[创建您的组织的公用文件夹](https://technet.microsoft.com/en-us/library/bb691104%28v=exchg.150%29.aspx)。
+一旦创建邮箱，可以开始创建单个文件夹或告知您的用户到[开始创建和使用 Outlook 中的公用文件夹](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)。作为管理员，您还可以[创建您的组织的公用文件夹](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx)。
   
 公用文件夹将无法访问移动设备上。
   

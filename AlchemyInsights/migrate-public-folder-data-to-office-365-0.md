@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: dd7166257f2bc17c9b483a95a97a45abd5e99874
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459649"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660769"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>将公用文件夹数据迁移到 Office 365
 
@@ -22,7 +22,7 @@ ms.locfileid: "29459649"
   
 对于要将公用文件夹移动到 Office 365 中的较大组织，我们有几个指南可用：
   
-- [迁移旧版公用文件夹](https://technet.microsoft.com/en-us/library/dn874017%28v=exchg.150%29.aspx)(Exchange 2010 和早期版本) 
+- [迁移旧版公用文件夹](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx)(Exchange 2010 和早期版本) 
     
 - [将 Exchange 2013 公用文件夹迁移](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     

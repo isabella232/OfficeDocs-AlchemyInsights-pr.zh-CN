@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459790"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662317"
 ---
 # <a name="conditional-access-with-intune"></a>使用 Intune 的条件访问
 
@@ -25,10 +25,10 @@ ms.locfileid: "29459790"
     
 - 确保**合规性策略**和**条件的访问策略**针对所需的用户组。这可能需要在 Azure Active Directory 中创建特定的用户组。 
     
-阅读详细信息
+阅读的详细信息：
   
-- [条件访问最佳实践](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [条件访问最佳实践](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [条件访问入门](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [条件访问入门](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 46b2489e86c018b3cbd6feb07a3a2e397de383b6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c4610a133cf4202310bfd166a61ab84ca6ecdbb
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499516"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661777"
 ---
 # <a name="file-open-read-only"></a>只读方式打开的文件
 
@@ -30,7 +30,7 @@ ms.locfileid: "29499516"
   
  **内容采用受保护的视图**
   
-从 Internet 和其他存在安全隐患的位置的文件可以包含病毒、 蠕虫或其他类型的可以危害您的计算机的恶意软件。这也是常与电子邮件附件或已下载的文件的情况。为了帮助保护您的计算机，从这些存在安全隐患的位置打开文件在受保护的视图中。通过使用受保护的视图，您可以阅读文件，并查看其内容，同时降低风险。受保护视图以及如何更改设置的详细信息，请参阅这篇文章：[什么是受保护的视图？](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+从 Internet 和其他存在安全隐患的位置的文件可以包含病毒、 蠕虫或其他类型的可以危害您的计算机的恶意软件。这也是常与电子邮件附件或已下载的文件的情况。为了帮助保护您的计算机，从这些存在安全隐患的位置打开文件在受保护的视图中。通过使用受保护的视图，您可以阅读文件，并查看其内容，同时降低风险。受保护视图以及如何更改设置的详细信息，请参阅这篇文章：[什么是受保护的视图？](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **已满 OneDrive？**
   
@@ -38,7 +38,7 @@ ms.locfileid: "29499516"
   
  **Office 激活？**
   
-如果未激活 Office，或者如果您的订阅已过期，您可能在只读缩减功能模式。有关如何激活 Office 的信息，请参阅：[未经授权产品和 Office 中的激活错误](https://support.office.com/en-us/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
+如果未激活 Office，或者如果您的订阅已过期，您可能在只读缩减功能模式。有关如何激活 Office 的信息，请参阅：[未经授权产品和 Office 中的激活错误](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
   
  **如果所有其他失败...**
   

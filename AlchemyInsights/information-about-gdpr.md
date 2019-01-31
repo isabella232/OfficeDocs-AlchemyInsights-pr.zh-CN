@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 7b01f640b1c8d538e4209d7f905b1474b9ffabd7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baec2a01fe1bbc74a7005463bd2c52dbcfd298cf
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459866"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657847"
 ---
 # <a name="information-about-gdpr"></a>有关 GDPR 信息
 
@@ -21,14 +21,14 @@ ms.locfileid: "29459866"
     
 - 与**数据处理协议**(DPA) 相关的任何内容，查看： 
     
-  - 数据保护资源
+  - [数据保护资源](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
     
-  - 审核报告
+  - [审核报告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
     
-- **数据主题请求**(DSR)-信息发现、 访问、 纠正、 限制、 删除、 导出[此处。](https://docs.microsoft.com/en-us/microsoft-365/compliance/gdpr-dsr-office365)
+- **数据主题请求**(DSR)-信息发现、 访问、 纠正、 限制、 删除、 导出[此处。](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
     
 - 有关**数据泄露通知**[此处。](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
     
-- 有关**数据位置**[此处。](https://products.office.com/en-us/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- 有关**数据位置**[此处。](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
     
 

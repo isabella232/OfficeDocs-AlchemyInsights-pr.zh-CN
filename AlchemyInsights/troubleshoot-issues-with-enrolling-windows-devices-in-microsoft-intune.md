@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
-ms.openlocfilehash: 8d19bbd5a5782c7793c87499baf62b2eb7de82ae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8c5e7cc502d016ad658383685523dc240dfb4dc6
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459497"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661503"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>解决问题注册 Microsoft Intune 中的 Windows 设备
 
@@ -26,9 +26,9 @@ ms.locfileid: "29459497"
   
  **错误代码 0x801c0003:** 在下列情况下可能会发生错误： 
   
-1. 用户具有更多注册超过设备限制的设备。查看这些文档给[删除设备](https://docs.microsoft.com/en-us/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/en-us/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
+1. 用户具有更多注册超过设备限制的设备。查看这些文档给[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
     
-2. "ヘ ・ 络设备到 Azure AD"设置为"none"。设置为 all，或选择用户。查看[此文档](https://docs.microsoft.com/en-us/azure/active-directory/device-management-azure-portal#configure-device-settings)的详细信息。 
+2. "ヘ ・ 络设备到 Azure AD"设置为"none"。设置为 all，或选择用户。查看[此文档](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)的详细信息。 
     
 3. 已由另一个用户注册设备。如果是这样，从 Azure Intune 控制台删除设备或手动 unenroll 设备，然后重试。
     
@@ -36,10 +36,10 @@ ms.locfileid: "29459497"
     
 更多资源以帮助解决您的问题：
   
-1. 使用[Intune 疑难解答门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册失败。查看[此文档](https://docs.microsoft.com/en-us/intune/help-desk-operators)的详细信息。 
+1. 使用[Intune 疑难解答门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册失败。查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)的详细信息。 
     
-2. 查看这些文档中的每个阻止注册和解析的常见错误列表：[疑难解答指南](https://support.microsoft.com/en-us/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑难解答文档](https://docs.microsoft.com/en-us/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
+2. 查看这些文档中的每个阻止注册和解析的常见错误列表：[疑难解答指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
     
-[了解如何注册 Microsoft Intune 中的 Windows 设备](https://docs.microsoft.com/en-us/intune/windows-enroll)。
+[了解如何注册 Microsoft Intune 中的 Windows 设备](https://docs.microsoft.com/intune/windows-enroll)。
   
 

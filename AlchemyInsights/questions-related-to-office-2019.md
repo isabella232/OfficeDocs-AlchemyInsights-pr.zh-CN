@@ -2,18 +2,19 @@
 title: 与 Office 2019 相关的问题
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 116be83a468fdab67f7c33cbbdf2dd952458b84a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8d4322163aed95ae77b935aa1dd2bbdbe2c50978
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459084"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646126"
 ---
 # <a name="about-office-2019"></a>有关 Office 2019
 
@@ -29,6 +30,6 @@ Office 365 ProPlus，云连接版本的 Office，提供了最高效和最安全�
   
 [Office 2019 的主版本号保持在 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[将从开始菜单项中删除 Office 2016 和 Office 365 客户端应用程序中指定的年份](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907.aspx)
+[将从开始菜单项中删除 Office 2016 和 Office 365 客户端应用程序中指定的年份](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
 

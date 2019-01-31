@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7c8af0a75beff194247fa445dc4566541e40f90f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 773805beea21453c2aeb0682d026afd3cfd8ccb9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459209"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656305"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>取消您的 Office 365 订阅？
 
@@ -28,6 +28,6 @@ ms.locfileid: "29459209"
     
 - 如果您有多个 25 分配的许可证，您也可以删除用户，直到您具有少于 25，或使用"让我们呼叫您项"选项与支持工程师。
     
-- 若要了解有关取消订阅，或有关分步说明，请参阅[业务取消 Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)。
+- 若要了解有关取消订阅，或有关分步说明，请参阅[业务取消 Office 365](https://support.office.com/article/https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US.aspx)。
     
 

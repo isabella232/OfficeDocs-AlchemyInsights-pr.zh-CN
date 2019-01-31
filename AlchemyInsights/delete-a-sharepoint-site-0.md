@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459694"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646373"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>删除 Office 365 组所属的网站：
 
@@ -30,7 +30,7 @@ ms.locfileid: "29459694"
     
 注意： 在删除组时，可以延迟之前从 SharePoint 删除网站。
   
-## <a name="delete-communication-sites-or-classic-sites"></a>删除通信网站或经典网站：
+**删除通信网站或经典网站：**
 
 1. 转到网站。
   
@@ -38,7 +38,7 @@ ms.locfileid: "29459694"
   
 3. 单击**网站设置**。在**网站信息**或**网站操作**，下单击**删除此网站**，然后单击**删除**。
   
-## <a name="delete-a-sharepoint-site-collection"></a>删除 SharePoint 网站集：
+**删除 SharePoint 网站集：**
 
 若要删除经典网站集：
   
@@ -46,7 +46,7 @@ ms.locfileid: "29459694"
     
 2. 在网站集选项卡中，选择**删除。**
     
-## <a name="deleted-a-site-by-accident"></a>意外删除网站？
+**意外删除网站？**
 
 请参阅[还原已删除的网站集](https://go.microsoft.com/fwlink/?linkid=867660)。
   

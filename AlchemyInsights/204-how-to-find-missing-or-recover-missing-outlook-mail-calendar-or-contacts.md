@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: f26d72af2eb985b2781209f38de37c24e30bfa7e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a03d07cd43664c2b01ee231033c46178269746e3
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459328"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661309"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>如何查找和恢复丢失邮件、 联系人或在 Outlook 中的日历项目
 
 - 受影响的计算机上使用[时遇到问题发送、 接收或查找电子邮件消息工具](https://aka.ms/SaRA-OutlookSendReceive)。此工具将检查有问题的数量，并将建议可能的解决方案。 
     
-- [确定是否帐户泄漏](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。如果威胁，请按照本文[响应到 Office 365 中受到攻击的电子邮件帐户。](https://docs.microsoft.com/en-us/office365/enterprise/responding-to-a-compromised-email-account)
+- [确定是否帐户泄漏](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised)。如果威胁，请按照本文[响应到 Office 365 中受到攻击的电子邮件帐户。](https://docs.microsoft.com/office365/enterprise/responding-to-a-compromised-email-account)
     
 - [查找邮件或使用即时搜索的项目](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
     

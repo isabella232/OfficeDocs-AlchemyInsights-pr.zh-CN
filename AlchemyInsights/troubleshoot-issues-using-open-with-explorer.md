@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459897"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661741"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>修复使用资源管理器保持打开状态的问题
 
@@ -31,6 +31,6 @@ ms.locfileid: "29459897"
 > [!NOTE]
 > 在文件资源管理器中打开库，如果您需要复制或移动多个文件和文件夹后，但如果您想要在库中定期工作单一便捷式建议同步它。若要解决在文件资源管理器中打开的问题，请参阅[在资源管理器中打开](https://go.microsoft.com/fwlink/?linkid=871665)。有关设置同步的信息，请参阅[使用新的 OneDrive 同步客户端同步 SharePoint 文件](https://go.microsoft.com/fwlink/?linkid=871666)。
   
-请参阅文章[如何使用"打开与资源管理器"命令，以解决 SharePoint Online 中的问题](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)的详细信息。 
+请参阅文章[如何使用"打开与资源管理器"命令，以解决 SharePoint Online 中的问题](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)的详细信息。 
   
 
