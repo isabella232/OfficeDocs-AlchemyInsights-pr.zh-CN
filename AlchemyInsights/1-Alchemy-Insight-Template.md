@@ -11,26 +11,31 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454204"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662920"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a><span data-ttu-id="ac787-102">需要的客户面向 H1、 H2 操作不起作用</span><span class="sxs-lookup"><span data-stu-id="ac787-102">Required Customer Facing H1, H2 doesn't work</span></span>
-<span data-ttu-id="ac787-103">示例文本阻止-请按照以下说明：</span><span class="sxs-lookup"><span data-stu-id="ac787-103">Example text block - follow these instructions:</span></span>
+# <a name="required-customer-facing-h1-h2-doesnt-work"></a><span data-ttu-id="61f84-102">需要的客户面向 H1、 H2 操作不起作用</span><span class="sxs-lookup"><span data-stu-id="61f84-102">Required Customer Facing H1, H2 doesn't work</span></span>
+<span data-ttu-id="61f84-103">示例文本阻止-请按照以下说明：</span><span class="sxs-lookup"><span data-stu-id="61f84-103">Example text block - follow these instructions:</span></span>
 
-1. <span data-ttu-id="ac787-104">**AlchemyInsights**文件夹中的文件中 mane 应该有规则 ID 和从[Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)的规则名称。</span><span class="sxs-lookup"><span data-stu-id="ac787-104">Files in the **AlchemyInsights** folder should have Rule ID and Rule Name from the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) in the mane.</span></span>
-    1. <span data-ttu-id="ac787-p101">例如***976-How-to-enable-litigation-hold***</span><span class="sxs-lookup"><span data-stu-id="ac787-p101">ex. ***976-How-to-enable-litigation-hold***</span></span>
-1. <span data-ttu-id="ac787-p102">在此文件的顶部用作模板的元数据。没有任何其他是必需的。</span><span class="sxs-lookup"><span data-stu-id="ac787-p102">Use the metadata at the top of this file as your template. Nothing else is required.</span></span>
-1. <span data-ttu-id="ac787-109">在[Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)中，导航到部分**客户洞察标题：** 和使用洞察您 H1 标题的为起始点。</span><span class="sxs-lookup"><span data-stu-id="ac787-109">In the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net), navigate down to the section **Customer Insight Title:** and use that as a starting point for your H1 title for the insight.</span></span> 
+1. <span data-ttu-id="61f84-104">**AlchemyInsights**文件夹中的文件应具有文件名中的规则 ID 和从[Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)的规则名称。</span><span class="sxs-lookup"><span data-stu-id="61f84-104">Files in the **AlchemyInsights** folder should have Rule ID and Rule Name from the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) in the filename.</span></span>
+    1. <span data-ttu-id="61f84-p101">例如***976-How-to-enable-litigation-hold***</span><span class="sxs-lookup"><span data-stu-id="61f84-p101">ex. ***976-How-to-enable-litigation-hold***</span></span>
+1. <span data-ttu-id="61f84-p102">在此文件的顶部用作模板的元数据。没有任何其他是必需的。</span><span class="sxs-lookup"><span data-stu-id="61f84-p102">Use the metadata at the top of this file as your template. Nothing else is required.</span></span>
+1. <span data-ttu-id="61f84-109">在[Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)中，导航到部分**客户洞察标题：** 和使用洞察您 H1 标题的为起始点。</span><span class="sxs-lookup"><span data-stu-id="61f84-109">In the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net), navigate down to the section **Customer Insight Title:** and use that as a starting point for your H1 title for the insight.</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="ac787-p103">Alchemy 见解必须仅单个 H1 顶部或他们在生产中将中断。是使用**加粗**或以表示单独的各节其他约定，不呈现 H2s。</span><span class="sxs-lookup"><span data-stu-id="ac787-p103">Alchemy Insights MUST have only a single H1 at the top or they will break in production. H2s dont render either so use **bold** or other conventions to signify separate sections.</span></span>
-1. <span data-ttu-id="ac787-112">接下来，填写 Alchemy 规则页的客户洞察力部分中使用的草稿材料的正文文本</span><span class="sxs-lookup"><span data-stu-id="ac787-112">Next, fill in the body text using the draft material in the Customer Insights section of the Alchemy Rule page</span></span>
-    1. <span data-ttu-id="ac787-113">项目符号列表都可以精细</span><span class="sxs-lookup"><span data-stu-id="ac787-113">Bulleted lists are fine</span></span>
-    1. <span data-ttu-id="ac787-114">太编号列表</span><span class="sxs-lookup"><span data-stu-id="ac787-114">Numbered lists too</span></span>
-    1. <span data-ttu-id="ac787-115">**加粗**和*倾斜*是 a-ok</span><span class="sxs-lookup"><span data-stu-id="ac787-115">**Bold** and *italic* are a-ok</span></span>
-    1. <span data-ttu-id="ac787-116">链接应始终为 **"链接到 web"/ 外部**或**深入指向 UI 元素**，不包括内部的链接。</span><span class="sxs-lookup"><span data-stu-id="ac787-116">Links should always be either **"links to web"/external** OR **deep-links to UI elements**, not internal links.</span></span>
+    > <span data-ttu-id="61f84-p103">Alchemy 见解必须仅单个 H1 顶部或他们在生产中将中断。是使用**加粗**或以表示单独的各节其他约定，不呈现 H2s。</span><span class="sxs-lookup"><span data-stu-id="61f84-p103">Alchemy Insights MUST have only a single H1 at the top or they will break in production. H2s dont render either so use **bold** or other conventions to signify separate sections.</span></span>
+1. <span data-ttu-id="61f84-112">接下来，填写 Alchemy 规则页的客户洞察力部分中使用的草稿材料的正文文本</span><span class="sxs-lookup"><span data-stu-id="61f84-112">Next, fill in the body text using the draft material in the Customer Insights section of the Alchemy Rule page</span></span>
+    1. <span data-ttu-id="61f84-113">项目符号列表都可以精细</span><span class="sxs-lookup"><span data-stu-id="61f84-113">Bulleted lists are fine</span></span>
+    1. <span data-ttu-id="61f84-114">太编号列表</span><span class="sxs-lookup"><span data-stu-id="61f84-114">Numbered lists too</span></span>
+    1. <span data-ttu-id="61f84-115">**加粗**和*倾斜*是 a-ok</span><span class="sxs-lookup"><span data-stu-id="61f84-115">**Bold** and *italic* are a-ok</span></span>
+    1. <span data-ttu-id="61f84-116">链接应始终为 **"链接到 web"/ 外部**或**深入指向 UI 元素**，不包括内部的链接。</span><span class="sxs-lookup"><span data-stu-id="61f84-116">Links should always be either **"links to web"/external** OR **deep-links to UI elements**, not internal links.</span></span>
 
-<span data-ttu-id="ac787-p104">这是真正已有点太长。最佳做法是即将 400 个字符--</span><span class="sxs-lookup"><span data-stu-id="ac787-p104">And this is really already a bit too long. Best practice is about 400 characters ---------------------------------</span></span>
+<span data-ttu-id="61f84-p104">这是真正已有点太长。最佳做法是即将 400 个字符--</span><span class="sxs-lookup"><span data-stu-id="61f84-p104">And this is really already a bit too long. Best practice is about 400 characters ---------------------------------</span></span>
+
+<span data-ttu-id="61f84-p105">准备您的内容后，请将其拖到 live 分支。然后，转到[Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)url 字段中输入文件名。请确保洞察审核和发布说"是"，然后单击更新规则。（这将看起来更加美观门户-释放提供的新版本中。）</span><span class="sxs-lookup"><span data-stu-id="61f84-p105">Once your content is ready, pull it to the live branch. Then, go to the [Alchemy Partner portal](https://alchemyportal.azurewebsites.net) and enter the filename into the url field. Make sure Insight reviewed and published says "yes" and then click Update Rule. (This will look prettier in the new version of the portal - releasing soon.)</span></span>
+
+![url 字段](media/for-content-team.PNG)
+

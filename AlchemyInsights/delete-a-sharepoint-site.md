@@ -2,51 +2,30 @@
 title: 删除 SharePoint 网站
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459849"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660006"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="87cf1-102">删除 SharePoint 网站</span><span class="sxs-lookup"><span data-stu-id="87cf1-102">Delete a SharePoint site</span></span>
-
- <span data-ttu-id="87cf1-103">**删除 Office 365 组所属的网站：**</span><span class="sxs-lookup"><span data-stu-id="87cf1-103">**Delete sites that belong to an Office 365 group:**</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="5f473-102">删除 SharePoint 网站</span><span class="sxs-lookup"><span data-stu-id="5f473-102">Delete a SharePoint site</span></span>
+ <span data-ttu-id="5f473-103">**从新的 SharePoint 管理中心删除网站**</span><span class="sxs-lookup"><span data-stu-id="5f473-103">**Delete sites from the new SharePoint admin center**</span></span>
   
-<span data-ttu-id="87cf1-p101">当用户从 SharePoint 主页中创建新的工作组网站 （或从新的 SharePoint 管理员中心预览创建新的工作组网站） 时，将自动创建相应的 Office 365 组。Microsoft 团队中创建 Office 365 组或团队时，还会创建 office 365 组连接的工作组网站。若要删除的 SharePoint 网站的所属的 Office 365 组，您需要删除 Office 365 组本身。</span><span class="sxs-lookup"><span data-stu-id="87cf1-p101">When users create a new team site from SharePoint Home (or you create a new team site from the new SharePoint admin center preview), a corresponding Office 365 group is automatically created. Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams. To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="5f473-p101">若要删除活动网站，请转到当前的 SharePoint 管理中心，单击"立即尝试"右上角。选择**活动网站**，选择网站，，然后选择**删除**。要[查看和还原已删除新的 SharePoint 管理中心中的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)，选择**已删除网站**。有关详细信息，请参阅[新的 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。</span><span class="sxs-lookup"><span data-stu-id="5f473-p101">To delete an active site, go to the current SharePoint admin center, click "Try it now" in the upper right. Select **Active sites**, select the site, and then select **Delete**. To [view and restore deleted sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), select **Deleted sites**. For more info, see [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).</span></span>
   
-1. <span data-ttu-id="87cf1-107">转到[Office 365 管理中心的组页](https://portal.office.com/adminportal/home#/groups)。</span><span class="sxs-lookup"><span data-stu-id="87cf1-107">Go to the [Groups page of the Office 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+<span data-ttu-id="5f473-p102">**重要：** 如果网站是保留策略的一部分，您可能不能删除它，除非网站已从[安全&amp;合规性 Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage)。有关详细信息，请参阅[概述的保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。</span><span class="sxs-lookup"><span data-stu-id="5f473-p102">**Important:** If the site is part of a retention policy, you may not be able to delete it until the site is removed from the [Security &amp; Compliance Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). See [Overview of Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) for more info.</span></span> 
   
-2. <span data-ttu-id="87cf1-108">选中该组旁边的复选框。</span><span class="sxs-lookup"><span data-stu-id="87cf1-108">Select the check box next to the group.</span></span>
-  
-3. <span data-ttu-id="87cf1-109">选择**删除**。</span><span class="sxs-lookup"><span data-stu-id="87cf1-109">Select **Delete**.</span></span> 
-  
-<span data-ttu-id="87cf1-110">注意： 在删除组时，可以延迟之前从 SharePoint 删除网站。</span><span class="sxs-lookup"><span data-stu-id="87cf1-110">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
-  
- <span data-ttu-id="87cf1-111">**删除通信网站或经典网站：**</span><span class="sxs-lookup"><span data-stu-id="87cf1-111">**Delete communication sites or classic sites:**</span></span>
-  
-1. <span data-ttu-id="87cf1-112">转到网站。</span><span class="sxs-lookup"><span data-stu-id="87cf1-112">Go to the site.</span></span>
-  
-2. <span data-ttu-id="87cf1-113">单击 \* \* 设置 \* \* （齿轮图标） 右上角。</span><span class="sxs-lookup"><span data-stu-id="87cf1-113">Click the \*\* Settings \*\* (gear wheel icon) in the upper right.</span></span> 
-  
-3. <span data-ttu-id="87cf1-p102">单击**网站设置**。在**网站信息**或**网站操作**，下单击**删除此网站**，然后单击**删除**。</span><span class="sxs-lookup"><span data-stu-id="87cf1-p102">Click **Site settings**. Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span> 
-  
- <span data-ttu-id="87cf1-116">**删除 SharePoint 网站集：**</span><span class="sxs-lookup"><span data-stu-id="87cf1-116">**Delete a SharePoint site collection:**</span></span>
-  
-<span data-ttu-id="87cf1-117">若要删除经典网站集：</span><span class="sxs-lookup"><span data-stu-id="87cf1-117">To delete a classic site collection:</span></span>
-  
-1. <span data-ttu-id="87cf1-118">在经典 SharePoint 管理中心，在网站集页上，选择网站集旁边的**复选框**。</span><span class="sxs-lookup"><span data-stu-id="87cf1-118">In the classic SharePoint admin center, on the site collections page, select the **check box** next to the site collection.</span></span> 
-  
-2. <span data-ttu-id="87cf1-119">在网站集选项卡中，选择**删除。**</span><span class="sxs-lookup"><span data-stu-id="87cf1-119">On the Site Collections tab, select **Delete.**</span></span>
-  
- <span data-ttu-id="87cf1-120">**意外删除网站？**</span><span class="sxs-lookup"><span data-stu-id="87cf1-120">**Deleted a site by accident?**</span></span>
-  
-<span data-ttu-id="87cf1-121">请参阅[还原已删除的网站集](https://go.microsoft.com/fwlink/?linkid=867660)。</span><span class="sxs-lookup"><span data-stu-id="87cf1-121">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="5f473-110">提示：</span><span class="sxs-lookup"><span data-stu-id="5f473-110">Tips:</span></span>
+- <span data-ttu-id="5f473-p103">全局管理员和 SharePoint 管理员可以立即删除到**Office 365 组**所属的网站。这将删除组及其所有资源，包括 Outlook 邮箱和日历和任何团队通道。有关详细信息，请参阅[删除 SharePoint 网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span><span class="sxs-lookup"><span data-stu-id="5f473-p103">Global admins and SharePoint admins can now delete sites that belong to an **Office 365 Group**. This will delete the group and all its resources, including the Outlook mailbox and calendar, and any Teams channels. For more info, see [Delete a SharePoint site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)</span></span>
+- <span data-ttu-id="5f473-p104">93 天，则可以恢复已删除的网站。请注意，必须在 30 天内还原已删除的组。有关详细信息，请参阅[查看和还原已删除网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)。</span><span class="sxs-lookup"><span data-stu-id="5f473-p104">You can recover deleted sites for 93 days. Note that deleted groups must be restored within 30 days. For more info, see [View and restore deleted sites](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).</span></span>
+- <span data-ttu-id="5f473-117">要完全删除使用 Powershell 网站，请参阅[Remove-spsite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet 示例。</span><span class="sxs-lookup"><span data-stu-id="5f473-117">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet example.</span></span> 
   
 
