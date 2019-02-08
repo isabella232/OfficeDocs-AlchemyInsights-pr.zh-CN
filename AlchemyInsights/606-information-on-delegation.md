@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459833"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770643"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>有关 Outlook 和在 web 上的 Outlook 中的委托
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Outlook 和在 web 上的 Outlook 中的疑难解答委派
 
-有关详细信息，请参阅下列主题：
-  
-- **Outlook**：[允许其他人来管理您的邮件和日历](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **在 web 上的 outlook**：[在 Outlook 中的业务 web 上的日历委派](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**疑难解答 SaRA 工具：**
 
+1. 下载并从此处安装 SaRA 工具
+1. 选择 Outlook，然后"时遇到问题与我的日历"
+1. 说是受影响的计算机
+1. 添加受影响的用户的电子邮件地址
+1. 选择"时遇到问题委派权限"
+1. 在下一步提示符下，如果您是提供权限的人员，输入您的代理人的电子邮件地址。如果您收到权限，并且您是代理人，输入提供给您的权限的人员的电子邮件地址。
+1. 在下一步菜单中，选择适合您方案的选项。 
+1. 在下一步菜单中，选择权限级别。
+1. 在此阶段，SaRA 工具将执行自动的检查，它将为您提供可能的解决方法或或者将提供一个可用于进一步的故障排除的诊断日志。
+1. 您可以在位于 C:\Users\Username\AppData\Local\SaraResults SaRA 结果文件夹中找到日志
