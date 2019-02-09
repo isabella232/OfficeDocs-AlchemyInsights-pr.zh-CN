@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656413"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786688"
 ---
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>问题 DLP-美国 / 英国护照号码
+
 您有未正常运行的内容包含**数据丢失防护 (DLP)** 问题**美国 / 英国护照号码**时使用 O365 中的 DLP 敏感信息类型？如果是这样，确保您的内容包含所需的信息的 DLP 策略查找的内容时对它求值。 
   
 例如，对于**美国 / 英国护照号码**配置的 75%的可信度级别的策略，以下计算和必须要触发的规则检测到 

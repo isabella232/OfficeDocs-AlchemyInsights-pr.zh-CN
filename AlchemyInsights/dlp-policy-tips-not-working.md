@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: f7dfc010c3624b2192da01d9e50e58dd6bb653df
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657748"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786724"
 ---
+# <a name="dlp-policy-tip-issues"></a>DLP 策略提示的问题
+
 当使用**DLP 策略**，用户可以策略违规使用**策略提示**的通知。管理员可以配置策略提示，以显示时测试其 DLP 策略时，或者在策略处于完全强制模式。 
   
 配置策略提示您在完整强制模式下的安全性和遵从性中心中的 DLP 策略执行以下操作：
