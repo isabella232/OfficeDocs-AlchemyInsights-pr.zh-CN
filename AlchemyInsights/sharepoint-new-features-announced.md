@@ -6,14 +6,14 @@ ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: ea507c49ebd978914e87663afca9f35afd9f45c6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 00fe45aba6578e576f4cda22be70f5e28d7e64d3
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459438"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29941642"
 ---
 # <a name="sharepoint-new-features-announced"></a>SharePoint 宣布的新功能
 
@@ -21,6 +21,4 @@ Ignite 2018 会议中，在 Microsoft 发布新创新 for SharePoint，包括用
   
 有关这些功能的详细信息，请参阅博客文章[SharePoint 中的新创新&amp;Microsoft 365 提供功能和内容协作的简单性。](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-您的组织可以加入目标发布程序具有早期访问新功能。请参阅[Office 365 如何商业客户可以获取早期访问新的 Office 功能](https://go.microsoft.com/fwlink/?linkid=2026346)。
-  
-
+您的组织可以加入目标发布程序具有早期访问新功能。请参阅[Set up Office 365 中的标准版或目标发布选项](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365)。
