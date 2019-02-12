@@ -7,19 +7,19 @@ ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: e608368a5a7250edfaff290203ba5f2e1d11cf16
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 279a7f65d8b7693441ac005194b5e623ed811bfb
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458975"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29934058"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="a1ac3-102">创建和管理会议室邮箱</span><span class="sxs-lookup"><span data-stu-id="a1ac3-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="8000f-102">创建和管理会议室邮箱</span><span class="sxs-lookup"><span data-stu-id="8000f-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="a1ac3-103">若要创建和修改会议室邮箱，请参阅[创建和管理会议室邮箱](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)。</span><span class="sxs-lookup"><span data-stu-id="a1ac3-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="8000f-103">若要创建和修改会议室邮箱，请参阅[创建和管理会议室邮箱](https://docs.microsoft.com/Exchange/recipients/room-mailboxes)。</span><span class="sxs-lookup"><span data-stu-id="8000f-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
   
-<span data-ttu-id="a1ac3-104">若要了解有关房间和设备邮箱 （也称为资源邮箱） 的详细信息，请参阅[房间和设备的邮箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)。</span><span class="sxs-lookup"><span data-stu-id="a1ac3-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="8000f-104">若要了解有关房间和设备邮箱 （也称为资源邮箱） 的详细信息，请参阅[房间和设备的邮箱](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx)。</span><span class="sxs-lookup"><span data-stu-id="8000f-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
   
 

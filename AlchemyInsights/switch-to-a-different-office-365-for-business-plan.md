@@ -1,5 +1,5 @@
 ---
-title: 切换到其他 Office 365 商业版计划
+title: 切换到不同的 Office 365 的业务规划
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -7,31 +7,31 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 7c49d3b06eac4fb03a6303dcad701ec0a3203224
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29458937"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29927890"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="c7468-102">切换到其他 Office 365 商业版计划</span><span class="sxs-lookup"><span data-stu-id="c7468-102">Switch to a different Office 365 for Business Plan</span></span>
+# <a name="switch-to-a-different-office-365-for-business-plan"></a><span data-ttu-id="1cc82-102">切换到不同的 Office 365 的业务规划</span><span class="sxs-lookup"><span data-stu-id="1cc82-102">Switch to a different Office 365 for Business Plan</span></span>
 
-<span data-ttu-id="c7468-103">当业务更改，或您需要更多 Office 365 功能时，您可以切换计划。</span><span class="sxs-lookup"><span data-stu-id="c7468-103">When your business changes, or you need more Office 365 features, you can switch plans.</span></span>
+<span data-ttu-id="1cc82-103">当业务更改，或您需要更多 Office 365 功能时，您可以切换计划。</span><span class="sxs-lookup"><span data-stu-id="1cc82-103">When your business changes, or you need more Office 365 features, you can switch plans.</span></span>
   
-1. <span data-ttu-id="c7468-104">在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。</span><span class="sxs-lookup"><span data-stu-id="c7468-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="1cc82-104">在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。</span><span class="sxs-lookup"><span data-stu-id="1cc82-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="c7468-105">选择**开关计划**查看可用的新计划的列表。</span><span class="sxs-lookup"><span data-stu-id="c7468-105">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
+2. <span data-ttu-id="1cc82-105">选择**开关计划**查看可用的新计划的列表。</span><span class="sxs-lookup"><span data-stu-id="1cc82-105">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
     
-3. <span data-ttu-id="c7468-p101">选择要查看的新的总成本，每月计划。请务必阅读键的信息，然后选择**下一步**要签出。</span><span class="sxs-lookup"><span data-stu-id="c7468-p101">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span> 
+3. <span data-ttu-id="1cc82-p101">选择要查看的新的总成本，每月计划。请务必阅读键的信息，然后选择**下一步**要签出。</span><span class="sxs-lookup"><span data-stu-id="1cc82-p101">Choose a plan to see the new total cost per month. Be sure to read the key information, then choose **Next** to check out.</span></span> 
     
-<span data-ttu-id="c7468-p102">在所有情况下，切换计划按钮不受支持。在某些情况下，您可能能够手动切换计划。</span><span class="sxs-lookup"><span data-stu-id="c7468-p102">The Switch plans button isn't supported in all situations. In some cases, you might be able to switch plans manually.</span></span>
+<span data-ttu-id="1cc82-p102">在所有情况下，切换计划按钮不受支持。在某些情况下，您可能能够手动切换计划。</span><span class="sxs-lookup"><span data-stu-id="1cc82-p102">The Switch plans button isn't supported in all situations. In some cases, you might be able to switch plans manually.</span></span>
   
-<span data-ttu-id="c7468-110">如果**切换计划**按钮不可用，可以尝试[手动切换计划](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209)或使用"让我们呼叫您项"选项以与支持工程师。</span><span class="sxs-lookup"><span data-stu-id="c7468-110">If the **Switch plans** button isn't available, you can try to [switch plans manually](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) or use the "Let us call you" option to talk to a support engineer.</span></span> 
+<span data-ttu-id="1cc82-110">如果**切换计划**按钮不可用，可以尝试[手动切换计划](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209)或使用"让我们呼叫您项"选项以与支持工程师。</span><span class="sxs-lookup"><span data-stu-id="1cc82-110">If the **Switch plans** button isn't available, you can try to [switch plans manually](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) or use the "Let us call you" option to talk to a support engineer.</span></span> 
   
-<span data-ttu-id="c7468-111">所有变体切换计划，请都参阅[切换到不同的 Office 3635 for Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)。</span><span class="sxs-lookup"><span data-stu-id="c7468-111">For all variations of switching plans, see [Switch to a different Office 3635 for Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).</span></span>
+<span data-ttu-id="1cc82-111">所有变体切换计划，请都参阅[切换到不同的 Office 3635 for Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)。</span><span class="sxs-lookup"><span data-stu-id="1cc82-111">For all variations of switching plans, see [Switch to a different Office 3635 for Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).</span></span>
   
 
