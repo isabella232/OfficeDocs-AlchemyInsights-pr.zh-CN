@@ -7,16 +7,16 @@ ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 6a6fa89baabb5f952e90c3eed1017c7cbad5ffa0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: a1d2a7ac79f5d7f4ef691b3ba7e110945a106fdf
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459686"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905750"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>如何使 Office 365 购买
 
@@ -32,10 +32,10 @@ ms.locfileid: "29459686"
     
   - 选择要查看的新的总成本，每月计划。请务必阅读键的信息，然后选择**下一步**要签出。 
     
- 其他资源
+ **其他资源**
   
 - [在 Office 365 商业版中向用户分配许可证](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [取消 Office 365 商业版](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [取消 Office 365 for Business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

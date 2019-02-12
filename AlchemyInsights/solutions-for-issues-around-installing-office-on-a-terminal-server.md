@@ -7,14 +7,14 @@ ms.date: 4/26/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cfd69bab102ac58343ce98db3fb02b594673ea63
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e877493f44b4636e1293582b5baf6bf98d1d251
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459840"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29905642"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>问题的终端服务器上安装 office 的解决方案
 
@@ -24,13 +24,13 @@ ms.locfileid: "29459840"
     
 - 确认 Office 365 ProPlus 激活成功
     
-- 查看有关共享计算机激活的错误消息
+- 查看共享的计算机激活的错误消息：
     
-  - 我们在您帐户中发现的产品不能用于在共享计算机方案中激活 Office。
+  - "我们您的帐户中找到的产品不能用于共享的计算机方案中激活 Office"
   
 此错误表示没有包含 Office 365 ProPlus 的 Office 365 计划。
     
-  - 未经授权产品
+  - "未经授权的产品"
     
   - 检查该用户分配 Office 365 ProPlus 的许可。
     
