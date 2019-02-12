@@ -653,46 +653,46 @@
 | 1/24/2019 | [解决 Microsoft Intune 的问题](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | 重命名 |
 
 
-## <a name="week-of-january-28-2019"></a>2019 年 1 月 28，这一周
+## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日所在周
 
 
 | 发布时间 |主题标题 | 更改 |
 |------|------------|--------|
-| 2019 年 1/29 | [Alchemy 见解主页](/AlchemyInsights/index) | 修改时间 |
-| 2019 年 1/29 | [激活疑难解答](/AlchemyInsights/activation-troubleshooting) | 修改时间 |
-| 2019 年 1/29 | [您获得了太多垃圾邮件或网络钓鱼诈骗邮箱中？](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | 修改时间 |
-| 2019 年 1/29 | [无法添加默认 2010年审批工作流](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | 修改时间 |
-| 2019 年 1/29 | [创建 SharePoint 网站](/AlchemyInsights/create-a-sharepoint-site) | 修改时间 |
-| 2019 年 1/29 | [删除 SharePoint 网站](/AlchemyInsights/delete-a-sharepoint-site-0) | 修改时间 |
-| 2019 年 1/29 | [删除 SharePoint 网站](/AlchemyInsights/delete-a-sharepoint-site) | 修改时间 |
-| 2019 年 1/29 | [未按预期方式工作的 DLP](/AlchemyInsights/dlp-not-working-as-expected) | 修改时间 |
-| 2019 年 1/29 | [您必须合法标记为垃圾邮件的邮件？](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | 修改时间 |
-| 2019 年 1/29 | [30125-4 或 30125 1011 安装 Office 时的错误代码](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | 修改时间 |
-| 2019 年 1/29 | [您已启用学生团队吗？](/AlchemyInsights/have-you-enabled-teams-for-your-students) | 修改时间 |
-| 2019 年 1/29 | [如何激活 Office](/AlchemyInsights/how-to-activate-office) | 修改时间 |
-| 2019 年 1/29 | [如何从该门户安装 Mac 的 Office](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | 修改时间 |
-| 2019 年 1/29 | [如何在 iPad 上安装 Office](/AlchemyInsights/how-to-install-office-on-an-ipad) | 修改时间 |
-| 2019 年 1/29 | [如何在 iPhone 上安装 Office](/AlchemyInsights/how-to-install-office-on-an-iphone) | 修改时间 |
-| 2019 年 1/29 | [如何验证您的域与 Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | 修改时间 |
-| 2019 年 1/29 | [安装挂起或滞留](/AlchemyInsights/installation-hangs-or-gets-stuck) | 修改时间 |
-| 2019 年 1/29 | [Microsoft 团队-来宾访问](/AlchemyInsights/microsoft-teamsguest-access) | 修改时间 |
-| 2019 年 1/29 | [付款选项](/AlchemyInsights/payment-options) | 修改时间 |
-| 2019 年 1/29 | [具有通信网站的发布基础结构](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | 修改时间 |
-| 2019 年 1/29 | [与 Office 2019 相关的问题](/AlchemyInsights/questions-related-to-office-2019) | 修改时间 |
-| 2019 年 1/29 | [解决方案的错误 30015-4](/AlchemyInsights/solutions-for-error-30015-4) | 修改时间 |
-| 2019 年 1/29 | [解决方案的错误 30016-4](/AlchemyInsights/solutions-for-error-30016-4) | 修改时间 |
-| 2019 年 1/29 | [解决方案的错误 30174-4](/AlchemyInsights/solutions-for-error-30174-4) | 修改时间 |
-| 2019 年 1/29 | [安装 Office 时的问题解决方案](/AlchemyInsights/solutions-for-issues-while-installing-office) | 修改时间 |
-| 2019 年 1/29 | [解决方案的无法安装 Office （64 位或 32 位）](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | 修改时间 |
-| 2019 年 1/29 | [不支持的操作系统的解决方案](/AlchemyInsights/solutions-for-unsupported-operating-system) | 修改时间 |
-| 2019 年 1/29 | [步骤来解决 office 激活错误 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | 添加 |
-| 2019 年 1/29 | [若要解决 Office 激活错误 0xc004b100 的步骤](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | 添加 |
-| 2019 年 1/29 | [解决未经授权产品错误的建议](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | 修改时间 |
-| 2019 年 1/29 | [受支持的版本的 SharePoint 迁移工具](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | 修改时间 |
-| 2019 年 1/29 | [疑难解答欺诈检测安全提示检查](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | 修改时间 |
-| 2019 年 1/29 | [卸载 Office](/AlchemyInsights/uninstall-office) | 修改时间 |
-| 2019 年 1/29 | [更新 DNS 记录](/AlchemyInsights/update-dns-records) | 修改时间 |
-| 2019 年 1/29 | [从 Office 的安装位置](/AlchemyInsights/where-to-install-office-from) | 修改时间 |
+| 2019 年 1 月 29 日 | [Alchemy 见解主页](/AlchemyInsights/index) | 修改时间 |
+| 2019 年 1 月 29 日 | [激活疑难解答](/AlchemyInsights/activation-troubleshooting) | 修改时间 |
+| 2019 年 1 月 29 日 | [您获得了太多垃圾邮件或网络钓鱼诈骗邮箱中？](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | 修改时间 |
+| 2019 年 1 月 29 日 | [无法添加默认 2010年审批工作流](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | 修改时间 |
+| 2019 年 1 月 29 日 | [创建 SharePoint 网站](/AlchemyInsights/create-a-sharepoint-site) | 修改时间 |
+| 2019 年 1 月 29 日 | [删除 SharePoint 网站](/AlchemyInsights/delete-a-sharepoint-site-0) | 修改时间 |
+| 2019 年 1 月 29 日 | [删除 SharePoint 网站](/AlchemyInsights/delete-a-sharepoint-site) | 修改时间 |
+| 2019 年 1 月 29 日 | [未按预期方式工作的 DLP](/AlchemyInsights/dlp-not-working-as-expected) | 修改时间 |
+| 2019 年 1 月 29 日 | [您必须合法标记为垃圾邮件的邮件？](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | 修改时间 |
+| 2019 年 1 月 29 日 | [30125-4 或 30125 1011 安装 Office 时的错误代码](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | 修改时间 |
+| 2019 年 1 月 29 日 | [您已启用学生团队吗？](/AlchemyInsights/have-you-enabled-teams-for-your-students) | 修改时间 |
+| 2019 年 1 月 29 日 | [如何激活 Office](/AlchemyInsights/how-to-activate-office) | 修改时间 |
+| 2019 年 1 月 29 日 | [如何从该门户安装 Mac 的 Office](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | 修改时间 |
+| 2019 年 1 月 29 日 | [如何在 iPad 上安装 Office](/AlchemyInsights/how-to-install-office-on-an-ipad) | 修改时间 |
+| 2019 年 1 月 29 日 | [如何在 iPhone 上安装 Office](/AlchemyInsights/how-to-install-office-on-an-iphone) | 修改时间 |
+| 2019 年 1 月 29 日 | [如何验证您的域与 Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | 修改时间 |
+| 2019 年 1 月 29 日 | [安装挂起或滞留](/AlchemyInsights/installation-hangs-or-gets-stuck) | 修改时间 |
+| 2019 年 1 月 29 日 | [Microsoft 团队-来宾访问](/AlchemyInsights/microsoft-teamsguest-access) | 修改时间 |
+| 2019 年 1 月 29 日 | [付款选项](/AlchemyInsights/payment-options) | 修改时间 |
+| 2019 年 1 月 29 日 | [具有通信网站的发布基础结构](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | 修改时间 |
+| 2019 年 1 月 29 日 | [与 Office 2019 相关的问题](/AlchemyInsights/questions-related-to-office-2019) | 修改时间 |
+| 2019 年 1 月 29 日 | [解决方案的错误 30015-4](/AlchemyInsights/solutions-for-error-30015-4) | 修改时间 |
+| 2019 年 1 月 29 日 | [解决方案的错误 30016-4](/AlchemyInsights/solutions-for-error-30016-4) | 修改时间 |
+| 2019 年 1 月 29 日 | [解决方案的错误 30174-4](/AlchemyInsights/solutions-for-error-30174-4) | 修改时间 |
+| 2019 年 1 月 29 日 | [安装 Office 时的问题解决方案](/AlchemyInsights/solutions-for-issues-while-installing-office) | 修改时间 |
+| 2019 年 1 月 29 日 | [解决方案的无法安装 Office （64 位或 32 位）](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | 修改时间 |
+| 2019 年 1 月 29 日 | [不支持的操作系统的解决方案](/AlchemyInsights/solutions-for-unsupported-operating-system) | 修改时间 |
+| 2019 年 1 月 29 日 | [步骤来解决 office 激活错误 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | 添加 |
+| 2019 年 1 月 29 日 | [若要解决 Office 激活错误 0xc004b100 的步骤](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | 添加 |
+| 2019 年 1 月 29 日 | [解决未经授权产品错误的建议](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | 修改时间 |
+| 2019 年 1 月 29 日 | [受支持的版本的 SharePoint 迁移工具](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | 修改时间 |
+| 2019 年 1 月 29 日 | [疑难解答欺诈检测安全提示检查](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | 修改时间 |
+| 2019 年 1 月 29 日 | [卸载 Office](/AlchemyInsights/uninstall-office) | 修改时间 |
+| 2019 年 1 月 29 日 | [更新 DNS 记录](/AlchemyInsights/update-dns-records) | 修改时间 |
+| 2019 年 1 月 29 日 | [从 Office 的安装位置](/AlchemyInsights/where-to-install-office-from) | 修改时间 |
 | 1/30/2019 | [1336 RecoverableItems 文件夹已满](/AlchemyInsights/1336-recoverableitems-folder-is-full) | 修改时间 |
 | 1/30/2019 | [1800014 疑难解答 Outlook 移动设置共享邮箱](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | 修改时间 |
 | 1/30/2019 | [1800014 移动设备上使用共享的邮箱](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | 修改时间 |
@@ -838,3 +838,57 @@
 | 1/30/2019 | [获取帐户 123 禁用在 OWA 中的错误？](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | 修改时间 |
 | 2/1/2019 | [相同文件名是最佳 [规则 #-说明]](/AlchemyInsights/1-alchemy-insight-template) | 修改时间 |
 | 2/1/2019 | [更改邮箱的权限](/AlchemyInsights/changing-permissions-on-a-mailbox) | 修改时间 |
+
+
+## <a name="week-of-february-04-2019"></a>2019 年 2 月 4，这一周
+
+
+| 发布时间 |主题标题 | 更改 |
+|------|------------|--------|
+| 2019 年 2/4 | [向 Office 365 添加用户](/AlchemyInsights/add-users-to-office-365) | 修改时间 |
+| 2/6/2019 | [员工离开](/AlchemyInsights/employee-leaving) | 修改时间 |
+| 2/6/2019 | [管理接管](/AlchemyInsights/admin-takeover) | 修改时间 |
+| 2/6/2019 | [127 访问电子邮件时获取 TenantAccessBlockedException 错误？](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | 修改时间 |
+| 2/6/2019 | [959 更改显示名称](/AlchemyInsights/959-change-display-name) | 修改时间 |
+| 2/6/2019 | [添加或删除用户的电子邮件别名](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | 修改时间 |
+| 2/6/2019 | 向预付订阅添加座位 | 删除 |
+| 2/6/2019 | [向 Office 365 添加用户](/AlchemyInsights/add-users-to-office-365) | 修改时间 |
+| 2/6/2019 | [将外部用户添加到通讯组？](/AlchemyInsights/adding-external-users-to-a-distribution-group) | 修改时间 |
+| 2/6/2019 | 管理-Office 365 全局设置和管理 | 删除 |
+| 2/6/2019 | 管理-管理我的用户、 组和资源 | 删除 |
+| 2/6/2019 | 管理-设置域和 DNS 设置 | 删除 |
+| 2/6/2019 | 管理-登录和密码问题 | 删除 |
+| 2/6/2019 | [取消 Office 365 订阅](/AlchemyInsights/cancel-office-365-subscription) | 修改时间 |
+| 2/6/2019 | [更改用户的名称和电子邮件地址](/AlchemyInsights/change-a-user-s-name-and-email-address) | 修改时间 |
+| 2/6/2019 | 商务-管理帐单、 付款、 订阅和许可证 | 删除 |
+| 2/6/2019 | [访问电子邮件时获取 TenantAccessBlockedException 错误？](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | 修改时间 |
+| 2/6/2019 | [在有电子邮件传递问题？](/AlchemyInsights/having-email-delivery-issues-0) | 修改时间 |
+| 2/6/2019 | [在有电子邮件传递问题？](/AlchemyInsights/having-email-delivery-issues) | 修改时间 |
+| 2/6/2019 | [在有获取 Outlook 连接的问题？](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | 修改时间 |
+| 2/6/2019 | [在有获取 Outlook 连接的问题？](/AlchemyInsights/having-issues-getting-outlook-to-connect) | 修改时间 |
+| 2/6/2019 | Intune-下载、 安装和使用 Intune | 删除 |
+| 2/6/2019 | [Skype 的业务问题？](/AlchemyInsights/issue-with-skype-for-business) | 修改时间 |
+| 2/6/2019 | ODSP | 删除 |
+| 2/6/2019 | Office 客户端-Excel | 删除 |
+| 2/6/2019 | [还原已删除用户](/AlchemyInsights/restore-deleted-user) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress-0) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress-1) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress-2) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress-3) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress-4) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress-5) | 修改时间 |
+| 2/6/2019 | [正在运行的服务事件](/AlchemyInsights/service-incident-in-progress) | 修改时间 |
+| 2/6/2019 | [设置项目](/AlchemyInsights/setting-up-project) | 修改时间 |
+| 2/6/2019 | 存档、 保留、 诉讼、 电子数据展示和 MDM 等安装合规性功能 | 删除 |
+| 2/6/2019 | 使用脱机 Installer for Office | 删除 |
+| 2/6/2019 | Yammer-安装和使用 Yammer 服务 | 删除 |
+| 2/7/2019 | [Excel 崩溃？](/AlchemyInsights/excel-crashing) | 修改时间 |
+| 2/7/2019 | [如何添加或编辑 VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | 修改时间 |
+| 2/7/2019 | [Minecraft Edition 与 Office 365 教育版的忙](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | 修改时间 |
+| 2/7/2019 | [有关委派的 606 信息](/AlchemyInsights/606-information-on-delegation) | 修改时间 |
+| 2/7/2019 | [在组列表中未显示您的组](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | 修改时间 |
+| 2/8/2019 | [DLP 策略提示不起作用](/AlchemyInsights/dlp-policy-tips-not-working) | 修改时间 |
+| 2/8/2019 | [美国的 DLP 规则 / 英国护照号码不起作用](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | 修改时间 |
+| 2/8/2019 | [Office 365 教育版的忙](/AlchemyInsights/office-365-education-for-free) | 修改时间 |
+| 2/8/2019 | [所需的 Microsoft ToDo 许可](/AlchemyInsights/required-licences-for-microsoft-todo) | 修改时间 |
+| 2/8/2019 | [不使用 Exchange 管理中心中的保留策略](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | 修改时间 |

@@ -7,14 +7,14 @@ ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: 4b8897c5cc8286bc4bd49860658a5a94ad17380d
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657457"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29919070"
 ---
 您是否有问题**数据丢失防护 (DLP)** 时使用 O365 中的 DLP 敏感信息类型包含**信用卡号**的内容不起作用？如果是这样，请确保您的内容包含所需的信息以触发 DLP 策略时对它求值。例如，对于配置了 85%可信度**信用卡策略**，以下计算和必须要触发的规则检测到： 
   

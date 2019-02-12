@@ -6,14 +6,14 @@ ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 92c9660fda35489bfe94538800cff7060557c9a6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459221"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940526"
 ---
 # <a name="enable-external-sharing"></a>启用外部共享
 
@@ -33,7 +33,7 @@ ms.locfileid: "29459221"
     
   - "允许两个外部用户接受共享邀请和匿名来宾链接"
     
-- 个人网站集
+- **单独的网站集**
     
   - 网站集的问题，选择网站集，然后单击从功能区-的共享的\>确保已选择任一共享选项。
     
