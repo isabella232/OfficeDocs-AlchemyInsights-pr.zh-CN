@@ -7,16 +7,16 @@ ms.date: 3/1/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: eb4e20f4d88e6246195426b02f4f63555a8ba0f9
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459936"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29917450"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>是否希望购买新的订阅？
 
@@ -32,11 +32,11 @@ ms.locfileid: "29459936"
     
 5. 完成购买后，您可能需要重新分配许可证或取消订阅。有关与此帮助，请参阅下面的其他资源部分。
     
- 其他资源
+ **其他资源：**
   
 - [在 Office 365 商业版中向用户分配许可证](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- 取消 Office 365 商业版订阅
+- [取消 Office 365 for Business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 - 如果您感兴趣切换订阅，请参阅[切换到不同的 Office 365 业务计划。](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     
