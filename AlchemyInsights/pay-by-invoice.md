@@ -7,22 +7,22 @@ ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: 12fe685feddf2e0698a1917200e8d1084501f8a8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6e4ce2a604ebee4d80a8625f45d6d4eab323d63d
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459782"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29924650"
 ---
 # <a name="pay-by-invoice"></a>支付发票
 
 如果 Office 365 订阅费用高于一定的金额（此金额因服务位置而异），则可以选择使用支票或 EFT 按发票付款。较大数额的发票付款可能要求进行信用检查。如需进行信用检查，会在购买订阅时收到通知。如果同意接受联系，将收到一封电子邮件，其中包括有关申请信用审批的详细信息。通常会在两个工作日内完成信用检查。
   
-如果按发票支付订阅费用，将收到一封电子邮件，指明帐单可供查看。此电子邮件不包含帐单的副本。然而，也可以选择[以电子邮件方式接收帐单副本](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216)。帐单包括用于付款的选项的详细信息。如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。若要了解有关访问帐单的信息，请参阅[查看 Office 365 商业版帐单或发票](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218)。
+如果按发票支付为您的订阅时，您将获取指出您帐单已准备好查看电子邮件。此电子邮件不包含您帐单的副本。但是，也可以选择为[接收电子邮件中您帐单语句的副本](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216)。您帐单包括有关付款选项的详细信息。如果您购买订阅时输入 purchase order （采购订单） 数字，该号码显示在与帐单语句。有关访问帐单语句的信息，请参阅[查看您的 bill 或业务的 Office 365 的发票](https://support.office.com/article/2ae3ea58-4fce-4592-91d6-46e9ae3ec218)。
   
 若要了解有关发票支付的详细信息，请参阅[您的 Office 365 业务订阅支付](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216)。
   
