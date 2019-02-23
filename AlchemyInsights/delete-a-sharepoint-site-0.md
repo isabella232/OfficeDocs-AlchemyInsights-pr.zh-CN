@@ -11,42 +11,42 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926270"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210015"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>删除 Office 365 组所属的网站：
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>删除属于 Office 365 组的网站:
 
-当用户从 SharePoint 主页中创建新的工作组网站 （或从新的 SharePoint 管理员中心预览创建新的工作组网站） 时，将自动创建相应的 Office 365 组。Microsoft 团队中创建 Office 365 组或团队时，还会创建 office 365 组连接的工作组网站。若要删除的 SharePoint 网站的所属的 Office 365 组，您需要删除 Office 365 组本身。 
+当用户从 sharepoint 主页创建新的工作组网站时 (或从新的 SharePoint 管理中心预览中创建新的团队网站), 会自动创建相应的 Office 365 组。当您在 Microsoft 团队中创建 office 365 组或团队时, 也会创建 office 365 组连接的工作组网站。若要删除属于 office 365 组的 SharePoint 网站, 需要删除 office 365 组本身。 
   
-1. 转到[Office 365 管理中心的组页](https://portal.office.com/adminportal/home#/groups)。
+1. 转到[Microsoft 365 管理中心](https://portal.office.com/adminportal/home#/groups)的 "组" 页。
     
-2. 选中该组旁边的复选框。
+2. 选中组旁边的复选框。
     
-3. 选择**删除**。
+3. 选择 "**删除**"。
     
-注意： 在删除组时，可以延迟之前从 SharePoint 删除网站。
+注意: 删除组时, 在从 SharePoint 中删除网站之前可能会有延迟。
   
-**删除通信网站或经典网站：**
+**删除通信网站或经典网站:**
 
 1. 转到网站。
   
-2. 单击 * * 设置 * * 右上角的图标。 
+2. 单击右上角的 * * 设置 * * 图标。 
   
-3. 单击**网站设置**。在**网站信息**或**网站操作**，下单击**删除此网站**，然后单击**删除**。
+3. 单击 "**网站设置**"。在 "**网站信息**或**网站操作**" 下, 单击 "**删除此网站**", 然后单击 "**删除**"。
   
-**删除 SharePoint 网站集：**
+**删除 SharePoint 网站集:**
 
-若要删除经典网站集：
+若要删除经典网站集, 请执行以下操作:
   
-1. 在经典 SharePoint 管理中心，在网站集页上，选择网站集旁边的**复选框**。 
+1. 在经典 SharePoint 管理中心的 "网站集" 页上, 选中网站集旁边的**复选框**。 
     
-2. 在网站集选项卡中，选择**删除。**
+2. 在 "网站集" 选项卡上, 选择 "**删除"。**
     
-**意外删除网站？**
+**意外删除了网站？**
 
 请参阅[还原已删除的网站集](https://go.microsoft.com/fwlink/?linkid=867660)。
   
