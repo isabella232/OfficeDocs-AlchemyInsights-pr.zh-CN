@@ -1,5 +1,5 @@
 ---
-title: 在有获取 Outlook 连接的问题？
+title: 在 Outlook 连接时遇到问题？
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: a3e40ad2564c81cfca2d34ee3863dffb4c9bc2d5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 615aa2c40cd5633ab5e3fb1605fbc1c3afa430be
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941534"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208863"
 ---
-# <a name="having-issues-getting-outlook-to-connect"></a>在有获取 Outlook 连接的问题？
+# <a name="having-issues-getting-outlook-to-connect"></a>在 Outlook 连接时遇到问题？
 
-我们已检测到 Outlook 不配置为下以下域正常工作：
+我们检测到 Outlook 未配置为在以下域下正常工作:
   
 {HealthCheckString}
   
-NS 或 CNAME 记录的域 (DNS) 设置不正确安装。有关详细说明，可以参阅[Office 365 中的更新的 DNS 记录](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)。 
+域的 NS 或 CNAME 记录 (DNS) 设置未正确设置。若要详细说明, 可以参阅[更新 Office 365 中的 DNS 记录](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)。 
   
-若要解决该问题，请转到 Office 365 管理中心中[域](https://admin.microsoft.com/adminportal/home#/Domains)页，我们将帮助您与之。 
+若要解决此问题, 请转到 Microsoft 365 管理中心中的 "[域](https://admin.microsoft.com/adminportal/home#/Domains)" 页, 我们将帮助你使用它。 
   
-[检查域常见问题](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)其他常见的解决方案。 
+查看其他常见解决方案[的域 FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) 。 
   
 

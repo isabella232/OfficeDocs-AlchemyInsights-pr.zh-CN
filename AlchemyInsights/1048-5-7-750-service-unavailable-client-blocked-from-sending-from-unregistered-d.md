@@ -1,5 +1,5 @@
 ---
-title: 1048 5.7.750 服务不可用。阻止来自未注册的域发送的客户端
+title: 1048 5.7.750 服务不可用。阻止从未注册的域发送的客户端
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
-ms.openlocfilehash: 5fe5b343d89c49e1805e4d0cac6698ef35e1dd30
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 356bb008da3b08c320e6afde84c310629cc3be81
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29921914"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208971"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 从未注册的域发送阻止客户端
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>阻止从未注册域发送的5.7.750 客户端
 
-出错时大型从未设置 Office 365 （添加为接受域并验证） 中的域发送的邮件的卷。
+当从未在 Office 365 中预配的域 (添加为接受域并经过验证) 中发送大量邮件时, 将发生此错误。
   
-若要避免此错误，可以使用基于证书的邮件流连接器证书的域是一个已设置的域，或在设置发送的所有域的位置。
+若要避免此错误, 可以使用基于证书的邮件流连接器 (其中证书的域是已设置的域), 也可以设置所有发送域。
   
 

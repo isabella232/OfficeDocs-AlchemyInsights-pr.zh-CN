@@ -1,5 +1,5 @@
 ---
-title: 向用户授予访问 SharePoint 和 OneDrive
+title: 授予用户对 SharePoint 和 OneDrive 的访问权限
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933830"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209727"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>向用户授予访问 SharePoint 和 OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>授予用户对 SharePoint 和 OneDrive 的访问权限
 
 > [!NOTE]
-> 如果 OneDrive 或 SharePoint 网站不到以前访问多个用户，可能有一个临时服务问题。[检查服务运行状况主控板](https://portal.office.com/adminportal/home#/servicehealth)
+> 如果 OneDrive 或 SharePoint 网站对之前有权访问的多个用户不可用, 则可能存在暂时性的服务问题。[检查服务运行状况仪表板](https://portal.office.com/adminportal/home#/servicehealth)
   
-如果您希望能够登录和使用 SharePoint 和 OneDrive 贵组织中的人员，您需要为其添加帐户，并确保拥有使其能访问 SharePoint 和 OneDrive 许可证。添加用户的最简单方式是在 Office 365 管理中心。
+如果您希望组织中的人员能够登录并使用 SharePoint 和 onedrive, 您需要为他们添加帐户, 并确保他们拥有访问 SharePoint 和 onedrive 的许可证。添加用户的最简单方法是在 Microsoft 365 管理中心。
   
-1. 转到[Office 365 管理中心中的活动用户页上](https://portal.office.com/adminportal/home#/users)，，然后单击**添加用户**。
+1. 转到[Microsoft 365 管理中心中的 "活动用户" 页](https://portal.office.com/adminportal/home#/users), 然后单击 "**添加用户**"。
     
-2. 填写对用户的信息，并确保下**产品许可证**分配许可证和**SharePoint Online**处于选中状态。 
+2. 填写用户的信息, 并确保 "**产品许可证**" 下已分配 "许可证" 并选择 " **SharePoint Online** "。 
     
-请注意，是否您允许外部共享您的组织中，用户可以与组织外部的人员共享 SharePoint 和 OneDrive 内容。不需要提供这些外部用户许可证。您还不需要将帐户添加为它们，除非共享设置为"仅现有外部用户。"在这种情况下，如果人员不在贵组织的目录中，您需要将它们作为来宾 Azure AD 管理中心中的用户添加。
+请注意, 如果您在组织中允许外部共享, 则用户可以与组织外部的人员共享 SharePoint 和 OneDrive 内容。您无需向这些外部用户授予许可证。您也不需要为其添加帐户, 除非将 "共享" 设置为 "仅现有外部用户"。在这种情况下, 如果人员不在组织的目录中, 则需要在 Azure AD 管理中心中将其添加为来宾用户。
   
 

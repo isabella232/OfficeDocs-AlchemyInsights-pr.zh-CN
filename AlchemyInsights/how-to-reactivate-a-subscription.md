@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ac62ab623a8a512b80257ec642167382f21aa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900206"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208143"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新激活订阅
 
-如果您的订阅过期、 已取消，或由 Microsoft 禁用，可以在 Office 365 管理中心时将其重新激活。
+如果你的订阅已过期、已取消或已被 Microsoft 禁用, 你可以在 microsoft 365 管理中心中重新激活它。
   
 1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
     
-2. 选择您想要重新激活的订阅。
+2. 选择要重新激活的订阅。
     
-3. 选择在右侧的**重新激活**按钮。 
+3. 选择右侧的 "**重新激活**" 按钮。 
     
-4. 您将需要更新的付款详细信息。所有信息都正确，选择**提交**。
+4. 系统将要求您更新付款详细信息。当所有信息都正确时, 选择 "**提交**"。
     
-5. 确认将显示在屏幕底部。选择**关闭**以返回到**订阅**页。 
+5. 屏幕底部将显示确认信息。选择 "**关闭**" 以返回到 "**订阅**" 页面。 
     
-6. 如果订阅未显示活动几分钟后，刷新页面。
+6. 如果在几分钟后, 订阅未显示为活动状态, 请刷新页面。
     
-有关详细信息，请参阅：[续订业务的 Office 365](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
+有关详细信息, 请参阅:[续订 Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
   
 

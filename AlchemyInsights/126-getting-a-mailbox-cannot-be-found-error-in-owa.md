@@ -1,5 +1,5 @@
 ---
-title: 在 OWA 中，126 获取邮箱无法找到错误？
+title: 126在 OWA 中找不到获取邮箱的错误？
 ms.author: chrisda
 author: chrisda
 manager: serdars
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 808b36c247458123da6ee43500c1380f6407e7cd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b7d54e9fb29bf94ec540e6059e932ec33f326495
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904634"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209799"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>获取在 web 上的 Outlook 中未找到错误的邮箱？
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>在 web 上的 Outlook 中获取 "找不到邮箱" 错误？
 
-如果您使用的 web 上的 Outlook 并获取**的找不到邮箱**的错误，用于连接到 web 上的 Outlook 的帐户不具有一个 Exchange Online 的许可证，因此，没有邮箱与帐户相关联。您的管理员可以通过执行以下步骤为您的帐户分配许可证： 
+如果您使用的是 web 上的 outlook, 但**无法找到错误的邮箱**, 则用于连接到 web 上的 outlook 的帐户没有 Exchange Online 许可证, 因此没有邮箱与该帐户相关联。您的管理员可以通过执行以下步骤, 将许可证分配给您的帐户: 
   
-1. 打开[Office 365 管理中心](https://portal.office.com/adminportal/home#/homepage)，然后**活动用户**，下选择**编辑用户**。
+1. 打开[Microsoft 365 管理中心](https://portal.office.com/adminportal/home#/homepage)并在 "**活动用户**" 下, 选择 "**编辑用户**"。
     
-2. 在**编辑用户**页打开，选择用户。在用户属性页打开**产品**许可证中单击**编辑**。
+2. 在打开的 "**编辑用户**" 页中, 选择用户。在打开的 "用户属性" 页中, 单击 "**产品许可证**" 的 "**编辑**"。
     
-3. 在打开的**产品许可证**页面上，选择适当的**位置**值，并分配许可证包含 Exchange Online （展开要查看其详细信息的许可证）。完成后，请单击**保存**。
+3. 在打开的 "**产品许可证**" 页中, 选择适当的**位置**值, 并分配包含 Exchange Online 的许可证 (展开许可证以查看其详细信息)。完成后, 请单击 "**保存**"。
     
 

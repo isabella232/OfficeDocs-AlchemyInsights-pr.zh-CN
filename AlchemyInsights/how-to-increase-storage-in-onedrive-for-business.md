@@ -1,5 +1,5 @@
 ---
-title: 如何提高存储中的 OneDrive for Business
+title: 如何在 OneDrive for business 中增加存储空间
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/14/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906398"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207747"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>如何提高存储中的 OneDrive for Business
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>如何在 OneDrive for business 中增加存储空间
 
-若要更改为新的和现有 OneDrive 用户的默认存储：
+若要更改新的和现有 OneDrive 用户的默认存储, 请执行以下操作:
   
-- 转到[存储页的 OneDrive 管理中心](https://admin.onedrive.com/?v=StorageSettings)中，然后 GB 中输入新的金额。
+- 转到[OneDrive 管理中心](https://admin.onedrive.com/?v=StorageSettings)的 "存储" 页面, 然后输入新的金额 (GB)。
     
-此存储空间设置应用于尚未为其设置特定的存储限制的所有用户。若要更改的存储空间为特定用户，您需要使用 Microsoft PowerShell。有关如何执行此操作的信息，请参阅[更改用户的 OneDrive 存储空间使用 PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)。 
+此存储空间设置适用于尚未为其设置特定存储限制的所有用户。若要更改特定用户的存储空间, 您需要使用 Microsoft PowerShell。有关如何执行此操作的信息, 请参阅[使用 PowerShell 更改用户的 OneDrive 存储空间](https://go.microsoft.com/fwlink/?linkid=866402)。 
   
- **注意**： 看起来像您没有包括不受限制的存储的计划。有关每个计划附带的存储的信息，请参阅[OneDrive for Business 服务说明](https://go.microsoft.com/fwlink/p/?LinkID=826071)。
+ **注意**: 看起来您没有包含无限制存储的计划。有关每个计划附带的存储的信息, 请参阅[OneDrive for Business 服务说明](https://go.microsoft.com/fwlink/p/?LinkID=826071)。
   
-若要提高您的 OneDrive for Business 中的存储，选择包含**OneDrive for Business 计划 2**或**Office 365 企业版 E3**的 Office 365 计划。 
+若要增加 onedrive for business 中的存储空间, 请选择包括**OneDrive for business 计划 2**或**Office 365 企业版 E3**的 Office 365 计划。 
   
-若要更改计划，在 Office 365 管理中心，转到**帐单** \> **订阅**，然后选择**切换计划。**
+若要更改计划, 请在 Microsoft 365 管理中心中, 转到 "**计费** \> **订阅**", 然后选择 "**切换计划"。**
   
-有关切换计划和 OneDrive for Business 存储的详细信息，请参阅[切换到不同的 Office 365 业务计划](https://go.microsoft.com/fwlink/?LinkId=2031117)和[OneDrive for Business 服务说明](https://go.microsoft.com/fwlink/?LinkId-2031122)。
+有关切换计划和 onedrive for business 存储的详细信息, 请参阅[切换到不同的 Office 365 for business plan](https://go.microsoft.com/fwlink/?LinkId=2031117)和[onedrive for business 服务说明](https://go.microsoft.com/fwlink/?LinkId-2031122)。
   
 

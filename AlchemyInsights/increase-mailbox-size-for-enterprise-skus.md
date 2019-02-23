@@ -1,5 +1,5 @@
 ---
-title: 对于企业 Sku 增加邮箱大小
+title: 增加企业版 sku 的邮箱大小
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: bb2dc43b2035510c86a51d605325957c945be2f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 64b492aefa16a5e53a93536bbd3f62021341766f
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916802"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207711"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>要执行的操作如果邮箱大小已经是 100 GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>如果您的邮箱大小已达到 100gb, 该怎么办
 
-与 E3 或 E5 计划，邮箱大小已经是 100 GB，并没有方法以将其增加。相反，删除旧的电子邮件，或启用存档，以将其存储在云中的电子邮件。 
+使用 E3 或 E5 计划, 邮箱大小已经为 100 GB, 无法增加邮箱的大小。而是删除旧电子邮件, 或打开电子邮件存档以将其存储在云中。 
   
-若要启用电子邮件存档：
+要启用电子邮件存档, 请执行以下操作:
   
-1. 在 Office 365 管理中心，转到**管理中心** \> **Exchange**。 
+1. 在 Microsoft 365 管理中心, 转到 "**管理员中心** \> **Exchange**"。 
     
-2. 选择**收件人** \> * * 邮箱 * *，并选择邮箱。 
+2. 选择 "**收件人** \> * * 邮箱 * *", 然后选择一个邮箱。 
     
-3. 在细节窗格的**就地存档**下，选择**启用**。 
+3. 在 "**就地存档**" 下的 "详细信息" 窗格中, 选择 "**启用**"。 
     
-4. 在几分钟之后, 将显示一个新文件夹，在名为*就地存档*，在 web 上的用户的 Outlook 或 Outlook 应用程序调用*联机存档-\<名称\>*。用户可以将拖放到存档的电子邮件。 
+4. 几分钟后, 新文件夹将出现在用户的 outlook 中名为 *"就地存档*" 的 web 上, 或出现在名为 "*在线存档- \<名称\> * " 的 outlook 应用程序中。您的用户可以将电子邮件拖放到存档中。 
     
-您可以访问存档存储无限的量。若要了解详细信息，请参阅[启用无限制存档](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e)。
+您可以访问用于存档的无限制的存储量。若要了解详细信息, 请参阅[启用无限制存档](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e)。
   
 
