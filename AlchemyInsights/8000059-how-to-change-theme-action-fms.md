@@ -1,5 +1,5 @@
 ---
-title: 8000059 如何更改主题操作 (FMS)
+title: 8000059如何更改主题操作 (FMS)
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: 0b1fc087d5c086469598e07cc0addd6a90ea6956
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a49d5ed1c29ce618feee4df1b8feb838524f328e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902186"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243923"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="e824d-102">如何更改主题</span><span class="sxs-lookup"><span data-stu-id="e824d-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="0cabe-102">如何更改主题</span><span class="sxs-lookup"><span data-stu-id="0cabe-102">How to change your theme</span></span>
 
-<span data-ttu-id="e824d-p101">若要更改您 Outlook.com 或在 web 上的 Outlook 中的主题，请转到**设置**![设置](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png)，然后选择在**主题**下的主题。若要查看所有可用的主题，选择在**主题**下**查看全部**。</span><span class="sxs-lookup"><span data-stu-id="e824d-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span> 
+<span data-ttu-id="0cabe-p101">若要在 Outlook.com 或 web 上的 Outlook 中更改主题, 请转到 "**设置**", 然后选择 "**主题**" 下的主题。若要查看所有可用的主题, 请选择 "**主题**" 下的 "**全部查看**"。</span><span class="sxs-lookup"><span data-stu-id="0cabe-p101">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**. To see all available themes, select **View all** under **Theme**.</span></span> 
   
 

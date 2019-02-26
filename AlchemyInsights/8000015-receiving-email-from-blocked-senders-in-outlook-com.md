@@ -1,5 +1,5 @@
 ---
-title: 8000015 接收电子邮件从阻止 Outlook.com 中的发件人
+title: 8000015接收来自 Outlook.com 中阻止发件人的电子邮件
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9fd6dfc057ff592bdb9609096ba3115be6264aa7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920404"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244067"
 ---
-# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="838db-102">从阻止发件人发送电子邮件</span><span class="sxs-lookup"><span data-stu-id="838db-102">Receiving email from blocked senders</span></span>
+# <a name="receiving-email-from-blocked-senders"></a><span data-ttu-id="83ad6-102">接收来自被阻止发件人的电子邮件</span><span class="sxs-lookup"><span data-stu-id="83ad6-102">Receiving email from blocked senders</span></span>
 
-<span data-ttu-id="838db-103">从阻止的发件人的电子邮件仍出现在收件箱中，如果发件人可能隐藏其实际的电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="838db-103">If email from a blocked sender still appears in your inbox, the sender might be hiding their real email address.</span></span>
+<span data-ttu-id="83ad6-103">如果来自被阻止发件人的电子邮件仍显示在收件箱中, 则发件人可能会隐藏其实际的电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="83ad6-103">If email from a blocked sender still appears in your inbox, the sender might be hiding their real email address.</span></span>
   
-<span data-ttu-id="838db-104">检查发件人的实际的电子邮件地址：</span><span class="sxs-lookup"><span data-stu-id="838db-104">To check a sender's real email address:</span></span>
+<span data-ttu-id="83ad6-104">检查发件人的真实电子邮件地址:</span><span class="sxs-lookup"><span data-stu-id="83ad6-104">To check a sender's real email address:</span></span>
   
-1. <span data-ttu-id="838db-105">选择![更多操作](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png)顶部的邮件窗口和**查看邮件源**选择。</span><span class="sxs-lookup"><span data-stu-id="838db-105">Select ![More actions](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) at the top of the message window and select **View message source**.</span></span>
+1. <span data-ttu-id="83ad6-105">选择邮件窗口顶部的信封图标, 并选择 "**查看邮件源**"。</span><span class="sxs-lookup"><span data-stu-id="83ad6-105">Select the envelope icon at the top of the message window and select **View message source**.</span></span>
     
-2. <span data-ttu-id="838db-106">向下滚动的**邮件源**直至找到**从**域。</span><span class="sxs-lookup"><span data-stu-id="838db-106">Scroll down the **Message source** until you find the **From** field.</span></span> 
+2. <span data-ttu-id="83ad6-106">向下滚动**邮件源**, 直至找到 "**发件人**" 字段。</span><span class="sxs-lookup"><span data-stu-id="83ad6-106">Scroll down the **Message source** until you find the **From** field.</span></span> 
     
-3. <span data-ttu-id="838db-107">突出显示的电子邮件地址括\< \> ，然后右键单击到**副本**</span><span class="sxs-lookup"><span data-stu-id="838db-107">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
+3. <span data-ttu-id="83ad6-107">突出显示包含在中\< \>的电子邮件地址, 右键单击可**复制**</span><span class="sxs-lookup"><span data-stu-id="83ad6-107">Highlight the email address enclosed within \< \> and right-click to **Copy**</span></span>
     
-4. <span data-ttu-id="838db-p101">使用此实际的电子邮件地址可以阻止发件人。如何读取到[阻止发件人或取消阻止 Outlook.com 中的发件人](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx)。</span><span class="sxs-lookup"><span data-stu-id="838db-p101">Use this real email address to block the sender. Read how to [Block senders or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).</span></span>
+4. <span data-ttu-id="83ad6-p101">使用此真正的电子邮件地址来阻止发件人。阅读如何[在 Outlook.com 中阻止发件人或取消阻止发件人](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx)。</span><span class="sxs-lookup"><span data-stu-id="83ad6-p101">Use this real email address to block the sender. Read how to [Block senders or unblock senders in Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e.aspx).</span></span>
     
-<span data-ttu-id="838db-110">有关详细信息，阅读怎么办如果您[收到来自已阻止的发件人的电子邮件](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="838db-110">For more information, read what to do if you're [receiving email from blocked senders](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).</span></span>
+<span data-ttu-id="83ad6-110">有关详细信息, 请阅读[阻止发件人发送电子邮件](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409)时要执行的操作。</span><span class="sxs-lookup"><span data-stu-id="83ad6-110">For more information, read what to do if you're [receiving email from blocked senders](https://go.microsoft.com/fwlink/p/?linkid=2002011&amp;clcid=0x409).</span></span>
   
 
