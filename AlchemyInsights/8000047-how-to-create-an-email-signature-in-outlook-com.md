@@ -1,5 +1,5 @@
 ---
-title: 8000047 如何在 Outlook.com 中创建电子邮件签名
+title: 8000047如何在 Outlook.com 中创建电子邮件签名
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: a66b7961a81ab7a0ec76edf7fa0c1e2e85b9eed7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 384104963a98e07a77dbfaba64787ef30fb4be29
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938387"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244139"
 ---
 # <a name="how-to-create-an-email-signature"></a>如何创建电子邮件签名
 
-如果您使用 Outlook.com beta:
+如果您使用的是 Outlook.com beta:
   
-- 在页面的顶部，选择**设置**![设置](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **视图完整设置** \> **撰写和答复**。 
+- 在页面顶部, 选择 "**设置** \> " "**查看完整设置** \> " "**撰写和答复**"。 
     
-如果您使用的经典 Outlook.com:
+如果使用的是经典 Outlook.com:
   
-- 在页面的顶部，选择**设置**![设置](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **选项** \> **邮件** \> **布局** \> **电子邮件签名**。 
+- 在页面顶部, 选择 "**设置** \> **选项** \> " "**邮件** \> **布局** \> **电子邮件签名**"。 
     
- **注意：** 您可以每个帐户只有一个签名。 
+ **注意:** 每个帐户只能有一个签名。 
   
-了解有关如何[创建和添加在 Outlook.com 中的电子邮件签名](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)。
+了解有关如何[在 Outlook.com 中创建和添加电子邮件签名的](https://go.microsoft.com/fwlink/p/?linkid=2001404&amp;clcid=0x409)详细信息。
   
 

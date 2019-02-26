@@ -1,5 +1,5 @@
 ---
-title: 8000012 删除 Outlook.com 中的联系人
+title: 8000012删除 Outlook.com 中的联系人
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929108"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244463"
 ---
 # <a name="delete-a-contact"></a>删除联系人
 
-1. 在页的顶部，选择应用程序启动器![的应用程序启动器按钮。](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) ，然后选择**人员**。 
+1. 在页面顶部, 选择应用启动器, 然后选择 "**人员**"。 
     
-2. 选择的联系人您想要删除并选择**删除**![删除](media/deb47846-8483-4f9d-813a-fc8fe288b583.png)。
+2. 选择要删除的联系人, 然后选择 "**删除**"。
     
-    如果您不能选择**删除**，该联系人可能从 Skype 或连接的社交网络帐户。若要删除该联系人，请转到 Skype 或帐户联系人所在的位置。
+    如果不能选择 "**删除**", 则可能是联系人来自 Skype 或已连接的社交网络帐户。若要删除联系人, 请转到 Skype 或联系人所在的帐户。
     
-3. 选择**删除**以确认。 
+3. 选择 "**删除**" 以确认。 
     
 

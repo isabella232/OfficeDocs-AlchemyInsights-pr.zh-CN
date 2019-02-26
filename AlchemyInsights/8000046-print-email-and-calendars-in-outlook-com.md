@@ -1,5 +1,5 @@
 ---
-title: 8000046 打印电子邮件和日历 Outlook.com 中
+title: 8000046在 Outlook.com 中打印电子邮件和日历
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 40063c6e-2c45-420d-ae63-9eb274b64f5e
-ms.openlocfilehash: 74d0708cb4f6b2d3785cf9fd4225c534ae7e9d52
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3bd27184cff5341363d3d11e194d64881df44fdd
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936026"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244535"
 ---
-# <a name="print-email-and-calendars-in-outlookcom"></a>打印电子邮件和日历 Outlook.com 中
+# <a name="print-email-and-calendars-in-outlookcom"></a>在 Outlook.com 中打印电子邮件和日历
 
-若要打印的电子邮件：
+打印电子邮件的步骤:
   
 1. 选择要打印的邮件。
     
-2. 在页面的顶部，选择![更多操作](media/64993e8a-4a62-43b1-aa05-90f5ad4cba54.png) \> **打印**。 
+2. 在页面顶部, 选择 "..."\> **打印**。 
     
-要打印日历，您将需要使用经典 Outlook.com。日历打印当前不可 Outlook.com beta 中。
+若要打印日历, 您需要使用经典 Outlook.com。日历打印当前在 Outlook.com beta 中不可用。
   
-1. 在页面顶部，请确保 Outlook.com beta 切换设置为关闭。
+1. 在页面顶部, 确保 Outlook.com beta 切换设置为 "关"。
     
-2. 在页面底部，选择  ![日历](media/9e1a821a-c32e-4851-a866-342a39ffdca0.png).
+2. 在页面底部, 选择 "日历" 图标。
     
-3. 选择**天**、**工作周**、**每周**或**月**视图页的顶部。 
+3. 在页面顶部选择 "**天**"、"**工作周**"、"**周**" 或 "**月**" 视图。 
     
-4. 在页面的顶部，选择**打印**。 
+4. 在页面顶部, 选择 "**打印**"。 
     
-了解有关如何[打印的电子邮件和日历 Outlook.com 中](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409)。
+了解有关如何[在 Outlook.com 中打印电子邮件和日历的](https://go.microsoft.com/fwlink/p/?linkid=2001208&amp;clcid=0x409)详细信息。
   
 
