@@ -6,21 +6,21 @@ ms.date: 5/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 470a504498f1f62a774a404f136f306b4cd1e93f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 075c0aef5ce46fdd25926cee7aaf1a45794423b6
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911258"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30404881"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>当您收到"未接受的域"错误
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>当您收到 "不是接受的域" 错误时
 
-在用户或组或的邮箱的迁移过程中添加电子邮件地址时，您可能会得到以下错误：**不能使用域，因为它不是 Exchange 系统的接受的域尚未。**
+在尝试在用户或组上添加电子邮件地址时, 或者在迁移邮箱过程中, 可能会收到以下错误:**无法使用域, 因为它尚不是 Exchange System 的接受域。**
   
-在大多数情况下，此错误是导致的域名的 * （例如 contoso.com) * 不完全设置为您的组织。 
+在大多数情况下, 此错误是域名 * (如 contoso.com) * 未完全为您的组织设置的结果。 
   
-请确认域是完全安装程序[添加到 Office 365 域](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)中的说明。
+请按照[将域添加到 Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611)中的说明验证域是否完全设置。
   
 
