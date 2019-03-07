@@ -7,16 +7,16 @@ ms.date: 2/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c04ed7dd2383edb8c82dba7d2547591ba2cff325
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208143"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468869"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新激活订阅
 
@@ -28,9 +28,9 @@ ms.locfileid: "30208143"
     
 3. 选择右侧的 "**重新激活**" 按钮。 
     
-4. 系统将要求您更新付款详细信息。当所有信息都正确时, 选择 "**提交**"。
+4. 系统将要求您更新付款详细信息。 当所有信息都正确时, 选择 "**提交**"。
     
-5. 屏幕底部将显示确认信息。选择 "**关闭**" 以返回到 "**订阅**" 页面。 
+5. 屏幕底部将显示确认信息。 选择 "**关闭**" 以返回到 "**订阅**" 页面。 
     
 6. 如果在几分钟后, 订阅未显示为活动状态, 请刷新页面。
     

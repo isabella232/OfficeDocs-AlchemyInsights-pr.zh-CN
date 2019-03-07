@@ -1,5 +1,5 @@
 ---
-title: 升级到完整版的 Microsoft 团队
+title: 升级到 Microsoft 团队的完整版本
 ms.author: pebaum
 author: pebaum
 ms.date: 6/6/2018
@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904850"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468977"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>升级到完整版的 Microsoft 团队
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>升级到 Microsoft 团队的完整版本
 
-只要您已准备好，您可以从 Microsoft 团队 （免费） 升级到完整版的 Microsoft 团队。
-  
-在开始升级过程的最佳方式是单击**让我们呼叫您**下面。 
-  
-支持代理将联系，并选择 Office 365 计划，输入您的联系人和付款信息，选择您组织的域名，然后升级成员名单的帮助。
-  
+是否需要从 Microsoft 团队的完全版升级到完全版？ 请参阅[升级 Microsoft 团队免费订阅 Office 365 订阅版本](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+您需要满足以下要求:
+- 你是注册当前免费版本的团队的人员。
+- 如果你有自己的域, 则它无法与 Azure Active Directory 相关联。
+- 若要在升级时传输数据, 您必须在升级过程中进行订阅。 如果您在升级过程之外购买了 Office 365, 则无法传输数据。
+
 

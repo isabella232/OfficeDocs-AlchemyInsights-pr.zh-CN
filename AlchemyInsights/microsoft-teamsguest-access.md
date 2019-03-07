@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941570"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468473"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft 团队-来宾访问
 
+你是否需要在 Microsoft 团队中打开和设置来宾访问功能方面的帮助？
 
-如果您需要启用或配置中的 Microsoft 团队的来宾访问角色，我们已为您的分步指南：[来宾访问清单](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-您可能需要等待 24 小时的团队配置更改才能生效。
-  
+您需要执行以下操作:
+
+1. 授权来宾访问。
+1. 向你的团队添加来宾用户。
+1. 设置来宾用户权限。
+
+有关详细信息 (包括操作方法视频), 请参阅[Microsoft 团队中的来宾访问](https://docs.microsoft.com/en-us/microsoftteams/guest-access)。
 
