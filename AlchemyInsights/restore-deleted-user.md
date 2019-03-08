@@ -1,5 +1,5 @@
 ---
-title: 还原已删除用户
+title: 还原已删除的用户
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: c2d6117c0cbb84a2812179ce4af35a5382359b82
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 02930690acf5abea6673123f2f95631280faaeae
+ms.sourcegitcommit: ed5d2fdfd9e2622e3cce192a80402f32d3a8ca78
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29936170"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30475444"
 ---
 # <a name="restore-a-user-in-office-365"></a>在 Office 365 中还原用户
 
-还原使用这些步骤的 Office 365 中的用户：
+使用以下步骤还原 Office 365 中的用户:
   
-1. 转到[用户\>已删除的用户](https://admin.microsoft.com/adminportal/home#/deletedusers)。
+1. 转到[" \>用户删除的用户](https://admin.microsoft.com/adminportal/home#/deletedusers)"。
     
-2. 选择用户，然后选择**还原**。
+2. 选择 "用户", 然后选择 "**还原**"。
     
 3. 按照提示设置密码。
     
-4. 单击**发送电子邮件并关闭**并完成 ！
+4. 单击 "**发送电子邮件并关闭**", 你已完成操作!
     
-不是这么简单吗？有关详细信息和步骤屏幕截图，签出此文章：[还原 Office 365 中的用户](https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)
-  
 
+这不是很容易？ 有关屏幕截图的更多详细信息和步骤, 请参阅本文:[在 Office 365 中还原用户](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)。 如果你不需要还原用户的邮箱, 请参阅:[在 Exchange Online 中删除或还原用户邮箱](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes)。
