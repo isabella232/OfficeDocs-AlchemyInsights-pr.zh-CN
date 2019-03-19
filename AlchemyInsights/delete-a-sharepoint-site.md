@@ -9,23 +9,23 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: f6ee16a20f2280ba4d8d28ab3fdb4672cd9963b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d958f0a7587eb1eb2c91004e34a7cc36fc93abfa
+ms.sourcegitcommit: cecbf70b171a9de32ffa067372be1c017e8dd5ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927566"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30664411"
 ---
 # <a name="delete-a-sharepoint-site"></a>删除 SharePoint 网站
- **从新的 SharePoint 管理中心删除网站**
+ **从新 SharePoint 管理中心删除网站**
   
-若要删除活动网站，请转到当前的 SharePoint 管理中心，单击"立即尝试"右上角。选择**活动网站**，选择网站，，然后选择**删除**。要[查看和还原已删除新的 SharePoint 管理中心中的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)，选择**已删除网站**。有关详细信息，请参阅[新的 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。
+通过使用新的 SharePoint 管理中心, 可以删除经典和新式网站。 选择 "**活动网站**", 选择网站, 然后选择 "**删除**"。 若要[在新 SharePoint 管理中心中查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), 请选择 "**已删除网站**"。 有关详细信息, 请参阅[在新 SharePoint 管理中心删除网站](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)。
   
-**重要：** 如果网站是保留策略的一部分，您可能不能删除它，除非网站已从[安全&amp;合规性 Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage)。有关详细信息，请参阅[概述的保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
+**重要说明:** 如果网站是保留策略的一部分, 则在从[安全&amp;合规性管理中心策略](https://protection.office.com/?rfr=AdminCenter#/homepage)中删除该网站之前, 可能无法将其删除。 有关详细信息, 请参阅[保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
   
-提示：
-- 全局管理员和 SharePoint 管理员可以立即删除到**Office 365 组**所属的网站。这将删除组及其所有资源，包括 Outlook 邮箱和日历和任何团队通道。有关详细信息，请参阅[删除 SharePoint 网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- 93 天，则可以恢复已删除的网站。请注意，必须在 30 天内还原已删除的组。有关详细信息，请参阅[查看和还原已删除网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)。
-- 要完全删除使用 Powershell 网站，请参阅[Remove-spsite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet 示例。 
+几点
+- SharePoint 管理员现在可以删除属于**Office 365 组**的网站。 这将删除该组及其所有资源, 包括 Outlook 邮箱和日历以及任何团队频道。 有关详细信息, 请参阅[删除 SharePoint 网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- 你可以在93天内恢复已删除的网站。 请注意, 必须在30天内恢复已删除的组。 有关详细信息, 请参阅[查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)。
+- 若要永久删除网站, 请参阅[永久删除网站](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#permanently-delete-a-site)。 如果您计划重新使用该 URL, 则需要执行此步骤。 
+- 若要删除子网站, 请参阅[删除网站或子网站 quicksteps](https://support.office.com/en-us/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
   
-
