@@ -1,5 +1,5 @@
 ---
-title: 如何购买 Office 365 的非利润
+title: 如何购买 Office 365 以实现非盈利
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: c221e3e689cf682bab21ce3db7872b5091fd8606
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6e4dab09de38ee74a58e83078c6d0917d7f862db
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915506"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763985"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>如何购买 Office 365 的非利润
+# <a name="how-to-purchase-office-365-for-non-profits"></a>如何购买 Office 365 以实现非盈利
 
-在查看下的资格作为 Microsoft 限定非赢利组织。您可以预期接收的您资格的确定上的通知，您的试用版过期之前。您可以跟踪您的应用程序的状态[此处](http://eligibilityweb.azurewebsites.net/)。
+符合 Microsoft 限定的非赢利组织的资格正处于审阅中。 你可以在你的试用期到期之前, 收到有关确定资格的通知。 你可以在[此处](http://eligibilityweb.azurewebsites.net/)跟踪应用程序的状态。
   
 

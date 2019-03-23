@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: e15b6e7c958d3efdfe8baa21494c356c7b7d7614
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209439"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759032"
 ---
 # <a name="reactivate-a-subscription"></a>重新激活订阅
 
@@ -28,6 +28,6 @@ ms.locfileid: "30209439"
     
     如果未看到 "**重新激活**" 作为可用操作, 请使用 "让我们打给你" 选项与支持工程师交流以重新激活你的订阅。 
     
-3. 输入你的付款详细信息。您可以在此处更新现有的付款信息。
+3. 输入你的付款详细信息。 您可以在此处更新现有的付款信息。
     
 

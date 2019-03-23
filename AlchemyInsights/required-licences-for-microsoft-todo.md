@@ -1,5 +1,5 @@
 ---
-title: 所需的 Microsoft ToDo 许可
+title: Microsoft ToDo 的必需许可
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 7fc665d0af708f0dbcb9241de8102a976459436a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: c492b46fa507c75a166eb4a8cfa48019a3ec7d4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926954"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757844"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDo 需要的许可证
+# <a name="required-licenses-for-microsoft-todo"></a>Microsoft ToDo 所需的许可证
 
-[Microsoft ToDo 需要的许可证](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Microsoft ToDo 所需的许可证](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-用户必须拥有以下的许可，以使用 Microsoft ToDo 之一：
+用户必须具有以下许可证之一才能使用 Microsoft ToDo:
   
 - 商业协作版
     
@@ -32,19 +32,19 @@ ms.locfileid: "29926954"
     
 - 任何 Office 365 企业版计划
     
-- 安全提高生产效率的业务
+- 安全的工作业务
     
 - Secure Productive Enterprise E3
     
 - Secure Productive Enterprise E5
     
-- 任何 Office 365 培训计划
+- 任何 Office 365 教育版计划
     
 - Microsoft 365 A3
     
 - Microsoft 365 A5
     
-除了有效的产品许可证，Exchange Online 的以下版本之一所需的 ToDo 能够同步用户数据： 
+除了有效的产品许可证之外, 要能够同步用户数据, 还需要以下 Exchange Online 版本之一: 
   
 - Exchange Online 计划 1
     

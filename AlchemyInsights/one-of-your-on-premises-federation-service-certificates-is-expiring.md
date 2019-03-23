@@ -1,5 +1,5 @@
 ---
-title: 一个内部部署联合身份验证服务证书即将过期
+title: 你的本地联合身份验证服务证书之一即将过期
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 172084b7-68a1-42a5-944d-2e871eaa2972
-ms.openlocfilehash: bed33ba4d09fe4598c5e73eb21f0af1b7670f4c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e1afad0bab317af0f60a6ebda8c3ec8be398e38d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914390"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753020"
 ---
-# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>一个内部部署联合身份验证服务证书即将过期
+# <a name="one-of-your-on-premises-federation-service-certificates-is-expiring"></a>你的本地联合身份验证服务证书之一即将过期
 
-若要解决此问题，请按照下列步骤：
+若要解决此问题, 请按照下列步骤操作:
   
-- （如果尚未安装该模块），请在计算机上安装 Microsoft Azure Active Directory 的 Windows PowerShell 的模块。若要执行此操作，请转到[Azure Active Directory PowerShell 图形](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
+- 在计算机上安装适用于 Windows PowerShell 的 Microsoft Azure Active Directory 模块 (如果尚未安装该模块)。 为此, 请转到[Azure Active Directory PowerShell for Graph](https://docs.microsoft.com/powershell/azure/active-directory/install-adv2?view=azureadps-2.0)
     
-- 请按照"方案 1: AD FS 令牌签名证书过期"部分的["时出现问题访问网站"从 AD FS 的联合的用户登录到 Office 365、 Azure 或 Intune 时的错误](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)。
+- 按照[联合用户登录 Office 365、Azure 或 Intune 时](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)的 "应用场景 1: ad fs 令牌签名证书已过期" 一节中的步骤操作, 请按照 ad fs 中的 "应用程序访问站点时遇到问题" 错误一节中的步骤操作。
     
-- 按照 t[如何更新或修复 Office 365、 Azure 或 Intune 中的联盟域的设置](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)中的步骤。
+- 按照 t 操作方法中的步骤操作[, 了解如何更新或修复 Office 365、Azure 或 Intune 中的联盟域的设置](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3)。
     
-有关续订联合身份验证证书的详细信息，请参阅[证书续订 O365 和 Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)。
+有关续订联合身份验证证书的详细信息, 请参阅[用于 O365 和 Azure AD 的证书续订](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)。
   
 

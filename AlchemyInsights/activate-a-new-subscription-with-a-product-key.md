@@ -1,5 +1,5 @@
 ---
-title: 产品密钥激活新的订阅
+title: 使用产品密钥激活新订阅
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: fde7f396ebf6ec827bef884e3a23ced760a64db5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0cf8eb72da415c7ec0156cec282198bd0c61ad1a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925633"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758960"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>产品密钥激活新的订阅
+# <a name="activate-a-new-subscription-with-a-product-key"></a>使用产品密钥激活新订阅
 
-1. 要与您的产品密钥激活新的订阅，请转到[https://office.com/setupkey](https://office.com/setupkey)页。 
+1. 若要使用你的产品密钥激活新订阅, 请转[https://office.com/setupkey](https://office.com/setupkey)到页面。 
     
-2. 输入您的 Office 365 产品密钥，然后按照提示进行激活您的订阅。如果您有激活问题，签出此[产品密钥的常见错误和解决方案的列表](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099)。
+2. 输入你的 Office 365 产品密钥, 并按照提示激活你的订阅。 如果你有激活问题，请查看此 [常见产品密钥错误和解决方案的列表](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099)。
     
 

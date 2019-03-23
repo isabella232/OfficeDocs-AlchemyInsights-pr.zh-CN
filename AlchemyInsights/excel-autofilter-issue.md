@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: d19c2bbe96ae8c291876ff8b9537ddfda484e11a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905498"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752912"
 ---
 # <a name="excel-autofilter-issue"></a>Excel 自动筛选问题
 
-如果您自动筛选下拉列表不显示所有可用复选框，或者没有可单击对应的复选框，请使用 Excel 2016 时, 可能由于的 Excel 的早期版本的已知问题。 
+使用 Excel 2016 时, 如果 "自动筛选" 下拉框未显示所有可用的复选框, 或复选框不可单击, 则可能是由于早期版本的 Excel 中的已知问题所致。 
   
-在**版本 1707 (8326.2073)** 或更高版本，现已修复此问题。若要立即获取更新，请打开 Excel，并选择**文件** \> **帐户** \> **更新选项** \> **立即更新**。
+此问题现在已在**版本 1707 (8326.2073)** 或更高版本中修复。 若要立即获取更新, 请打开 Excel 并选择 "**立即更新****文件** \> **帐户** \> **更新选项** \> "。
   
 

@@ -1,5 +1,5 @@
 ---
-title: Credit 检查状态请求
+title: 信用检查状态请求
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: eeaa09ca00b68881a6ec007c745aafff3a3558f1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 04beb86b98947b142c0483c02147ab9145130b99
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898770"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754388"
 ---
-# <a name="credit-check-status-request"></a>Credit 检查状态请求
+# <a name="credit-check-status-request"></a>信用检查状态请求
 
-您的订单是挂起 credit 验证。这通常在 24 小时内完成，但可能需要 48 小时。完成后，您的订阅状态将从挂起更改变为活动，并可供使用的服务。
+你的订单正在等待信用验证。 这通常在24小时内完成, 但可能需要长达48小时。 完成后, 你的订阅状态将从 "挂起" 更改为 "活动", 并且服务将可供使用。
   
 

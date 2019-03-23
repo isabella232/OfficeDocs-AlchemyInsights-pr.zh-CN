@@ -1,5 +1,5 @@
 ---
-title: 使用安装程序和恢复助手解决 OneDrive for Business
+title: 使用 "安装和恢复助手" 对 OneDrive for business 进行故障排除
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: d8946eff5b105146dc4d1c91f40d6cb2b066e4bb
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 659c08d2e8c123147dd7106798d2c8af1ac37249
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911618"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758204"
 ---
 # <a name="fix-onedrive-sync-problems"></a>修复 OneDrive 同步问题
 
-支持和恢复助手应用程序可以帮助您找出并修复同步 OneDrive 文件的常见问题。 
+支持和恢复助理应用可帮助您识别和解决同步 OneDrive 文件的常见问题。 
   
-[下载的支持和恢复助手](https://aka.ms/sara)，登录您的工作或学校帐户，并按照应用程序中的说明，以解决 OneDrive for Business。 
+[下载支持和恢复助手](https://aka.ms/sara), 使用您的工作或学校帐户登录, 并按照应用程序中的说明对 OneDrive for business 进行故障排除。 
   
 [更多疑难解答步骤](https://go.microsoft.com/fwlink/?linkid=872097)
   

@@ -1,5 +1,5 @@
 ---
-title: 为共享邮箱发送电子邮件
+title: 以共享邮箱的形式发送电子邮件
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: f0d0e9e857589ff91d163dcc4877633d18abdaab
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919682"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752300"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a>为共享邮箱发送电子邮件
+# <a name="sending-email-as-the-shared-mailbox"></a>以共享邮箱的形式发送电子邮件
 
-创建共享的邮箱后, 成员的邮箱的用户能够为共享的邮箱标识 (例如*info@contoso.com* ) 发送电子邮件。有关说明，请参阅： 
+创建共享邮箱后, 作为邮箱成员的用户可以发送电子邮件作为共享邮箱标识 (例如, *info@contoso.com* )。 有关说明，请参阅： 
   
 [在 Outlook 2016 和 Outlook 2013 中打开和使用共享邮箱](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[向 web 上的 Outlook 中添加共享的邮箱](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[将共享邮箱添加到 web 上的 Outlook](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 

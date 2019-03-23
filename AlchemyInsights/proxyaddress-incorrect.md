@@ -1,5 +1,5 @@
 ---
-title: 不正确的 ProxyAddress
+title: ProxyAddress 不正确
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: ca4b234cfd7268d43ce7b21a3e06f27ce40c1e51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a5677b4b5d3d02295a2213d771f685461c3502a4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905678"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753524"
 ---
-# <a name="proxyaddress-incorrect"></a>不正确的 ProxyAddress
+# <a name="proxyaddress-incorrect"></a>ProxyAddress 不正确
 
-当到 Azure AD 同步对象时，Active Directory 中在 proxyAddresses 属性中指定的值与 Azure AD 规则进行比较，并且在 Azure AD 然后填充 proxyAddresses 属性。因此，在 Active Directory 中的对象的 proxyAddresses 属性的值可能不在 proxyAddresses 属性的值相同 Azure AD 中。
+将对象同步到 azure ad 时, 将在 Active Directory 中的 proxyAddresses 属性中指定的值与 azure ad 规则进行比较, 然后在 azure ad 中填充 proxyAddresses 属性。 因此, Active Directory 中的对象的 proxyAddresses 属性的值可能与 Azure AD 中 proxyAddresses 属性的值不相同。
   
-若要了解有关 proxyaddress 的填充方式的详细信息，请参阅[如何在 Azure AD 中填充的 proxyAddress 属性](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)。
+若要了解有关如何填充 proxyaddress 的详细信息, 请参阅[proxyaddress 属性在 Azure AD 中的填充方式](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)。
   
 

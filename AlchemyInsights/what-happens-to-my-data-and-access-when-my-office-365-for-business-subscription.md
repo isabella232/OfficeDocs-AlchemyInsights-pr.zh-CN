@@ -1,5 +1,5 @@
 ---
-title: 会发生什么情况对我的数据和访问业务订阅我 Office 365 结束时？
+title: Office 365 for business 订阅结束时我的数据和访问会发生什么情况？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: d53287bea39e5d7789f46a0f65d9bff3d1e22662
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 04ffe139e21ca624fe7399202a0e9816012264f8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904079"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758024"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>会发生什么情况对我的数据和访问业务订阅我 Office 365 结束时？
+# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Office 365 for business 订阅结束时我的数据和访问会发生什么情况？
 
-如果您的 Office 365 订阅结束，因为已过期，或者您决定取消 — 您访问 Office 365 服务、 应用程序和客户数据转通过多个状态订阅完全关闭前，或*deprovisioned* .如果您是此级数注意，您将能够更顺利地返回您的订阅活动状态之前晚，或 — 如果您要离开 Office 365 — 备份数据最终被删除之前。 
+如果你的 office 365 订阅结束—因为它已过期, 或者由于你决定取消, 在订阅完全关闭之前, 你对 office 365 服务、应用程序和客户数据的访问会经历多个状态, 或者*deprovisioned* . 如果你知道这一进展, 你将能够更好地将你的订阅恢复到处于活动状态过晚的状态, 或者, 如果你离开 Office 365, 请先备份你的数据, 然后再将其最终删除。 
   
-订阅实际到达其过期日期之前，您必须到**管理定期帐单订阅**的几个选项。 
+在订阅实际到达到期日期之前, 有几个选项可用于**管理订阅的定期记帐**。 
   
-- 如果尚未打开**周期性帐单**，您无需执行任何操作。您的订阅将收取其**周期性帐单**日期，并且您将为其他一年或一个月计费，具体取决于您当前的付款频率。如果出于任何原因您已关闭**定期帐单**，您可以始终[启用定期重新帐单](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
+- 如果**定期记帐**已打开, 则无需执行任何操作。 你的订阅将在**定期计费**日期计费, 并将根据你的当前付款频率, 向你收取额外一年或一个月的费用。 如果您已关闭**定期付费**的任何原因, 您始终可以[重新启用定期付费](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
     
-- 如果您是使用预付、 一年的订阅打开批量许可客户，请联系您购买新的产品密钥的合作伙伴。您将收到说明通过电子邮件激活[批量许可服务中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)您的密钥。若要了解如何查找新合作伙伴，或者使用过过去合作伙伴，请参阅[查找您的 Office 365 合作伙伴或经销商](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c)。
+- 如果你是一位预付一年期免费订阅的批量许可客户, 请联系你的合作伙伴购买新的产品密钥。 你将通过电子邮件收到说明, 以在[批量许可服务中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)中激活你的密钥。 若要了解如何查找新合作伙伴或以前使用过的合作伙伴, 请参阅[查找 Office 365 合作伙伴或经销商](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c)。
     
-- 如果您有 Office 365 企业版，请参阅[Manage 定期帐单为您的订阅](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
+- 如果您有 Office 365 商业版, 请参阅[管理订阅的定期帐单](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
     
 

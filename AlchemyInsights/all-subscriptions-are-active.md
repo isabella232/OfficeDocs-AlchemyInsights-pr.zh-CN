@@ -1,5 +1,5 @@
 ---
-title: 所有订阅都的活动
+title: 所有订阅都处于活动状态
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: 30dcd5d66baecaf55cce3cbb3ae2f6d2e50fa6f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: bef24376d9cffbc9eed3adf05efdff6229157bd8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905930"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764358"
 ---
-# <a name="all-subscriptions-are-active"></a>所有订阅都的活动
+# <a name="all-subscriptions-are-active"></a>所有订阅都处于活动状态
 
-您的订阅是活动。通过转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或选择**计费**时，才可以在此验证\>**订阅**。您的订阅了按状态，在顶部的活动订阅排序。可以通过选择订阅看到其他信息，如许可证计数和付款方法。
+你的订阅处于活动状态。 可通过转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页或选择 "**帐单** \> **订阅**" 来验证此。 你的订阅按状态排序, 位于顶部的活动订阅。 可以通过选择订阅来查看其他信息 (如许可证计数和付款方式)。
   
-如果您遇到问题与服务，使用"让我们呼叫您项"选项与支持工程师。
+如果你的服务存在问题, 请使用 "我们称之为你的电话" 选项与支持工程师交谈。
   
 
