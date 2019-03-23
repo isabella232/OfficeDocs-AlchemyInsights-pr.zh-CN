@@ -1,5 +1,5 @@
 ---
-title: 其中是 Power Pivot？
+title: Power Pivot 在哪里？
 ms.author: chrsm
 author: chrsm
 manager: jecon
@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 53156353d82bf5e36164f9af58ae48aaf002aa7e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912878"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761263"
 ---
-# <a name="where-is-power-pivot"></a><span data-ttu-id="a8a8d-102">其中是 Power Pivot？</span><span class="sxs-lookup"><span data-stu-id="a8a8d-102">Where is Power Pivot?</span></span>
+# <a name="where-is-power-pivot"></a><span data-ttu-id="562ed-102">Power Pivot 在哪里？</span><span class="sxs-lookup"><span data-stu-id="562ed-102">Where is Power Pivot?</span></span>
 
-<span data-ttu-id="a8a8d-103">有三个为什么看不到 Power Pivot 的原因：</span><span class="sxs-lookup"><span data-stu-id="a8a8d-103">There are three reasons why you don't see Power Pivot:</span></span>
+<span data-ttu-id="562ed-103">您看不到 Power Pivot 的原因有以下三个:</span><span class="sxs-lookup"><span data-stu-id="562ed-103">There are three reasons why you don't see Power Pivot:</span></span>
   
- <span data-ttu-id="a8a8d-104">**您的 Excel 版本不包括它**</span><span class="sxs-lookup"><span data-stu-id="a8a8d-104">**Your version of Excel doesn't include it**</span></span>
+ <span data-ttu-id="562ed-104">**你的 Excel 版本不包含它**</span><span class="sxs-lookup"><span data-stu-id="562ed-104">**Your version of Excel doesn't include it**</span></span>
   
-<span data-ttu-id="a8a8d-p101">并非所有版本的 Excel 都包括 Power Pivot。您将需要升级到 Office，其中包括 Power Pivot 的版本。[检查受支持版本的列表。](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)</span><span class="sxs-lookup"><span data-stu-id="a8a8d-p101">Not all versions of Excel include Power Pivot. You will need to upgrade to a version of Office that includes Power Pivot. [Check the list of supported versions.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)</span></span>
+<span data-ttu-id="562ed-105">并非所有版本的 Excel 都包括 Power Pivot。</span><span class="sxs-lookup"><span data-stu-id="562ed-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="562ed-106">你将需要升级到包含 Power Pivot 的 Office 版本。</span><span class="sxs-lookup"><span data-stu-id="562ed-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="562ed-107">检查受支持版本的列表。</span><span class="sxs-lookup"><span data-stu-id="562ed-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- <span data-ttu-id="a8a8d-108">**尚未启用 Power Pivot**</span><span class="sxs-lookup"><span data-stu-id="a8a8d-108">**You haven't enabled Power Pivot**</span></span>
+ <span data-ttu-id="562ed-108">**您尚未启用 Power Pivot**</span><span class="sxs-lookup"><span data-stu-id="562ed-108">**You haven't enabled Power Pivot**</span></span>
   
-<span data-ttu-id="a8a8d-109">如果您正在支持 Power Pivot 的 Excel 版本中，检查外接程序启用了：</span><span class="sxs-lookup"><span data-stu-id="a8a8d-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
+<span data-ttu-id="562ed-109">如果您在支持 Power Pivot 的 Excel 版本中工作, 请查看是否已启用加载项:</span><span class="sxs-lookup"><span data-stu-id="562ed-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
   
-1. <span data-ttu-id="a8a8d-110">选择**文件** \> **选项** \> **外接程序**。</span><span class="sxs-lookup"><span data-stu-id="a8a8d-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
+1. <span data-ttu-id="562ed-110">选择 "**文件** \> **选项** \> **外接程序**"。</span><span class="sxs-lookup"><span data-stu-id="562ed-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
     
-2. <span data-ttu-id="a8a8d-111">在**管理**下拉列表框中，选择**COM 加载项**，然后单击**转到**。</span><span class="sxs-lookup"><span data-stu-id="a8a8d-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
+2. <span data-ttu-id="562ed-111">在 "**管理**" 下拉框中, 选择 " **COM 加载项**", 然后单击 "**转到**"。</span><span class="sxs-lookup"><span data-stu-id="562ed-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
     
-3. <span data-ttu-id="a8a8d-112">**Com 加载项**对话框中，选择**Microsoft Power Pivot for Excel**，旁边的复选框，然后单击**确定**。</span><span class="sxs-lookup"><span data-stu-id="a8a8d-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span> 
+3. <span data-ttu-id="562ed-112">在 " **Com 加载项**" 对话框中, 选中 " **Microsoft Power Pivot for Excel**" 旁边的复选框, 然后单击 **"确定"**。</span><span class="sxs-lookup"><span data-stu-id="562ed-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span> 
     
- <span data-ttu-id="a8a8d-113">**您有多个订阅或帐户**</span><span class="sxs-lookup"><span data-stu-id="a8a8d-113">**You have multiple subscriptions or accounts**</span></span>
+ <span data-ttu-id="562ed-113">**您有多个订阅或帐户**</span><span class="sxs-lookup"><span data-stu-id="562ed-113">**You have multiple subscriptions or accounts**</span></span>
   
-<span data-ttu-id="a8a8d-p102">您可能具有不同 Office 365 订阅分配给不同的用户帐户。请确保您为具有版本的 Excel 支持 Power Pivot 的帐户登录。检查列表中的[受支持的版本](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)，然后按照到[不同的 Office 帐户之间切换](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)的说明。</span><span class="sxs-lookup"><span data-stu-id="a8a8d-p102">You might have different Office 365 subscriptions assigned to different user accounts. Make sure you're signed in to an account with a version of Excel that supports Power Pivot. Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
+<span data-ttu-id="562ed-114">您可能已将不同的 Office 365 订阅分配给不同的用户帐户。</span><span class="sxs-lookup"><span data-stu-id="562ed-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="562ed-115">请确保你已使用支持 Power Pivot 的 Excel 版本登录帐户。</span><span class="sxs-lookup"><span data-stu-id="562ed-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="562ed-116">检查[受支持版本](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)的列表, 并按照说明在[不同的 Office 帐户之间切换](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts)。</span><span class="sxs-lookup"><span data-stu-id="562ed-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 公共网站是正在已停用
+title: SharePoint Online 公共网站即将停止
 ms.author: clake
 author: spowriter
 manager: scotv
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 44bbef0b4df8d504c6a1039691f9a3207a5a387d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1c63fd905448d48bb8823ebcfcb4900c4aab86ff
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913391"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761299"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a><span data-ttu-id="d8662-102">SharePoint Online 公共网站是正在已停用</span><span class="sxs-lookup"><span data-stu-id="d8662-102">SharePoint Online public websites are being discontinued</span></span>
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a><span data-ttu-id="8acea-102">SharePoint Online 公共网站即将停止</span><span class="sxs-lookup"><span data-stu-id="8acea-102">SharePoint Online public websites are being discontinued</span></span>
 
-<span data-ttu-id="d8662-p101">如果您创建的 SharePoint Online 公共网站，您可以继续使用 2018 年 3 月 31，直到。如果您想要继续具有的公共网站，您需要创建一个新与新的提供程序。SharePoint Online 公共网站上的内容将被删除，因此您需要将复制您希望用于保存任何的内容。</span><span class="sxs-lookup"><span data-stu-id="d8662-p101">If you created a SharePoint Online public website, you can continue using it until March 31, 2018. If you want to continue having a public website, you need to create a new one with a new provider. The content on your SharePoint Online public website will be deleted, so you need to copy any content you want to keep.</span></span>
+<span data-ttu-id="8acea-103">如果创建了 SharePoint Online 公共网站, 则可以继续使用它直到2018年3月31日。</span><span class="sxs-lookup"><span data-stu-id="8acea-103">If you created a SharePoint Online public website, you can continue using it until March 31, 2018.</span></span> <span data-ttu-id="8acea-104">如果要继续拥有公共网站, 则需要使用新的提供程序创建一个新的网站。</span><span class="sxs-lookup"><span data-stu-id="8acea-104">If you want to continue having a public website, you need to create a new one with a new provider.</span></span> <span data-ttu-id="8acea-105">将删除您的 SharePoint Online 公共网站上的内容, 因此您需要复制要保留的任何内容。</span><span class="sxs-lookup"><span data-stu-id="8acea-105">The content on your SharePoint Online public website will be deleted, so you need to copy any content you want to keep.</span></span>
   
-<span data-ttu-id="d8662-p102">横幅现在显示在您的 SharePoint Online 公共网站的顶部为网站将被删除的通知。您不能将关闭此标题。有关保存和将内容复制到合作伙伴网站的信息，请参阅[有关功能终止过程的详细信息](https://go.microsoft.com/fwlink/?linkid=866980)。</span><span class="sxs-lookup"><span data-stu-id="d8662-p102">A banner now appears at the top of your SharePoint Online public website as notification that the site will be removed. You can't turn off this banner. For info about saving and copying content to a partner website, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span> 
+<span data-ttu-id="8acea-106">现在, 标题显示在 SharePoint Online 公共网站的顶部, 告知网站将被删除。</span><span class="sxs-lookup"><span data-stu-id="8acea-106">A banner now appears at the top of your SharePoint Online public website as notification that the site will be removed.</span></span> <span data-ttu-id="8acea-107">无法关闭此标题。</span><span class="sxs-lookup"><span data-stu-id="8acea-107">You can't turn off this banner.</span></span> <span data-ttu-id="8acea-108">有关保存内容并将其复制到合作伙伴网站的信息, 请参阅[功能终止流程的详细信息](https://go.microsoft.com/fwlink/?linkid=866980)。</span><span class="sxs-lookup"><span data-stu-id="8acea-108">For info about saving and copying content to a partner website, see [Details about the feature discontinuation process](https://go.microsoft.com/fwlink/?linkid=866980).</span></span> 
   
 
