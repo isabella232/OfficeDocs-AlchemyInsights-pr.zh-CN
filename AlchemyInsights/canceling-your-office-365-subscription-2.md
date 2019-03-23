@@ -1,5 +1,5 @@
 ---
-title: 取消您的 Office 365 订阅？
+title: 取消 Office 365 订阅？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: b538d7de1b8dae14b55b799dd02055c311c31207
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7464784fb11b872c395c206a510577c2a4c33835
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902294"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758600"
 ---
-# <a name="canceling-your-office-365-subscription"></a>取消您的 Office 365 订阅？
+# <a name="canceling-your-office-365-subscription"></a>取消 Office 365 订阅？
 
-抱歉看到您转 ！
+很遗憾, 你不会再看!
   
-根据您组织的数据，我们认为您当前的所有订阅都已超过 25 分配的许可证。具有少于 25，然后转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或转到**帐单**之前，您可以删除用户\>**订阅**，然后选择**多个操作** \> **取消订阅**。
+根据你的组织数据, 我们认为你当前的所有订阅都分配了25个以上的许可证。 您可以删除用户, 直到少于25个, 然后转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页或转到 "**计费** \> **订阅**", 然后选择 "**更多操作** \> "**取消订阅**。
   
-或者，使用"让我们呼叫您项"选项以与支持工程师。
+或者, 使用 "我们称之为你的电话" 选项与支持工程师交谈。
   
-若要了解有关取消订阅或有关分步说明，请参阅这篇文章：[取消业务的 Office 365](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+若要了解有关取消订阅或分步说明的详细信息, 请参阅本文:[取消 Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 

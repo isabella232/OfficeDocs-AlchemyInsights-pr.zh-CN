@@ -1,5 +1,5 @@
 ---
-title: 解决方案的错误 30068 39
+title: 错误30068-39 的解决方案
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 2eb29cda625bcae50e843e1dce87f13e4dae8ef3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4d41c7a5ed053d5d2a4cd3dd11be94cb74649c87
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937862"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756368"
 ---
-# <a name="solutions-for-error-30068-39"></a>解决方案的错误 30068 39
+# <a name="solutions-for-error-30068-39"></a>错误30068-39 的解决方案
 
-尝试修复错误[30068 39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)这些解决方案：
+请尝试以下解决方案以修复错误[30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- 重新启动计算机，并尝试[安装 Office](https://portal.office.com/OLS/MySoftware.aspx)。
+- 重新启动计算机, 然后尝试[安装 Office](https://portal.office.com/OLS/MySoftware.aspx)。
     
-- 如果选中**Microsoft 运行单击**[服务被禁用](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)，如果它被禁用，将状态更改为**手动**或**自动**。
+- 检查是否已**禁用 Microsoft 即点**即用[服务](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA), 如果已禁用, 则将状态更改为 "**手动**" 或 "**自动**"。
     
 - 下载并安装[支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。
     
-1. 当其打开时，从**卸载 Office 产品**选择您想要卸载并选择**下一个**的版本。 
+1. 打开后, 从 "**卸载 Office 产品**" 选择要卸载的版本, 然后选择 "**下一步**"。 
     
-2. 继续经由屏幕并重新启动计算机时提示。
+2. 在出现提示时, 继续执行屏幕并重新启动计算机。
     
-    重新启动后，支持和恢复助手自动重新打开以完成卸载过程。
+    重新启动后, 支持和恢复助理将自动重新打开以完成卸载过程。
     
-3. 按照剩余的提示，并[重新安装 Office](https://portal.office.com/OLS/MySoftware.aspx)或关闭助理。 
+3. 按照其余提示操作, 然后[重新安装 Office](https://portal.office.com/OLS/MySoftware.aspx)或关闭助理。 
     
 

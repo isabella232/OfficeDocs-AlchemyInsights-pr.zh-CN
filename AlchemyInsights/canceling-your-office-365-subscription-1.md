@@ -1,5 +1,5 @@
 ---
-title: 取消您的 Office 365 订阅？
+title: 取消 Office 365 订阅？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 51529345c1181930536aed1f10bcda7941f5c226
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cdb0b8949e08f97679da4c598247a28f295d05af
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923714"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758564"
 ---
-# <a name="canceling-your-office-365-subscription"></a>取消您的 Office 365 订阅？
+# <a name="canceling-your-office-365-subscription"></a>取消 Office 365 订阅？
 
-很抱歉 y 看到您的发展，但下面是您要取消订阅的选项：
+很遗憾看到你, 但你可以选择取消订阅:
   
-- **根据您组织的数据，我们认为您当前的所有订阅都的试用版订阅。无需显式取消试用版订阅，因为试用版订阅需要无付款，并且没有任何义务试用结束之后。**
+- **根据你的组织数据, 我们认为你当前的所有订阅都是试用订阅。无需显式取消试用订阅, 因为试用版订阅不需要付款, 并且试用版结束后没有任何义务。**
     
-- 若要了解有关取消订阅，或有关分步说明，请参阅这篇文章：[取消业务的 Office 365](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- 若要了解有关取消订阅的详细信息, 或有关分步说明, 请参阅本文:[取消 Office 365 for business](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
 

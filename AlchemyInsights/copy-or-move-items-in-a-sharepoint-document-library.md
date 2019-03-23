@@ -1,5 +1,5 @@
 ---
-title: 复制或移动 SharePoint 文档库中的项目
+title: 复制或移动 SharePoint 文档库中的项
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,34 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: 7a9a4d454f82788598059feb8c5b3f1234a3ef6c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f7cc1369bd179bf410871054b2d4184a55a2b342
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29897938"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762486"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>复制或移动 SharePoint 文档库中的项目
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>复制或移动 SharePoint 文档库中的项
 
-您可以复制和移动到文档库中的不同位置的文件、 文件夹和链接。您还可以在网站之间复制项目。如果您已[设置目标发布选项](https://go.microsoft.com/fwlink/?linkid=622980)，您可以太移动跨网站的项目。
+您可以复制并移动到文档库中的不同位置的文件、文件夹和链接。 您还可以跨网站复制项目。 如果已[设置目标发布选项](https://go.microsoft.com/fwlink/?linkid=622980), 则还可以跨网站移动项目。
   
-1. 在浏览器中，浏览到文件、 文件夹或您要移动，然后单击**复制到**或**移动到**的链接。
+1. 在浏览器中, 浏览到要移动的文件、文件夹或链接, 然后单击 "**复制到**" 或 "**移动到**"。
     
     > [!NOTE]
-    > **将复制到**以及**将移动到**将不可用，如果您使用的 SharePoint Online 的经典体验。 
+    > 如果使用的是 SharePoint Online 的经典体验, "**复制到**" 和 "**移动到**" 将不可用。 
   
-2. 在**选择目标**，下选择您要向其复制或移动项目或单击**浏览网站**以查看网站的完整列表的位置。 
+2. 在 "**选择目标**" 下, 选择要将项目复制或移动到的位置, 或单击 "**浏览网站**" 以查看完整的网站列表。 
     
     > [!NOTE]
-    > 如果您看不到列出复制项时其他网站，尚未配置跨网站复制。若要启用它，转到 SharePoint 管理中心的设置页并单击**确定**。 
+    > 如果在复制项目时未看到列出的其他网站, 则尚未配置跨网站复制。 若要启用它, 请转到 SharePoint 管理中心的 "设置" 页, 然后单击 **"确定"**。 
   
-    若要创建一个新的文件夹，文件夹层次结构中选择一个位置，单击**新建文件夹**、 为文件夹中，输入一个名称，单击复选标记，以保存名称。
+    若要创建新文件夹, 请选择文件夹层次结构中的位置, 单击 "**新建文件夹**", 为该文件夹输入一个名称, 然后单击复选标记以保存该名称。
     
-3. 单击**此处复制**或**移动到此处**。
+3. 单击 "**复制到此处**" 或 "移动到**此处**"。
     
 > [!NOTE]
->  您可以一次复制达 500 MB 的文件和文件夹。> 复制有版本历史记录，只有最新版本的文档时进行复制。移动文档时，也被移动他们的历史记录。 
+>  一次最多可以复制 500 MB 的文件和文件夹。 > 复制具有版本历史记录的文档时, 仅复制最新版本。 移动文档时, 也会移动文档的历史记录。 
   
 
