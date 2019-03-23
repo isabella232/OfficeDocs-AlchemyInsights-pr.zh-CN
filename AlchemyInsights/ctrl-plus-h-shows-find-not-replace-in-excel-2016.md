@@ -1,5 +1,5 @@
 ---
-title: CTRL + H 显示查找，不在 Excel 2016 替换
+title: CTRL + H 在 Excel 2016 中显示 "查找" 和 "不替换"
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 6c9a90b8b0cf30df3d2a45b394275ccd8d0b19a8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916838"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756620"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="e8ada-102">CTRL + H 显示查找，不在 Excel 中的替换</span><span class="sxs-lookup"><span data-stu-id="e8ada-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="ef714-102">CTRL + H 显示查找, 不替换在 Excel 中</span><span class="sxs-lookup"><span data-stu-id="ef714-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="e8ada-p101">在 Excel 2016，按 CTRL + H 将打开查找和替换对话框，并显示查找选项卡中，而不是替换选项卡主页选项卡上单击替换功能相同。此问题已解决版本 1708 (8431.2094) 中。若要解决此问题，更新到 Office 最新版本。选择**文件** \> **帐户** \> **更新选项** \> **立即更新**。</span><span class="sxs-lookup"><span data-stu-id="e8ada-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="ef714-103">在 Excel 2016 中, 按 CTRL + H 将打开 "查找和替换" 对话框, 并显示 "查找" 选项卡, 而不是 "替换" 选项卡。在 "主页" 选项卡上单击 "替换" 执行相同操作。</span><span class="sxs-lookup"><span data-stu-id="ef714-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="ef714-104">此问题已在版本 1708 (8431.2094) 中得到解决。</span><span class="sxs-lookup"><span data-stu-id="ef714-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="ef714-105">若要解决此问题, 请更新到 Office 的最新版本。</span><span class="sxs-lookup"><span data-stu-id="ef714-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="ef714-106">选择 "**立即更新**" "**文件** \> **帐户** \> **更新选项** \> "。</span><span class="sxs-lookup"><span data-stu-id="ef714-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

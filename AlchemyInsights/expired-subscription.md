@@ -1,5 +1,5 @@
 ---
-title: 订阅已到期
+title: 订阅过期
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: c14b143eeca57a0c1154c8600f1f9af855f78ab0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928178"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757484"
 ---
-# <a name="expired-subscription"></a><span data-ttu-id="f668d-102">订阅已到期</span><span class="sxs-lookup"><span data-stu-id="f668d-102">Expired subscription</span></span>
+# <a name="expired-subscription"></a><span data-ttu-id="9237b-102">订阅过期</span><span class="sxs-lookup"><span data-stu-id="9237b-102">Expired subscription</span></span>
 
-<span data-ttu-id="f668d-p101">它将显示您有一个或多个过期的订阅。如果您想要继续服务，您必须重新激活该订阅，或新购买。</span><span class="sxs-lookup"><span data-stu-id="f668d-p101">It appears you have one or more expired subscriptions. If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
+<span data-ttu-id="9237b-103">您似乎有一个或多个过期的订阅。</span><span class="sxs-lookup"><span data-stu-id="9237b-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="9237b-104">如果你想要继续服务, 则必须重新激活订阅或进行新的购买。</span><span class="sxs-lookup"><span data-stu-id="9237b-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
   
- <span data-ttu-id="f668d-105">**“重新激活”**</span><span class="sxs-lookup"><span data-stu-id="f668d-105">**Reactivate**</span></span>
+ <span data-ttu-id="9237b-105">**重新激活**</span><span class="sxs-lookup"><span data-stu-id="9237b-105">**Reactivate**</span></span>
   
-1. <span data-ttu-id="f668d-106">在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。</span><span class="sxs-lookup"><span data-stu-id="f668d-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="9237b-106">在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。</span><span class="sxs-lookup"><span data-stu-id="9237b-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="f668d-107">选择要重新激活的订阅。</span><span class="sxs-lookup"><span data-stu-id="f668d-107">Choose the subscription to be reactivated.</span></span>
+2. <span data-ttu-id="9237b-107">选择要重新激活的订阅。</span><span class="sxs-lookup"><span data-stu-id="9237b-107">Choose the subscription to be reactivated.</span></span>
     
-3. <span data-ttu-id="f668d-108">在右侧，选择**重新激活**。</span><span class="sxs-lookup"><span data-stu-id="f668d-108">On the right, choose **Reactivate**.</span></span>
+3. <span data-ttu-id="9237b-108">在右侧, 选择 "**重新激活**"。</span><span class="sxs-lookup"><span data-stu-id="9237b-108">On the right, choose **Reactivate**.</span></span>
     
- <span data-ttu-id="f668d-109">**新购买**</span><span class="sxs-lookup"><span data-stu-id="f668d-109">**Make a new purchase**</span></span>
+ <span data-ttu-id="9237b-109">**进行新的购买**</span><span class="sxs-lookup"><span data-stu-id="9237b-109">**Make a new purchase**</span></span>
   
-1. <span data-ttu-id="f668d-110">在管理中心，转到[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)页上，或选择**帐单** \> **购买服务**。</span><span class="sxs-lookup"><span data-stu-id="f668d-110">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+1. <span data-ttu-id="9237b-110">在管理中心中, 转到 "[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页, 或选择 **"付费** \> **购买服务**"。</span><span class="sxs-lookup"><span data-stu-id="9237b-110">In the Admin center, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
     
-2. <span data-ttu-id="f668d-111">选择您想要购买的订阅。</span><span class="sxs-lookup"><span data-stu-id="f668d-111">Choose a subscription you would like to purchase.</span></span>
+2. <span data-ttu-id="9237b-111">选择要购买的订阅。</span><span class="sxs-lookup"><span data-stu-id="9237b-111">Choose a subscription you would like to purchase.</span></span>
     
-3. <span data-ttu-id="f668d-112">悬停图块，然后选择**立即购买**。</span><span class="sxs-lookup"><span data-stu-id="f668d-112">Hover over the tile, and choose **Buy now**.</span></span>
+3. <span data-ttu-id="9237b-112">将鼠标悬停在磁贴上, 然后选择 "**立即购买**"。</span><span class="sxs-lookup"><span data-stu-id="9237b-112">Hover over the tile, and choose **Buy now**.</span></span>
     
 
