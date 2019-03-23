@@ -1,5 +1,5 @@
 ---
-title: 移动 SharePoint 文档库中的项目
+title: 移动 SharePoint 文档库中的项
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: fc166470e0f40c9dea5f21bf2d89912459fc8142
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d3b7b8504d4ffcdccfe39645ee462e4e2e36b660
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900242"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759968"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>移动 SharePoint 文档库中的项目
+# <a name="move-items-in-a-sharepoint-document-library"></a>移动 SharePoint 文档库中的项
 
-您可以将项目移至文档库中的不同位置。如果您已[设置目标发布选项](https://go.microsoft.com/fwlink/?linkid=622980)，您可以跨站点移动项目。移动文档时，也被移动他们的历史记录。
+您可以将项目移动到文档库中的不同位置。 如果已[设置目标发布选项](https://go.microsoft.com/fwlink/?linkid=622980), 则还可以跨网站移动项目。 移动文档时, 也会移动文档的历史记录。
   
-1. 在 web 浏览器中，浏览到文件、 文件夹或您要移动，然后单击**将移动到**的链接。
+1. 在 web 浏览器中, 浏览到要移动的文件、文件夹或链接, 然后单击 "**移动到**"。
     
     > [!NOTE]
-    > **将移动到**不可用如果您使用的 SharePoint Online 的经典体验。 
+    > 如果使用的是 SharePoint Online 的经典体验, "**移动到**" 将不可用。 
   
-2. 在**选择目标**，下选择您想要将项目移动到的位置。如果您正在将移动到不同的网站或子网站并看它列出，请单击**浏览网站**可以将移动到的网站的完整列表，请参阅。 
+2. 在 "**选择目标**" 下, 选择要将项目移动到的位置。 如果您正在移动到其他网站或子网站, 但未列出它, 请单击 "**浏览网站**" 以查看您可以移动到的网站的完整列表。 
     
-    若要创建一个新的文件夹，用于移动文件，选择一个位置的文件夹层次结构中，单击**新文件夹**，为该文件夹，输入一个名称，然后单击复选标记，以保存名称。
+    若要创建要将文件移动到的新文件夹, 请选择文件夹层次结构中的位置, 单击 "**新建文件夹**", 为该文件夹输入一个名称, 然后单击复选标记以保存该名称。
     
-3. 单击**移动到此处**。
+3. 单击 "**移动到此处**"。
     
 

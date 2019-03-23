@@ -1,5 +1,5 @@
 ---
-title: 发送电子邮件被 SpamHaus 错误
+title: 发送 SpamHaus 阻止的电子邮件时出错
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 249f16d057b0539d71dc514ac35df28ab78fa061
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 7d6ad2667613ae948a4abcefafe8d91cf89d2418
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912338"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761623"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>发送电子邮件的错误： 使用 Spamhaus 阻止的客户端主机
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>发送电子邮件时出错: 已阻止使用 Spamhaus 的客户端主机
 
-在阻止列表由[Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)拥有发送消息的 IP 地址。Spamhaus 被阻止的原因包括受到攻击的帐户，威胁机共享一个公用 IP 地址，以及 Internet 服务提供程序 (ISP) 策略。可能的修复方法是：
+发送邮件的 IP 地址在[Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)所拥有的阻止列表中。 被 Spamhaus 阻止的原因包括已损坏的帐户、共享公共 IP 地址的受损计算机以及 Internet 服务提供商 (ISP) 策略。 可能的修补程序包括:
   
-- 阻止到其中控制源电子邮件服务器的 Office 365 的入站邮件，您需要确定原因并从 Spamhaus 网站中移除块。
+- 对于控制源电子邮件服务器的 Office 365 的已阻止入站邮件, 您需要确定原因并从 Spamhaus 网站中删除该阻止。
     
-- 阻止到源 IP 地址其中给其他人所属的 Office 365 的入站邮件，地址所有者需要从 Spamhaus 网站中移除块。如果策略阻止列表 (PBL) 上的 IP 地址，所有者可以分配一个不同的静态 IP 地址或从 PBL 删除的地址。
+- 对于阻止的入站邮件到 Office 365, 其中源 IP 地址属于其他人, 地址所有者需要从 Spamhaus 网站中删除该阻止。 如果 IP 地址在策略阻止列表 (PBL) 上, 则所有者可以分配不同的静态 IP 地址, 或从 PBL 中删除该地址。
     
-- 从 Office 365 域阻止的出站邮件，您可以通过第三方服务路由的邮件如果收到此错误。WHOIS 查找工具可用于查找已阻止的 IP 地址所有者。
+- 对于 Office 365 域中阻止的出站邮件, 如果通过第三方服务路由邮件, 则可能会收到此错误。 您可以使用 WHOIS 查找工具来查找阻止的 IP 地址所有者。
     
 
