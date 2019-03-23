@@ -1,5 +1,5 @@
 ---
-title: 映射到网络驱动器的 SharePoint 库
+title: 将 SharePoint 库映射到网络驱动器
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
-ms.openlocfilehash: 0e10e2ff3e30b3dbf73294c0d5f6165a60fc9cde
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 39a1317e67ef5f73afad902745ce3a7bbb1382cd
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911330"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30765330"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="7bacc-102">映射到网络驱动器的 SharePoint 库</span><span class="sxs-lookup"><span data-stu-id="7bacc-102">Map a SharePoint library to a network drive</span></span>
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a><span data-ttu-id="53bbc-102">将 SharePoint 库映射到网络驱动器</span><span class="sxs-lookup"><span data-stu-id="53bbc-102">Map a SharePoint library to a network drive</span></span>
 
-<span data-ttu-id="7bacc-p101">若要使用文件资源管理器中的网站库，我们建议使用 OneDrive 同步客户端，而不映射到网络驱动器的库。驱动器映射是只是临时解决方案。使用同步客户端使文件可供用户甚至在脱机时。同步客户端还提供了更好的性能，而无需下载它们使用[文件点播](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E)允许访问文件，并不需要使用 Internet Explorer 的安装程序。</span><span class="sxs-lookup"><span data-stu-id="7bacc-p101">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives. Drive mapping is only a temporary solution. Using the sync client makes the files available to users even when they're offline. The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
+<span data-ttu-id="53bbc-103">若要在文件资源管理器中处理网站库, 我们建议使用 OneDrive 同步客户端, 而不是将库映射到网络驱动器。</span><span class="sxs-lookup"><span data-stu-id="53bbc-103">To work with site libraries in File Explorer, we recommend using the OneDrive sync client instead of mapping libraries to network drives.</span></span> <span data-ttu-id="53bbc-104">驱动器映射只是一个临时解决方案。</span><span class="sxs-lookup"><span data-stu-id="53bbc-104">Drive mapping is only a temporary solution.</span></span> <span data-ttu-id="53bbc-105">使用同步客户端将使文件对用户可用, 即使它们处于脱机状态也是如此。</span><span class="sxs-lookup"><span data-stu-id="53bbc-105">Using the sync client makes the files available to users even when they're offline.</span></span> <span data-ttu-id="53bbc-106">同步客户端还提供更好的性能, 允许对文件进行访问, 而无需使用["按需" 下载文件](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E), 并且不需要使用 Internet Explorer 进行安装。</span><span class="sxs-lookup"><span data-stu-id="53bbc-106">The sync client also provides better performance, allows access to files without having to download them using [Files On-Demand](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) and doesn't require setup using Internet Explorer.</span></span> 
   
-- <span data-ttu-id="7bacc-107">[在 Windows 中使用新版 OneDrive 同步客户端来同步文件](https://go.microsoft.com/fwlink/?linkid=866427)。</span><span class="sxs-lookup"><span data-stu-id="7bacc-107">[Sync files with the new OneDrive sync client in Windows](https://go.microsoft.com/fwlink/?linkid=866427)</span></span>
+- <span data-ttu-id="53bbc-107">[在 Windows 中使用新版 OneDrive 同步客户端来同步文件](https://go.microsoft.com/fwlink/?linkid=866427)。</span><span class="sxs-lookup"><span data-stu-id="53bbc-107">[Sync files with the new OneDrive sync client in Windows](https://go.microsoft.com/fwlink/?linkid=866427)</span></span>
     
-- <span data-ttu-id="7bacc-108">[Ways to work with site library files in File Explorer](https://go.microsoft.com/fwlink/?linkid=866291)（在文件资源管理器中处理网站库文件的方法）</span><span class="sxs-lookup"><span data-stu-id="7bacc-108">[Ways to work with site library files in File Explorer](https://go.microsoft.com/fwlink/?linkid=866291)</span></span>
+- <span data-ttu-id="53bbc-108">[Ways to work with site library files in File Explorer](https://go.microsoft.com/fwlink/?linkid=866291)（在文件资源管理器中处理网站库文件的方法）</span><span class="sxs-lookup"><span data-stu-id="53bbc-108">[Ways to work with site library files in File Explorer](https://go.microsoft.com/fwlink/?linkid=866291)</span></span>
     
-- [<span data-ttu-id="7bacc-109">配置和解决映射的网络驱动器</span><span class="sxs-lookup"><span data-stu-id="7bacc-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
+- [<span data-ttu-id="53bbc-109">配置映射的网络驱动器并对其进行疑难解答</span><span class="sxs-lookup"><span data-stu-id="53bbc-109">Configure and troubleshoot mapped network drives</span></span>](https://support.microsoft.com/kb/2616712)
     
 

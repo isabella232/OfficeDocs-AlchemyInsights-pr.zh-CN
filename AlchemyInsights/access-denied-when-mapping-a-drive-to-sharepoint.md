@@ -1,5 +1,5 @@
 ---
-title: 访问被拒绝时将驱动器映射到 SharePoint
+title: 将驱动器映射到 SharePoint 时访问被拒绝
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: d6896e9c2b2b4b428459b4c0f3aee0658b02322e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2eb86e0c2e4741ea42c1476c4b76f5d2d318126f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927782"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757916"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="a5e43-102">修复问题映射到网络驱动器的 SharePoint 库</span><span class="sxs-lookup"><span data-stu-id="a5e43-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a><span data-ttu-id="4e158-102">解决映射到网络驱动器的 SharePoint 库的问题</span><span class="sxs-lookup"><span data-stu-id="4e158-102">Fix problems with SharePoint libraries mapped to network drives</span></span>
 
-<span data-ttu-id="a5e43-103">浏览到映射的网络驱动器，您可能会看到以下消息之一：</span><span class="sxs-lookup"><span data-stu-id="a5e43-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
+<span data-ttu-id="4e158-103">当您浏览到映射的网络驱动器时, 您可能会看到以下消息之一:</span><span class="sxs-lookup"><span data-stu-id="4e158-103">When you browse to a mapped network drive, you may see one of the following messages:</span></span>
   
-- <span data-ttu-id="a5e43-104">**\\路径不可访问。您可能没有使用该网络资源的权限。与此服务器的管理员联系，以找出您是否具有访问权限。**</span><span class="sxs-lookup"><span data-stu-id="a5e43-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
+- <span data-ttu-id="4e158-104">**\\路径不可访问。您可能没有使用此网络资源的权限。若要了解您是否具有访问权限, 请与此服务器的管理员联系。**</span><span class="sxs-lookup"><span data-stu-id="4e158-104">**\\Path is not accessible. You might not have permission to use this network resource. Contact the administrator of this server to find out if you have access permissions.**</span></span>
     
-- <span data-ttu-id="a5e43-105">**访问被拒绝。打开文件之前在此位置，必须先添加到受信任的网站列表的网站，浏览到网站，并选择自动登录选项。**</span><span class="sxs-lookup"><span data-stu-id="a5e43-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
+- <span data-ttu-id="4e158-105">**访问被拒绝。在此位置打开文件之前, 必须首先将网站添加到受信任的网站列表中, 浏览到网站, 然后选择 "自动登录" 选项。**</span><span class="sxs-lookup"><span data-stu-id="4e158-105">**Access Denied. Before opening files in this location, you must first add the web site to your trusted site list, browse to the web site, and select the option to login automatically.**</span></span>
     
-<span data-ttu-id="a5e43-106">[获取帮助疑难解答映射网络驱动器](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx)。</span><span class="sxs-lookup"><span data-stu-id="a5e43-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
+<span data-ttu-id="4e158-106">[获取有关映射的网络驱动器疑难解答的帮助](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx)。</span><span class="sxs-lookup"><span data-stu-id="4e158-106">[Get help troubleshooting mapped network drives](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).</span></span>
   
-<span data-ttu-id="a5e43-p101">映射网络驱动器库是临时和 Internet Explorer 中仅支持。而是[同步 SharePoint 文件使用新的 OneDrive 同步客户端](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)包括[文件需求](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。不使用本地存储空间访问 OneDrive 中的所有文件。</span><span class="sxs-lookup"><span data-stu-id="a5e43-p101">Mapping a library as a network drive is temporary and supported only in Internet Explorer. Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access all your files in OneDrive without using local storage space.</span></span>
+<span data-ttu-id="4e158-107">将库映射为网络驱动器是临时性的, 并且仅在 Internet Explorer 中受支持。</span><span class="sxs-lookup"><span data-stu-id="4e158-107">Mapping a library as a network drive is temporary and supported only in Internet Explorer.</span></span> <span data-ttu-id="4e158-108">相反, 请[使用新的 OneDrive 同步客户端同步 SharePoint 文件](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx), 其中包括["按需" 文件](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx)。</span><span class="sxs-lookup"><span data-stu-id="4e158-108">Instead, [sync SharePoint files with the new OneDrive sync client](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) which includes [Files On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx).</span></span> <span data-ttu-id="4e158-109">在不使用本地存储空间的情况下访问 OneDrive 中的所有文件。</span><span class="sxs-lookup"><span data-stu-id="4e158-109">Access all your files in OneDrive without using local storage space.</span></span>
   
 

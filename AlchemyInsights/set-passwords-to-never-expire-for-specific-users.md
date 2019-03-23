@@ -1,5 +1,5 @@
 ---
-title: 设置 Office 365 中的 SPF
+title: 在 Office 365 中设置 SPF
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: f98ed43ca05b4ca78d6dcc970868cd8aa05a31f9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ffdede78f772a4efc1f1803f9494c9766e33550d
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923138"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752336"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="be82e-102">设置密码永不过期</span><span class="sxs-lookup"><span data-stu-id="be82e-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="36447-102">将密码设置为永不过期</span><span class="sxs-lookup"><span data-stu-id="36447-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="be82e-p101">若要设置所有密码永不过期，转到[安全&amp;隐私](https://portal.office.com/adminportal/home#/settings/security)。单击**编辑**旁边**密码策略**，并打开到**上**滑块。</span><span class="sxs-lookup"><span data-stu-id="be82e-p101">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security). Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="36447-103">若要将所有密码设置为永不过期, 请转到 "[安全&amp;隐私](https://portal.office.com/adminportal/home#/settings/security)"。</span><span class="sxs-lookup"><span data-stu-id="36447-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="36447-104">单击 "**密码策略**" 旁边的 "**编辑**", 然后\*\*\*\* 将滑块打开。</span><span class="sxs-lookup"><span data-stu-id="36447-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="be82e-105">有关详细信息，请参阅：[设置为您的组织的密码到期策略。](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="be82e-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="36447-105">有关更多详细信息, 请参阅: 为[组织设置密码过期策略。](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="36447-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="be82e-106">设置为永不过期的特定用户的密码</span><span class="sxs-lookup"><span data-stu-id="be82e-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="36447-106">为特定用户将密码设置为永不过期</span><span class="sxs-lookup"><span data-stu-id="36447-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
 
