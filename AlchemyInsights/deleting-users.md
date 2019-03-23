@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: b20356eb-857f-4b79-a49a-f1a915e7e921
-ms.openlocfilehash: f1b65476555d060c81ce27b9216d99e11ff97339
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f86a56091c65218b353f0a5d1b43e7b72dd1de23
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940598"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756908"
 ---
 # <a name="deleting-users"></a>删除用户
 
-如果您想要立即阻止用户访问和需要保留他们的信息，请参阅[具有离开员工并需要阻止对数据的访问电子邮件？](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)
+如果您想要立即阻止用户访问并需要保留其信息, 请参阅[让员工离开并需要阻止对数据的访问电子邮件？](https://support.office.com/client/ba665d35-f4af-4bd0-b52d-841df7454d4b)
   
-如果您只想要删除用户，并不关心任何数据，请参阅[删除用户从您的组织](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e)。这将立即释放其许可证。
+如果只想删除用户且不关心其任何数据, 请参阅[从组织中删除用户](https://support.office.com/article/d5155593-3bac-4d8d-9d8b-f4513a81479e)。 这将立即释放许可证。
   
 

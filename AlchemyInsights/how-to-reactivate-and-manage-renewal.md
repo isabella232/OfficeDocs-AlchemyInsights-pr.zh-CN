@@ -9,37 +9,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 07b6656147409f0e85f731a8201d7bb7551f68da
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 2d9eca47bae44034573844c16af17229e16871e5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935738"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755216"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期帐单
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期计费
 
-看起来已订阅的已过期。如果您想要将其重新激活，此处的方式。
+看起来你的订阅已过期。 如果要将其重新激活, 请单击下面的操作方法。
   
-1. 在管理中心中，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或转到**帐单** \> **订阅**。
+1. 在管理中心中, 转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或转到 "**付费** \> **订阅**"。
     
-2. 选择**过期**或**已禁用**的订阅。
+2. 选择已**过期**或**已禁用**的订阅。
     
-3. 选择**重新激活**。
+3. 选择 "**重新激活**"。
     
-    如果您看不**重新激活**作为一个选项，使用"让我们呼叫您项"选项与支持工程师重新激活您的订阅。 
+    如果看不到 "**重新激活**", 请使用 "我们打给你" 选项与支持工程师进行交流, 以重新激活你的订阅。 
     
-4. 若要重新激活，您将需要更新您付款的详细信息。输入您付款的详细信息，然后选择**提交**。
+4. 为了重新激活, 系统将要求你更新付款详细信息。 输入你的付款详细信息, 然后选择 "**提交**"。
     
-若要管理每月或年帐单您可以打开或关闭切换**周期性帐单**。 
+若要管理每月或每年的帐单, 可以开启或关闭**定期记帐**。 
   
-1. 在管理中心中，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或转到**帐单** \> **订阅**。
+1. 在管理中心中, 转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或转到 "**付费** \> **订阅**"。
     
-2. 选择您要为其管理定期付费的订阅。
+2. 选择要为其管理定期计费的订阅。
     
-3. 切换到**打开**或**关闭****周期性帐单**切换。
+3. 将**定期记帐**切换切换为 **"开" 或 "** **关**"。
     
-有关详细信息，请参阅：[管理定期帐单为您的订阅](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
+有关详细信息, 请参阅:[管理订阅的定期帐单](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
   
 

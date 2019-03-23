@@ -1,5 +1,5 @@
 ---
-title: 订阅已到期
+title: 订阅过期
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: c14b143eeca57a0c1154c8600f1f9af855f78ab0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3a2f33686c2d9fd6803c0a5fc208a2e6bd80cd4b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928178"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757484"
 ---
-# <a name="expired-subscription"></a>订阅已到期
+# <a name="expired-subscription"></a>订阅过期
 
-它将显示您有一个或多个过期的订阅。如果您想要继续服务，您必须重新激活该订阅，或新购买。
+您似乎有一个或多个过期的订阅。 如果你想要继续服务, 则必须重新激活订阅或进行新的购买。
   
- **“重新激活”**
+ **重新激活**
   
 1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
     
 2. 选择要重新激活的订阅。
     
-3. 在右侧，选择**重新激活**。
+3. 在右侧, 选择 "**重新激活**"。
     
- **新购买**
+ **进行新的购买**
   
-1. 在管理中心，转到[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)页上，或选择**帐单** \> **购买服务**。
+1. 在管理中心中, 转到 "[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页, 或选择 **"付费** \> **购买服务**"。
     
-2. 选择您想要购买的订阅。
+2. 选择要购买的订阅。
     
-3. 悬停图块，然后选择**立即购买**。
+3. 将鼠标悬停在磁贴上, 然后选择 "**立即购买**"。
     
 

@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 28ee3f903eee3592d33aa82a93869f74f0260ba0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f35f40a8e9016f4975e93b0e3f0bb8c465db9386
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940454"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30756692"
 ---
 # <a name="change-payment-method"></a>更改付款方式
 
-您可以验证的情况下转到**帐单**配置的付款方法\>**订阅**。选择您要验证的订阅。配置订阅的付款方法将显示下**Payment method**。若要更新的现有的付款方法的详细信息，请选择**更新付款详细信息**。
+您可以验证通过转到**付费** \> **订阅**配置的付款方式。 选择你想要验证的订阅。 为订阅配置的付款方式将显示在 "**付款方式**" 下。 若要更新现有付款方法的详细信息, 请选择 "**更新付款详细信息**"。
   
 1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
     
-2. 选择您想要更改的付款方法，然后选择**更改 Payment Method**的订阅正在
+2. 选择要更改其付款方式的订阅, 然后选择 "**更改付款方式**"。
     
-3. 在屏幕上完成更改，请按照步骤。
+3. 按照屏幕上的步骤完成更改。
     
-有关分步说明，请参阅：[更改为企业的 Office 365 付款方式](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
+有关分步说明, 请参阅:[更改您的 Office 365 for business 的付款方式](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
   
 

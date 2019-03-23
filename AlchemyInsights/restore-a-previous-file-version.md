@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: c59ee99923722efcb8524381a6486f92ba4bf0ed
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b78899d4652fccb16054c2bc535d8b871acd0139
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939230"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755734"
 ---
 # <a name="restore-a-previous-file-version"></a>还原以前的文件版本
 
-带有联机版本历史记录，您可以查看并恢复 OneDrive 或 SharePoint 中的文件的旧版本。版本历史记录适用于所有文件类型，包括 Pdf、 CAD 文件、 照片和视频。还原以前的文件版本：
+通过联机版本历史记录, 您可以在 OneDrive 或 SharePoint 中查看和还原文件的旧版本。 版本历史记录适用于所有文件类型, 包括 pdf、CAD 文件、照片和视频。 若要还原以前的文件版本, 请执行以下操作:
   
 1. 打开 SharePoint 文档库或 OneDrive 位置。
     
-2. 单击以选中它，该文件的左侧，然后单击**版本历史记录**。如果您看版本历史记录的命令栏上，单击更多 （ **...** ）。 
+2. 单击文件左侧以选中它, 然后单击 "**版本历史记录**"。 如果在命令栏上看不到版本历史记录, 请单击 "更多 ( **...** )"。 
     
-3. 单击您想要查看，或单击更多 （ **** ） 右侧...的版本，然后单击**还原**的版本。
+3. 单击要查看的版本, 或单击版本右侧的 "更多" ( **...** ), 然后单击 "**还原**"。
     
 

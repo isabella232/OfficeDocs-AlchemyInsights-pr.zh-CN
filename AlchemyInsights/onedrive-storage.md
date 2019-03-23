@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: d8ac9dbe59fc2764488596d605337d1d6c1b6dd5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8d6f8da557d74f5c731f7e9f0d65f06257faa03b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927854"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30757160"
 ---
-# <a name="manage-your-onedrive-storage"></a>管理您的 OneDrive 存储
+# <a name="manage-your-onedrive-storage"></a>管理你的 OneDrive 存储
 
-若要更改为新的和现有 OneDrive 用户的默认存储：
+若要更改新的和现有 OneDrive 用户的默认存储, 请执行以下操作:
   
-- 转到[存储页的 OneDrive 管理中心](https://admin.onedrive.com/?v=StorageSettings)中，然后 GB 中输入新的金额。
+- 转到[OneDrive 管理中心](https://admin.onedrive.com/?v=StorageSettings)的 "存储" 页面, 然后输入新的金额 (GB)。
     
-此存储空间设置应用于尚未为其设置特定的存储限制的所有用户。若要更改的存储空间为特定用户，您需要使用 Microsoft PowerShell。有关如何执行此操作的信息，请参阅[更改用户的 OneDrive 存储空间使用 PowerShell](https://go.microsoft.com/fwlink/?linkid=866402)。若要检查多少存储中正在使用自己 OneDrive，请参阅[管理您的 OneDrive for Business 存储](https://go.microsoft.com/fwlink/?linkid=866429)。有关每个计划附带的存储的信息，请参阅[OneDrive for Business 服务说明](https://go.microsoft.com/fwlink/p/?LinkID=826071)。
+此存储空间设置适用于尚未为其设置特定存储限制的所有用户。 若要更改特定用户的存储空间, 您需要使用 Microsoft PowerShell。 有关如何执行此操作的信息, 请参阅[使用 PowerShell 更改用户的 OneDrive 存储空间](https://go.microsoft.com/fwlink/?linkid=866402)。 若要检查您自己的 onedrive 中使用的存储空间量, 请参阅[管理您的 onedrive for business 存储](https://go.microsoft.com/fwlink/?linkid=866429)。 有关每个计划附带的存储的信息, 请参阅[OneDrive for Business 服务说明](https://go.microsoft.com/fwlink/p/?LinkID=826071)。
   
 
