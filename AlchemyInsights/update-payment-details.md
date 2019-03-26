@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404665"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755612"
 ---
 # <a name="update-payment-details"></a>更新付款详细信息
 
-1. 在管理中心中, 转到 "[付款方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)" 页, 或选择 **"计费** \> **方法**"。
+1. 在管理中心中，转到“[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面，或选择“**帐单**”\>“**付款方式**”。
     
     > [!NOTE]
-    > 如果你在更新完成前遇到一个将你发送回管理主页的循环, 请尝试 Inprivate 或 Incognito 模式。 
+    > 如果遇到在更新完成前反复返回“管理”主页的情况，请尝试使用 Inprivate 或 Incognito 模式。 
   
-2. 选择您想要更新的信用卡。
+2. 选择你想要更新的信用卡。
     
     > [!NOTE]
-    > 如果其他管理员添加了支付方式, 则无法更新信用卡或其银行帐户信息。如果信用卡即将过期, 而其他管理员无法更新它, 则可以通过选择 "**添加付款方式**" 来通过为订阅添加不同的信用卡或新银行帐户来防止服务中断。 
+    > 如果其他管理员添加了付款方式，你无法更新它的信用卡或银行帐户信息。 如果该信用卡将要到期，而其他管理员无法更新它，则你可以通过选择“**添加付款方式**”为订阅添加其他信用卡或新银行账户来防止服务中断。 
   
-3. 在 "**付款详细信息**" 页上, 选择 "**编辑付款详细信息**"。
+3. 在“**付款详细信息**”页面，选择“**编辑付款详细信息**”。
     
-4. 进行更新, 然后选择 "**保存**"。
+4. 进行更新，然后选择“**保存**”。
     
-5. 若要删除此支付方式, 请选择 "**删除**"。
+5. 若要删除此付款方式，选择“**删除**”。
     
-有关详细信息, 请参阅[在 Office 365 中添加、更新或删除信用卡或银行帐户](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724), 以及对[信用卡和银行帐户进行故障排除](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)。
+有关详细信息，请参阅“[在 Office 365 商业版中添加，更新或删除信用卡或银行帐户](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)”和“[信用卡和银行帐户疑难解答](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)”。
   
 
