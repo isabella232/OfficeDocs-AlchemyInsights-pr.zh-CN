@@ -1,5 +1,5 @@
 ---
-title: Office 365 教育版计划和定价
+title: 用于教育计划和定价的 Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 8f9ddaf5d572a563555962ec79e7c35cc4ae4b23
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 540fe0e8f9edd6949229e90e256aa2626584dd3b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905246"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767203"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="4f0cd-102">为您的整个学校获取免费 Office 365</span><span class="sxs-lookup"><span data-stu-id="4f0cd-102">Get Office 365 free for your entire school</span></span>
+# <a name="get-office-365-free-for-your-entire-school"></a><span data-ttu-id="c491f-102">为你的整个学校免费获取 Office 365</span><span class="sxs-lookup"><span data-stu-id="c491f-102">Get Office 365 free for your entire school</span></span>
 
-<span data-ttu-id="4f0cd-p101">改进免费的工作效率工具与课堂和学校协作。您需要验证您要利用这些提供获得资格鉴定学术机构。</span><span class="sxs-lookup"><span data-stu-id="4f0cd-p101">Improve classroom and school collaboration with free productivity tools. You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="c491f-103">使用免费的生产力工具改进课堂和学校协作。</span><span class="sxs-lookup"><span data-stu-id="c491f-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="c491f-104">您需要验证您是否是获得资格认证的学术机构来利用这些优惠。</span><span class="sxs-lookup"><span data-stu-id="c491f-104">You will need to verify that you are an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="4f0cd-105">查看培训计划</span><span class="sxs-lookup"><span data-stu-id="4f0cd-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="c491f-105">查看教育计划</span><span class="sxs-lookup"><span data-stu-id="c491f-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
     
-- [<span data-ttu-id="4f0cd-106">开始使用 Office 365 教育版</span><span class="sxs-lookup"><span data-stu-id="4f0cd-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
+- [<span data-ttu-id="c491f-106">开始使用 Office 365 教育版</span><span class="sxs-lookup"><span data-stu-id="c491f-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/ab02abe5-a1ee-458c-b749-5b44416ccf1)
     
-- [<span data-ttu-id="4f0cd-107">比较所有 Office 365 计划</span><span class="sxs-lookup"><span data-stu-id="4f0cd-107">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="c491f-107">比较所有 Office 365 计划</span><span class="sxs-lookup"><span data-stu-id="c491f-107">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
     
 
