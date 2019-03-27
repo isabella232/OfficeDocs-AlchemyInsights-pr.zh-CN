@@ -1,5 +1,5 @@
 ---
-title: 打开具有资源管理器按钮被禁用
+title: 禁用 "使用资源管理器打开" 按钮
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 656d8787edb6ca00f6753d096c2c475a5b27c39d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ee77923fbf4b6e54aa3d9f8fd046f4a740e99e44
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927962"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766518"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>禁用具有资源管理器按钮打开
+# <a name="the-open-with-explorer-button-is-disabled"></a>"使用资源管理器打开" 按钮处于禁用状态
 
-- 浏览到 Internet Explorer 10 或 Internet Explorer 11 中的 SharePoint 或 OneDrive 位置。按钮不是与其他 web 浏览器兼容。
+- 浏览到 internet explorer 10 或 internet explorer 11 中的 SharePoint 或 OneDrive 位置。 该按钮与其他 web 浏览器不兼容。
     
 > [!NOTE]
-> 在文件资源管理器中打开库，如果您需要复制或移动多个文件和文件夹后，但如果您想要在库中定期工作单一便捷式建议同步它。有关更多帮助，以及解决在文件资源管理器中打开其他问题，请参阅[在资源管理器中打开](https://go.microsoft.com/fwlink/?linkid=871665)。有关设置同步的信息，请参阅[使用新的 OneDrive 同步客户端同步 SharePoint 文件](https://go.microsoft.com/fwlink/?linkid=871666)。 
+> 如果需要复制或移动多个文件和文件夹一次, 则在文件资源管理器中打开库非常方便, 但如果要定期在库中工作, 则建议将其同步。 有关更多帮助和解决在文件资源管理器中打开的其他问题, 请参阅[在资源管理器中打开](https://go.microsoft.com/fwlink/?linkid=871665)。 有关设置同步的信息, 请参阅[sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666)。 
   
 

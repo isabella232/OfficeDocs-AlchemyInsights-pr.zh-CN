@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 94203849c1cca9dc1d2d6207f2390a57ad3e9680
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6076582a5d7fbcde47e8d281ecc649c97d8edfbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29923174"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767382"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>从 SharePoint 或 OneDrive 还原已删除的项目
 
 1. 转到您的 OneDrive 或 SharePoint 网站。
     
-2. 在左窗格中，单击**回收站**。 
+2. 在左窗格中单击 "**回收站**"。 
     
-3. 单击左侧的项目或想要还原的文件。
+3. 单击要还原的项或文件左侧的。
     
 4. 单击" **还原**"。 
     
-当从 SharePoint 网站删除文件、 文件夹、 库、 列表和列表项时，它们转到回收站的时间，其中它们保留 93 天除非某人从此回收站中删除这些。如果他们正在从此回收站删除 （称为网站回收站），他们将转到网站集回收站的剩余时间，然后被永久删除。已删除的网站和网站集直接转到网站集回收站 93 天。
+从 SharePoint 网站中删除文件、文件夹、库、列表和列表项时, 它们将转到回收站, 其中保留的时间为93天, 除非有人将其从回收站中删除。 如果从该回收站 (称为 "网站回收站") 中删除它们, 则会在剩余时间进入网站集回收站, 然后将被永久删除。 已删除的网站和网站集将直接转到93天的网站集回收站。
   
-[还原网站集回收站中的项](https://go.microsoft.com/fwlink/?linkid=867800)（网站集管理员） 
+[还原网站集回收站中的项目](https://go.microsoft.com/fwlink/?linkid=867800)(网站集管理员) 
   
-[还原已删除网站集](https://go.microsoft.com/fwlink/?linkid=867660)(全局或 Office 365 中的 SharePoint 管理员) 
+[还原已删除的网站集](https://go.microsoft.com/fwlink/?linkid=867660)(Office 365 中的全局或 SharePoint 管理员) 
   
-对于 Office 365 组所属的网站，您需要还原要还原的网站的组。请参阅[还原已删除的 Office 365 组](https://go.microsoft.com/fwlink/?linkid=867802)（全局管理员） 
+对于属于 Office 365 组的网站, 需要还原组以还原网站。 请参阅[还原已删除的 Office 365 组](https://go.microsoft.com/fwlink/?linkid=867802)(全局管理员) 
   
 

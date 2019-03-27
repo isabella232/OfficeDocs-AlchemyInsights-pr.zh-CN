@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: e8ce1a06ba230b6907e1e3cc7dfdc829ab8b49cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: a90c9b76d5ad80508d1e38fabe21eb944fe9681e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905174"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766662"
 ---
 # <a name="subscription-information"></a>订阅信息
 
-有关订阅拥有，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或选择**帐单** \> **订阅**。
+有关你拥有的订阅的信息, 请转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**付费** \> **订阅**"。
   
-有关每个订阅的关键信息：
+有关每个订阅的关键信息:
   
 - 每个的状态
     
@@ -32,10 +32,10 @@ ms.locfileid: "29905174"
     
 - 定期记帐状态
     
-- 平衡
+- 恰好
     
-- 付款方法
+- 支付方式
     
-- 下一步帐单或过期日期
+- 下一个帐单或到期日期
     
 

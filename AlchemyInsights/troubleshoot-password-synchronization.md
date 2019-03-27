@@ -1,5 +1,5 @@
 ---
-title: 解决密码同步
+title: 密码同步疑难解答
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,54 +9,54 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: d346cf97fb2fd08a9132904517192d8728ffa941
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1320c0fe839337188162824439be6f15f86b6c90
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924686"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767166"
 ---
-# <a name="troubleshoot-password-synchronization"></a>解决密码同步
+# <a name="troubleshoot-password-synchronization"></a>密码同步疑难解答
 
-若要解决其中没有密码都是同步与 Azure AD 连接版本 1.1.614.0 或更高版本的问题：
+若要解决没有与 Azure AD Connect 版本1.1.614.0 或更高版本同步的密码的问题, 请执行以下操作:
   
-1. 使用**以管理员身份运行**选项打开新 Azure AD 连接服务器上的 Windows PowerShell 会话。 
+1. 使用 "以**管理员身份运行**" 选项在 Azure AD Connect 服务器上打开新的 Windows PowerShell 会话。 
     
-2. 运行**Set-executionpolicy RemoteSigned**或**不受限制的 Set-executionpolicy**。 
+2. 运行**ExecutionPolicy RemoteSigned**或 ExecutionPolicy 不**受限制的设置**。 
     
-3. 启动 Azure AD 连接向导。
+3. 启动 Azure AD Connect 向导。
     
-4. 导航到 * * 其他任务 * * 页上，选择 * * Troubleshoot * *，，单击**下一步**。 
+4. 导航到 "其他任务 * *" 页面, 选择 "* * 疑难解答 * *", 然后单击 "**下一步**"。 
     
-5. 在疑难解答页上，单击在 PowerShell 中的**启动启动疑难解答**菜单。 
+5. 在 "疑难解答" 页上, 单击 "**启动" 以启动 PowerShell 中的 "疑难解答"** 菜单。 
     
-6. 在主菜单中，选择**解决密码同步**。 
+6. 在主菜单中, 选择 "**密码同步疑难解答**"。 
     
-7. 在 sub 菜单中，选择**根本不起作用密码同步**。 
+7. 在子菜单中, 选择 "**密码同步" 根本不起作用**。 
     
  **了解故障排除任务的结果**
   
-故障排除任务可以执行以下检查：
+故障排除任务将执行以下检查:
   
-- 验证已为您的 Azure AD 租户启用密码同步功能。
+- 验证是否已为 Azure AD 租户启用密码同步功能。
     
-- 验证 Azure AD 连接服务器不是在调试模式。
+- 验证 Azure AD Connect 服务器是否未处于暂存模式。
     
-- 对于每个现有内部部署 Active Directory 连接器 （其对应的现有的 Active Directory 林）：
+- 对于每个现有的本地 Active directory 连接器 (对应于现有的 active directory 林):
     
 - 
-  - 验证已启用的密码同步功能。
+  - 验证是否已启用密码同步功能。
     
-  - 搜索的 Windows 应用程序事件日志中的密码同步检测信号事件。
+  - 在 Windows 应用程序事件日志中搜索密码同步检测信号事件。
     
-  - 在内部部署 Active Directory 连接器下的每个 Active Directory 域：
+  - 对于内部部署 active directory 连接器下的每个 Active directory 域:
     
-  - 验证域从 Azure AD 连接服务器上可以访问。
+  - 验证是否可以从 Azure AD Connect 服务器访问域。
     
-  - 验证内部部署 Active Directory 连接器使用的 Active Directory 域服务 (AD DS) 帐户具有正确的用户名、 密码和所需的密码同步权限。
+  - 验证本地 active directory 连接器使用的 Active directory 域服务 (AD DS) 帐户是否具有密码同步所需的正确用户名、密码和权限。
     
-疑难解答密码同步的更多帮助，请参阅[Troubleshoot 与 Azure AD 连接同步的密码同步](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)。
+有关疑难解答密码同步的更多帮助, 请参阅[密码同步与 Azure AD Connect sync 疑难解答](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization)。
   
 

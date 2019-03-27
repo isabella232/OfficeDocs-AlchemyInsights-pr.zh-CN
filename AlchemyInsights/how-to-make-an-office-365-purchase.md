@@ -1,5 +1,5 @@
 ---
-title: 如何使 Office 365 购买
+title: 如何进行 Office 365 购买
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a1d2a7ac79f5d7f4ef691b3ba7e110945a106fdf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3242e2db85d20364b1678a1ec9c1ed9a93156bd5
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905750"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766266"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>如何使 Office 365 购买
+# <a name="how-to-make-an-office-365-purchase"></a>如何进行 Office 365 购买
 
-可以在管理中心进行购买 Office 365 中。转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或选择**帐单** \> **订阅**。
+可以在管理中心中进行 Office 365 购买。 转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**帐单** \> **订阅**"。
   
-- 若要购买 Office 365 订阅转到[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)页上，或选择**帐单** \> **购买服务**。
+- 若要购买 Office 365 订阅, 请转到 "[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页, 或选择 "**付费** \> **购买服务**"。
     
-- 若要购买附加许可证转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页上，或选择**帐单** \> **订阅**。在**订阅**页中，选择您想要添加到，许可证的订阅，然后选择**添加/删除许可证**。
+- 若要购买其他许可证, 请转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**付费** \> **订阅**"。 在 "**订阅**" 页上, 选择要向其添加许可证的订阅, 然后选择 "**添加/删除许可证**"。
     
-- 若要切换到不同的计划：
+- 若要切换到其他计划, 请执行以下操作:
     
-  - 选择 * * 切换计划 * * 若要查看可用的新计划的列表。 
+  - 选择 * * 切换计划 * * 以查看可用的新计划的列表。 
     
-  - 选择要查看的新的总成本，每月计划。请务必阅读键的信息，然后选择**下一步**要签出。 
+  - 选择一个计划以查看每月的新的总成本。 请务必阅读密钥信息, 然后选择 "**下一步**" 以签出。 
     
  **其他资源**
   

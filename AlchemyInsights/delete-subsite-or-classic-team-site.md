@@ -1,5 +1,5 @@
 ---
-title: 删除子网站或经典工作组网站
+title: 删除子网站或经典团队网站
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f2ec4d9c-4841-4c8f-8f85-574395f8c728
-ms.openlocfilehash: cce8789fb8393494795685981668f0290654c76a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0162486b36a945576c1be822f7abba7641fa3cd1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911402"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766086"
 ---
-# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a>删除经典 SharePoint 工作组网站或子网站
+# <a name="delete-a-classic-sharepoint-team-site-or-subsite"></a>删除经典 SharePoint 团队网站或子网站
 
 1. 转到网站。
     
-2. 单击右上角的**设置**图标。 
+2. 单击右上角的 "**设置**" 图标。 
     
-3. 单击**网站设置**。**网站操作**下单击**删除此网站**，然后单击**删除**。
+3. 单击 "**网站设置**"。 在 "**网站操作**" 下, 单击 "**删除此网站**", 然后单击 "**删除**"。
     
 

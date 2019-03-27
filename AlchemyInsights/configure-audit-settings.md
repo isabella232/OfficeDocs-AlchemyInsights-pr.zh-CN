@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 44c7209f651427017aac6c146cccb698c0a71d67
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9a5b157bb70e6c1ff445a2b51d0dca8f30890f4c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918926"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766122"
 ---
 # <a name="configure-sharepoint-audit-settings"></a>配置 SharePoint 审核设置
 
-SharePoint 网站集管理员可以通过配置审核设置内容跟踪用户操作。
+SharePoint 网站集管理员可以通过配置审核设置来跟踪用户对内容的操作。
   
 1. 打开 SharePoint 网站。
     
-2. 单击设置图标，然后单击**网站设置**。如果您看不到"网站设置"，单击**网站信息**，然后单击**查看所有网站设置**。
+2. 单击 "设置" 图标, 然后单击 "**网站设置**"。 如果看不到 "网站设置", 请单击 "**网站信息**", 然后单击 "**查看所有网站设置**"。
     
-3. 在**网站集管理**下选择**网站集的审核设置**。（如果您没有看到它，单击**转到首要网站设置**第一次。） 
+3. 在 "**网站集管理**" 下, 选择 "**网站集审核设置**"。 (如果看不到它, 请先单击 "**转到首要网站设置**"。) 
     
-有关功能的信息包括在 SharePoint 审核日志报告以及如何查看它们，请参阅[Configure 审核网站集的设置](https://go.microsoft.com/fwlink/?linkid=404050)。
+有关 SharePoint 审核日志报告中包含的内容以及如何查看这些报告的信息, 请参阅[Configure audit settings for a site collection](https://go.microsoft.com/fwlink/?linkid=404050)。
   
 

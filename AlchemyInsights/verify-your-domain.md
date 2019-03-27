@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 7332650d1763e2bbd13be48f406fb04b8849a6c1
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911222"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766336"
 ---
 # <a name="verify-your-domain"></a>Verify your domain
 
- **通过 Internet 可能尚未更新记录。**
+ **记录可能尚未在 Internet 上进行更新。**
   
-通常只需几分钟，以便我们能够看到新记录，但有时可能需要长达几个小时。 
+通常只需几分钟, 我们才能看到新记录, 但偶尔可能需要几个小时的时间。 
   
-- 如果已经等待的时间已，仔细检查已经复制并粘贴到 TXT 验证记录在您的 DNS 主机的确切值。不包括一个常见问题"MS ="记录的一部分。我们也需要的 ！
+- 如果你已等待长时间, 请仔细检查你是否已将确切的值复制并粘贴到 DNS 主机上的 TXT 验证记录中。 一个常见的问题是未包含记录的 "MS=" 部分。 我们也需要的！
     
-- 在某些 DNS 主机，您必须采取额外的步骤，以保存区域文件 （其中存储的 DNS 记录），以便它将通过 Internet 进行更新。请确保已保存所做的更改，因此 Office 365 可以查看和验证该记录。
+- 在一些 DNS 主机上，你需要采取额外步骤来保存区域文件（存储 DNS记录的地方），以便它将通过 Internet 更新。 请确保你已保存所做的更改，以便 Office 365 可以查看并验证记录。
     
 
