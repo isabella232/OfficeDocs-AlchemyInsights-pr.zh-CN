@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761191"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747300"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>管理 SharePoint 或 OneDrive 存储
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761191"
   
 对于大多数组织来说, SharePoint 存储是自动管理的, 因此您无需为每个网站集设置限制。 若要查看您拥有的 SharePoint 存储量, 请执行以下操作:
   
-- 在经典 SharePoint 管理中心中的 "网站集" 页的右上角, 查找可用和总存储。
+- 在新的 SharePoint 管理中心中, 在 "网站" 页面的右上方查找可用和总存储。
     
 有关如何计算限制的信息, 请参阅[SharePoint Online 限制](https://go.microsoft.com/fwlink/p/?LinkID=856113)。 若要购买额外的存储空间, 请参阅[更改订阅的存储空间](https://go.microsoft.com/fwlink/?linkid=866428)。
   

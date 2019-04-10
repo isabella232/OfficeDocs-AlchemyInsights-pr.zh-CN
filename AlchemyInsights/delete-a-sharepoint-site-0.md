@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754640"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747984"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>删除属于 Office 365 组的网站:
 
-当用户从 sharepoint 主页创建新的工作组网站时 (或从新的 SharePoint 管理中心预览中创建新的团队网站), 会自动创建相应的 Office 365 组。 当您在 Microsoft 团队中创建 office 365 组或团队时, 也会创建 office 365 组连接的工作组网站。 若要删除属于 office 365 组的 SharePoint 网站, 需要删除 office 365 组本身。 
+当用户从 sharepoint 主页创建新的工作组网站或从新的 sharepoint 管理中心创建新的团队网站时, 将自动创建相应的 Office 365 组。 当您在 Microsoft 团队中创建 office 365 组或团队时, 也会创建 office 365 组连接的工作组网站。 若要删除属于 office 365 组的 SharePoint 网站, 需要删除 office 365 组本身。 
   
 1. 转到[Microsoft 365 管理中心](https://portal.office.com/adminportal/home#/groups)的 "组" 页。
     
@@ -40,11 +40,11 @@ ms.locfileid: "30754640"
   
 **删除 SharePoint 网站集:**
 
-若要删除经典网站集, 请执行以下操作:
+若要删除网站, 请执行以下操作:
   
-1. 在经典 SharePoint 管理中心的 "网站集" 页上, 选中网站集旁边的**复选框**。 
+1. 在新的 SharePoint 管理中心中, 在 "网站" 页上, 单击要删除的网站旁边的**复选框**。 
     
-2. 在 "网站集" 选项卡上, 选择 "**删除"。**
+2. 在功能区工具栏上, 单击 "**删除"。**
     
 **意外删除了网站？**
 

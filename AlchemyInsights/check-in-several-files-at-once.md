@@ -1,5 +1,5 @@
 ---
-title: 同时在多个文件检查
+title: 一次签入多个文件
 ms.author: kirks
 author: Techwriter40
 ms.date: 9/17/2018
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 525ea95aa8925696a72fb9c006506df92044ea7a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 76d234e4a5c0ea69fcb9c5f529568c192d00d3c0
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940778"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747444"
 ---
-# <a name="check-in-several-files-at-once"></a>同时在多个文件检查
+# <a name="check-in-several-files-at-once"></a>一次签入多个文件
 
-若要检查几个文件夹中的多个文件中，选择**编辑视图**页上的**文件夹**下的**显示在不包含文件夹的所有项目**。 
+若要签入多个文件夹中的多个文件, 请在 "**编辑视图**" 页上的 "**文件夹**" 下选择 "**显示所有项目, 不** 
   
- **注意**： SharePoint Online 和 Office 365 不当前允许多个文件时检查使用现代模式。通过单击左下角的快速启动栏的**经典 SharePoint**使用经典体验。 
+ **注意**: SharePoint Online 和 Office 365 当前在使用新式模式签入时不允许多个文件。 
   
-请参阅更多有关常见问题复选-入/签出，请参阅[有关签出，签入，最重要的问题和版本](https://go.microsoft.com/fwlink/?linkid=2018786)。
+查看更多有关签入/签出的常见问题, 请参阅[关于签出、签入和版本的主要问题](https://go.microsoft.com/fwlink/?linkid=2018786)。
   
 

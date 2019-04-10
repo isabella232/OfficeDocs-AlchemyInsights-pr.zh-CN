@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e966b80c8709ae24b9600b63e089d8ca06c1e131
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: ff481944428f2a67dd4f72b91212db7c33f53632
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758636"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747624"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>为 SharePoint 启用或禁用外部共享
 
@@ -25,7 +25,7 @@ ms.locfileid: "30758636"
 2. 打开或关闭该设置, 或选择一个共享选项 (如果已启用)。
     
 > [!NOTE]
-> 关闭 SharePoint 的共享功能会将其关闭以启用 OneDrive。 若要允许在任何网站上进行外部共享, 您的组织范围的设置必须为 "开"。 > 若要允许 OneDrive 或任何单个 sharepoint 网站的外部共享, 必须在组织范围内为 sharepoint 启用外部共享。 然后, 可以为特定网站集禁用它。 若要管理属于 Office 365 组的通信网站和网站的外部共享设置, 需要使用新的 SharePoint 管理中心 (预览版) 或 PowerShell。 有关管理外部共享设置的详细信息, 请参阅[打开或关闭外部共享](https://go.microsoft.com/fwlink/?linkid=866426)。 
+> 关闭 SharePoint 的共享功能会将其关闭以启用 OneDrive。 若要允许在任何网站上进行外部共享, 您的组织范围的设置必须为 "开"。 > 若要允许 OneDrive 或任何单个 sharepoint 网站的外部共享, 必须在组织范围内为 sharepoint 启用外部共享。 然后, 可以为特定网站集禁用它。 若要管理属于 Office 365 组的通信网站和网站的外部共享设置, 需要使用新的 SharePoint 管理中心或 PowerShell。 有关管理外部共享设置的详细信息, 请参阅[打开或关闭外部共享](https://go.microsoft.com/fwlink/?linkid=866426)。 
   
 [了解有关 SharePoint 中的外部共享的详细信息](https://go.microsoft.com/fwlink/?linkid=734908)
   
