@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 714
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 6da684ab0aefa74f47f15dbb95f8ec96f92feca8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 58dddb870c14cdd690059bb43bd63beaae2127b6
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785802"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858806"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>允许外部发件人向通讯组发送邮件
 
 如果贵组织外部的用户在向您的通讯组发送邮件时收到错误, 或者您想要验证您的通讯组是否配置为接收来自外部发件人的邮件, 请按照下列步骤操作:
-  
-1. 转到[Office 365 管理门户](https://portal.office.com/adminportal/home#/groups)中的 "**组**" 节点。
-    
-2. 选择通讯组, 并在出现的 "组属性" 对话框中, 单击包含**允许外部发件人**的部分中的 "**编辑**"。
-    
-3. 在显示的 "**编辑详细信息**" 中, 验证是否**允许我的组织外部的人员向此通讯组发送电子邮件。** 已**打开**, 然后单击 "**保存**"。
-    
 
+1. 转到[Office 365 管理门户](https://portal.office.com/adminportal/home#/groups)中的 "**组**" 节点。
+
+2. 选择通讯组, 并在出现的 "组属性" 对话框中, 单击包含**允许外部发件人**的部分中的 "**编辑**"。
+
+3. 在显示的 "**编辑详细信息**" 中, 验证是否**允许我的组织外部的人员向此通讯组发送电子邮件。** 已**打开**, 然后单击 "**保存**"。
