@@ -1,5 +1,5 @@
 ---
-title: 检测到错误代码 550 5.7.501 访问被拒绝，垃圾邮件
+title: 错误代码 550 5.7.501 访问被拒绝, 检测到垃圾邮件滥用
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -8,19 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: da88d06a888ef918f80a5fda1265304e3b4d4b73
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d1fd4e3c8812c88b2f32680b65109e2c21a40876
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904886"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858338"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="a40d8-102">访问被拒绝的 550 5.7.501，垃圾邮件检测</span><span class="sxs-lookup"><span data-stu-id="a40d8-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="1730b-102">550 5.7.501 访问被拒绝, 检测到的垃圾邮件滥用</span><span class="sxs-lookup"><span data-stu-id="1730b-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="a40d8-p101">通常情况下，会出现此消息时用户发送电子邮件从 IP 地址使用初始 *。 onmicrosoft.com*分配给 Office 365 中的新租户的域。若要解决此问题的最简单方法是：</span><span class="sxs-lookup"><span data-stu-id="a40d8-p101">Typically, this message occurs when users send email messages from IP addresses using the initial  *.onmicrosoft.com*  domain that's assigned to new tenants in Office 365. The easiest way to resolve this problem is to:</span></span> 
-  
-1. <span data-ttu-id="a40d8-105">[将域添加到您的租户](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx)。</span><span class="sxs-lookup"><span data-stu-id="a40d8-105">[Add a domain to your tenant](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).</span></span>
-    
-2. <span data-ttu-id="a40d8-106">为新的自定义域的[更改用户的主电子邮件地址](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)您刚刚添加。</span><span class="sxs-lookup"><span data-stu-id="a40d8-106">[Change your users' primary email address](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) to the new custom domain you just added.</span></span> 
-    
+<span data-ttu-id="1730b-103">通常, 当用户使用分配给 Office 365 中新租户的*onmicrosoft.com*域从 IP 地址发送电子邮件时, 将会出现此消息。</span><span class="sxs-lookup"><span data-stu-id="1730b-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="1730b-104">解决此问题最简单的方法是:</span><span class="sxs-lookup"><span data-stu-id="1730b-104">The easiest way to resolve this problem is to:</span></span>
 
+1. <span data-ttu-id="1730b-105">[将域添加到你的租户](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx)。</span><span class="sxs-lookup"><span data-stu-id="1730b-105">[Add a domain to your tenant](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).</span></span>
+
+2. <span data-ttu-id="1730b-106">[将用户的主电子邮件地址更改](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)为刚添加的新自定义域。</span><span class="sxs-lookup"><span data-stu-id="1730b-106">[Change your users' primary email address](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) to the new custom domain you just added.</span></span>
