@@ -11,27 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762522"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857834"
 ---
 # <a name="app-passwords"></a>应用密码
 
 应用密码是为应用程序或设备提供访问 Office 365 工作或学校帐户的权限的代码。 如果您的帐户需要多重身份验证 (MFA), 并且应用程序连接到您的帐户, 则需要生成应用密码, 以便应用程序可以连接到 Office 365。 例如, outlook 2016 和早期版本的 outlook 中需要应用密码。
-  
- **注意**: 在尝试执行以下步骤之前, 请使用 Office 365 管理员验证你的帐户是否需要 MFA。 如果不是这样, 则不能使用步骤中所述的选项。
-  
-1. 使用你的工作或学校帐户和密码登录到 Office 365。
-    
-2. 选择 "**立即设置**"。
-    
-3. 选择您的身份验证方法并按照提示操作。
-    
-4. 验证备用联系人方法后, 选择 "**下一步**"。
-    
-5. 你将获取可用于 Outlook、Apple 邮件和需要它的其他应用程序的应用密码。 选择 "**复制**" 复制密码, 以便可以将其粘贴到其他位置 (无需记住)。 
-    
 
+ **注意**: 在尝试执行以下步骤之前, 请使用 Office 365 管理员验证你的帐户是否需要 MFA。 如果不是这样, 则不能使用步骤中所述的选项。
+
+1. 使用你的工作或学校帐户和密码登录到 Office 365。
+
+2. 选择 "**立即设置**"。
+
+3. 选择您的身份验证方法并按照提示操作。
+
+4. 验证备用联系人方法后, 选择 "**下一步**"。
+
+5. 你将获取可用于 Outlook、Apple 邮件和需要它的其他应用程序的应用密码。 选择 "**复制**" 复制密码, 以便可以将其粘贴到其他位置 (无需记住)。

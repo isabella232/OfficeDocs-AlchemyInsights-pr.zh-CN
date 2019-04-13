@@ -10,15 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 924
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 65712d5b3eef5926992f90cabd07cdd6255ff2b4
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 56c41c606ddb269f37232d646541f616578f6147
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772327"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857762"
 ---
 # <a name="rule-limits"></a>规则限制
 
 不同的 Office 365 选项和独立选项的规则限制可能各不相同。 有关详细信息, 请参阅[日记、Transport 和收件箱规则限制](https://technet.microsoft.com/library/exchange-online-limits.aspx)。
-  
-
