@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788497"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903546"
 ---
 # <a name="block-or-unblock-senders"></a>阻止或取消阻止发件人
 
 将任何电子邮件地址或域添加到阻止的发件人列表中, 以将这些邮件直接移动到 "垃圾邮件" 文件夹。 在14天后, 电子邮件会自动从 "垃圾邮件" 文件夹中删除, 并且无法恢复。
   
-1. 转到 "**设置** \> " "**查看完整设置**"。 
+1. 转到 "**设置** \> "**查看所有 Outlook 设置**。 
     
-2. 选择 "**邮件** \> " "**垃圾邮件**"。 
+2. 选择 " [**邮件** \> " "**垃圾邮件**](https://outlook.live.com/mail/options/mail/junkEmail)"。 
     
 3. 若要阻止发件人, 请输入要阻止的电子邮件地址或域, 然后选择 "**添加**"。 
     

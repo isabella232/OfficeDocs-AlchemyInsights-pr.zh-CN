@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>2019 年 3 月 4 日那周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com 恢复删除的电子邮件 | 相加 |
-| 3/4/2019 | [8000034 Outlook.com 中的已读回执](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | 修改内容 |
-| 3/4/2019 | [8000047如何在 Outlook.com 中创建电子邮件签名](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | 修改内容 |
-| 3/4/2019 | [8000086 Outlook.com 插入图像](/AlchemyInsights/80000860-outlook-com-insert-image) | 相加 |
-| 3/4/2019 | [8000087 Outlook.com 键盘快捷方式](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | 相加 |
-| 3/4/2019 | [8000088在 Outlook.com 中保存电子邮件](/AlchemyInsights/8000088-outlook-com-save-emails) | 修改内容 |
-| 3/4/2019 | [8000089 Outlook.com 安全发件人](/AlchemyInsights/8000089-outlook-com-safe-senders) | 相加 |
-| 3/4/2019 | 8000011 Outlook.com 恢复删除的电子邮件 | 拆卸 |
-| 3/4/2019 | 1575-PowerApps 和 Microsoft 流量计划扩展 | 相加 |
-| 3/4/2019 | [更改 Office 365 组的域](/AlchemyInsights/change-domain-for-group) | 更名 |
-| 3/4/2019 | [1575-PowerApps 和 Microsoft 流量计划扩展](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | 更名 |
-| 3/4/2019 | [启用多重身份验证](/AlchemyInsights/enable-multifactor-authentication) | 修改内容 |
-| 3/4/2019 | [已超过8000054的 Outlook.com 存储限制](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | 相加 |
-| 3/4/2019 | [423 组织安全性 - 泄露的电子邮件帐户](/AlchemyInsights/423-org-securityemailaccountcompromised) | 修改内容 |
-| 3/4/2019 | [8000029 处理 Outlook.com 中的垃圾邮件或网络钓鱼](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | 修改内容 |
-| 3/4/2019 | [删除域](/AlchemyInsights/remove-domain) | 修改内容 |
-| 3/4/2019 | [向 Office 365 添加用户](/AlchemyInsights/add-users-to-office-365) | 修改内容 |
-| 3/4/2019 | [您的邮箱中是否有过多的垃圾邮件或网络钓鱼？](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | 修改内容 |
-| 3/4/2019 | [更改名称服务器](/AlchemyInsights/change-nameservers) | 修改内容 |
-| 3/4/2019 | [在 PowerApps 中创建应用程序](/AlchemyInsights/create-apps-in-powerapps) | 修改内容 |
-| 3/4/2019 | [将迁移转换到 Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | 修改内容 |
-| 3/4/2019 | [是否存在电子邮件传递问题？](/AlchemyInsights/having-email-delivery-issues-0) | 修改内容 |
-| 3/4/2019 | [是否存在电子邮件传递问题？](/AlchemyInsights/having-email-delivery-issues) | 修改内容 |
-| 3/4/2019 | [如何添加信用卡？](/AlchemyInsights/how-do-i-add-a-credit-card) | 修改内容 |
-| 3/4/2019 | [如何更新信用卡信息？](/AlchemyInsights/how-do-i-update-my-credit-card-information) | 修改内容 |
-| 3/4/2019 | [如何安装 Office](/AlchemyInsights/how-to-install-office) | 修改内容 |
-| 3/4/2019 | [从 IMAP 迁移电子邮件](/AlchemyInsights/migrate-email-from-imap) | 修改内容 |
-| 3/4/2019 | [付款选项](/AlchemyInsights/payment-options) | 修改内容 |
-| 3/4/2019 | [帐户受到威胁时采取的建议步骤](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | 修改内容 |
-| 3/4/2019 | [发件人因发送太多垃圾邮件而遭阻止](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | 修改内容 |
-| 3/4/2019 | [提交 Dynamics 365 支持请求](/AlchemyInsights/submit-dynamics-365-support-requests) | 修改内容 |
-| 3/4/2019 | [域已在使用中](/AlchemyInsights/the-domain-is-already-in-use) | 修改内容 |
-| 3/4/2019 | [无法在 Office 365 门户中完成购买](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | 修改内容 |
-| 3/4/2019 | [更新 DNS 记录](/AlchemyInsights/update-dns-records-0) | 修改内容 |
-| 3/4/2019 | [更新 DNS 记录](/AlchemyInsights/update-dns-records) | 修改内容 |
-| 3/4/2019 | [更新付款详细信息](/AlchemyInsights/update-payment-details) | 修改内容 |
-| 3/4/2019 | [验证域](/AlchemyInsights/verify-domain) | 修改内容 |
-| 3/4/2019 | [设置多个电子邮件地址的转发](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | 修改内容 |
-| 3/4/2019 | [解决 "不是接受域" 的错误](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | 修改内容 |
-| 2019/3/6 | [1581 在 Outlook 网页版中打开和使用共享邮箱](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | 修改内容 |
-| 2019/3/6 | [团队班次](/AlchemyInsights/1686-teams-shifts) | 相加 |
-| 2019/3/6 | [1703 需要有关 Teams 和 Polycom 电话的信息](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | 相加 |
-| 2019/3/6 | [团队 PS 模块安装和参考](/AlchemyInsights/1787-teams-ps-module-install-ref) | 相加 |
-| 2019/3/6 | [615 共享类型及其设置方法。](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | 修改内容 |
-| 2019/3/6 | [团队 Freemium](/AlchemyInsights/997-teams-freemium) | 相加 |
-| 2019/3/6 | [是否有合法邮件被标记为垃圾邮件？](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | 修改内容 |
-| 2019/3/6 | [启用 Microsoft 团队](/AlchemyInsights/enable-microsoft-teams) | 修改内容 |
-| 2019/3/6 | [您是否为学生启用了团队？](/AlchemyInsights/have-you-enabled-teams-for-your-students) | 修改内容 |
-| 2019/3/6 | [如何重新激活订阅](/AlchemyInsights/how-to-reactivate-a-subscription) | 修改内容 |
-| 2019/3/6 | Intune 应用部署-规则 Id 991 | 拆卸 |
-| 2019/3/6 | [Skype for business 存在问题？](/AlchemyInsights/issue-with-skype-for-business) | 修改内容 |
-| 2019/3/6 | [Microsoft 团队-来宾访问](/AlchemyInsights/microsoft-teamsguest-access) | 修改内容 |
-| 2019/3/6 | [Microsoft 团队-还原已删除的团队网站](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | 修改内容 |
-| 2019/3/6 | [通过 Office 365 中继电子邮件](/AlchemyInsights/relay-email-through-office-365) | 修改内容 |
-| 2019/3/6 | [使用新版 OneDrive 同步客户端同步 SharePoint 文件](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | 修改内容 |
-| 2019/3/6 | [升级到 Microsoft 团队的完整版本](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | 修改内容 |
-| 3/7/2019 | [8000064 Outlook.com 电子邮件无法同步-西班牙语](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | 相加 |
-| 3/7/2019 | [8000065 Outlook.com 垃圾邮件-西班牙语](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | 相加 |
-| 3/7/2019 | [8000066-规则 1-Outlook.com 攻击-西班牙语](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | 相加 |
-| 3/7/2019 | [8000066-规则 2-Outlook.com 攻击-西班牙语](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | 相加 |
-| 3/7/2019 | [8000067-Outlook.com 关闭帐户-西班牙语](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | 相加 |
-| 3/7/2019 | [8000068-Outlook.com 添加帐户-西班牙语](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | 相加 |
-| 3/7/2019 | [8000069-Outlook.com 阻止发件人-西班牙语](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | 相加 |
-| 3/7/2019 | [8000070-Outlook.com 无法登录-西班牙语](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | 相加 |
-| 3/7/2019 | [还原已删除的用户](/AlchemyInsights/restore-deleted-user) | 修改内容 |
-| 3/8/2019 | Outlook.com 的 8000043 POP、IMAP 和 SMTP 设置 | 拆卸 |
-| 3/8/2019 | [Outlook.com 的 8000043 POP、IMAP 和 SMTP 设置](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | 更名 |
-| 3/8/2019 | [8000071 Outlook.com 修复电子邮件同步-法语](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | 相加 |
-| 3/8/2019 | [8000072 Outlook.com 垃圾邮件-法语](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | 相加 |
-| 3/8/2019 | [8000073 Outlook.com 帐户黑客攻击-法语](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | 相加 |
-| 3/8/2019 | [8000074 Outlook.com 关闭帐户-法语](/AlchemyInsights/8000074-outlook-com-close-account-french) | 相加 |
-| 3/8/2019 | [8000075 Outlook.com 更改密码-法语](/AlchemyInsights/8000075-outlook-com-change-password-french) | 相加 |
-| 3/8/2019 | [8000076 Outlook.com 阻止发件人-法语](/AlchemyInsights/8000076-outlook-com-block-sender-french) | 相加 |
-
-
 ## <a name="week-of-march-11-2019"></a>2019年3月11日一周
 
 
@@ -113,7 +33,7 @@
 | 3/22/2019 | 127访问电子邮件时是否收到 TenantAccessBlockedException 错误？ | 拆卸 |
 | 3/22/2019 | 128访问电子邮件时是否收到 TenantAccessBlockedException 错误？ | 拆卸 |
 | 3/22/2019 | 415搜索体验已更新 | 拆卸 |
-| 3/22/2019 | [1048 5.7.750 服务不可用。 阻止从未注册的域发送的客户端](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 更名 |
+| 3/22/2019 | [1048 5.7.750 服务不可用。阻止从未注册的域发送的客户端](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 更名 |
 | 3/22/2019 | 500应用密码 | 拆卸 |
 | 3/22/2019 | 8000059关闭重点收件箱 | 拆卸 |
 | 3/22/2019 | 878共享的类型以及如何对其进行设置 | 拆卸 |
@@ -157,8 +77,8 @@
 | 3/22/2019 | [已支付？](/AlchemyInsights/already-paid) | 修改内容 |
 | 3/22/2019 | [1049反垃圾邮件4.5.3 收件人太多 (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | 更名 |
 | 3/22/2019 | [1051反垃圾邮件4.7.500 访问被拒绝, 请稍后重试](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | 更名 |
-| 3/22/2019 | [1050反垃圾邮件4.7.500 服务器忙碌。 请稍后从 [XXX.XXX.XXX.XXX] 重试](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | 更名 |
-| 3/22/2019 | [1047反垃圾邮件 550 5.7.708 服务不可用。 访问被拒绝, 不接受此 IP 的流量](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | 更名 |
+| 3/22/2019 | [1050反垃圾邮件4.7.500 服务器忙碌。请稍后从 [XXX.XXX.XXX.XXX] 重试](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | 更名 |
+| 3/22/2019 | [1047反垃圾邮件 550 5.7.708 服务不可用。访问被拒绝, 不接受此 IP 的流量](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | 更名 |
 | 3/22/2019 | [500应用密码](/AlchemyInsights/app-passwords) | 修改内容 |
 | 3/22/2019 | [分配或删除用户的许可证](/AlchemyInsights/assign-or-remove-users-licenses) | 修改内容 |
 | 3/22/2019 | [8000052在 Outlook.com 中附加文件](/AlchemyInsights/attach-files-in-outlook-com) | 更名 |
@@ -167,7 +87,7 @@
 | 3/22/2019 | [8000015阻止或取消阻止发件人](/AlchemyInsights/block-or-unblock-senders) | 更名 |
 | 3/22/2019 | [726阻止电子邮件转发](/AlchemyInsights/blocking-email-forwarding) | 更名 |
 | 3/22/2019 | [763阻止用户的 Exchange Online PowerShell 访问](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | 更名 |
-| 3/22/2019 | [了解如何购买 Office 365 商业版的试用版](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | 修改内容 |
+| 3/22/2019 | [从免费试用版购买 Office 365 商业版的订阅](/AlchemyInsights/buy-a-subscription-to-office-365-for-business-from-your-free-trial) | 修改内容 |
 | 3/22/2019 | [购买附加许可证](/AlchemyInsights/buy-additional-licenses) | 修改内容 |
 | 3/22/2019 | [608混合设置的日历信息](/AlchemyInsights/calendar-information-on-hybrid-setups) | 更名 |
 | 3/22/2019 | [613日历发布信息](/AlchemyInsights/calendar-publishing-information) | 更名 |
@@ -263,7 +183,7 @@
 | 3/22/2019 | [通讯组未显示在组列表中](/AlchemyInsights/distribution-group-not-showing-in-groups-list) | 修改内容 |
 | 3/22/2019 | [未显示通讯组列表](/AlchemyInsights/distribution-lists-not-showing) | 修改内容 |
 | 3/22/2019 | [文档上载](/AlchemyInsights/document-upload) | 修改内容 |
-| 3/22/2019 | [不要强制我进行升级。 如何返回到以前的 Office 版本？](/AlchemyInsights/don-t-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version) | 修改内容 |
+| 3/22/2019 | [不要强制我进行升级。如何返回到以前的 Office 版本？](/AlchemyInsights/don-t-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version) | 修改内容 |
 | 3/22/2019 | [下载并安装 Office](/AlchemyInsights/download-and-install-office) | 修改内容 |
 | 3/22/2019 | [1314重复的对象修正](/AlchemyInsights/duplicate-object-remediation) | 更名 |
 | 3/22/2019 | [电子数据展示导出工具](/AlchemyInsights/ediscovery-export-tool) | 修改内容 |
@@ -347,7 +267,7 @@
 | 3/22/2019 | [606有关委派的信息](/AlchemyInsights/information-on-delegation) | 更名 |
 | 3/22/2019 | [609有关导入和导出日历的信息](/AlchemyInsights/information-on-importing-and-exporting-calendars) | 更名 |
 | 3/22/2019 | [安装 Office 2013 通知](/AlchemyInsights/install-office-2013-notification) | 修改内容 |
-| 3/22/2019 | [安装 Skype for Business](/AlchemyInsights/install-skype-for-business) | 修改内容 |
+| 3/22/2019 | [安装 Skype for business](/AlchemyInsights/install-skype-for-business) | 修改内容 |
 | 3/22/2019 | [OneDrive 中的文件名称无效](/AlchemyInsights/invalid-file-names-in-onedrive) | 修改内容 |
 | 3/22/2019 | [1264 IP 被阻止发送太多垃圾邮件 (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | 更名 |
 | 3/22/2019 | [322当用户在发送问题时遇到的问题](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | 更名 |
@@ -370,7 +290,7 @@
 | 3/22/2019 | [管理我的帐单和付款](/AlchemyInsights/manage-my-bill-and-payments) | 修改内容 |
 | 3/22/2019 | [管理我的帐单](/AlchemyInsights/manage-my-bill) | 修改内容 |
 | 3/22/2019 | [管理同步的用户帐户](/AlchemyInsights/manage-synchronized-user-accounts) | 修改内容 |
-| 3/22/2019 | [管理可创建 Office 365 组的人员](/AlchemyInsights/manage-who-can-create-office-365-groups) | 修改内容 |
+| 3/22/2019 | [管理可以创建 Office 365 组的用户](/AlchemyInsights/manage-who-can-create-office-365-groups) | 修改内容 |
 | 3/22/2019 | [管理 SharePoint 或 OneDrive 存储](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | 修改内容 |
 | 3/22/2019 | [将 SharePoint 库映射到网络驱动器](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | 修改内容 |
 | 3/22/2019 | [将 SharePoint 库映射到网络驱动器](/AlchemyInsights/map-sharepoint-library-to-network-drive) | 修改内容 |
@@ -503,4 +423,110 @@
 | 4/2/2019 | SharePoint 中心网站概述 | 相加 |
 | 4/2/2019 | 删除了网站和内容结构 | 相加 |
 | 4/2/2019 | 故障排除错误 404, 找不到文件 | 相加 |
-| 4/3/2019 | [错误代码 550 5.7.705 访问被拒绝, 租户已超出阈值](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | 修改时间 |
+| 4/3/2019 | [错误代码 550 5.7.705 访问被拒绝, 租户已超出阈值](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | 修改内容 |
+
+
+## <a name="week-of-april-08-2019"></a>2019 年 4 月 8 日那周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 4/9/2019 | [将电子邮件移动到存档邮箱](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | 修改内容 |
+| 4/9/2019 | [匿名共享](/AlchemyInsights/anonymous-sharing) | 修改内容 |
+| 4/9/2019 | [一次签入多个文件](/AlchemyInsights/check-in-several-files-at-once) | 修改内容 |
+| 4/9/2019 | [将经典 SharePoint 团队网站连接到组](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | 修改内容 |
+| 4/9/2019 | [在 SharePoint Online 中创建网站](/AlchemyInsights/create-a-site-in-sharepoint-online) | 修改内容 |
+| 4/9/2019 | [创建网站](/AlchemyInsights/create-a-site) | 更名 |
+| 4/9/2019 | [删除 SharePoint 网站](/AlchemyInsights/delete-a-sharepoint-site-0) | 修改内容 |
+| 4/9/2019 | [删除网站](/AlchemyInsights/delete-site-collection) | 修改内容 |
+| 4/9/2019 | [共享文件时的错误消息](/AlchemyInsights/error-message-when-sharing-files) | 修改内容 |
+| 4/9/2019 | [与团队网站的外部共享](/AlchemyInsights/external-sharing-with-a-team-site) | 修改内容 |
+| 4/9/2019 | [如何使用 SharePoint Online 术语库](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | 修改内容 |
+| 4/9/2019 | [在 SharePoint Online 中管理搜索词典](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | 修改内容 |
+| 4/9/2019 | [管理 SharePoint 或 OneDrive 存储](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | 修改内容 |
+| 4/9/2019 | [还原已删除的网站](/AlchemyInsights/restore-a-deleted-site-collection) | 修改内容 |
+| 4/9/2019 | [还原已删除的子网站](/AlchemyInsights/restore-a-deleted-subsite) | 修改内容 |
+| 4/9/2019 | [在 SharePoint 或 OneDrive 中共享文件或文件夹](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | 修改内容 |
+| 4/9/2019 | [SharePoint 存储](/AlchemyInsights/sharepoint-storage) | 修改内容 |
+| 4/9/2019 | [与外部用户共享不起作用](/AlchemyInsights/sharing-with-external-users-isn-t-working) | 修改内容 |
+| 4/9/2019 | [通过新版 OneDrive 同步客户端同步 SharePoint 文件](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | 修改内容 |
+| 4/9/2019 | [启用或禁用网站的外部共享](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | 修改内容 |
+| 4/9/2019 | [为 SharePoint 启用或禁用外部共享](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | 修改内容 |
+| 4/9/2019 | [为 SharePoint 启用或禁用外部共享](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | 修改内容 |
+| 4/9/2019 | 故障排除错误 404, 找不到文件 | 修改内容 |
+| 4/9/2019 | [对 Project Web App 网站的访问被拒绝](/AlchemyInsights/access-denied-to-a-project-online-site) | 相加 |
+| 4/9/2019 | [Project Online 处于只读状态](/AlchemyInsights/project-online-is-in-a-read-only-state) | 相加 |
+| 4/9/2019 | [SharePoint 网站集缺少 Project Web App](/AlchemyInsights/project-web-app-missing-from-site-collection) | 相加 |
+| 4/12/2019 | [1048 5.7.750 服务不可用。阻止从未注册的域发送的客户端](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | 修改内容 |
+| 4/12/2019 | [713将其他电子邮件地址添加到通讯组列表](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | 修改内容 |
+| 4/12/2019 | [718将外部联系人/组织外部人员添加到通讯组列表](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | 修改内容 |
+| 4/12/2019 | [714允许外部发件人发送电子邮件通讯组列表](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | 修改内容 |
+| 4/12/2019 | [717允许用户以通讯组列表的形式发送电子邮件](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | 修改内容 |
+| 4/12/2019 | [1049反垃圾邮件4.5.3 收件人太多 (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | 修改内容 |
+| 4/12/2019 | [1051反垃圾邮件4.7.500 访问被拒绝, 请稍后重试](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | 修改内容 |
+| 4/12/2019 | [1050反垃圾邮件4.7.500 服务器忙碌。请稍后从 [XXX.XXX.XXX.XXX] 重试](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | 修改内容 |
+| 4/12/2019 | [1047反垃圾邮件 550 5.7.708 服务不可用。访问被拒绝, 不接受此 IP 的流量](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | 修改内容 |
+| 4/12/2019 | [500应用密码](/AlchemyInsights/app-passwords) | 修改内容 |
+| 4/12/2019 | [726阻止电子邮件转发](/AlchemyInsights/blocking-email-forwarding) | 修改内容 |
+| 4/12/2019 | [763阻止用户的 Exchange Online PowerShell 访问](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | 修改内容 |
+| 4/12/2019 | [608混合设置的日历信息](/AlchemyInsights/calendar-information-on-hybrid-setups) | 修改内容 |
+| 4/12/2019 | [613日历发布信息](/AlchemyInsights/calendar-publishing-information) | 修改内容 |
+| 4/12/2019 | [618日历共享策略](/AlchemyInsights/calendar-sharing-policy) | 修改内容 |
+| 4/12/2019 | [398日历-预订](/AlchemyInsights/calendarbooking) | 修改内容 |
+| 4/12/2019 | [399日历-代理人](/AlchemyInsights/calendardelegate) | 修改内容 |
+| 4/12/2019 | [400日历-FreeBusy](/AlchemyInsights/calendarfreebusy) | 修改内容 |
+| 4/12/2019 | [402日历-O365Groups](/AlchemyInsights/calendaro365groups) | 修改内容 |
+| 4/12/2019 | [1081日历-RBA 的捕获](/AlchemyInsights/calendarrba-catchall) | 修改内容 |
+| 4/12/2019 | [912为组织中的每个人配置重点收件箱](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | 修改内容 |
+| 4/12/2019 | [761启用 MFA 时连接到 Exchange Online PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | 修改内容 |
+| 4/12/2019 | [760连接到 Exchange Online PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | 修改内容 |
+| 4/12/2019 | [712将通讯组列表转换为 Office 365 组](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | 修改内容 |
+| 4/12/2019 | [711创建通讯组列表或组](/AlchemyInsights/creating-a-distribution-list-or-group) | 修改内容 |
+| 4/12/2019 | [744组织处于混合模式时创建用户](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | 修改内容 |
+| 4/12/2019 | [743创建没有许可证的用户](/AlchemyInsights/creating-users-without-a-license) | 修改内容 |
+| 4/12/2019 | [1065 EOP 出站 IP 地址的弃用 rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | 修改内容 |
+| 4/12/2019 | [1314重复的对象修正](/AlchemyInsights/duplicate-object-remediation) | 修改内容 |
+| 4/12/2019 | [934启用 POP 和 IMAP 帐户](/AlchemyInsights/enable-pop-and-imap-accounts) | 修改内容 |
+| 4/12/2019 | [错误代码 550 5.7.501 访问被拒绝, 检测到垃圾邮件滥用](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | 修改内容 |
+| 4/12/2019 | [错误代码 550 5.7.705 访问被拒绝, 租户已超出阈值](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | 修改内容 |
+| 4/12/2019 | [126在 OWA 中找不到获取邮箱的错误？](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | 修改内容 |
+| 4/12/2019 | [127访问电子邮件时是否收到 TenantAccessBlockedException 错误？](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | 修改内容 |
+| 4/12/2019 | [646如何配置 AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | 修改内容 |
+| 4/12/2019 | [955如何配置 MFA](/AlchemyInsights/how-to-configure-mfa) | 修改内容 |
+| 4/12/2019 | [614如何创建和管理会议室邮箱](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | 修改内容 |
+| 4/12/2019 | [401混合 FreeBusy](/AlchemyInsights/hybridfreebusy) | 修改内容 |
+| 4/12/2019 | [929 deflectTransport 规则的收件箱规则](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | 修改内容 |
+| 4/12/2019 | [922收件箱规则](/AlchemyInsights/inbox-rules) | 修改内容 |
+| 4/12/2019 | [提高邮件迁移的 EWS 限制](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | 相加 |
+| 4/12/2019 | [1264 IP 被阻止发送太多垃圾邮件 (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | 修改内容 |
+| 4/12/2019 | [322当用户在发送问题时遇到的问题](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | 修改内容 |
+| 4/12/2019 | [321当用户未收到电子邮件时出现的问题](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | 修改内容 |
+| 4/12/2019 | [323电子邮件中出现延迟的问题](/AlchemyInsights/issues-with-delays-in-email) | 修改内容 |
+| 4/12/2019 | [324将电子邮件发送到错误目标的问题](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | 修改内容 |
+| 4/12/2019 | [898了解外部日历共享选项](/AlchemyInsights/learn-about-external-calendar-sharing-options) | 修改内容 |
+| 4/12/2019 | [617了解外部共享选项](/AlchemyInsights/learn-about-external-sharing-options) | 修改内容 |
+| 4/12/2019 | [610了解 Office 365 组](/AlchemyInsights/learn-about-office-365-groups) | 修改内容 |
+| 4/12/2019 | [612了解日历和公用文件夹的相关信息](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | 修改内容 |
+| 4/12/2019 | [603了解如何调整议程设置](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | 修改内容 |
+| 4/12/2019 | [723使电子邮件别名成为用户的主要电子邮件](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | 修改内容 |
+| 4/12/2019 | [597 Microsoft 记帐应用](/AlchemyInsights/microsoft-bookings-app) | 修改内容 |
+| 4/12/2019 | [973迁移 StalledDueTo * 规则](/AlchemyInsights/migration-stalleddueto-rule) | 修改内容 |
+| 4/12/2019 | [1581 在 Outlook 网页版中打开和使用共享邮箱](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | 修改内容 |
+| 4/12/2019 | [423 组织安全性 - 泄露的电子邮件帐户](/AlchemyInsights/org-securityemailaccountcompromised) | 修改内容 |
+| 4/12/2019 | [424 Org Security-垃圾邮件误报](/AlchemyInsights/org-securityspam-false-positive) | 修改内容 |
+| 4/12/2019 | [1332 OWA-收件箱规则未对邮箱执行](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | 修改内容 |
+| 4/12/2019 | [182请运行 SaRA 以诊断&amp;解决 Outlook 身份验证问题](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | 修改内容 |
+| 4/12/2019 | [412共享日历时出现策略错误](/AlchemyInsights/policy-error-when-sharing-calendar) | 修改内容 |
+| 4/12/2019 | [408 RBA](/AlchemyInsights/rba) | 修改内容 |
+| 4/12/2019 | [1336 RecoverableItems 文件夹已满](/AlchemyInsights/recoverableitems-folder-is-full) | 修改内容 |
+| 4/12/2019 | [1374解析两个邮箱 howto](/AlchemyInsights/resolve-two-mailboxes-howto) | 修改内容 |
+| 4/12/2019 | [924规则限制](/AlchemyInsights/rule-limits) | 修改内容 |
+| 4/12/2019 | [414搜索体验已更新](/AlchemyInsights/search-experience-updated) | 修改内容 |
+| 4/12/2019 | [902 (由于重复的对象而产生的同步错误)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | 修改内容 |
+| 4/12/2019 | [Spamhaus 阻止了试用版 Office 365 租户](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | 修改内容 |
+| 4/12/2019 | [911关闭客户端中的重点收件箱](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | 修改内容 |
+| 4/12/2019 | [615 共享类型及其设置方法。](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | 修改内容 |
+| 4/12/2019 | [413了解议程邮件](/AlchemyInsights/understanding-agenda-mail) | 修改内容 |
+| 4/12/2019 | [932升级 AADConnect](/AlchemyInsights/upgrading-aadconnect) | 修改内容 |
+| 4/12/2019 | [725在移动设备上使用电子邮件别名](/AlchemyInsights/using-email-alias-on-mobile-device) | 修改内容 |
+| 4/12/2019 | [1554 Winsock 错误10061](/AlchemyInsights/winsock-error-10061) | 修改时间 |
