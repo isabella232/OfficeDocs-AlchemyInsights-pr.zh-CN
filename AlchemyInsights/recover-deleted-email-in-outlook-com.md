@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773727"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980620"
 ---
 # <a name="recover-deleted-email"></a>恢复已删除的电子邮件
 
 1. 在左窗格中, 选择 "**已删除邮件**"。 
     
-2. 选择要恢复的项目并选择 "**恢复**"。 
+2. 选择要恢复的项目并选择 "**还原**"。 
   
  **注意**: 仅当所有邮件都可见时, 才能全选。 这是为了防止对无法看到的邮件执行意外操作。 **按住 CTRL 键并单击**选择单个邮件,**按住 SHIFT 并单击**选中两次单击之间的所有内容。 
     
-3. 如果邮件不在 "已删除邮件" 中, 选择窗口顶部的 "**恢复已删除的邮件**"。 
+3. 如果邮件不在 "已删除邮件" 中, 请从窗口顶部选择 "**恢复从该文件夹删除的项目**"。 
     
  **有关已删除项目的重要信息:**
   
