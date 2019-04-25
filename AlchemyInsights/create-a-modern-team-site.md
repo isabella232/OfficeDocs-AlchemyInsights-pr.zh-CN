@@ -1,5 +1,5 @@
 ---
-title: 创建现代工作组网站
+title: 创建新式团队网站
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: f88df38bc286625c0b2bc20e360e4ce6391e0942
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917522"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407126"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a><span data-ttu-id="ed45b-102">创建 Office 365 组连接的团队网站</span><span class="sxs-lookup"><span data-stu-id="ed45b-102">Create an Office 365 group-connected team site</span></span>
+# <a name="create-an-office-365-group-connected-team-site"></a><span data-ttu-id="3aa0a-102">创建与 Office 365 组连接的团队网站</span><span class="sxs-lookup"><span data-stu-id="3aa0a-102">Create an Office 365 group-connected team site</span></span>
 
-1. <span data-ttu-id="ed45b-p101">单击左上角的应用程序启动器，选择**SharePoint**。如果您看不到 SharePoint 图块，请单击**所有应用程序**。</span><span class="sxs-lookup"><span data-stu-id="ed45b-p101">Click the app launcher in the upper-left corner and select **SharePoint**. If you don't see the SharePoint tile, click **All apps**.</span></span>
+1. <span data-ttu-id="3aa0a-103">单击左上角的应用启动器, 然后选择 " **SharePoint**"。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-103">Click the app launcher in the upper-left corner and select **SharePoint**.</span></span> <span data-ttu-id="3aa0a-104">如果看不到 SharePoint 磁贴, 请单击 "**所有应用**"。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-104">If you don't see the SharePoint tile, click **All apps**.</span></span>
     
-2. <span data-ttu-id="ed45b-105">顶部的 SharePoint 主页上，单击**创建网站**，然后选择**工作组网站**选项。</span><span class="sxs-lookup"><span data-stu-id="ed45b-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
+2. <span data-ttu-id="3aa0a-105">在 SharePoint 主页的顶部, 单击 "**创建网站**", 然后选择 "**团队网站**" 选项。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-105">At the top of the SharePoint home page, click **Create site** and choose the **Team site** option.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="ed45b-p102">如果您看不到创建网站命令，您的组织中可能未启用网站创建。若要启用它，请参阅[管理网站创建](https://go.microsoft.com/fwlink/?linkid=2009644)。</span><span class="sxs-lookup"><span data-stu-id="ed45b-p102">If you don't see the Create site command, site creation may not be enabled in your organization. To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
+    > <span data-ttu-id="3aa0a-106">如果看不到 "创建网站" 命令, 则可能无法在组织中启用网站创建。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-106">If you don't see the Create site command, site creation may not be enabled in your organization.</span></span> <span data-ttu-id="3aa0a-107">若要启用它, 请参阅[管理网站创建](https://go.microsoft.com/fwlink/?linkid=2009644)。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-107">To enable it, see [Manage site creation](https://go.microsoft.com/fwlink/?linkid=2009644).</span></span> 
   
-3. <span data-ttu-id="ed45b-p103">按照屏幕上，命名站点并创建的 Office 365 组中，电子邮件地址上的步骤，然后单击**下一步**。您还可以添加其他组的所有者和成员。单击**完成**。</span><span class="sxs-lookup"><span data-stu-id="ed45b-p103">Follow the steps on the screen to name the site and create an email address for the Office 365 group, and then click **Next**. You can also add other group owners and members. Click **Finish**.</span></span>
+3. <span data-ttu-id="3aa0a-108">按照屏幕上的步骤命名网站并为 Office 365 组创建电子邮件地址, 然后单击 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-108">Follow the steps on the screen to name the site and create an email address for the Office 365 group, and then click **Next**.</span></span> <span data-ttu-id="3aa0a-109">您还可以添加其他组所有者和成员。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-109">You can also add other group owners and members.</span></span> <span data-ttu-id="3aa0a-110">单击“完成”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-110">Click **Finish**.</span></span>
   
- <span data-ttu-id="ed45b-p104">**注意：** 若要创建工作组网站组不连接，请遵循的步骤，但而不是在步骤 2 中选择工作组网站。选择其他选项。这将指导您完成创建一组不工作组网站。</span><span class="sxs-lookup"><span data-stu-id="ed45b-p104">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2. select Other options. This will guide you through creating a Team Site without a group.</span></span> 
+ <span data-ttu-id="3aa0a-111">**注意:** 若要在未连接组的情况下创建团队网站, 请按照上述步骤操作, 而不是在步骤2中选择 "团队网站"。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-111">**Note:** To create a Team Site without a group connected, follow the steps above, but instead of selecting Team Site in Step 2.</span></span> <span data-ttu-id="3aa0a-112">选择 "其他选项"。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-112">select Other options.</span></span> <span data-ttu-id="3aa0a-113">这将指导您在不使用组的情况下创建团队网站。</span><span class="sxs-lookup"><span data-stu-id="3aa0a-113">This will guide you through creating a Team Site without a group.</span></span> 
     
 
