@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759032"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32387977"
 ---
 # <a name="reactivate-a-subscription"></a>重新激活订阅
 
 如果你的订阅过期、已被 Microsoft 禁用或在订阅期限中间取消, 则可以在 Microsoft 365 管理中心中重新激活它。
   
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
+1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
     
 2. 选择要重新激活的订阅, 然后选择 "**重新激活**"。
     

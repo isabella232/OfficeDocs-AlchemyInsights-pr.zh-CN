@@ -1,5 +1,5 @@
 ---
-title: 将一组没有 Exchange 许可证管理
+title: 管理不带 Exchange 许可证的组
 ms.author: dianef
 author: dianef77
 ms.date: 5/23/2018
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.openlocfilehash: c047af885c77df7294c77900126cfaf87d32c6b4
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916658"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409320"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>将一组没有 Exchange 许可证管理
+# <a name="manage-a-group-without-an-exchange-license"></a>管理不带 Exchange 许可证的组
 
-如果您的 Office 365 管理员帐户不具有邮箱，您可能收到有关缺少产品许可证错误，当您尝试编辑 Office 365 组。
+如果您的 office 365 管理员帐户没有邮箱, 则当您尝试编辑 office 365 组时, 可能会收到有关缺少产品许可证的错误消息。
   
-因为您租户管理员，则可能为您要编辑组，即使您没有 Exchange 许可证。只需转到[Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> **组**来管理 Office 365 组。 
+由于你是租户管理员, 因此可以编辑组, 即使你没有 Exchange 许可证也是如此。 只需转到[Exchange 管理中心](https://outlook.office365.com/ecp.aspx) \> **组**即可管理 Office 365 组。 
   
-如果您想要编辑管理中心中的组，将添加到您的管理员帐户的 Exchange 许可证。您需要等待，直到您可以编辑组之前完全创建邮箱。
+如果要编辑管理中心中的组, 请将 Exchange 许可证添加到管理员帐户。 您需要等到邮箱完全创建后, 才能编辑组。
   
 

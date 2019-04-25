@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
 ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906542"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421446"
 ---
 # <a name="setting-up-visio"></a>设置 Visio
 
-您需要使用 Office 365 订阅的帮助设置 Visio 起来。
+看起来你需要使用 Office 365 订阅设置 Visio 的帮助。
   
-针对 Mac 用户通知： Visio 产品此时不可用的 MacOS。如果您有 PC 您应该能够安装该软件，使用下面的步骤。
+请注意, 对于 Mac 用户: Visio 产品目前不可用于 MacOS。 如果你有电脑, 你应该能够按照以下步骤安装软件。
   
 可按照[本文](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx)中的步骤操作来完成设置。 
   
