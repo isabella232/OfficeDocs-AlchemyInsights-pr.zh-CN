@@ -1,5 +1,5 @@
 ---
-title: 不能用于 Mac 平台-项目的 office 产品
+title: Office 产品不适用于 Mac 平台-项目
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7a81baab-dca5-463f-9c1b-336dff507d49
 ms.openlocfilehash: 38d1c36019a2ca135ff94e196d3c356ee19f1a77
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930742"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32419718"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>不能用于 Mac 平台的 office 产品
+# <a name="office-products-not-available-for-the-mac-platform"></a>Office 产品不适用于 Mac 平台
 
-Visio、 项目、 发布者和 Access 不能用于 Mac 平台，但是， [Visio Online](https://products.office.com/visio/visio-online)和[Project Online](https://products.office.com/project/project-online-premium)是提供与所有平台上工作。 
+visio、project、Publisher 和 Access 不适用于 Mac 平台, 但是, [visio online](https://products.office.com/visio/visio-online)和[Project online](https://products.office.com/project/project-online-premium)在所有平台上都可用和工作。 
   
 

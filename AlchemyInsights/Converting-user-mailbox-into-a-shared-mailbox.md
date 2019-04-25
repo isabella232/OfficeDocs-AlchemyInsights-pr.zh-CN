@@ -1,5 +1,5 @@
 ---
-title: 转换共享邮箱的用户邮箱？
+title: 将用户邮箱转换为共享邮箱？
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,19 +10,19 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906722"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374313"
 ---
-如果用户具有的 Exchange 许可证，您仅可以将用户邮箱转换为共享邮箱。转换邮箱后，它将继续显示的活动用户列表中，因为该列表包含共享的邮箱。但是，转换后的邮箱将还显示共享的邮箱列表中。 
+仅当用户拥有 Exchange 许可证时, 才能将用户邮箱转换为共享邮箱。 在转换邮箱后, 它将继续显示在活动用户列表中, 因为该列表包含共享邮箱。 但是, 已转换的邮箱也会显示在共享邮箱列表中。 
   
-如果您尝试将转换 Exchange 管理控制台中的邮箱，并在转换失败，则清除您的浏览器缓存和 cookie 并重试。如果仍无法工作，请尝试将 Exchange 命令行管理程序中的邮箱转换通过运行以下命令：
+如果尝试在 Exchange 管理控制台中转换邮箱, 但转换失败, 请清除您的浏览器缓存和 cookie 并重试。 如果仍不起作用, 请运行以下命令, 尝试在 Exchange 命令行管理程序中转换邮箱:
   
 ```
 Set-Mailbox -Type Shared
 ```
 
-[转换共享邮箱的用户邮箱](https://support.office.com/client/2e122487-e1f5-4f26-ba41-5689249d93ba)中提供邮箱转换的详细信息。
+在 "[将用户邮箱转换为共享邮箱](https://support.office.com/client/2e122487-e1f5-4f26-ba41-5689249d93ba)" 中提供了更多邮箱转换信息。
   
