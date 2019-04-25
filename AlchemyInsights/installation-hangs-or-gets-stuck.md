@@ -1,5 +1,5 @@
 ---
-title: 安装挂起或滞留
+title: 安装挂起或停滞
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e722f6c73cc6da093498ee81dbb8ff0a898524d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29916478"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410148"
 ---
-# <a name="installation-hangs-or-gets-stuck"></a>安装挂起或滞留
+# <a name="installation-hangs-or-gets-stuck"></a>安装挂起或停滞
 
 
 
-您的计算机上，可能会看到由于网络连接、 防病毒软件或 Windows Update 设置此行为。下面是一些事项可以尝试修复问题。
+你可能会看到此行为是由于你的计算机上的网络连接、防病毒软件或 Windows 更新设置所致。 Here are some things you can try to fix the problem.
   
-- 重新启动计算机，并检查是否安装的 Office
+- 重新启动计算机并检查是否已安装 Office
     
-- 使用有线的连接
+- 使用有线连接
     
-- 如果您在较慢的 internet 连接，安装 Office[使用脱机 Office 安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- 如果您使用的是低速 internet 连接, 请[使用 office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 office[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
     
-- 暂时禁用防病毒软件
+- 暂时关闭防病毒软件
     
-- 从控制面板运行联机修复
+- 从 "控制面板" 中运行 "联机修复"
     
 - 删除并重新安装 Office
     
-[Office 长而无法安装](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Office 花费很长时间才能安装](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
 

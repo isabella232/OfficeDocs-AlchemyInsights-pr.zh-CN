@@ -1,5 +1,5 @@
 ---
-title: Credit/退款
+title: 信用/退款
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
 ms.openlocfilehash: 63624f7487292d09034f55a9ec976efa18363a91
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911834"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406604"
 ---
-# <a name="creditrefund"></a>Credit/退款
+# <a name="creditrefund"></a>信用/退款
 
- **取消**
+ **邀请**
   
-取消订阅您会收到与 credit 最终发票截止日期的下一步帐单日期。这可能需要 30 天接收从已取消订阅的日期。
+在取消订阅时, 您将收到最终发票, 在下一个记帐日期到期。 这可能需要30天的时间才能从取消订阅的日期收到。
   
  **座位更改**
   
-当从订阅删除许可证时，将作为下一个清单上 credit 应用这些许可证的未使用的时间。这可能需要 30 天接收从删除许可证的日期。
+从订阅中删除许可证后, 这些许可证上的未使用时间将作为下一张帐单的信用应用。 从许可证删除之日起, 这可能需要最长30天的时间才能收到。
   
 

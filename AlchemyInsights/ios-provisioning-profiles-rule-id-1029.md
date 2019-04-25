@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
 ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914642"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409804"
 ---
 # <a name="ios-provisioning-profiles"></a>iOS 设置配置文件
 
-Apple iOS 的业务线使用一个用来验证应用程序的完整性和强制实施策略配置文件中定义的设置配置文件的概念。这些设置配置文件的 12 个月后过期，因此新的配置文件必须与要继续运行的应用程序的顺序中的部署应用程序相关联。
+Apple iOS 业务线使用设置配置文件的概念, 此配置文件用于验证应用程序的完整性并强制实施配置文件中定义的策略。 这些预配配置文件在12个月后过期, 因此必须将新的配置文件与部署的应用程序相关联, 以便应用继续运行。
   
-下面的文章介绍如何创建新资源调配分析与 iOS 通过 Intune 部署的 LOB 应用程序关联：[使用 iOS 应用程序设置配置文件配置为阻止您从过期的应用程序](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+以下文章介绍了如何创建将新的预配配置文件与通过 Intune 部署的 iOS LOB 应用关联:[使用 ios 应用设置配置文件防止应用程序过期](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   
 

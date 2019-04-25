@@ -1,5 +1,5 @@
 ---
-title: 每日超出限制的电子邮件。工作流是已挂起错误
+title: 超过每日电子邮件限制。 工作流挂起错误
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/16/2018
@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
 ms.openlocfilehash: c463a1f4f7936ff5fb14365a7723bed37003f448
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939950"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406548"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>每日超出限制的电子邮件。工作流是已挂起错误
+# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>超过每日电子邮件限制。 工作流挂起错误
 
- **超出限制的每日电子邮件。暂停工作流**可能出现错误消息，如果您拥有以下各项之一： 
+ **超过每日电子邮件限制。** 如果您有以下项之一, 则可能会出现 "工作流已挂起" 错误消息: 
   
-- 必须在 SharePoint Online 的 SharePoint 2010 或 SharePoint 2013 工作流平台类型使用的工作流。
+- 您在 sharepoint Online 中有一个使用 sharepoint 2010 或 sharepoint 2013 工作流平台类型的工作流。
     
-- 工作流配置为在一次、 每日，拥有超过 10,000 个收件人或每分钟 30 个以上邮件向 200 个以上的用户发送自定义电子邮件。
+- 将工作流配置为将自定义电子邮件一次发送给多于200个用户的用户、每天多于10000个收件人, 或每分钟30封以上的邮件。
     
-- 当您运行的工作流和未发送的电子邮件，您看到错误消息时，将显示**内部的状态设置为已挂起或无法发送给收件人**。 
+- 运行工作流时, 不会发送该电子邮件, 您会看到错误消息, "**内部状态" 设置为 "已挂起" 或 "无法发送给收件人**"。 
     
-有关其他信息，请参阅[超出每日的电子邮件限制和工作流已挂起](https://go.microsoft.com/fwlink/?Linkid=2031137)。
+有关详细信息, 请参阅[已超过每日电子邮件限制和工作流已挂起](https://go.microsoft.com/fwlink/?Linkid=2031137)。
   
