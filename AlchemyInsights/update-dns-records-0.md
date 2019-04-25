@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
 ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758744"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423749"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="eefd0-102">更新 DNS 记录</span><span class="sxs-lookup"><span data-stu-id="eefd0-102">Update DNS Records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="5e26b-102">更新 DNS 记录</span><span class="sxs-lookup"><span data-stu-id="5e26b-102">Update DNS Records</span></span>
 
-<span data-ttu-id="eefd0-103">设置 DNS 记录对 Office 365 订阅与自定义域名的配合使用来说非常重要。</span><span class="sxs-lookup"><span data-stu-id="eefd0-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="eefd0-104">使用下面的链接添加或更新 DNS 记录。</span><span class="sxs-lookup"><span data-stu-id="eefd0-104">Use the links below to add or update your DNS records.</span></span>
+<span data-ttu-id="5e26b-103">设置 DNS 记录对 Office 365 订阅与自定义域名的配合使用来说非常重要。</span><span class="sxs-lookup"><span data-stu-id="5e26b-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="5e26b-104">使用下面的链接添加或更新 DNS 记录。</span><span class="sxs-lookup"><span data-stu-id="5e26b-104">Use the links below to add or update your DNS records.</span></span>
   
-- <span data-ttu-id="eefd0-105">[在 Office 365 中更新 DNS 记录](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)</span><span class="sxs-lookup"><span data-stu-id="eefd0-105">[](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)Update DNS records in the Office 365 admin center</span></span>
+- [<span data-ttu-id="5e26b-105">在 Office 365 中更新 DNS 记录</span><span class="sxs-lookup"><span data-stu-id="5e26b-105">Updating DNS records in Office 365</span></span>](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [<span data-ttu-id="eefd0-106">添加或编辑自定义 DNS 记录</span><span class="sxs-lookup"><span data-stu-id="eefd0-106">Add or edit custom DNS records in Office 365</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [<span data-ttu-id="5e26b-106">添加或编辑自定义 DNS 记录</span><span class="sxs-lookup"><span data-stu-id="5e26b-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 

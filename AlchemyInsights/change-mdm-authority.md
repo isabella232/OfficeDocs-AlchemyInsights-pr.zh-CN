@@ -1,5 +1,5 @@
 ---
-title: 更改 MDM 证书颁发机构
+title: 更改 MDM 颁发机构
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: c869609fa4527f46121eda563e0735378bcb0d3d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913454"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394586"
 ---
-# <a name="change-intune-mdm-authority"></a><span data-ttu-id="05559-102">更改 Intune MDM 证书颁发机构</span><span class="sxs-lookup"><span data-stu-id="05559-102">Change Intune MDM authority</span></span>
+# <a name="change-intune-mdm-authority"></a><span data-ttu-id="9700e-102">更改 Intune MDM 颁发机构</span><span class="sxs-lookup"><span data-stu-id="9700e-102">Change Intune MDM authority</span></span>
 
-<span data-ttu-id="05559-p101">您可以更改您 MDM 证书颁发机构，而无需打开支持案例。请参阅以下文档的说明：</span><span class="sxs-lookup"><span data-stu-id="05559-p101">You can change your MDM authority without opening a support case. See the following documents for instructions:</span></span>
+<span data-ttu-id="9700e-103">您可以在不打开支持案例的情况下更改您的 MDM 颁发机构。</span><span class="sxs-lookup"><span data-stu-id="9700e-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="9700e-104">有关说明, 请参阅以下文档:</span><span class="sxs-lookup"><span data-stu-id="9700e-104">See the following documents for instructions:</span></span>
   
-- [<span data-ttu-id="05559-105">更改为 Intune 独立的 MDM 证书颁发机构从配置管理器</span><span class="sxs-lookup"><span data-stu-id="05559-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [<span data-ttu-id="9700e-105">将 MDM 颁发机构从配置管理器更改为 Intune 独立</span><span class="sxs-lookup"><span data-stu-id="9700e-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [<span data-ttu-id="05559-106">从 Intune 独立安装到配置管理器中更改 MDM 证书颁发机构</span><span class="sxs-lookup"><span data-stu-id="05559-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [<span data-ttu-id="9700e-106">将 MDM 颁发机构从 Intune 独立更改为 Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="9700e-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- <span data-ttu-id="05559-107">**MDM 证书颁发机构共存**</span><span class="sxs-lookup"><span data-stu-id="05559-107">**MDM Authority Co-Existence**</span></span>
+ <span data-ttu-id="9700e-107">**MDM 颁发机构共存**</span><span class="sxs-lookup"><span data-stu-id="9700e-107">**MDM Authority Co-Existence**</span></span>
   
-- <span data-ttu-id="05559-108">如果已启用的 Office 365 MDM，但您想要尝试 Intune mdm。，您可以同时具有活动这两个 MDM 颁发机构</span><span class="sxs-lookup"><span data-stu-id="05559-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
+- <span data-ttu-id="9700e-108">如果已启用 Office 365 mdm 但想要尝试 Intune MDM, 则可以同时激活这两个 mdm 颁发机构。</span><span class="sxs-lookup"><span data-stu-id="9700e-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
     
-- <span data-ttu-id="05559-109">管理员已 O365 MDM 活动只是将 Intune MDM 标记为活动从 Azure 门户。</span><span class="sxs-lookup"><span data-stu-id="05559-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
+- <span data-ttu-id="9700e-109">已拥有 O365 MDM 活动的管理员只需将 Intune mdm 标记为在 Azure 门户中处于活动状态即可。</span><span class="sxs-lookup"><span data-stu-id="9700e-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
     
-- <span data-ttu-id="05559-110">如果您具有 Intune MDM，但希望使用的 Office 365 MDM： 请打开下面票证，支持代理将帮助您启用此。</span><span class="sxs-lookup"><span data-stu-id="05559-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
+- <span data-ttu-id="9700e-110">如果你有 Intune mdm 但想要使用 Office 365 MDM: 请在下面打开一个票证, 支持代理将帮助你为你启用此项。</span><span class="sxs-lookup"><span data-stu-id="9700e-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
     
 
