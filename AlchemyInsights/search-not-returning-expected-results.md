@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
 ms.openlocfilehash: 517d9b75fc3aef09c0c2d5870aa695cc0ab10f06
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30776072"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32383825"
 ---
 # <a name="content-search-not-returning-expected-results"></a>内容搜索未返回预期结果
 

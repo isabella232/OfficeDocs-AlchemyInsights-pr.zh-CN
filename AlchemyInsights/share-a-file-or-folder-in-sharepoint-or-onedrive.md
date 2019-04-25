@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
 ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747840"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370388"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 中共享文件或文件夹
 
@@ -28,12 +28,12 @@ ms.locfileid: "31747840"
   - 虽然其他人可能已经拥有访问权限, 但**特定人员**只会向您指定的人员授予访问权限。 如果人转发共享邀请, 则只有已有权访问该项目的人员才能使用该链接。 
     
     > [!NOTE]
-    > 如果这些选项之一不可用, 或者您希望在默认情况下显示不同的链接类型, 则可以通过转到新的 SharePoint 管理中心并在左窗格中单击 "**共享**" 来更改组织范围的设置。 [了解更多信息](https://go.microsoft.com/fwlink/?linkid=866426)
+    > 如果这些选项之一不可用, 或者您希望在默认情况下显示不同的链接类型, 则可以通过转到新的 SharePoint 管理中心并在左窗格中单击 "**共享**" 来更改组织范围的设置。 [了解更多](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. 默认情况下,**允许编辑**处于打开状态。 如果您希望用户只能查看您的文件, 请清除该复选框。 
     
 4. 如果需要, 请输入要与之共享的人员的姓名和消息。
     
-5. 单击 **"发送"**。 
+5. 单击“发送”****。 
     
 
