@@ -1,5 +1,5 @@
 ---
-title: Intune 应用程序部署规则 Id 991
+title: Intune 应用部署规则 Id 991
 ms.author: pebaum
 author: pebaum
 ms.date: 9/10/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
 ms.openlocfilehash: c99070e484313464e5f6b92447930a62c90ef655
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941606"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410040"
 ---
-# <a name="intune-app-deployment"></a>Intune 应用程序部署
+# <a name="intune-app-deployment"></a>Intune 应用部署
 
-部署使用 Intune 应用程序是一个三个步骤的过程：
+使用 Intune 部署应用程序的过程分为三个步骤:
   
-1. **添加应用程序**-您可以添加应用程序商店应用程序或上载业务线应用程序。 
+1. **添加应用**程序-您可以添加应用商店应用程序或上载业务线应用程序。 
     
-2. **分配应用程序**-确定部署应用程序的范围。 
+2. **分配**应用程序-确定应用程序部署的范围。 
     
-3. **监视应用程序**-查看应用程序的安装状态、 列表发现应用程序和管理从应用程序商店购买的应用程序。 
+3. **监视应用**-查看应用程序的安装状态、列出发现的应用程序, 并管理从应用商店购买的应用程序。 
     
-阅读有关演练和有关配置和保护应用程序信息的[什么是 Intune 应用程序管理](https://docs.microsoft.com/intune/app-management)。 
+阅读[Intune 应用程序管理](https://docs.microsoft.com/intune/app-management), 以了解有关配置和保护应用程序的演练和信息。 
   
 

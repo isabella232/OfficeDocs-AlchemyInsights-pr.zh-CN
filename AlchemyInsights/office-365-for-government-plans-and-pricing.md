@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
 ms.openlocfilehash: c7fffc223bbb89d5ab4d6a1e290b9b6f7df3bd91
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764826"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388682"
 ---
 Office 365 美国政府版计划旨在满足美国政府组织的独特需求。 它们在分段的政府云社区中提供了 Office 365 服务的所有特性和功能, 使组织能够满足美国法规遵从性和安全标准。
   

@@ -1,5 +1,5 @@
 ---
-title: 从 SharePoint Online 术语库缺少的术语
+title: SharePoint Online 术语库中缺少术语
 ms.author: kirks
 author: Techwriter40
 ms.date: 10/30/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
 ms.openlocfilehash: 3378eaac63103bf2499fd989d3878b00bab900cf
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935028"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420618"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>从 SharePoint Online 术语库缺少的术语
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>SharePoint Online 术语库中缺少术语
 
-SharePoint Online 您期望看到的术语库不显示或中的条款间歇性显示。
+您希望看到的 SharePoint Online 术语库中的术语不会显示或间歇性显示。
   
-如果超过 24 小时过去后第一次看到此问题，请登录支持案例。我们了解 24 小时可能看起来像很长时间。在许多情况下，我们已经在处理解决方案因此请向我们提供至少 24 小时。
+如果在你首次看到此问题后超过了24小时, 请记录一种支持案例。 我们了解24小时似乎可能会很长时间。 在很多情况下, 我们已经在处理解决方案, 因此请至少为我们提供24小时。
   
 
