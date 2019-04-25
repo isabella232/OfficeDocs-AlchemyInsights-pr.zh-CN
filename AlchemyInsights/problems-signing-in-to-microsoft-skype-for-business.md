@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 028e76e7-9701-4450-9fc9-f40232e8e68e
 ms.openlocfilehash: 264ddc388927f94da492a8d5ddffd6f6f1fb744e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752156"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371902"
 ---
 # <a name="problems-signing-in-to-microsoft-skype-for-business"></a>登录到 Microsoft Skype for business 时出现问题
 
