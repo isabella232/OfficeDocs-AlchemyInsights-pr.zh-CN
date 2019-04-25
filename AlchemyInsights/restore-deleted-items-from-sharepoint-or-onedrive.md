@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
 ms.openlocfilehash: 6076582a5d7fbcde47e8d281ecc649c97d8edfbc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767382"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422244"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>从 SharePoint 或 OneDrive 还原已删除的项目
 

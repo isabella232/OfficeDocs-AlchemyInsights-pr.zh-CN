@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935591"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405614"
 ---
 # <a name="delete-a-sharepoint-site"></a>删除 SharePoint 网站
 **从新 SharePoint 管理中心删除网站**通过使用新的 SharePoint 管理中心, 可以删除经典和新式网站。 选择 "**活动网站**", 选择网站, 然后选择 "**删除**"。 若要[在新 SharePoint 管理中心中查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), 请选择 "**已删除网站**"。 有关详细信息, 请参阅[在新 SharePoint 管理中心删除网站](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)。

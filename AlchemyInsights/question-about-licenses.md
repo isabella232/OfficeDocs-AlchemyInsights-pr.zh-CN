@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
 ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760292"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371432"
 ---
 # <a name="question-about-licenses"></a>有关许可证的问题
 
 如果您想要了解已购买的许可证数量, 或者分配了订阅的许可证数量, 请执行以下操作:
   
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
+1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
     
 2. 选择您想要详细了解的订阅。
     

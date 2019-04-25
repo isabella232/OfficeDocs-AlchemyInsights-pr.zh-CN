@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
 ms.openlocfilehash: 17a7c692ae98bca407b9313fa9c9f21014d159fa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913346"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370155"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>与外部用户共享通信网站
 
-若要打开共享通信网站的外部用户，请按照下列步骤： 
+若要为通信网站启用外部用户共享, 请按照以下步骤操作: 
   
-1. 打开**现代 Admin Center** -如果您在经典管理中心您将看到**立即尝试**或 * * 尝试预览 * * 从右上角的按钮。这会将您导引到现代 Admin Center。 
+1. 打开**新式管理中心**-如果你在经典管理中心, 你将看到 "**立即试用**" 或 * * 从右上方试用 "预览 * *" 按钮。 这将转到新式管理中心。 
   
-2. 选择**活动网站。**
+2. 选择 "**活动网站"。**
   
-3. 选择的具有**通信网站模板**的网站。 
+3. 选择具有**通信网站模板**的网站。 
   
-4. 从顶部菜单中选择**共享**按钮。 
+4. 从顶部菜单中选择 "**共享**" 按钮。 
   
- **注意：** 如果您有多个站点选择，将显示**共享**按钮为禁用。选择只有一个站点。 
+ **注意:** 如果选择了多个网站, 则 "**共享**" 按钮将显示为禁用状态。 仅选择一个站点。 
   
 

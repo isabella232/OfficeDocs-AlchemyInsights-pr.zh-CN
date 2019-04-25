@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 1370
 ms.assetid: ''
 ms.openlocfilehash: 93f8a192af6e689e2b2d04013f35b8da2b69e607
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31909061"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416700"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>已删除电子邮件的审核日志
 

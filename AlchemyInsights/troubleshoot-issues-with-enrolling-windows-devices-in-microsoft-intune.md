@@ -1,5 +1,5 @@
 ---
-title: 解决问题注册 Microsoft Intune 中的 Windows 设备
+title: 解决在 Microsoft Intune 中注册 Windows 设备时出现的问题
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,36 +10,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.openlocfilehash: aa2262ed487ae4160f13490e92163a145e657862
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934766"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390633"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>解决问题注册 Microsoft Intune 中的 Windows 设备
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>解决在 Microsoft Intune 中注册 Windows 设备时出现的问题
 
-查看下列来解决此问题现在资源。 
+立即查看下面列出的资源, 以解决问题。 
   
-某些常见错误消息和解决步骤：
+一些常见的错误消息和解决步骤:
   
- **无法安装该软件，0x80cf4017:** 帐户证书已过期。重新下载 PC 客户端软件程序包 Intune 管理控制台中。查看此文档的详细信息。 
+ **无法安装软件, 0x80cf4017:** 你的帐户证书已过期。 在 Intune 管理控制台中重新下载 PC 客户端软件程序包。 有关详细信息, 请参阅本文档。 
   
- **错误代码 0x801c0003:** 在下列情况下可能会发生错误： 
+ **错误代码 0x801c0003:** 在下列情况下可能会发生此错误: 
   
-1. 用户具有更多注册超过设备限制的设备。查看这些文档给[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
+1. 用户已注册的设备超过设备限制。 查看这些文档以[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
     
-2. "ヘ ・ 络设备到 Azure AD"设置为"none"。设置为 all，或选择用户。查看[此文档](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)的详细信息。 
+2. "用户可以将设备加入 Azure AD" 设置为 "无"。 将其设置为 "所有用户" 或 "选择用户"。 有关详细信息, 请参阅[本文档](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)。 
     
-3. 已由另一个用户注册设备。如果是这样，从 Azure Intune 控制台删除设备或手动 unenroll 设备，然后重试。
+3. 设备已由其他用户注册。 如果是这种情况, 请从 Azure Intune 控制台中删除该设备, 或手动取消注册该设备, 然后重试。
     
-4. 设备是主 Windows 10。只有 Windows 10 专业人员、 培训和企业 Sku 可以加入 Azure Active Directory。
+4. 设备是 Windows 10 家庭版。 仅 Windows 10 专业版、教育版和企业版 sku 可以加入 Azure Active Directory。
     
-更多资源以帮助解决您的问题：
+帮助解决你的问题的其他资源:
   
-1. 使用[Intune 疑难解答门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册失败。查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)的详细信息。 
+1. 使用[Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册故障。 有关详细信息, 请查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)。 
     
-2. 查看这些文档中的每个阻止注册和解析的常见错误列表：[疑难解答指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
+2. 查看这些文档, 了解阻止对每个的注册和解决的常见错误的列表:[故障排除指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
     
-[了解如何注册 Microsoft Intune 中的 Windows 设备](https://docs.microsoft.com/intune/windows-enroll)。
+[了解如何在 Microsoft Intune 中注册 Windows 设备](https://docs.microsoft.com/intune/windows-enroll)。
   
 

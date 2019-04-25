@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918427"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423625"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>将域名称服务器更新为 Office 365
 
-注意： 名称服务器更改有时需要花 48 小时传播。
+注意：名称服务器更改有时候需要长达 48 小时才能进行传播。
   
 若要在 Office 365 中设置域，需要更新注册机构中的名称服务器。创建或编辑域注册机构中的名称服务器记录。
   

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
 ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 601aec31e6556286fe5e0fd62827a037cbb6fe17
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31030894"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403023"
 ---
 # <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>为 SharePoint Online、OneDrive 和 Microsoft 团队启用 Office 365 高级威胁防护
 

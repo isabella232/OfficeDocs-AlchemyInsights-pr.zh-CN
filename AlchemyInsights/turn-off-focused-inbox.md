@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000001
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
 ms.openlocfilehash: b508cc597219789965f7ece26e55b0c1149a02dc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773377"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389642"
 ---
 # <a name="turn-off-focused-inbox"></a>关闭重点收件箱
 
@@ -24,7 +24,7 @@ ms.locfileid: "30773377"
     
 2. 在 "**收到电子邮件时**" 下, 选择 "**不对邮件进行排序**"。
     
-3. 选择“**确定**”。
+3. 选择“确定”****。
     
 若要了解详细信息, 请参阅[适用于 Outlook 的重点收件箱](https://go.microsoft.com/fwlink/p/?linkid=873108)。
   
