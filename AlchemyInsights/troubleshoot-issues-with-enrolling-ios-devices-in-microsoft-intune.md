@@ -1,5 +1,5 @@
 ---
-title: 解决问题注册 Microsoft Intune 在 iOS 设备
+title: 解决在 Microsoft Intune 中注册 iOS 设备的问题
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: d28dca4fccf823e627dd179f828ba3b8baf843a6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924758"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390997"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a><span data-ttu-id="f4e24-102">解决问题注册 Microsoft Intune 在 iOS 设备</span><span class="sxs-lookup"><span data-stu-id="f4e24-102">Troubleshoot issues with enrolling iOS devices in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a><span data-ttu-id="29565-102">解决在 Microsoft Intune 中注册 iOS 设备的问题</span><span class="sxs-lookup"><span data-stu-id="29565-102">Troubleshoot issues with enrolling iOS devices in Microsoft Intune</span></span>
 
-<span data-ttu-id="f4e24-103">查看下列来解决此问题现在资源。</span><span class="sxs-lookup"><span data-stu-id="f4e24-103">Review the resources listed below to resolve your issue now.</span></span> 
+<span data-ttu-id="29565-103">立即查看下面列出的资源, 以解决问题。</span><span class="sxs-lookup"><span data-stu-id="29565-103">Review the resources listed below to resolve your issue now.</span></span> 
   
-<span data-ttu-id="f4e24-104">某些常见错误消息和解决步骤：</span><span class="sxs-lookup"><span data-stu-id="f4e24-104">Some common error messages and resolution steps:</span></span>
+<span data-ttu-id="29565-104">一些常见的错误消息和解决步骤:</span><span class="sxs-lookup"><span data-stu-id="29565-104">Some common error messages and resolution steps:</span></span>
   
-- <span data-ttu-id="f4e24-p101">**设备帽达到**用户具有更多注册超过设备限制的设备。查看这些文档给[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。</span><span class="sxs-lookup"><span data-stu-id="f4e24-p101">**Device Cap Reached** The user has more devices enrolled than the device limit. Review these documents to [remove a device](https://docs.microsoft.com/intune/devices-wipe) or [change the device limit](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).</span></span>
+- <span data-ttu-id="29565-105">已**达到设备上限**用户已注册的设备超过设备限制。</span><span class="sxs-lookup"><span data-stu-id="29565-105">**Device Cap Reached** The user has more devices enrolled than the device limit.</span></span> <span data-ttu-id="29565-106">查看这些文档以[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。</span><span class="sxs-lookup"><span data-stu-id="29565-106">Review these documents to [remove a device](https://docs.microsoft.com/intune/devices-wipe) or [change the device limit](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).</span></span>
     
-- <span data-ttu-id="f4e24-p102">不支持**此服务。没有注册策略：** Apple 推送通知服务 (APNS) 需要配置或续订。查看[此文档](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)有关执行该操作的说明。</span><span class="sxs-lookup"><span data-stu-id="f4e24-p102">**This Service is not supported. No Enrollment Policy:** Apple Push Notification Service (APNS) needs to be configured or renewed. Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for instructions on how to do that.</span></span> 
+- <span data-ttu-id="29565-107">**不支持此服务。无注册策略:** 需要配置或续订 Apple 推送通知服务 (APNS)。</span><span class="sxs-lookup"><span data-stu-id="29565-107">**This Service is not supported. No Enrollment Policy:** Apple Push Notification Service (APNS) needs to be configured or renewed.</span></span> <span data-ttu-id="29565-108">查看[此文档](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)以了解如何执行此操作的说明。</span><span class="sxs-lookup"><span data-stu-id="29565-108">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) for instructions on how to do that.</span></span> 
     
-- <span data-ttu-id="f4e24-p103">**用户许可证类型无效或无法识别用户名称：** 用户需要分配一个 Intune 或 EMS 许可证。查看这些文档，以将通过许可证分配： [Office 管理中心](https://docs.microsoft.com/intune/licenses-assign)或[Azure 门户](https://docs.microsoft.com/azure/active-directory/license-users-groups)。</span><span class="sxs-lookup"><span data-stu-id="f4e24-p103">**User License Type Invalid or User Name Not Recognized:** The user needs to be assigned an Intune or EMS license. Review these documents to assign a license through: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) or [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).</span></span>
+- <span data-ttu-id="29565-109">**用户许可证类型无效或无法识别用户名称:** 需要向用户分配 Intune 或 EMS 许可证。</span><span class="sxs-lookup"><span data-stu-id="29565-109">**User License Type Invalid or User Name Not Recognized:** The user needs to be assigned an Intune or EMS license.</span></span> <span data-ttu-id="29565-110">查看这些文档以通过以下步骤分配许可证: [Office 管理中心](https://docs.microsoft.com/intune/licenses-assign)或[Azure 门户](https://docs.microsoft.com/azure/active-directory/license-users-groups)。</span><span class="sxs-lookup"><span data-stu-id="29565-110">Review these documents to assign a license through: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) or [Azure portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).</span></span>
     
-<span data-ttu-id="f4e24-111">更多资源以帮助解决您的问题：</span><span class="sxs-lookup"><span data-stu-id="f4e24-111">Additional resources to help resolve your issue:</span></span>
+<span data-ttu-id="29565-111">帮助解决你的问题的其他资源:</span><span class="sxs-lookup"><span data-stu-id="29565-111">Additional resources to help resolve your issue:</span></span>
   
-1. <span data-ttu-id="f4e24-p104">使用[Intune 疑难解答门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册失败。查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)的详细信息。</span><span class="sxs-lookup"><span data-stu-id="f4e24-p104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures. Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
+1. <span data-ttu-id="29565-112">使用[Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册故障。</span><span class="sxs-lookup"><span data-stu-id="29565-112">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="29565-113">有关详细信息, 请查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)。</span><span class="sxs-lookup"><span data-stu-id="29565-113">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span> 
     
-2. <span data-ttu-id="f4e24-114">查看这些文档中的每个阻止注册和解析的常见错误列表：[疑难解答指南](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。</span><span class="sxs-lookup"><span data-stu-id="f4e24-114">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
+2. <span data-ttu-id="29565-114">查看这些文档, 了解阻止对每个的注册和解决的常见错误的列表:[故障排除指南](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。</span><span class="sxs-lookup"><span data-stu-id="29565-114">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).</span></span>
     
-3. <span data-ttu-id="f4e24-115">[了解如何注册 Microsoft Intune 在 iOS 设备](https://docs.microsoft.com/intune/ios-enroll)。</span><span class="sxs-lookup"><span data-stu-id="f4e24-115">[Learn how to enroll iOS devices in Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).</span></span>
+3. <span data-ttu-id="29565-115">[了解如何在 Microsoft Intune 中注册 iOS 设备](https://docs.microsoft.com/intune/ios-enroll)。</span><span class="sxs-lookup"><span data-stu-id="29565-115">[Learn how to enroll iOS devices in Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).</span></span>
     
 
