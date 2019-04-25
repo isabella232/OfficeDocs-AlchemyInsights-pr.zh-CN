@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: 8000009
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
 ms.openlocfilehash: a26f041d658f202876f4c03f6b4309133ced8b77
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787622"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407402"
 ---
-# <a name="create-a-folder"></a><span data-ttu-id="16bc0-102">创建文件夹</span><span class="sxs-lookup"><span data-stu-id="16bc0-102">Create a folder</span></span>
+# <a name="create-a-folder"></a><span data-ttu-id="3fb66-102">创建文件夹</span><span class="sxs-lookup"><span data-stu-id="3fb66-102">Create a folder</span></span>
 
-1. <span data-ttu-id="16bc0-103">在左窗格中, 选择 "**文件夹**" 旁边的 "**新建文件夹**"。</span><span class="sxs-lookup"><span data-stu-id="16bc0-103">In the left pane, select **Create New Folder** next to **Folders**.</span></span> 
+1. <span data-ttu-id="3fb66-103">在左窗格中, 选择 "**文件夹**" 旁边的 "**新建文件夹**"。</span><span class="sxs-lookup"><span data-stu-id="3fb66-103">In the left pane, select **Create New Folder** next to **Folders**.</span></span> 
     
-2. <span data-ttu-id="16bc0-104">在 "新建文件夹" 框中, 输入文件夹的名称, 然后按 enter。</span><span class="sxs-lookup"><span data-stu-id="16bc0-104">In the new folder box, enter a name for the folder and press Enter.</span></span>
+2. <span data-ttu-id="3fb66-104">在 "新建文件夹" 框中, 输入文件夹的名称, 然后按 enter。</span><span class="sxs-lookup"><span data-stu-id="3fb66-104">In the new folder box, enter a name for the folder and press Enter.</span></span>
     
-<span data-ttu-id="16bc0-105">若要了解详细信息, 请参阅[在 Outlook.com 中创建文件夹](https://go.microsoft.com/fwlink/p/?linkid=873114)。</span><span class="sxs-lookup"><span data-stu-id="16bc0-105">To learn more, see [Create a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span></span>
+<span data-ttu-id="3fb66-105">若要了解详细信息, 请参阅[在 Outlook.com 中创建文件夹](https://go.microsoft.com/fwlink/p/?linkid=873114)。</span><span class="sxs-lookup"><span data-stu-id="3fb66-105">To learn more, see [Create a folder in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873114).</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: 诉讼保留或在位置保持信息
+title: 有关诉讼保留或就地保留的信息
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
 ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926918"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410400"
 ---
-- <span data-ttu-id="30e96-p101">应用诉讼保留或就地保留邮箱到[Exchange Online 计划 2 许可证](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)是必需的。如果您有任何其他计划，请向帐户分配单独的[Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)许可证。</span><span class="sxs-lookup"><span data-stu-id="30e96-p101">To apply a litigation hold or an in-place hold to a mailbox, an [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required. If you have any other Plan, assign a separate [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) license to the account.</span></span> 
+- <span data-ttu-id="f00a0-102">若要将诉讼保留或就地保留应用到邮箱, 需要[Exchange Online 计划2许可证](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options)。</span><span class="sxs-lookup"><span data-stu-id="f00a0-102">To apply a litigation hold or an in-place hold to a mailbox, an [Exchange Online Plan 2 license](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) is required.</span></span> <span data-ttu-id="f00a0-103">如果你有任何其他计划, 请为帐户分配单独的[Exchange Online 存档](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)许可证。</span><span class="sxs-lookup"><span data-stu-id="f00a0-103">If you have any other Plan, assign a separate [Exchange Online Archiving](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) license to the account.</span></span> 
     
-- <span data-ttu-id="30e96-p102">**若要启用诉讼保留**为单个用户，请按照列出的步骤，[此处](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。启用诉讼保留时，在邮箱中的所有内容将都置于保持状态。</span><span class="sxs-lookup"><span data-stu-id="30e96-p102">**To enable a litigation hold** for a single User, follow the steps outlined [here](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). When litigation hold is enabled, all content in the mailbox is placed on hold.</span></span>
+- <span data-ttu-id="f00a0-104">**若要为单个用户启用诉讼保留**, 请按照[此处](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)所述的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="f00a0-104">**To enable a litigation hold** for a single User, follow the steps outlined [here](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold).</span></span> <span data-ttu-id="f00a0-105">启用诉讼保留时, 会将邮箱中的所有内容置于保留状态。</span><span class="sxs-lookup"><span data-stu-id="f00a0-105">When litigation hold is enabled, all content in the mailbox is placed on hold.</span></span>
     
-- <span data-ttu-id="30e96-106">要应用于**整个组织中的所有邮箱**的**单个用户的就地保留**或保持，您可以使用保留策略中的 Office 365 安全性和合规性中心按照步骤分级显示[此处](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )。</span><span class="sxs-lookup"><span data-stu-id="30e96-106">To apply an **in-place hold on single users** or a hold to **all mailboxes in the entire Organization**, you can use Retention Policies in the Office 365 Security and Compliance center by following the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).</span></span>
+- <span data-ttu-id="f00a0-106">若要对**整个组织中的所有邮箱**应用**就地保留**或保留到整个组织中的所有邮箱, 可以按照[此处](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )所述的步骤在 Office 365 安全与合规中心中使用保留策略。</span><span class="sxs-lookup"><span data-stu-id="f00a0-106">To apply an **in-place hold on single users** or a hold to **all mailboxes in the entire Organization**, you can use Retention Policies in the Office 365 Security and Compliance center by following the steps outlined [here](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="30e96-107">组织范围的保留策略，为新用户将自动添加到保留项。</span><span class="sxs-lookup"><span data-stu-id="30e96-107">For Org-wide retention policies, new users will be automatically added to the hold.</span></span> 
+    > <span data-ttu-id="f00a0-107">对于组织范围内的保留策略, 新用户将自动添加到保留。</span><span class="sxs-lookup"><span data-stu-id="f00a0-107">For Org-wide retention policies, new users will be automatically added to the hold.</span></span> 
   
-- <span data-ttu-id="30e96-p103">若要查看或发现将置于保持状态的邮箱内容，请使用**电子数据展示搜索和导出**。有关使用**电子数据展示搜索和导出**的信息，请按照步骤分级显示[此处](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。</span><span class="sxs-lookup"><span data-stu-id="30e96-p103">To view or discover the mailbox content that is placed on hold, use **eDiscovery Search and Export**. For information on using **eDiscovery Search and Export**, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
+- <span data-ttu-id="f00a0-108">若要查看或发现处于保留状态的邮箱内容, 请使用**电子数据展示搜索和导出**。</span><span class="sxs-lookup"><span data-stu-id="f00a0-108">To view or discover the mailbox content that is placed on hold, use **eDiscovery Search and Export**.</span></span> <span data-ttu-id="f00a0-109">若要了解如何使用**电子数据展示搜索和导出**, 请按照[此处](https://docs.microsoft.com/office365/securitycompliance/export-search-results)所述的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="f00a0-109">For information on using **eDiscovery Search and Export**, follow the steps outlined [here](https://docs.microsoft.com/office365/securitycompliance/export-search-results).</span></span>
     
 

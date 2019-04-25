@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab08e594-ded6-4ad8-a0e1-b365960a4293
 ms.openlocfilehash: c38c3f9156c87ef15cd01abfc77d181978c28887
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762738"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407768"
 ---
-# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="f5cbb-102">将用户邮箱转换为会议室邮箱或设备邮箱</span><span class="sxs-lookup"><span data-stu-id="f5cbb-102">Convert a user mailbox to a room or equipment mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="ed2ff-102">将用户邮箱转换为会议室邮箱或设备邮箱</span><span class="sxs-lookup"><span data-stu-id="ed2ff-102">Convert a user mailbox to a room or equipment mailbox</span></span>
 
-<span data-ttu-id="f5cbb-103">您还可以将邮箱从一种邮箱类型转换为另一种, 但必须使用 Exchange Online PowerShell 执行这些任务。</span><span class="sxs-lookup"><span data-stu-id="f5cbb-103">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell.</span></span> <span data-ttu-id="f5cbb-104">有关详细信息, 请参阅[转换邮箱](https://go.microsoft.com/fwlink/p/?LinkId=832875)。</span><span class="sxs-lookup"><span data-stu-id="f5cbb-104">Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
+<span data-ttu-id="ed2ff-103">您还可以将邮箱从一种邮箱类型转换为另一种, 但必须使用 Exchange Online PowerShell 执行这些任务。</span><span class="sxs-lookup"><span data-stu-id="ed2ff-103">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell.</span></span> <span data-ttu-id="ed2ff-104">有关详细信息, 请参阅[转换邮箱](https://go.microsoft.com/fwlink/p/?LinkId=832875)。</span><span class="sxs-lookup"><span data-stu-id="ed2ff-104">Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
   
 

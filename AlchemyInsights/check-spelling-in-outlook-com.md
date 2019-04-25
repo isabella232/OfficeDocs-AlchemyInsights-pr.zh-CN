@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: 8000007
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
 ms.openlocfilehash: 3da029ce22ed0484af38d953f83eb89bdc96fcba
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787552"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32408385"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="07e32-102">使用浏览器检查拼写</span><span class="sxs-lookup"><span data-stu-id="07e32-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="9f21a-102">使用浏览器检查拼写</span><span class="sxs-lookup"><span data-stu-id="9f21a-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="07e32-103">Outlook.com 中没有拼写检查选项。</span><span class="sxs-lookup"><span data-stu-id="07e32-103">There is no spell check option in Outlook.com.</span></span> <span data-ttu-id="07e32-104">若要检查拼写, 您需要使用 web 浏览器。</span><span class="sxs-lookup"><span data-stu-id="07e32-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="07e32-105">在 Microsoft Edge、Internet Explorer 10 及更高版本以及 Firefox、Chrome 和 Safari 的当前版本中均提供拼写检查。</span><span class="sxs-lookup"><span data-stu-id="07e32-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="07e32-106">检查 web 浏览器的选项以了解有关如何检查拼写的详细信息。</span><span class="sxs-lookup"><span data-stu-id="07e32-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="9f21a-103">Outlook.com 中没有拼写检查选项。</span><span class="sxs-lookup"><span data-stu-id="9f21a-103">There is no spell check option in Outlook.com.</span></span> <span data-ttu-id="9f21a-104">若要检查拼写, 您需要使用 web 浏览器。</span><span class="sxs-lookup"><span data-stu-id="9f21a-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="9f21a-105">在 Microsoft Edge、Internet Explorer 10 及更高版本以及 Firefox、Chrome 和 Safari 的当前版本中均提供拼写检查。</span><span class="sxs-lookup"><span data-stu-id="9f21a-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="9f21a-106">检查 web 浏览器的选项以了解有关如何检查拼写的详细信息。</span><span class="sxs-lookup"><span data-stu-id="9f21a-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
   
 
