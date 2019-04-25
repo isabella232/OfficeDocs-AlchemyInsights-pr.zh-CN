@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
 ms.openlocfilehash: 0c2cdfd057122fa4215d06318701d46c7527a330
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942398"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406828"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="771e7-102">创建共享邮箱的收件箱规则</span><span class="sxs-lookup"><span data-stu-id="771e7-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="0c553-102">创建共享邮箱的收件箱规则</span><span class="sxs-lookup"><span data-stu-id="0c553-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="771e7-103">您可以添加规则如何向他们自己的帐户中添加规则以类似方式共享邮箱上有权访问。</span><span class="sxs-lookup"><span data-stu-id="771e7-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span> 
+<span data-ttu-id="0c553-103">您可以在您有权访问的共享邮箱上添加规则, 这与您向自己的帐户添加规则的方式类似。</span><span class="sxs-lookup"><span data-stu-id="0c553-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span> 
   
-<span data-ttu-id="771e7-104">请确保您的问题的共享邮箱成员，然后按照本文中的步骤：[添加对共享邮箱的规则](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span><span class="sxs-lookup"><span data-stu-id="771e7-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span></span>
+<span data-ttu-id="0c553-104">请确保您是有问题的共享邮箱的成员, 然后按照本文中的步骤操作:[将规则添加到共享邮箱](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span><span class="sxs-lookup"><span data-stu-id="0c553-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span></span>
   
 

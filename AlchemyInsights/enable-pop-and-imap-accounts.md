@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
 ms.openlocfilehash: ca4d1065c9d2b87890f9e1522c03077686f20aef
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859166"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402987"
 ---
-# <a name="pop-and-imap4-settings"></a><span data-ttu-id="c2a54-102">POP 和 IMAP4 设置</span><span class="sxs-lookup"><span data-stu-id="c2a54-102">POP and IMAP4 settings</span></span>
+# <a name="pop-and-imap4-settings"></a><span data-ttu-id="f73bc-102">POP 和 IMAP4 设置</span><span class="sxs-lookup"><span data-stu-id="f73bc-102">POP and IMAP4 settings</span></span>
 
-<span data-ttu-id="c2a54-103">若要查找您自己的邮箱的 POP3 和 IMAP4 服务器设置, 请参阅[Outlook 的 POP 和 IMAP 电子邮件设置](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)。</span><span class="sxs-lookup"><span data-stu-id="c2a54-103">To find the POP3 and IMAP4 server settings for your own mailbox, see [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
+<span data-ttu-id="f73bc-103">若要查找您自己的邮箱的 POP3 和 IMAP4 服务器设置, 请参阅[Outlook 的 POP 和 IMAP 电子邮件设置](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)。</span><span class="sxs-lookup"><span data-stu-id="f73bc-103">To find the POP3 and IMAP4 server settings for your own mailbox, see [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
 
-<span data-ttu-id="c2a54-104">管理员可以在内部部署 Exchange 组织中启用和配置 POP3 和 IMAP4。</span><span class="sxs-lookup"><span data-stu-id="c2a54-104">Administrators can enable and configure POP3 and IMAP4 in on-premises Exchange organizations.</span></span> <span data-ttu-id="c2a54-105">有关详细信息, 请参阅[在 exchange 服务器上启用和配置 POP3](https://technet.microsoft.com/library/bb124934.aspx)以及[在 exchange 服务器上启用和配置 IMAP4](https://technet.microsoft.com/library/bb124489.aspx)。</span><span class="sxs-lookup"><span data-stu-id="c2a54-105">For more information, see [Enable and configure POP3 on Exchange servers](https://technet.microsoft.com/library/bb124934.aspx) and [Enable and configure IMAP4 on Exchange servers](https://technet.microsoft.com/library/bb124489.aspx).</span></span>
+<span data-ttu-id="f73bc-104">管理员可以在内部部署 Exchange 组织中启用和配置 POP3 和 IMAP4。</span><span class="sxs-lookup"><span data-stu-id="f73bc-104">Administrators can enable and configure POP3 and IMAP4 in on-premises Exchange organizations.</span></span> <span data-ttu-id="f73bc-105">有关详细信息, 请参阅[在 exchange 服务器上启用和配置 POP3](https://technet.microsoft.com/library/bb124934.aspx)以及[在 exchange 服务器上启用和配置 IMAP4](https://technet.microsoft.com/library/bb124489.aspx)。</span><span class="sxs-lookup"><span data-stu-id="f73bc-105">For more information, see [Enable and configure POP3 on Exchange servers](https://technet.microsoft.com/library/bb124934.aspx) and [Enable and configure IMAP4 on Exchange servers](https://technet.microsoft.com/library/bb124489.aspx).</span></span>
