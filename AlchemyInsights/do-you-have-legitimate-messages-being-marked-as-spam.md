@@ -1,5 +1,5 @@
 ---
-title: 是否有合法邮件被标记为垃圾邮件？
+title: 是否有正当邮件被标记为垃圾邮件？
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469049"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399120"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>是否有合法邮件被标记为垃圾邮件？
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>是否有正当邮件被标记为垃圾邮件？
 
 
-请尝试使用上述诊断或尝试本分步[指南, 以便对被标记为垃圾邮件的正常邮件进行故障排除](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。
+尝试以上诊断或尝试此[分步指南，以解决将正当邮件标记为垃圾邮件的问题](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。
   
-报告这些类型的问题的最佳方式是:
+报告这些类型问题的最佳方式是：
   
-1. 为用户[启用报告外接程序](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)。 
+1. 为用户[启用报告加载项](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in)。 
     
-2. 让用户将[邮件报告为非垃圾邮件](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)。
+2. 让用户[将此邮件报告为“不是垃圾邮件”](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US)。
     
-如果你想要打开支持票证, 请在下面至少一个完整的**原始邮件**中附加完整的电子邮件头。 
+如果要开具支持工单，请在下方附加至少**一个完整原始邮件**的完整电子邮件标头。 
   
 
