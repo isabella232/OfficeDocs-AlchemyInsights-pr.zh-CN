@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.custom: 8000056
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
 ms.openlocfilehash: 06ffae55cb9683eec2b0df2a87bf6ed4616c306e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773482"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400121"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>如何在旅行过程中访问 Outlook.com
 

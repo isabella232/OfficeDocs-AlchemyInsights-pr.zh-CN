@@ -10,30 +10,30 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba48253-6088-4c95-94d8-815753c46c4c
 ms.openlocfilehash: 8c7b56515d6eb96447b4bf4521d34f0ede5e6b95
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906326"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390025"
 ---
-# <a name="frequent-excel-crashes"></a>常用 Excel 崩溃？
+# <a name="frequent-excel-crashes"></a>频繁的 Excel 崩溃？
 
-在 Excel 中的常用崩溃可能导致由出错的加载项中。您可以按照以下说明禁用 Excel 加载项中：
+Excel 中频繁出现的故障可能是由错误的加载项导致的。 您可以按照以下说明禁用 Excel 外接程序:
   
-1. 选择**文件** \> **选项**， \> **外接程序**。
+1. 选择 "**文件** \> **选项**"、" \> **外接程序**"。
     
-2. 在**管理**框中，选择**COM 加载项**，，然后单击**转到**。
+2. 在 "**管理**" 框中, 选择 " **COM 加载项**", 然后单击 "**转到**"。
     
-3. 在可用加载项框中，清除要禁用的外接程序旁边的复选框，然后单击**确定**。
+3. 在 "可用外接程序" 框中, 清除要禁用的外接程序旁边的复选框, 然后单击 **"确定"**。
     
 > [!NOTE]
-> 如果 Excel 崩溃期间启动，请启动它在安全模式下通过按下并按住 Ctrl 的同时启动该程序。 
+> 如果 Excel 在启动过程中崩溃, 请在启动该程序时按住 Ctrl, 同时在安全模式下启动该程序。 
   
-如果您仍遇到问题，请参阅以下文章：
+如果仍有问题, 请参阅以下文章:
   
-- [我的 PC 上启动 Office 2016 或 2013年应用程序时，我收到"停止工作"错误](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [在我的电脑上启动 Office 2016 或2013应用程序时, 收到 "停止工作" 错误](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
     
-- [如何与 Excel 崩溃和未响应的问题进行疑难解答](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [如何解决 Excel 的崩溃和不响应问题](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
     
-- [Excel 未响应，挂起，冻结或停止工作](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel 未响应、挂起、冻结或停止工作](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
     

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: 616
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
 ms.openlocfilehash: 57fd34d76ec2955e7a79fe4e1cedd9935f99cbff
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772222"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396280"
 ---
 # <a name="calendar-sharing"></a>日历共享
 
-- 如果看不到其他日历中的日历忙/闲信息, 或者其他人无法查看日历中的忙/闲信息, 请使用[Microsoft 支持和恢复助手 for Office 365](https://diagnostics.office.com/)。
+- 如果无法查看其他日历中的日历闲/忙信息，或者其他人无法查看你日历中的闲/忙信息，请使用 [Microsoft Office 365 支持和恢复助手](https://diagnostics.office.com/)。
     
 - [与其他人共享 Outlook 日历](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
     

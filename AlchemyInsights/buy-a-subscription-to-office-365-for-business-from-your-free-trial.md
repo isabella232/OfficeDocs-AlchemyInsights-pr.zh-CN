@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761587"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396749"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>从你的免费试用版购买 Office 365 的订阅
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761587"
   
  **你可以购买与试用版相同的计划**
   
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
+1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
     
 2. 选择 "**立即购买**" 以获取所需的试用订阅, 然后按照步骤进行检查。 
     

@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.openlocfilehash: 1d9c0009e743e2cb514124ba5b9c3292580d9a88
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207963"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399905"
 ---
 # <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>如何购买 Office 365 商业版订阅的许可证
 
-向用户分配 Office 365 许可证时, 您可能会发现需要购买其他许可证。为此, 请执行以下操作:
+向用户分配 Office 365 许可证时, 您可能会发现需要购买其他许可证。 若要执行此操作：
   
 - 在 Microsoft 365 管理中心, 转到 "[订阅]( https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**付费** \> **订阅**"。
     

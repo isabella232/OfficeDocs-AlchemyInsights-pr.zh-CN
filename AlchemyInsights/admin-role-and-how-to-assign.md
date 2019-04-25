@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: a241e8482db69044a928ff99aa2ce8e96f6b4718
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764214"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398366"
 ---
 # <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>什么是管理员角色以及如何分配它们？
 

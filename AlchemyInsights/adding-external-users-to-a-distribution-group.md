@@ -1,5 +1,5 @@
 ---
-title: 将外部用户添加到通讯组？
+title: 向通讯组添加外部用户？
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,38 +9,38 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
 ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398448"
 ---
-# <a name="adding-external-users-to-a-distribution-group"></a>将外部用户添加到通讯组？
+# <a name="adding-external-users-to-a-distribution-group"></a>向通讯组添加外部用户？
 
-将外部联系人添加到通讯组 (DG) 是一个 2 步骤过程：
+向通讯组添加外部联系人 (DG) 的过程分两步:
   
-1. 创建邮件联系人的外部用户：
+1. 为外部用户创建邮件联系人:
     
-1. 单击[此处](https://admin.microsoft.com/adminportal/home#/Contact)以导航到联系人编辑页上的管理门户中。 
+1. 单击[此处](https://admin.microsoft.com/adminportal/home#/Contact)导航到管理门户中的联系人编辑页。 
     
-2. 单击**添加联系人**。
+2. 单击 "**添加联系人**"。
     
-3. 键入您的联系人的信息，然后单击**保存**。
+3. 键入您的联系人的信息, 然后单击 "**保存**"。
     
-2. 将邮件联系人添加到您 DG:
+2. 将邮件联系人添加到你的 DG:
     
-1. 单击[此处](https://admin.microsoft.com/adminportal/home#/groups)以导航到组页。 
+1. 单击[此处](https://admin.microsoft.com/adminportal/home#/groups)导航到 "组" 页面。 
     
-2. 查找的 DG 您想要添加外部用户，并单击它以打开编辑对话框。
+2. 找到要向其添加外部用户的 DG, 然后单击该 DG 以打开 "编辑" 对话框。
     
-3. 单击**成员**列表中的**编辑**按钮。 
+3. 单击 "**成员**" 列表中的 "**编辑**" 按钮。 
     
-4. 单击**添加成员**。
+4. 单击 "**添加成员**"。
     
-5. 选择您在上一步中创建邮件联系人，然后单击**保存**。
+5. 选择您在上一步中创建的邮件联系人, 然后单击 "**保存**"。
     
-如果甚至后执行以下步骤外部用户无法将电子邮件发送给 DG 或不从其接收电子邮件，它可以是 DG 被标记为只允许来自内部用户的电子邮件。您可以检查此配置并修复它的说明操作[此处](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+即使在执行这些步骤之后, 外部用户也无法向 dg 发送电子邮件或不接收来自该 dg 的电子邮件, 也可以将该 dg 标记为只允许来自内部用户的电子邮件。 您可以按照[此处](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)的说明检查此配置并将其修复
   
- **注意：** 这些说明不适用，如果您的组类型为"Office 365 group"(而不是"通讯组"。如果是这样，您可以从 Outlook 或 Outlook Web 上的直接向组添加外部用户。[本文](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)中，可以找到 O365 组来宾上的详细的说明以及添加外部来宾的说明。
+ **注意:** 如果您的组的类型是 "Office 365 组" 而不是 "通讯组", 则不适用这些说明。 如果是这种情况, 则可以将外部用户直接添加到 outlook 或 Web 上的 outlook 中的组。 有关 O365 组来宾的详细说明, 以及有关添加外部来宾的说明, 请参阅[本文](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)。
   
 

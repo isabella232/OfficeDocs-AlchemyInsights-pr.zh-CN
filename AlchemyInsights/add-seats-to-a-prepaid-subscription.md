@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763494"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398736"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>将座位添加到预付订阅
 
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
+1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
     
 2. 选择要向其添加用户的预付订阅。
     
@@ -28,7 +28,7 @@ ms.locfileid: "30763494"
     
 4. 选择 "**新建和未使用的产品密钥**" 选项。 (如果此订阅是使用在零售位置购买的产品密钥创建的, 则可以选择使用其他付款方式添加用户。) 
     
-5. 选择“下一步”****。
+5. 选择 **下一步**。
     
 6. 输入产品密钥, 然后选择 "**下一步**"。
     

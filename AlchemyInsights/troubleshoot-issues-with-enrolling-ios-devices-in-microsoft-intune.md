@@ -1,5 +1,5 @@
 ---
-title: 解决问题注册 Microsoft Intune 在 iOS 设备
+title: 解决在 Microsoft Intune 中注册 iOS 设备的问题
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: d28dca4fccf823e627dd179f828ba3b8baf843a6
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29924758"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390997"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>解决问题注册 Microsoft Intune 在 iOS 设备
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>解决在 Microsoft Intune 中注册 iOS 设备的问题
 
-查看下列来解决此问题现在资源。 
+立即查看下面列出的资源, 以解决问题。 
   
-某些常见错误消息和解决步骤：
+一些常见的错误消息和解决步骤:
   
-- **设备帽达到**用户具有更多注册超过设备限制的设备。查看这些文档给[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
+- 已**达到设备上限**用户已注册的设备超过设备限制。 查看这些文档以[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
     
-- 不支持**此服务。没有注册策略：** Apple 推送通知服务 (APNS) 需要配置或续订。查看[此文档](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)有关执行该操作的说明。 
+- **不支持此服务。无注册策略:** 需要配置或续订 Apple 推送通知服务 (APNS)。 查看[此文档](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get)以了解如何执行此操作的说明。 
     
-- **用户许可证类型无效或无法识别用户名称：** 用户需要分配一个 Intune 或 EMS 许可证。查看这些文档，以将通过许可证分配： [Office 管理中心](https://docs.microsoft.com/intune/licenses-assign)或[Azure 门户](https://docs.microsoft.com/azure/active-directory/license-users-groups)。
+- **用户许可证类型无效或无法识别用户名称:** 需要向用户分配 Intune 或 EMS 许可证。 查看这些文档以通过以下步骤分配许可证: [Office 管理中心](https://docs.microsoft.com/intune/licenses-assign)或[Azure 门户](https://docs.microsoft.com/azure/active-directory/license-users-groups)。
     
-更多资源以帮助解决您的问题：
+帮助解决你的问题的其他资源:
   
-1. 使用[Intune 疑难解答门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册失败。查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)的详细信息。 
+1. 使用[Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册故障。 有关详细信息, 请查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)。 
     
-2. 查看这些文档中的每个阻止注册和解析的常见错误列表：[疑难解答指南](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
+2. 查看这些文档, 了解阻止对每个的注册和解决的常见错误的列表:[故障排除指南](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
     
-3. [了解如何注册 Microsoft Intune 在 iOS 设备](https://docs.microsoft.com/intune/ios-enroll)。
+3. [了解如何在 Microsoft Intune 中注册 iOS 设备](https://docs.microsoft.com/intune/ios-enroll)。
     
 
