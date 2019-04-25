@@ -1,5 +1,5 @@
 ---
-title: 使用版本控制可以做什么？
+title: 我可以对版本控制执行哪些操作？
 ms.author: toresing
 author: tomresing
 ms.date: 6/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
 ms.openlocfilehash: 5f47dbb2b4cc8ce2959318011174eddabefacbd5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917234"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422925"
 ---
-# <a name="what-can-i-do-with-versioning"></a>使用版本控制可以做什么？
+# <a name="what-can-i-do-with-versioning"></a>我可以对版本控制执行哪些操作？
 
-您可以使用 SharePoint 列表和库中的版本控制：
+您可以在 SharePoint 列表和库中使用版本控制来执行以下操作:
   
-- **跟踪版本历史记录**。启用版本控制时，您可以查看更改的项目或文件时，以及谁更改。您还可以参见属性 （即文件的信息） 时已更改。例如，如果有人更改列表项的到期日期，该信息显示在版本历史记录。您还可以参见人员，当他们将文件签入库进行的注释。 
+- **跟踪版本的历史记录**。 启用版本控制后, 可以查看项目或文件何时更改以及更改的用户。 您还可以查看何时更改属性 (有关文件的信息)。 例如, 如果某人更改了列表项的截止日期, 则该信息将显示在版本历史记录中。 您还可以查看用户在将文件签入库时所做的注释。 
     
-- **还原以前版本**。如果您犯在当前版本中，如果当前版本已损坏，或者如果您只希望早期版本更好地，可以将当前版本替换前一个。恢复的版本成为最新的当前版本。 
+- **还原以前的版本**。 如果当前版本中出现错误, 或者如果当前版本已损坏, 或者如果您更喜欢早期版本, 则可以将当前版本替换为前一个版本。 还原的版本将成为新的当前版本。 
     
-- **查看以前的版本**。您可以查看以前的版本而不会覆盖当前版本。如果您要查看版本历史记录在 Microsoft Office 文档中，例如 Word 或 Excel 文件，您可以进行比较以确定差异的两个版本。 
+- **查看以前的版本**。 您可以查看以前的版本, 而不会覆盖当前版本。 如果要查看 Microsoft Office 文档 (如 Word 或 Excel 文件) 中的版本历史记录, 可以对这两个版本进行比较, 以确定二者之间的差异。 
     
-[了解有关 SharePoint Online 中的版本控制工作原理的详细信息](https://go.microsoft.com/fwlink/?linkid=875710)
+[了解有关版本控制在 SharePoint Online 中的工作方式的详细信息](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

@@ -1,5 +1,5 @@
 ---
-title: 监控条件的访问
+title: 监视条件访问
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -9,32 +9,32 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
 ms.openlocfilehash: 756c5e98ed3e9cedd0152b5747ea6bf1ed31778e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29902330"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418459"
 ---
-# <a name="monitoring-conditional-access"></a>监控条件的访问
+# <a name="monitoring-conditional-access"></a>监视条件访问
 
-目标具有条件的访问权限的用户将收到通知电子邮件，如果他们不能满足您组织的访问要求。若要解决，我们建议一个或多个以下解决方案：
+如果用户不符合组织的访问要求, 则以条件访问为目标的用户将收到通知电子邮件。 若要解决此问题, 我们建议采用以下一个或多个解决方案:
   
-- 如果设备则假定为注册，告知用户转到的公司门户应用程序并验证是否显示在公司门户。如果没有，用户应注册设备。
+- 如果要注册设备, 请建议用户转到公司门户应用程序, 并验证它是否出现在公司门户中。 如果不是, 则用户应注册该设备。
     
-- 在 Azure 门户中，转到**Intune\>设备合规性**。在**监视**下单击**设备合规性**。查看您的设备合规性报告，以验证用户的设备已标记为兼容。 
+- 在 Azure 门户中, 转**到\> Intune 设备符合性**。 在 "**监视器**单击" "**设备符合性**" 下。 查看设备合规性报告, 以验证用户的设备是否已标记为合规。 
     
-- 在 Azure 门户中，转到**Intune\>设备合规性**。在**管理**下单击**策略**。在合规性策略列表中，验证该配置文件分配给用户的设备。如果没有分配配置，然后 Intune 将不能以确认设备的合规性状态。 
+- 在 Azure 门户中, 转**到\> Intune 设备符合性**。 在 "**管理**" 下, 单击 "**策略**"。 在合规性策略列表中, 验证是否已将配置文件分配给您的用户设备。 如果未分配任何配置文件, 则 Intune 将无法确认设备的符合性状态。 
     
 - 编辑用户的条件访问分配。
     
-1. 在 Azure 门户中，转到**Intune\>条件访问\>策略**
+1. 在 Azure 门户中, 转**到\> Intune 条件\>访问策略**
     
-2. 从列表中选择一个策略
+2. 从列表中选择策略
     
-3. 单击**用户和组**
+3. 单击 "**用户和组**"
     
-4. 针对特定的策略某人时，将其添加到**包括**列表。若要确保人员省略从策略，请将其添加到**排除**列表中。 
+4. 若要面向某人的特定策略, 请将其添加到**包含**列表中。 若要确保从策略中忽略某个人, 请将其添加到 "**排除**" 列表中。 
     
-阅读其他信息：[如何监视条件访问设备](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+阅读详细信息:[如何监视条件访问设备](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

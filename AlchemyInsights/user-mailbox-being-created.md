@@ -1,5 +1,5 @@
 ---
-title: 正在创建的用户邮箱
+title: 正在创建用户邮箱
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
 ms.openlocfilehash: 469ede873bd8e946525726156474246b28ff63ba
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904958"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423389"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>正在创建用户的邮箱
+# <a name="your-users-mailbox-is-being-created"></a>正在创建你的用户的邮箱
 
-它可以采用新邮箱已准备好使用前一个小时。
+在新邮箱准备就绪前, 可能需要一小时的时间。
   
-如果用户的邮箱已被"准备"超过一个小时，则可尝试删除和重新创建用户，或使用"让我们呼叫您项"选项以与支持工程师。
+如果用户的邮箱的 "正在准备" 的时间超过一小时, 则可以尝试删除并重新创建用户, 或使用 "我们呼叫你" 选项与支持工程师交谈。
   
 
