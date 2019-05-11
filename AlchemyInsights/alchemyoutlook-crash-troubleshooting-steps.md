@@ -10,13 +10,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
+ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
+ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397960"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33883117"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook 故障排除步骤
 
@@ -24,9 +25,9 @@ ms.locfileid: "32397960"
   
 步骤 1: 调查外接程序中可能存在的问题。
   
-步骤 2: 修复 outlook 并运行[支持和恢复助手工具, 对受影响的计算机上的 Outlook 启动错误进行故障排除](https://aka.ms/SaRA-OutlookWontStart)。 
+步骤 2: 修复 Outlook 并运行[支持和恢复助手工具, 对受影响的计算机上的 Outlook 启动错误进行故障排除](https://aka.ms/SaRA-OutlookWontStart)。 
   
-步骤 3: 创建新的 outlook 配置文件, 或者可以在受影响的计算机上运行[Outlook 配置文件工具](https://aka.ms/SaRA-OutlookSetupProfile)。 
+步骤 3: 创建新的 Outlook 配置文件, 或者可以在受影响的计算机上运行[Outlook 配置文件工具](https://aka.ms/SaRA-OutlookSetupProfile)。 
   
 如果在更新和上述步骤都不起作用的情况下出现问题, 则可能需要还原到以前的版本。 请参阅[如何还原到早期版本的 office 2013 或 office 2016 即点](https://support.microsoft.com/help/2770432)即用。
   
