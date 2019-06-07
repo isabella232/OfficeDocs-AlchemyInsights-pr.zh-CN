@@ -2,7 +2,7 @@
 title: 723使电子邮件别名成为用户的主要电子邮件
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 723
 ms.assetid: 9db496e8-7345-4449-bbb2-0ed8c6d72e3e
-ms.openlocfilehash: fcd588428ef75efa81763f1fa418304e692a7b5c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c241357a107e4db28af37c3c664681854e750771
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409356"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756184"
 ---
 # <a name="make-an-email-alias-the-primary-address-for-a-user"></a>将电子邮件别名设为用户的主要地址
 

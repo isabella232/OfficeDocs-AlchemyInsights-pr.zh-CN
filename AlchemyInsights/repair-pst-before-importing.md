@@ -2,7 +2,7 @@
 title: 导入前修复 .pst 文件
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1226
 ms.assetid: ''
-ms.openlocfilehash: 66b045c04ccbeb133e1bae3b9c29e01b4820d33f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 571f7211915d637f9c193cc453db38b29fc444de
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383754"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761893"
 ---
 # <a name="repair-pst-file-before-importing"></a>导入前修复 .pst 文件
 
@@ -25,7 +25,7 @@ ms.locfileid: "32383754"
 
 2. 在 Office 程序`Scanpst.exe`文件夹中查找和运行 (C:\Program Files (x86) \Microsoft Office\root\Office\<version\> or C:\Program Files\Microsoft Office\root\Office\<version\>)。
 
-3. 在**Microsoft Outlook 收件箱修复工具**中, 单击 "**浏览**" 查找 .pst 文件 (例如, 在 C:\Users\\<username\>\AppData\Local\Microsoft\Outlook 中)。 选择 .pst 文件, 然后单击 "**打开**"。
+3. 在**Microsoft Outlook 收件箱修复工具**中, 单击 "**浏览**" 查找 .pst 文件 (例如, 在 C:\Users\\<username\>\AppData\Local\Microsoft\Outlook)。 选择 .pst 文件, 然后单击 "**打开**"。
 
 4. 单击 "**启动**" 开始扫描。
 

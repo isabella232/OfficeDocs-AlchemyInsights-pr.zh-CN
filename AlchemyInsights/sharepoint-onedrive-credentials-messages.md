@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 432c33ede38c5536d66b685703bff7543101d31a
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: d16c98841f014559d94ef240219000e3fd69a456
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736533"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34759631"
 ---
 # <a name="credential-messages-in-sharepoint-or-onedrive"></a>SharePoint 或 OneDrive 中的凭据消息
 
@@ -29,7 +29,7 @@ ms.locfileid: "34736533"
 
 - 我们现在无法连接, 请检查你的网络连接
 
-如果遇到这些症状, 请尝试[本文中介绍](https://support.microsoft.com/en-us/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)的步骤。
+如果遇到这些症状, 请尝试[本文中介绍](https://support.microsoft.com/help/2913639/office-applications-periodically-prompt-for-credentials-to-sharepoint)的步骤。
 
-或者, 如果要使用单一登录 (SSO) 进行身份验证, 请改为参阅[本文](https://support.microsoft.com/en-us/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10)。
+或者, 如果要使用单一登录 (SSO) 进行身份验证, 请改为参阅[本文](https://support.microsoft.com/help/4025962/cant-sign-in-after-update-to-office-2016-build-16-0-7967-on-windows-10)。
 
