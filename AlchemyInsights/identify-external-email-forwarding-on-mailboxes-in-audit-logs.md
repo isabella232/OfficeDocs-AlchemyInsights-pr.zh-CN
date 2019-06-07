@@ -2,7 +2,7 @@
 title: 确定审核日志中邮箱的外部电子邮件转发
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1369
 ms.assetid: ''
-ms.openlocfilehash: 7fb2c161c558a7eb961f86ca2b86e33750d902fd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 518e4dd485ee7c54ce83e65794152e32f4c3a836
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417202"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751984"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>确定何时在邮箱上配置了外部电子邮件转发
 
-当用户在邮箱上配置外部电子邮件转发时, 该活动将作为 "**设置邮箱**" cmdlet 的一部分进行审核。 可以使用安全 & 合规性中心中的 "审核日志搜索" 查看活动。
+当用户在邮箱上配置外部电子邮件转发时, 该活动将作为 "**设置邮箱**" cmdlet 的一部分进行审核。 您可以使用安全 & 合规性中心中的 "审核日志搜索" 查看活动。
 
 1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)
 

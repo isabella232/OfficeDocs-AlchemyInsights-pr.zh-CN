@@ -2,7 +2,7 @@
 title: 126在 OWA 中找不到获取邮箱的错误？
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 126
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: fe8119c300e99170da4f338f2420b1229ab24bea
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0288f952ae5e5aade409c3f9d394d2827b5013ee
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400815"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755393"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>在 web 上的 Outlook 中获取 "找不到邮箱" 错误？
 
-如果您使用的是 web 上的 outlook, 但**无法找到错误的邮箱**, 则用于连接到 web 上的 outlook 的帐户没有 Exchange Online 许可证, 因此没有邮箱与该帐户相关联。 您的管理员可以通过执行以下步骤, 将许可证分配给您的帐户:
+如果您使用的是 web 上的 Outlook, 但**无法找到错误的邮箱**, 则用于连接到 web 上的 outlook 的帐户没有 Exchange Online 许可证, 因此没有邮箱与该帐户相关联。 您的管理员可以通过执行以下步骤, 将许可证分配给您的帐户:
 
 1. 打开[Microsoft 365 管理中心](https://portal.office.com/adminportal/home#/homepage)并在 "**活动用户**" 下, 选择 "**编辑用户**"。
 

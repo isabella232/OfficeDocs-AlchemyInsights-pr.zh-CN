@@ -1,20 +1,20 @@
 ---
 title: Exchange Admin Center 中的保留策略无法正常工作
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: chrisda
+author: chrisda
+manager: dansimp
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: c9061fa728edaab6575a7b1027783e56739a6d14
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371288"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761572"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 管理中心中的保留策略
 
@@ -22,7 +22,7 @@ ms.locfileid: "32371288"
   
  **根本原因:**
   
-- 这可能是因为**托管文件夹助理**尚未处理用户的邮箱。 托管文件夹助理每七天尝试处理一次基于云的组织中的每个邮箱。 如果您更改保留标记或对邮箱应用不同的保留策略, 则可以等待托管文件夹帮助处理邮箱, 也可以运行 start-managedfolderassistant cmdlet 启动托管文件夹助理以处理特定的信箱. 运行此 cmdlet 对于测试或排除保留策略或保留标记设置的故障很有用。 有关详细信息, 请参阅[运行托管文件夹助理](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)。
+- 这可能是因为**托管文件夹助理**尚未处理用户的邮箱。 托管文件夹助理每七天尝试处理一次基于云的组织中的每个邮箱。 如果您更改保留标记或对邮箱应用不同的保留策略, 则可以等待托管文件夹帮助处理邮箱, 也可以运行 Start-managedfolderassistant cmdlet 启动托管文件夹助理以处理特定的信箱. 运行此 cmdlet 对于测试或排除保留策略或保留标记设置的故障很有用。 有关详细信息, 请参阅[运行托管文件夹助理](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)。
     
   - **解决方案:** 运行以下命令以启动特定邮箱的托管文件夹助理: 
     

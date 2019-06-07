@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422165"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761749"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>将 SharePoint Online 限制为经典模式
 
-有些组织仍需要经典模式体验。 虽然没有计划在粒度级别删除经典模式, 从2019年4月1日开始, 但不能再将整个组织 (租户) 限制为列表和库的经典模式。
+有些组织仍需要经典模式体验。 虽然没有计划在粒度级别删除经典模式, 但不再可能将整个组织 (租户) 限制为列表和库的经典模式。
 
 管理员可通过以下方式来管理采用经典模式的各个列表和库, 具体方法是使用我们在以下级别提供的具体选择退出开关:
 
@@ -28,6 +28,6 @@ ms.locfileid: "32422165"
 
 此外, 使用新式不支持的某些功能和自定义项的列表仍将自动切换到经典模式。
 
-4月1日之后, 由于租户选择退出, 在经典模式下的列表和库将自动在网站级别和列表级别进行管理。
+从2019年4月1日起, 禁用租户级别的过程退出新式列表, 库将在5月31日 (2019) 开始并继续。  由于租户自愿退出, 以经典模式的列表和库将自动移动到新式。
 
-如果需要经典模式, 请参阅此处的详细信息和 PnP Powershell 说明, 这些说明可用于在4月1日准备删除租户级别自愿退出的选项和工具。
+如果需要经典模式, 请参阅此处的[](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023)详细信息和 PnP Powershell 说明,[此处](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout)介绍了可用于今天使用经典模式体验的选项和工具。

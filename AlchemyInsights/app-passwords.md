@@ -2,7 +2,7 @@
 title: 500应用密码
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4d87e1d5ee477d6aa0fe7d0cb41daa2c2750d4c3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396994"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755517"
 ---
 # <a name="app-passwords"></a>应用密码
 
-应用密码是为应用程序或设备提供访问 Office 365 工作或学校帐户的权限的代码。 如果您的帐户需要多重身份验证 (MFA), 并且应用程序连接到您的帐户, 则需要生成应用密码, 以便应用程序可以连接到 Office 365。 例如, outlook 2016 和早期版本的 outlook 中需要应用密码。
+应用密码是为应用程序或设备提供访问 Office 365 工作或学校帐户的权限的代码。 如果您的帐户需要多重身份验证 (MFA), 并且应用程序连接到您的帐户, 则需要生成应用密码, 以便应用程序可以连接到 Office 365。 例如, outlook 2016 和早期版本的 Outlook 中需要应用密码。
 
  **注意**: 在尝试执行以下步骤之前, 请使用 Office 365 管理员验证你的帐户是否需要 MFA。 如果不是这样, 则不能使用步骤中所述的选项。
 

@@ -2,7 +2,7 @@
 title: 确定审核日志中的删除邮件事件
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1370
 ms.assetid: ''
-ms.openlocfilehash: 93f8a192af6e689e2b2d04013f35b8da2b69e607
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0fb5d6aa0c99f7f68459c40302869bed69583b3f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32416700"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755143"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>已删除电子邮件的审核日志
 
@@ -29,8 +29,8 @@ ms.locfileid: "32416700"
 
 4. 单击"搜索"。
 
-在结果中, 选择一个审核记录。 在 "详细信息" 浮出控件中, 单击 "**详细信息**"。 在 " **AffectedItems** " 字段中显示有关已删除项目的其他信息 (例如, 在删除项目时的主题行和位置)。 **ClientInfoString**属性将显示在 outlook、outlook 网页 (以前称为 Outlook web App) 或任何其他设备上是否发生了删除。
+在结果中, 选择一个审核记录。 在 "详细信息" 浮出控件中, 单击 "**详细信息**"。 在 " **AffectedItems** " 字段中显示有关已删除项目的其他信息 (例如, 在删除项目时的主题行和位置)。 **ClientInfoString**属性将显示在 Outlook、outlook 网页 (以前称为 Outlook web App) 或任何其他设备上是否发生了删除。
 
 有关详细信息, 请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)。
 
-**注意**: 不能使用 "审核日志" 功能检索已删除的项目。 若要在 web 上的 Outlook 中检索已删除的邮件, 请参阅[在 outlook web App 中恢复已删除的项目](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)。
+**注意**: 不能使用 "审核日志" 功能检索已删除的项目。 若要在 web 上的 Outlook 中检索已删除的邮件, 请参阅[在 Outlook Web App 中恢复已删除的项目](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)。

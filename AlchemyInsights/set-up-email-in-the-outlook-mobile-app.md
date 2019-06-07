@@ -2,7 +2,7 @@
 title: 1800014在 Outlook 移动应用中设置电子邮件
 ms.author: anahitab
 author: anahitab
-manager: serdars
+manager: dansimp
 ms.date: 4/12/2018
 ms.audience: Admin
 ms.topic: get-started-article
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: b2e3a5693acd1d8d90ad0d4913d0c5b213cb3e1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac6647bb7c500ed7265d230a2aece0d19ed048fe
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421554"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761356"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>在 Outlook 移动应用程序中设置电子邮件
 
@@ -32,9 +32,9 @@ ms.locfileid: "32421554"
     
 6. Outlook 可能会请求访问您的日历、联系人和其他信息的权限。 选择 **"是" 或 "** **允许**"。 
     
-在此处获取适用于[outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx)或[outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)的详细设置说明。 
+在此处获取适用于[outlook For Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx)或[outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)的详细设置说明。 
   
- **需要帮助?**
+ **是否需要帮助？**
   
 - [移动电话上的电子邮件设置疑难解答](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
     
