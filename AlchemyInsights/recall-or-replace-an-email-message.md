@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096430"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770799"
 ---
 # <a name="recall-or-replace-an-email-message"></a>撤回或替换电子邮件
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096430"
 
 ***在组织中搜索和删除电子邮件***若要在组织中搜索和删除电子邮件, 您是全局管理员的最简单方法。如果您不是全局管理员, 则必须将您的帐户添加到电子数据展示管理器角色组或合规性搜索管理角色。 若要删除邮件, 您需要加入组织管理角色组或搜索和清除管理角色。 对这些角色的权限是在[安全 & 合规中心](https://protection.office.com/)中分配的。
 
-1. [创建内容搜索](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search)以查找要删除的邮件。
-2. [连接到安全 _AMP_ 合规中心 PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)。 
+1. [创建内容搜索](https://docs.microsoft.com/office365/securitycompliance/content-search)以查找要删除的邮件。
+2. [连接到安全 & 合规性中心 PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)。 
 
-如果使用的是 MFA, 请参阅[使用多重身份验证连接到 Office 365 Security _AMP_ 合规中心 PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)。 
+如果使用的是 MFA, 请参阅[使用多重身份验证连接到 Office 365 Security & 合规性中心 PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)。 

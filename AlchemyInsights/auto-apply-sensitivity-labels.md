@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408709"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769533"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>自动应用灵敏度标签
 
@@ -25,7 +25,7 @@ ms.locfileid: "32408709"
 若要自动应用标签, 需要满足以下条件:
 
 - Azure 信息保护 P2 订阅
-- [下载并安装 Azure 信息保护统一标签客户端](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [下载并安装 Azure 信息保护统一标签客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 我们正在努力处理本机支持, 以后不需要 Azure 信息保护统一的标记客户端。
 
@@ -33,5 +33,5 @@ ms.locfileid: "32408709"
 
 若要详细了解灵敏度标签并将它们自动应用于内容, 请参阅:
 
-- [敏感度标签概述](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [将敏感度标签自动应用于内容](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [敏感度标签概述](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [将敏感度标签自动应用于内容](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

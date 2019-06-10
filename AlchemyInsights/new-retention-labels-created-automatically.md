@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418103"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771190"
 ---
 # <a name="new-retention-labels-created-automatically"></a>自动创建的新保留标签
 
-在您的组织中, 您可能会看到在安全或合规性管理中心内的**保留标签**下自动创建[三个新的保留标签](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)。 标签名称为:
+在您的组织中, 您可能会看到在安全或合规性管理中心内的**保留标签**下自动创建[三个新的保留标签](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)。 标签名称为:
 
 - 操作过程
 - 业务常规
@@ -28,6 +28,6 @@ ms.locfileid: "32418103"
 
 1. 在 "安全性" 或 "合规性管理中心" 中, 选择 "**分类** > **标签** > **保留**" 选项卡。
 
-1. 选择要删除 > **** > 的保留标签。若要删除标签, 请选择 **"是"** 。
+1. 选择要删除的保留标签 >**删除标签** > **"是"** 以删除标签。
 
-使用文件计划管理器, 您可以管理组织中的保留标签和策略-有关详细信息, 请参阅[文件计划管理器概述](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager)。
+使用文件计划管理器, 您可以管理组织中的保留标签和策略-有关详细信息, 请参阅[文件计划管理器概述](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager)。
