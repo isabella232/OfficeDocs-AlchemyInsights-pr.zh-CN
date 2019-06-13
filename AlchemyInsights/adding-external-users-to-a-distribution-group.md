@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a5def36fbb662037851158722db60494f00ce850
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398448"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34895195"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>向通讯组添加外部用户？
 
@@ -39,8 +39,7 @@ ms.locfileid: "32398448"
     
 5. 选择您在上一步中创建的邮件联系人, 然后单击 "**保存**"。
     
-即使在执行这些步骤之后, 外部用户也无法向 dg 发送电子邮件或不接收来自该 dg 的电子邮件, 也可以将该 dg 标记为只允许来自内部用户的电子邮件。 您可以按照[此处](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)的说明检查此配置并将其修复
+即使在执行这些步骤之后, 外部用户也无法向 DG 发送电子邮件或不接收来自该 DG 的电子邮件, 也可以将该 DG 标记为只允许来自内部用户的电子邮件。 您可以按照[此处](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)的说明检查此配置并将其修复
   
- **注意:** 如果您的组的类型是 "Office 365 组" 而不是 "通讯组", 则不适用这些说明。 如果是这种情况, 则可以将外部用户直接添加到 outlook 或 Web 上的 outlook 中的组。 有关 O365 组来宾的详细说明, 以及有关添加外部来宾的说明, 请参阅[本文](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)。
+ **注意:** 如果您的组的类型是 "Office 365 组" 而不是 "通讯组", 则不适用这些说明。 如果是这种情况, 则可以将外部用户直接添加到 Outlook 或 Web 上的 Outlook 中的组。 有关 O365 组来宾的详细说明, 以及有关添加外部来宾的说明, 请参阅[本文](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx)。
   
-
