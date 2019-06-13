@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764861"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883151"
 ---
 # <a name="activate-visio"></a>激活 Visio
 
-管理员需要将[visio 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)分配给用户, 然后才能安装和激活 Visio Online 计划2附带的桌面 visio 桌面应用程序。 (Visio Online 计划1不包含 Visio 的桌面版本)。
+在用户可以安装和激活 Visio Online 计划2附带的桌面 Visio 桌面应用程序之前, 必须已为该用户分配了一个[visio 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)。
+
+**注释**Visio Online 计划1不包含 Visio 的桌面版本。
+
+激活 Visio:
 
 1. [安装 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) (如果尚未安装)。
-2. 安装完成后, 打开应用程序。 在很多情况下, 应用程序将自动激活, 并且用户可以立即开始使用 Visio。
-    如果系统提示登录, 则用户必须使用已分配 Visio 许可证的相同工作或学校帐户登录。 
+2. 安装完成后, 打开 Visio。 在许多情况下, 应用程序会自动激活, 您可以立即开始使用 Visio。 如果系统提示登录, 请务必使用与分配有 Visio 许可证的相同工作或学校帐户登录。 
+
+对于激活问题, 请在受影响的计算机上运行[激活疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)。
 
 有关详细信息, 请参阅:<br>
 [在电脑上激活 Office](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
