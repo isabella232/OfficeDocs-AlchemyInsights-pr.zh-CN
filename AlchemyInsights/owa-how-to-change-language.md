@@ -1,9 +1,9 @@
 ---
-title: 8000014如何更改语言
+title: 更改 Outlook 网页版本中的语言、日期和时间格式或时区
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 5/24/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.assetid: ''
-ms.openlocfilehash: 4ef2e1175811ea8f388fc53205278c2d2e1b127b
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: e760a0f4037dc626a08e17a3f0e5ac57f51b2859
+ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34422938"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34430601"
 ---
-# <a name="change-language"></a>更改语言
+# <a name="change-your-language-date-and-time-format-or-time-zone"></a>更改语言、日期和时间格式或时区
 
-1.    登录到 web 上的 Outlook。
-2. 在页面顶部, 选择 "**设置** > " "**查看所有 Outlook 设置**"。
-3. 选择 "**常规** > **语言和时间**"。
-4. 选择要使用的语言。
-5. 选择“保存”****。
- 
+1. 在页面顶部, 选择 "**设置** > " "**查看所有 Outlook 设置**"。
+2. 选择 "**常规** > **语言和时间**"。
+3. 选择要使用的语言。
+4. 选择“保存”****。
+
 若要了解详细信息, 请参阅在[web 上的 Outlook 中更改时区和语言设置](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273)。
-

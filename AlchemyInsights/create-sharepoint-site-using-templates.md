@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753697"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199263"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>使用模板创建 SharePoint 网站
 
@@ -31,7 +31,7 @@ SharePoint 网站模板是围绕特定的业务需要设计的预制定义。 �
 
 - "将网站另存为模板" 命令不受支持, 并且可能会在使用 SharePoint Server 发布基础结构的网站上出现问题。
 
-网站模板无法创建或无法正常工作。
+**网站模板无法创建或无法正常工作**
 
 模板可能缺少[功能](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx), 无法激活。 如果在当前网站集中无法激活该功能, 则不能使用网站模板创建网站。
 

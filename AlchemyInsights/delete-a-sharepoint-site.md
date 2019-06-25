@@ -9,16 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 37905f9c673b1597779f558a4c6d9b5a8bc28ad8
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
+ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34752909"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35115585"
 ---
 # <a name="delete-a-sharepoint-site"></a>删除 SharePoint 网站
 **从新 SharePoint 管理中心删除网站**通过使用新的 SharePoint 管理中心, 可以删除经典和新式网站。 选择 "**活动网站**", 选择网站, 然后选择 "**删除**"。 若要[在新 SharePoint 管理中心中查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), 请选择 "**已删除网站**"。 有关详细信息, 请参阅[在新 SharePoint 管理中心删除网站](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)。
-**重要说明:** 如果网站是保留策略的一部分, 则在从[安全&amp;合规性管理中心策略](https://protection.office.com/?rfr=AdminCenter#/homepage)中删除该网站之前, 可能无法将其删除。 有关详细信息, 请参阅[保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 几点
+
+**重要说明:** 如果网站是保留策略的一部分, 则在从[安全&amp;合规性管理中心策略](https://protection.office.com/?rfr=AdminCenter#/homepage)中删除该网站之前, 可能无法将其删除。 有关详细信息, 请参阅[保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
+
+几点
 - SharePoint 管理员现在可以删除属于**Office 365 组**的网站。 这将删除该组及其所有资源, 包括 Outlook 邮箱和日历以及任何团队频道。 有关详细信息, 请参阅[删除 SharePoint 网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - 你可以在93天内恢复已删除的网站。 请注意, 必须在30天内恢复已删除的组。 有关详细信息, 请参阅[查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)。
 - 若要永久删除网站, 请参阅[永久删除网站](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site)。 如果您计划重新使用该 URL, 则需要执行此步骤。 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 4cd7db1d9a6a1c86e64cee040d9dc3c1d180832f
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132643"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199335"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint 或 OneDrive 中的勒索软件攻击
 
@@ -33,7 +33,8 @@ ms.locfileid: "35132643"
 
 其他信息:
 
-[](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
-ODB 中的 SPO 数据加密中的病毒检测[和 SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[保护 SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)中的数据 "[勒索软件安全](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
-"[检测到的勒索软件检测和恢复文件](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+[SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
+中的病毒检测在[ODB 和 SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
+中[保护数据在 SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+[勒索软件威胁防护](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
+[勒索软件检测和恢复文件](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)中的数据

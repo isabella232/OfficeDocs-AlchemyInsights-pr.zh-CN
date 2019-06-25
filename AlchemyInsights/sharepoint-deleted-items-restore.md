@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 30e2dce5f327836f728fcd9aa4acc7ebaf52f054
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52b93516e47fcc6b221e2cc24993d0cd81413b55
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760895"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199299"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>从 SharePoint 还原已删除的项目
 
@@ -31,7 +31,7 @@ ms.locfileid: "34760895"
 
 [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-文件还原功能。
+**文件还原功能**
 
 如果大量 OneDrive 或 Sharepoint 文件被恶意软件删除、覆盖、损坏或感染, 则可以使用 "文件还原" 功能将整个 OneDrive 或 Sharepoint 库还原到以前的某个时间。
 
