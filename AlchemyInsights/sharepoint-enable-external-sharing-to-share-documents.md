@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 081c6f38247e1dcfb0aaf88f01e2661aad432b54
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760721"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223846"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>在 SharePoint Online 中启用外部共享
 
@@ -21,22 +21,22 @@ ms.locfileid: "34760721"
 
 有关外部共享的详细信息, 请访问以下链接。
 
-[什么是外部用户？](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [什么是外部用户？](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[当我共享网站或文档时会发生什么？](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [当我共享网站或文档时会发生什么？](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
-[为 SharePoint Online 启用或禁用外部共享](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+- [对 SharePoint Online 启用或禁用外部共享](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[启用或禁用网站的外部共享](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [启用或禁用网站的外部共享](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[将 Sharepoint Online 用作企业到企业 (B2B) extranet 解决方案](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [将 Sharepoint Online 用作企业到企业 (B2B) extranet 解决方案](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[共享 SharePoint 文件或文件夹](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [共享 SharePoint 文件或文件夹](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[停止共享 OneDrive 或 SharePoint 文件或文件夹, 或更改权限](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [停止共享 OneDrive 或 SharePoint 文件或文件夹, 或更改权限](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[删除外部用户](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [删除外部用户](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 是否收到外部用户的错误消息？&nbsp;请检查下面的链接。
 

@@ -1,5 +1,5 @@
 ---
-title: 文件以只读状态打开
+title: 文件已被锁定, 无法编辑
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757068"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222658"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>为什么您可能无法编辑文件？
 
@@ -24,9 +24,9 @@ ms.locfileid: "34757068"
 
 对于 OneDrive 库, OneDrive 将在同步状态旁显示锁定图标, 并且在删除上述设置之前, 用户将无法同步库。
 
-有关 Word/Excel 的锁定文件的详细信息, 请参阅下面的文章。
+有关 Word 或 Excel 的锁定文件的详细信息, 请参阅下面的文章。
 
-[Excel 文件已由其他用户锁定以进行编辑](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel 文件已由其他用户锁定以进行编辑](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Word 文件已由其他用户锁定以进行编辑](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word 文件已由其他用户锁定以进行编辑](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

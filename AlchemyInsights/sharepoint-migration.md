@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: e36f5fe58a181d1bfdb6f97f6b00fc85718674a5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fbf08f446233fc582f4651a60dfa9a31dda270a8
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760016"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223486"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>将选项迁移到 SharePoint Online
 
@@ -20,15 +20,15 @@ ms.locfileid: "34760016"
 
 有关内容迁移的详细信息, 请访问下面的链接。
 
-[Sharepoint 迁移工具](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Sharepoint 迁移工具](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-[Sharepoint Online 和 ODB 迁移速度](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Sharepoint Online 和 ODB 迁移速度](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-[数据迁移和 SPO 服务限制](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)。
+- [数据迁移和 SPO 服务限制](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)。
 
 
-[避免在 SharePoint Online 中受限或遭屏蔽](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [避免在 SharePoint Online 中受限或遭屏蔽](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-[SharePoint 迁移评估工具 (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [SharePoint 迁移评估工具 (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**注意**: 当前 sharepoint 迁移工具仅支持从 Sharepoint 2010 和2013迁移。 目前不支持版本2016。
+**注意**: 当前 sharepoint 迁移工具仅支持从 SharePoint 2010 和2013迁移。 目前不支持版本2016或2019。

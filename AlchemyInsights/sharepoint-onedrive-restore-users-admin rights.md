@@ -1,5 +1,5 @@
 ---
-title: 授予用户对 SharePoint 和 OneDrive 的访问权限
+title: 对 OneDrive for Business 网站的 "拒绝访问" 消息进行故障排除
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759246"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223414"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>授予用户对 SharePoint 和 OneDrive 的访问权限
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>对 OneDrive for Business 网站的 "拒绝访问" 消息进行故障排除
 
 在使用相同的用户主体名称 (UPN) 对用户进行删除和重新创建时, 通常会出现此问题。 使用不同的 PUID (Passport 唯一 ID) 值创建新帐户。 当用户尝试访问网站集或其 OneDrive 时, 用户的 PUID 不正确。 第二个方案涉及与 Active Directory 组织单位 (OU) 的目录同步。 如果用户已登录到 SharePoint, 然后将移动到不同的 OU 并 resynced 使用 SharePoint, 他们可能会遇到此问题。
 

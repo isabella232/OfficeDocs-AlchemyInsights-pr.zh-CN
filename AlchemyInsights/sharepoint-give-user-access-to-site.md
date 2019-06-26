@@ -1,5 +1,5 @@
 ---
-title: 授予用户对 SharePoint 和 OneDrive 的访问权限
+title: 访问请求功能
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4bb81a3ea87130b0da3bd028ee06cbbf21d1bec7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 81cfdb7c4b218ffacfca75b3cc14e5aac13dc3d5
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760121"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223738"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>授予用户对 SharePoint 网站的访问权限
 
@@ -24,15 +24,15 @@ ms.locfileid: "34760121"
 
 以下是有关访问请求的一些常见链接:
 
-[在 SharePoint Online 中处理挂起的请求时访问被拒绝 "访问请求列表" 或 "请求审批失败"](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [在 SharePoint Online 中处理挂起的请求时访问被拒绝 "访问请求列表" 或 "请求审批失败"](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
 
-[更改访问请求设置](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [更改访问请求设置](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-[批准或拒绝网站的访问请求](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [批准或拒绝网站的访问请求](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-[管理外部用户邀请（仅适用于 SharePoint Online）](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [管理外部用户邀请（仅适用于 SharePoint Online）](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-[重新发送邀请](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [重新发送邀请](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

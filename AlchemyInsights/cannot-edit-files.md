@@ -1,5 +1,5 @@
 ---
-title: 文件以只读状态打开
+title: 文件已被锁定, 无法编辑
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756333"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222946"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>为什么您可能无法编辑文件？
 
