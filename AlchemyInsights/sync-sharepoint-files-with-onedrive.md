@@ -1,5 +1,5 @@
 ---
-title: 使用新版 OneDrive 同步客户端同步 SharePoint 文件
+title: 解答 SharePoint Online 中的“使用资源管理器打开”问题
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757791"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223630"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>使用新版 OneDrive 同步客户端同步 SharePoint 文件
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>解答 SharePoint Online 中的“使用资源管理器打开”问题
 
 “使用资源管理器打开”命令将打开一个本地 Windows 资源管理器实例，其中显示托管 SharePoint 网站的服务器上的文件夹结构。 也就是说, 我们建议[将 SharePoint 文件与新的 OneDrive 同步客户端同步](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a>, 该客户端提供[按需文件](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e), 因为它提供了对文件的本地访问, 并提供了最佳性能。
 
