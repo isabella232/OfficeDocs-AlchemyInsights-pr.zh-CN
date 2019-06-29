@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 711
+ms.custom:
+- "711"
+- "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: a45bf0eea6abcd0fdb5c5d4aeec00a91a3e038f4
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: bec7a5813e026eb3cd94bcad65a35824751f7fe7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753373"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364147"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="31b16-102">创建通讯组</span><span class="sxs-lookup"><span data-stu-id="31b16-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="79407-102">创建通讯组</span><span class="sxs-lookup"><span data-stu-id="79407-102">Create distribution groups</span></span>
 
-<span data-ttu-id="31b16-103">使用通讯组 (也称为通讯组列表) 将电子邮件传递给组织内部和外部的用户组。</span><span class="sxs-lookup"><span data-stu-id="31b16-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="31b16-104">创建它们非常简单!</span><span class="sxs-lookup"><span data-stu-id="31b16-104">Creating them is easy!</span></span> <span data-ttu-id="31b16-105">有关说明, 请参阅[在 Microsoft 365 管理中心中创建通讯组列表](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400)。</span><span class="sxs-lookup"><span data-stu-id="31b16-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
+<span data-ttu-id="79407-103">使用通讯组 (也称为通讯组列表) 将电子邮件传递给组织内部和外部的用户组。</span><span class="sxs-lookup"><span data-stu-id="79407-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="79407-104">创建它们非常简单!</span><span class="sxs-lookup"><span data-stu-id="79407-104">Creating them is easy!</span></span> <span data-ttu-id="79407-105">有关说明, 请参阅[在 Microsoft 365 管理中心中创建通讯组列表](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400)。</span><span class="sxs-lookup"><span data-stu-id="79407-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
 
-<span data-ttu-id="31b16-106">**注意**: 管理员需要管理通讯组的成员身份。</span><span class="sxs-lookup"><span data-stu-id="31b16-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="31b16-107">如果您希望用户管理自己的组成员身份列表, 则您可能要改为考虑[Office 365 组](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)。</span><span class="sxs-lookup"><span data-stu-id="31b16-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span> 
+<span data-ttu-id="79407-106">**注意**: 管理员需要管理通讯组的成员身份。</span><span class="sxs-lookup"><span data-stu-id="79407-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="79407-107">如果您希望用户管理自己的组成员身份列表, 则您可能要改为考虑[Office 365 组](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)。</span><span class="sxs-lookup"><span data-stu-id="79407-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
