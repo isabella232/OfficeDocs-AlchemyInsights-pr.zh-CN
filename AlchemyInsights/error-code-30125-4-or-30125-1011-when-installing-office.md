@@ -8,28 +8,30 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "983"
+- "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 56f78580480dd35671c88f0203db29c646de9d25
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f259ac2a844aec327c3e99466902b92f82e9de77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402621"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388271"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>安装 Office 时出现错误代码30125-4 或30125-1011
 
 如果你的防病毒软件、防火墙、代理设置或连接阻止你安装 Office, 则可能会看到此错误。 下面是您可以尝试修复此问题的一些事项:
   
 - 重新启动计算机并重新安装 Office
-    
+
 - 使用[office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 office
-    
+
 - 临时关闭代理设置
-    
+
 - 暂时关闭防病毒软件
-    
+
 - 临时关闭防火墙
-    
+
 有关详细信息, 请参阅[安装 Office 时出现错误代码30125-4 或 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   
-
