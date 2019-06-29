@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "871"
+- "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 570fa6c5efa1bd0d35a71e45d6ff61ae44951bdc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3e428facb197db4987e822d1e0902b19ce4c32af
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398186"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357739"
 ---
-# <a name="deploy-office-apps"></a><span data-ttu-id="fd1b6-102">部署 Office 应用程序</span><span class="sxs-lookup"><span data-stu-id="fd1b6-102">Deploy Office apps</span></span>
+# <a name="deploy-office-apps"></a><span data-ttu-id="46c63-102">部署 Office 应用程序</span><span class="sxs-lookup"><span data-stu-id="46c63-102">Deploy Office apps</span></span>
 
-<span data-ttu-id="fd1b6-103">通过 Office 部署工具、System Center Configuration Manager、操作系统磁盘映像的一部分或在使用带有远程桌面服务 (RDS) 的 Windows Server 的共享计算机方案中, 将 office 应用程序部署到多个最终用户, 或用于在远程桌面服务 (RDS) 或终端服务, 请考虑使用**Office 365 专业增强版部署顾问**中的逐步指南。</span><span class="sxs-lookup"><span data-stu-id="fd1b6-103">For deploying Office apps to multiple end users via the Office Deployment Tool, System Center Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Office 365 ProPlus deployment advisor**.</span></span>
+<span data-ttu-id="46c63-103">通过 Office 部署工具、System Center Configuration Manager、操作系统磁盘映像的一部分或在使用带有远程桌面服务 (RDS) 的 Windows Server 的共享计算机方案中, 将 Office 应用程序部署到多个最终用户, 或用于在远程桌面服务 (RDS) 或终端服务, 请考虑使用**Office 365 专业增强版部署顾问**中的逐步指南。</span><span class="sxs-lookup"><span data-stu-id="46c63-103">For deploying Office apps to multiple end users via the Office Deployment Tool, System Center Configuration Manager, as part of an operating system disk image, or in a shared computer scenario using Windows Server with Remote Desktop Services (RDS) or Terminal Services, consider using the step by step guide in the **Office 365 ProPlus deployment advisor**.</span></span>
   
-<span data-ttu-id="fd1b6-104">若要开始, 请确保你已以租户管理员或全局管理员身份登录, 然后单击此处: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)。</span><span class="sxs-lookup"><span data-stu-id="fd1b6-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
+<span data-ttu-id="46c63-104">若要开始, 请确保你已以租户管理员或全局管理员身份登录, 然后单击此处: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)。</span><span class="sxs-lookup"><span data-stu-id="46c63-104">To get started, make sure that you're signed in as a tenant admin or global admin, and then click here: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).</span></span>
   
-

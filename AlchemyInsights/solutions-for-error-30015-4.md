@@ -10,30 +10,30 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "834"
+- "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: bc9f0c6f14ccacf739749545626ebd4e783ef9c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 27d6d7432860425231168b6712e4603c82fb618d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370003"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354679"
 ---
-# <a name="solutions-for-error-30015-4"></a><span data-ttu-id="934ff-102">错误30015-4 的解决方案</span><span class="sxs-lookup"><span data-stu-id="934ff-102">Solutions for error 30015-4</span></span>
+# <a name="solutions-for-error-30015-4"></a><span data-ttu-id="b44c1-102">错误30015-4 的解决方案</span><span class="sxs-lookup"><span data-stu-id="b44c1-102">Solutions for error 30015-4</span></span>
 
+- <span data-ttu-id="b44c1-103">重新启动计算机, 然后尝试[安装 Office](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="b44c1-103">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="934ff-103">重新启动计算机, 然后尝试[安装 Office](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="934ff-103">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
-    
-- <span data-ttu-id="934ff-104">下载并安装[支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="934ff-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
-    
-1. <span data-ttu-id="934ff-105">打开后, 从 "**卸载 Office 产品**" 选择要卸载的版本, 然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="934ff-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
-    
-2. <span data-ttu-id="934ff-106">在出现提示时, 继续执行屏幕并重新启动计算机。</span><span class="sxs-lookup"><span data-stu-id="934ff-106">Continue going through screens and restart your computer when prompted.</span></span>
-    
-    <span data-ttu-id="934ff-107">重新启动后, 支持和恢复助理将自动重新打开以完成卸载过程。</span><span class="sxs-lookup"><span data-stu-id="934ff-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
-    
-3. <span data-ttu-id="934ff-108">按照其余提示操作, 然后[重新安装 Office](https://portal.office.com/OLS/MySoftware.aspx)或关闭助理。</span><span class="sxs-lookup"><span data-stu-id="934ff-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
-    
-[<span data-ttu-id="934ff-109">修复 Office 安装错误</span><span class="sxs-lookup"><span data-stu-id="934ff-109">Fix Office installation errors</span></span>](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
+- <span data-ttu-id="b44c1-104">下载并安装[支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="b44c1-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+
+1. <span data-ttu-id="b44c1-105">打开后, 从 "**卸载 Office 产品**" 选择要卸载的版本, 然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="b44c1-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+
+2. <span data-ttu-id="b44c1-106">在出现提示时, 继续执行屏幕并重新启动计算机。</span><span class="sxs-lookup"><span data-stu-id="b44c1-106">Continue going through screens and restart your computer when prompted.</span></span>
+
+    <span data-ttu-id="b44c1-107">重新启动后, 支持和恢复助理将自动重新打开以完成卸载过程。</span><span class="sxs-lookup"><span data-stu-id="b44c1-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+
+3. <span data-ttu-id="b44c1-108">按照其余提示操作, 然后[重新安装 Office](https://portal.office.com/OLS/MySoftware.aspx)或关闭助理。</span><span class="sxs-lookup"><span data-stu-id="b44c1-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+
+[<span data-ttu-id="b44c1-109">修复 Office 安装错误</span><span class="sxs-lookup"><span data-stu-id="b44c1-109">Fix Office installation errors</span></span>](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   
-
