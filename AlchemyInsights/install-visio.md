@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914097"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381863"
 ---
 # <a name="install-visio"></a>安装 Visio
 
 Visio 作为独立应用程序进行销售, 如果你还没有, 请[购买或试用 visio](https://products.office.com/visio)。 
 
-如果您订阅了 Visio Online 计划 2, 则在[我的帐户门户](https://portal.office.com/account#installs)中, 用户将不会看到从**我**的安装中安装 Visio 的选项, 除非您为[他们分配了许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)。
-
 **注意**: Visio Online 计划1不包含 visio 的桌面版本, 因此不可能安装。
 
-有关下载和安装 Visio 的具体说明, 请参阅[安装 visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)。 
+如果您订阅了 Visio Online 计划 2, 则必须向用户[分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764), 否则无法从[我的帐户门户](https://portal.office.com/account#installs)中的 "我的**安装**" 中安装 Visio。 
 
-如果你拥有有效的订阅/许可证并在安装过程中遇到问题, 请尝试使用[支持和恢复助手](https://aka.ms/SaRA-VisioSetupScenario)安装 Visio。
+Visio Standard 或 Visio Professional 的非批量许可证版本与 Microsoft 帐户相关联, 不能在管理中心进行管理。 若要安装这些版本, 用户必须使用与此版本的 Visio 关联的 Microsoft 帐户登录到[account.microsoft.com](https://account.microsoft.com) 。
+
+有关更多详细帮助, 请参阅[安装 visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764)和按照适用于你的 Visio 版本的步骤。
 
 有关详细信息，请参阅：<br>
 [Visio 部署指南](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>

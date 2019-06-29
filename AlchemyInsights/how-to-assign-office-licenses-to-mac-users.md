@@ -10,25 +10,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: ec58c6fb06047ee25b867127838e14fbc626e87f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "651"
+- "2000017"
+ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399941"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385338"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>如何向 Mac 用户分配 Office 许可证
 
 - 在 Microsoft 365 管理中心, 转到 "[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)" 页面, 或选择 "**用户** \> **活动用户**"。
-    
+
 - 选择要为其分配许可证的用户姓名旁边的框。
-    
+
 - 在右侧的" **产品许可证**"行中，选择" **编辑**"。
-    
-- 在 "**产品许可证**" 窗格中, 将您要分配给此用户的许可证的开关切换到 "**开**" 位置。 
-    
+
+- 在 "**产品许可证**" 窗格中, 将您要分配给此用户的许可证的开关切换到 "**开**" 位置。
+
 - 在" **产品许可证**"窗格底部，选择" **保存**"\>" **关闭**"\>" **关闭**"。
-    
+
 有关详细信息, 请[在 Office 365 for business 中向用户分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
-

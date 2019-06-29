@@ -8,14 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000038
+ms.custom:
+- "772"
+- "788"
+- "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: c664adf9fdb0306b3407a5c23628aa4c7bbd5b83
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 035004602a439335380ec72ea65fd1bd70ebbf0d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400959"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387047"
 ---
 # <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>你的 Microsoft 帐户中显示的出生日期不正确
 
@@ -23,4 +26,3 @@ Microsoft 会认真对待帐户安全性。 最近可能会提示你为儿童的
   
 了解有关[家长同意和 Microsoft 子女帐户](https://go.microsoft.com/fwlink/p/?linkid=874365)的详细信息。
   
-
