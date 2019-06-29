@@ -9,27 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "24"
+- "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: da21e1a463c4d1fdf0160519f79ff99b7be3ca74
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 624c8a65d4031a3b9b9e0e8a3ccecde1333dda0f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398104"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357667"
 ---
 # <a name="creating-email-signatures"></a>创建电子邮件签名
 
 这些文章应帮助您创建要查找的电子邮件签名。
   
 - 我想要在 Windows 上使用 Outlook 创建电子邮件签名:[创建签名并将其添加到邮件](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
-    
-- 我要使用 web 上的 outlook 创建电子邮件签名: 在[web 上的 outlook 中创建和添加电子邮件签名](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
-    
-- 我想要使用 Outlook.com 创建电子邮件签名:[在 Outlook.com 中创建和添加电子邮件签名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
-    
-- 我想要为从我的公司发送的所有电子邮件创建全局电子邮件签名:[在 Office 365 中创建组织范围的签名和免责声明](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
-    
- **提示:** 组织范围内的签名称为 "免责声明"。 
   
+- 我要使用 web 上的 Outlook 创建电子邮件签名: 在[web 上的 outlook 中创建和添加电子邮件签名](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
+- 我想要使用 Outlook.com 创建电子邮件签名:[在 Outlook.com 中创建和添加电子邮件签名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+
+- 我想要为从我的公司发送的所有电子邮件创建全局电子邮件签名:[在 Office 365 中创建组织范围的签名和免责声明](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+
+ **提示:** 组织范围内的签名称为 "免责声明"。
+  

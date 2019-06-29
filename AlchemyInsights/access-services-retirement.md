@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769427"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359328"
 ---
 # <a name="access-services-retirement"></a>访问服务退休
 
@@ -24,7 +27,7 @@ ms.locfileid: "34769427"
 
 **为此更改做准备需要做些什么？**
 
-我们鼓励你为组织的 Access web 数据库创建过渡计划。 管理员可以使用[SharePoint access 应用程序扫描](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner)程序获取网站正在使用的 Access 应用程序的清单。 
+我们鼓励你为组织的 Access web 数据库创建过渡计划。 管理员可以使用[SharePoint access 应用程序扫描](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner)程序获取网站正在使用的 Access 应用程序的清单。
 
 有几种方法可以迁移 Access web 数据库数据:
 

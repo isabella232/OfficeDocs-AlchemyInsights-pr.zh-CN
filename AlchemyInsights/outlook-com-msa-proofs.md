@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA 样张
+title: Outlook.com MSA 样张
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392325"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373871"
 ---
 # <a name="security-info-and-security-codes"></a>安全信息和安全代码
 
-1. 使用 Microsoft 帐户登录到[安全基础](https://account.microsoft.com/security)页面。 
-    
-2. 选择 "**更新信息**"。 
-    
-3. 系统可能会要求您输入安全代码以继续。 如果你没有权限访问你的备用电子邮件或电话号码, 请选择 "**我没有任何**", 并按照说明替换你的安全信息。 
-    
-4. 选择 "**添加安全信息**", 然后按照说明输入新的电子邮件或电话号码。 
-    
-5. 我们将向该新电子邮件或电话号码发送安全代码。 输入安全代码, 然后选择 "**下一步**"。 您的新安全信息将显示在列表中。 
-    
-6. 对于要删除的任意一种选择 "**删除**"。 
-    
-7. 如果要更新将向其发送通知的安全信息, 请选择 "**更改通知选项**", 然后取消选中您不再希望接收其通知的用户的复选框, 除非它们是关键的。 
-    
-阅读有关[安全信息和安全代码](https://support.microsoft.com/help/12428/)的详细信息。
-  
+若要向帐户添加安全信息, 请执行以下操作:
 
+1. 使用你的 Microsoft 帐户登录[安全基础知识](https://account.microsoft.com/security)。
+1. 选择 "**安全联系人信息**"。
+1. 选择 "**添加安全信息**" 并按照说明输入电话号码或电子邮件地址。
+1. 你将在该电话号码或电子邮件地址收到安全代码。 在 "**添加安全信息**" 窗口中输入您收到的安全代码, 然后选择 "**下一步**"。
+
+如果要删除电话号码或电子邮件地址, 请选择 "**删除**" 旁边的 "删除"。
+
+如果要更改接收安全警报的电话号码或电子邮件地址, 请选择 "**更改通知选项**"。
+
+若要了解详细信息, 请阅读[Microsoft 帐户安全信息和验证代码](https://support.microsoft.com/help/12428/)。

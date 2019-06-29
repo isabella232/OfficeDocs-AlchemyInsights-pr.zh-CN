@@ -7,25 +7,27 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "710"
+- "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 6990714d75fe6ed5dcf5f00625c10b7a7c39fb45
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407890"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364642"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>创建 SharePoint 中心网站
 
-1. 在新的 SharePoint 管理中心中, 在 "**网站**" 下, 单击 "**活动网站**"。 
-    
-2. 选择您想要成为中心网站的网站, 单击 "**中心网站**", 然后单击 "**注册为中心网站**"。 
-    
+1. 在新的 SharePoint 管理中心中, 在 "**网站**" 下, 单击 "**活动网站**"。
+
+2. 选择您想要成为中心网站的网站, 单击 "**中心网站**", 然后单击 "**注册为中心网站**"。
+
 3. 输入中心网站的显示名称, 并指定要允许其将网站与中心关联的单个用户或安全组。
-    
+
     > [!NOTE]
-    >  我们建议您选择一个通信网站, 或使用新模板的团队网站。 如果使用经典团队网站, 中心导航将仅显示在新式页面上, 中心网站设置将仅显示在新式页面上。 已与其他中心关联的 > 网站无法注册为中心网站。 
+    >  我们建议您选择一个通信网站, 或使用新模板的团队网站。 如果使用经典团队网站, 中心导航将仅显示在新式页面上, 中心网站设置将仅显示在新式页面上。 已与其他中心关联的 > 网站无法注册为中心网站。
   
 [了解有关中心网站的详细信息](https://go.microsoft.com/fwlink/?linkid=869149)
   
-

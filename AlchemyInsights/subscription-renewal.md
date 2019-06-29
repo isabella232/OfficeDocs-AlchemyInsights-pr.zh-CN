@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "493"
+- "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 22831d13132fc004bd8f38218e4e598f1ab5679c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8dfeeded3106f707a57a2d0bcfb84c5e7a3416ec
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370064"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354067"
 ---
 # <a name="subscription-recurring-billing"></a>订阅定期计费
 
-如果想要了解每月或每年订阅的记帐时间 (如果**定期记帐**已开启) 或过期 (如果关闭了**定期记帐**): 
+如果想要了解每月或每年订阅的记帐时间 (如果**定期记帐**已开启) 或过期 (如果关闭了**定期记帐**):
   
 1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
-    
-2. 选择您想要详细了解的订阅。
-    
-3. 订阅卡片的右侧是有关订阅状态、**定期记帐**设置以及下一张帐单或到期日期的信息。 
-    
-4. 若要继续使用此日期之后的服务, 请将 "**定期记帐设置**" 切换为 **"开**"。 状态将显示订阅的下一个记帐日期。
-    
-5. 若要在此日期停止服务, 请将**定期记帐**切换切换为 "**关闭**"。 状态将显示订阅过期的日期。
-    
 
+2. 选择您想要详细了解的订阅。
+
+3. 订阅卡片的右侧是有关订阅状态、**定期记帐**设置以及下一张帐单或到期日期的信息。
+
+4. 若要继续使用此日期之后的服务, 请将 "**定期记帐设置**" 切换为 **"开**"。 状态将显示订阅的下一个记帐日期。
+
+5. 若要在此日期停止服务, 请将**定期记帐**切换切换为 "**关闭**"。 状态将显示订阅过期的日期。

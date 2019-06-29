@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769533"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360473"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>自动应用灵敏度标签
 
-敏感度标签可 mannually 由用户应用于内容, 也可以将其配置为自动应用于内容。
+用户可以手动将敏感度标签应用于内容, 也可以将其配置为自动应用于内容。
 
 自动应用敏感度标签无需向用户介绍如何对内容进行分类以及将策略配置通知给他们的需求。
 

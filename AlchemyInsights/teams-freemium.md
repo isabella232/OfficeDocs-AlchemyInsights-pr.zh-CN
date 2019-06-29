@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771404"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353995"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>我想免费注册团队, 但我不能。
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771404"
 - 学术机构不符合此免费优惠。 不过, 教师和学生可以获取免费版本的 Office 365, 其中包括 Microsoft 团队的完整版本。 请参阅[适用于 Microsoft 团队的 Office 365 许可](https://docs.microsoft.com/microsoftteams/office-365-licensing)。
 
 - 美国政府机构不符合此免费优惠。 若要了解适用于政府组织的 Office 365 计划 (包括免费试用版), 请阅读[适用于 Microsoft 团队的 office 365 许可](https://docs.microsoft.com/microsoftteams/office-365-licensing)。
-
-

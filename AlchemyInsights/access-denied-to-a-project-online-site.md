@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 2700001
-ms.openlocfilehash: 14c8de57d65eb30408c1240b5f968146b44be6b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "2700001"
+- "1381"
+ms.openlocfilehash: 992c5c5e90e1e6218a0318c29c34c465ce7a8a5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389409"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359428"
 ---
 # <a name="help-with-permissions-in-project-online"></a>帮助在 Project Online 中获取权限
 
@@ -24,11 +26,7 @@ ms.locfileid: "32389409"
 1. 以管理员身份登录到 Project Online。
 2. 在 Project Web App 主页上, 选择 "**共享**", 右上角提供。
 3. 在 "**共享 Project Web App** " 对话框中, 在 "**邀请人员**" 框中键入要向其授予访问权限的人员的用户名。
-4. 选择 "**显示选项**", 并在 "**选择权限级别**" 菜单中选择 "project **Web App 的项目管理器**"。
+4. 选择 "**显示选项**", 并在 "**选择权限级别**" 菜单中选择 "Project **Web App 的项目管理器**"。
 5. 选择 "**共享**"。
 
 如果使用项目权限模式或详细信息, 请参阅[将人员添加到 Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)。
-
-
-  
-

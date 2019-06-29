@@ -8,17 +8,21 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1386"
+- "2303"
+- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: a4c6029c632178136396a91ba9754752dc8f7180
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407604"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364543"
 ---
 # <a name="create-a-sharepoint-site"></a>创建 SharePoint 网站
 
-请参阅[在新 SharePoint 管理中心中管理](https://docs.microsoft.com/sharepoint/manage-site-creation )网站创建选项。 选择以创建[团队网站](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US)(它将创建 Office 365 组) 或[通信网站](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)。 若要创建[经典网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)或不包含 Office 365 组的新团队网站, 请单击 "**其他选项**"。 
+请参阅[在新 SharePoint 管理中心中管理](https://docs.microsoft.com/sharepoint/manage-site-creation )网站创建选项。 选择以创建[团队网站](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US)(它将创建 Office 365 组) 或[通信网站](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb)。 若要创建[经典网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)或不包含 Office 365 组的新团队网站, 请单击 "**其他选项**"。
   
 几点
 - *您无法使用与现有网站相同的 URL 创建网站。如果您删除了某个网站, 并且希望重新使用该 URL, 则可能是已删除的网站仍存在于 "**已删除的网站**" 下。若要管理已删除的网站, 请参阅[删除网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。若要使用 Powershell 完全删除站点, 请参阅[remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。*

@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770764"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355723"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>敏感度标签未显示
 
@@ -25,8 +28,7 @@ ms.locfileid: "34770764"
 - 确认是否已将敏感度标签[发布](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do)到所需的用户和组。
 
 - 确认用户正在使用支持敏感度标签的应用程序-请参阅[文档中的敏感度标签](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)。
- 
- 
+
 - 如果要[迁移 Azure 信息保护标签](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), 请注意[此处](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)列出的注意事项。
 
 - 数据丢失防护 (DLP) 支持: 目前, 在 DLP 策略中, 仅保留标签可用作条件。  DLP 策略中的敏感度标签支持尚不可用, 但我们正在对其进行处理。

@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1491
+ms.custom:
+- "1491"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 517d9b75fc3aef09c0c2d5870aa695cc0ab10f06
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d25c1ef2e0e746432472a436cb11d25b5db5596c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383825"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355867"
 ---
 # <a name="content-search-not-returning-expected-results"></a>内容搜索未返回预期结果
 
-从 Office 365 Security & 合规中心运行内容搜索时, 您可能会收到意外的搜索结果。 请考虑可能影响您的搜索结果的以下内容:
+从 Office 365 安全 & 合规中心运行内容搜索时, 您可能会收到意外的搜索结果。 请考虑可能影响您的搜索结果的以下内容:
 
 - **内容位置和搜索条件**: 请确保已选择正确的内容位置和搜索条件。 如果您运行的是大型搜索 (包含多个位置), 请考虑将其拆分为多个搜索。
 
