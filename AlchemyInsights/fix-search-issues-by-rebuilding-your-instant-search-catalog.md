@@ -9,25 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1800005
+ms.custom:
+- "644"
+- "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 06cb5d8377f423682419316916a87dabc47051f8
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: f29d2b256f7cf0dbb39283724532194ecd1edb77
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769391"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387407"
 ---
 # <a name="troubleshoot-search-issues"></a>解决搜索问题
 
 如果您在搜索方面遇到问题, 请参阅以下链接以获取帮助疑难解答。
 
 这些是最常见的问题, 并且是一个很好的入门之处:
+
 - [Outlook 搜索不返回任何结果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
 - [Outlook 搜索返回不完整结果](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
 - [Outlook 搜索无法找到较早的电子邮件](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
 可以在以下位置找到不常见问题的可能解决方案:
+
 - [仅限 Outlook 2016: "搜索" 选项卡显示为灰色](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
 - [共享邮箱: 搜索结果问题](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
 - [错误: 由于 Outlook 的配置有问题, 搜索性能将受到影响](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)

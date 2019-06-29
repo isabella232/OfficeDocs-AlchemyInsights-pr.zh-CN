@@ -9,39 +9,42 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "263"
+- "928"
+- "1100001"
+- "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 51e010dd19419f21c67d589b9833821b1e5075c0
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bb72bd96bd19d5e5a8f87b91042a2423c5e003df
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404111"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388883"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>无法安装或运行电子数据展示导出工具？
 
 如果无法安装或运行 Office 365 电子数据展示导出工具以下载搜索结果, 请检查以下各项:
   
 - 您正在使用的计算机满足以下先决条件:
-    
+
   - 32 位或 64 位版本的 Windows 7 和更高版本
-    
-  - Microsoft .net Framework 4。7
-    
+
+  - Microsoft .NET Framework 4。7
+
   - 支持的浏览器：
-    
+
   - Microsoft Edge
-    
-    或者
-    
+
+    或
+
   - Internet Explorer 10 和更高版本
-    
+
     其他浏览器 (如 Google Chrome 和 Mozilla Firefox) 不受支持。
-    
-- 您的组织可以连接到 Azure 中的终结点, ** \*即 blob.core.windows.net** (通配符代表导出作业的唯一标识符)。 
-    
+
+- 您的组织可以连接到 Azure 中的终结点, ** \*即 blob.core.windows.net** (通配符代表导出作业的唯一标识符)。
+
 - 你已在 Office 365 安全&amp;合规中心中分配了导出角色。 默认情况下, 此角色仅分配给电子数据展示管理器角色组。 请参阅[分配电子数据展示权限](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo)。
-    
+
 有关详细信息, 请参阅[导出内容搜索结果](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278)。
   
-
