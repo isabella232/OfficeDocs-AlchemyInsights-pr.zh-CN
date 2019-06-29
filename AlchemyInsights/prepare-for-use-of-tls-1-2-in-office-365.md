@@ -1,5 +1,5 @@
 ---
-title: 使用 Office 365 中的 TLS 1.2 准备
+title: 准备好在 Office 365 中使用 TLS 1.2
 ms.author: pebaum
 author: pebaum
 ms.date: 10/30/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29459603"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370917"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>使用 Office 365 中的 TLS 1.2 准备
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a>准备好在 Office 365 中使用 TLS 1.2
 
-从年 10 月 31 2018 Office 365 将继续转换到 TLS 1.2。这意味着，Microsoft 将无法修复的客户端、 设备或使用 TLS 1.0 和 1.1 连接到 Office 365 服务中找到新问题。**这并不意味着 Office 365 将阻止 TLS 1.0 和 1.1 连接。** 最终否决日期取决于客户使用率和旧式 TLS 安全的当前状态。决定是后，将会通知六个月提前除非我们意识到已知威胁，在这种情况下，我们可能需要操作在小于六个月，以保护客户使用的服务。 
+自 2018 年 10 月 31 日起，Office 365 将继续切换到 TLS 1.2。 这意味着对于使用 TLS 1.0 和 1.1 连接到 Office 365 的客户端、设备或服务，Microsoft 将不再修复其出现的新问题。 **这并不表示 Office 365 将阻止 TLS 1.0 和 1.1 连接。** 最终弃用日期将由客户使用情况以及旧版 TLS 安全性的当前状态决定。 决定后，我们将提前 6 个月发布公告，除非发现已知信息泄露事件。如果出现泄露，我们可能必须在 6 个月内采取行动，以保护使用这些服务的客户。
   
-强烈建议的任何服务器和客户端与 Office 365 连接需要启用 TLS 1.2 尽快。
+强烈建议所有连接到 Office 365 的服务器和客户端都需要尽快启用 TLS 1.2。
   
-有关详细信息，请参阅[准备 Office 365 中的 TLS 1.2。](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+有关详细信息，请参阅[为在 Office 365 中使用 TLS 1.2 做准备。](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
-
