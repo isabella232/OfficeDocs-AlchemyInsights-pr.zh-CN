@@ -8,12 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51fea2ad-81d4-4b65-9d24-e2f953aa814a
-ms.openlocfilehash: aee07143064fbc29055a2f7999fc1dc7265d8cce
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "873"
+- "875"
+- "876"
+- "3100010"
+ms.openlocfilehash: 50e51be8560ed3817f956cb0c8d111e57b504574
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400563"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386399"
 ---
 # <a name="having-email-delivery-issues"></a>遇到电子邮件传递问题？
 
@@ -21,10 +26,9 @@ ms.locfileid: "32400563"
   
 {HealthCheckString}
   
-域 (DNS) 设置的 NS 或 MX 记录未正确配置，使得电子邮件无法传递到 Office 365 服务。 可参阅[更新 Office 365 中的 DNS 记录](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)，了解有关详细说明。 
+域 (DNS) 设置的 NS 或 MX 记录未正确配置，使得电子邮件无法传递到 Office 365 服务。 可参阅[更新 Office 365 中的 DNS 记录](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)，了解有关详细说明。
   
-若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。 
+若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。
   
-[查看域常见问题解答](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)，了解其他常见解决方案。 
+[查看域常见问题解答](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)，了解其他常见解决方案。
   
-
