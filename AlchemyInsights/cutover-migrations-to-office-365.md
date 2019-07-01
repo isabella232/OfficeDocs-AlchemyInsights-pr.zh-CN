@@ -8,16 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "695"
+- "3500010"
 ms.assetid: 11929899-2837-4b45-ba79-873bb5485810
-ms.openlocfilehash: 00ea61d7931c6016fa1e1019a1cc83bf78ff8f58
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 57d2d92396d8abebb7ed0046de77b784e31da714
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753125"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35364471"
 ---
-# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="2cdcb-102">到 Office 365 的直接转换迁移</span><span class="sxs-lookup"><span data-stu-id="2cdcb-102">Cutover migration to Office 365</span></span>
+# <a name="cutover-migrations-to-office-365"></a><span data-ttu-id="b90e6-102">到 Office 365 的直接转换迁移</span><span class="sxs-lookup"><span data-stu-id="b90e6-102">Cutover migration to Office 365</span></span>
 
-<span data-ttu-id="2cdcb-103">注册 Office 365 时, 可将用户邮箱的内容从本地 Exchange 组织迁移到 Office 365。</span><span class="sxs-lookup"><span data-stu-id="2cdcb-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="2cdcb-104">当你一次性执行此操作时, 它称为直接转换迁移。</span><span class="sxs-lookup"><span data-stu-id="2cdcb-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="2cdcb-105">如果你运行的是受支持的 Exchange 版本且邮箱少于2000个, 则直接转换迁移可能非常适合你。</span><span class="sxs-lookup"><span data-stu-id="2cdcb-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="2cdcb-106">若要了解有关直接转换迁移的详细信息, 请参阅[到 Office 365 的直接转换迁移](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx)。</span><span class="sxs-lookup"><span data-stu-id="2cdcb-106">To find out more about cutover migrations, take a look at: [Cutover migration to Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span></span>
+<span data-ttu-id="b90e6-103">注册 Office 365 时, 可将用户邮箱的内容从本地 Exchange 组织迁移到 Office 365。</span><span class="sxs-lookup"><span data-stu-id="b90e6-103">When you sign up for Office 365, you can migrate the contents of user mailboxes from an on-premises Exchange organization to Office 365.</span></span> <span data-ttu-id="b90e6-104">当你一次性执行此操作时, 它称为直接转换迁移。</span><span class="sxs-lookup"><span data-stu-id="b90e6-104">When you do this all at one time, it's called a cutover migration.</span></span> <span data-ttu-id="b90e6-105">如果你运行的是受支持的 Exchange 版本且邮箱少于2000个, 则直接转换迁移可能非常适合你。</span><span class="sxs-lookup"><span data-stu-id="b90e6-105">A cutover migration could be right for you if you're running a supported version of Exchange and have fewer than 2,000 mailboxes.</span></span> <span data-ttu-id="b90e6-106">若要了解有关直接转换迁移的详细信息, 请参阅[到 Office 365 的直接转换迁移](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx)。</span><span class="sxs-lookup"><span data-stu-id="b90e6-106">To find out more about cutover migrations, take a look at: [Cutover migration to Office 365](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx).</span></span>
   
-
