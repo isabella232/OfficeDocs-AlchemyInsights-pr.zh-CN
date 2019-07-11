@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: b964252af07e990bd0802484a3b042448c931b57
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377687"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614088"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>在 Outlook.com 中添加电子邮件别名
 
@@ -30,6 +30,6 @@ ms.locfileid: "35377687"
     2. 将现有的电子邮件地址添加为别名。
 3. 选择 "**添加别名**"。
 
-阅读有关如何[在 Outlook.com 中添加或删除电子邮件别名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2)的详细信息。  
+阅读有关如何[在 Outlook.com 中添加或删除电子邮件别名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)的详细信息。  
 
-阅读[如何将另一个电子邮件帐户连接](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba)到您的 Outlook.com 帐户。
+阅读[如何将另一个电子邮件帐户连接](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)到您的 Outlook.com 帐户。
