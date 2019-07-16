@@ -12,12 +12,12 @@ ms.custom:
 - "9000251"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b385a16e8538f0633d5746f1abc8eb62c9c83df0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1500c2e0bc7ba40b4ee4d149899e5199ae926722
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376751"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697181"
 ---
 # <a name="cant-send-email-in-outlookcom"></a>无法在 Outlook.com 中发送电子邮件
 
@@ -28,6 +28,6 @@ ms.locfileid: "35376751"
 1. 如果您的收件箱已满, 将无法发送或接收新邮件。 右键单击 "垃圾邮件" 文件夹并选择 "**空文件夹**", 以清空 "[垃圾邮件" 文件夹](https://outlook.live.com/mail/junkemail)。
 1. 请确保您尝试发送的人员的电子邮件地址的格式正确。
 1. 如果已[连接的帐户](https://outlook.live.com/mail/options/mail/accounts/connected)超过20个, 将无法发送或接收邮件。
-1. 由于我们注意到一些异常登录活动, 你的帐户可能暂时被阻止。 请参阅[解除阻止我的 Outlook.com 帐户](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)。
+1. 由于我们注意到一些异常登录活动, 你的帐户可能暂时被阻止。 请参阅[解除阻止我的 Outlook.com 帐户](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)。
 
-了解有关如何[修复 Outlook.com 电子邮件同步问题](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)的详细信息。
+了解有关如何[修复 Outlook.com 电子邮件同步问题](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)的详细信息。

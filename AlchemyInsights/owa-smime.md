@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 5816d85596560dfa016fc2ed622192f68ec4e818
-ms.sourcegitcommit: 187bd764267e502224fa30ea8b04d071aaae73a4
+ms.openlocfilehash: 4a68140db3117f0ad33bf2ebee94601397376c26
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33546236"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701385"
 ---
 # <a name="encrypt-messages-using-smime"></a>使用 S/MIME 加密邮件
 
@@ -28,4 +28,4 @@ ms.locfileid: "33546236"
 1. 转到 "**设置** > "**查看所有 Outlook 设置**。
 2. 选择 "**邮件** > **S/MIME**"。
 
-有关详细信息, 请参阅[在 web 上的 Outlook 中使用 S/MIME 对邮件进行加密](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480)。
+有关详细信息, 请参阅 [使用 Outlook 网页版中的 S/MIMEhttps://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480加密邮件] (？ Wt = Office_Outlook_com_Alchemy)。

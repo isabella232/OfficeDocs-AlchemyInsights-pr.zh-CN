@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360979"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701313"
 ---
 # <a name="see-your-own-email-address"></a>查看你自己的电子邮件地址
 
@@ -28,4 +28,4 @@ ms.locfileid: "35360979"
 1. 选择撰写窗口底部的三个点, 然后选择 "**显示来源** " 以查看 "发件人" 行。
 2. 在 "到" 行上方, 选择 " **发件人** ", 然后选择要使用的电子邮件地址。
 
-了解有关[从 Outlook.com 中的不同地址发送电子邮件的](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e)详细信息。
+了解有关[从 Outlook.com 中的不同地址发送电子邮件的](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)详细信息。

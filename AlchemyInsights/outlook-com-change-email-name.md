@@ -12,12 +12,12 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062052"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701421"
 ---
 # <a name="change-your-email-name"></a>更改你的电子邮件名称
 
@@ -35,4 +35,4 @@ ms.locfileid: "35062052"
 1. 选择 "**显示来源**" 以查看 "发件人" 行。
 1. 在 "到" 行上方, 选择 "**发件人**", 然后选择要使用的电子邮件地址。
 
-有关详细信息, 请参阅[从 Outlook.com 中的其他地址发送电子邮件](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409)。
+有关详细信息, 请参阅[从 Outlook.com 中的其他地址发送电子邮件](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)。
