@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366321"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786403"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>必需 Alchemy 标头 H1, H2's 不起作用。
 用于 Alchemy 创作的最佳做法和指南:
@@ -32,9 +32,11 @@ ms.locfileid: "32366321"
     1. 项目符号列表正常
     1. 编号列表
     1. **粗体**和*斜体*为-正常
-    1. 链接应始终是 **"web 上的链接"/external**或指向**UI 元素的深层链接**, 而不是内部链接。
+    1. 链接应始终是 **"web 上的链接"/External**或指向**UI 元素的深层链接**, 而不是内部链接。
     1. 目前尚不支持图片, 但这在路线图中。
 
 这实际上已经是太长了。 最佳实践大约为400个字符---------------------------------
 
-准备好内容后, 将其纳入活动分支。 然后, 转到 " [Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)", 并在 "url" 字段中输入文件名。 M
+准备好内容后, 将其纳入活动分支。 然后, 转到 " [Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)", 并在 "url" 字段中输入文件名。 
+
+
