@@ -3,7 +3,7 @@ title: 处理 Outlook.com 中的垃圾邮件和垃圾邮件
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697109"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800071"
 ---
-# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="28e74-102">将电子邮件标记为垃圾邮件</span><span class="sxs-lookup"><span data-stu-id="28e74-102">Mark email messages as junk</span></span>
+# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="50831-102">Outlook.com 中的垃圾邮件和垃圾邮件</span><span class="sxs-lookup"><span data-stu-id="50831-102">Spam and junk email in Outlook.com</span></span>
 
-<span data-ttu-id="28e74-103">若要将邮件标记为垃圾邮件或垃圾邮件, 请选择邮件列表中的邮件, 然后选择 "**垃圾** > \*\*\*\* 邮件"。</span><span class="sxs-lookup"><span data-stu-id="28e74-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="50831-103">如果要获取过多的垃圾邮件或垃圾邮件, 请尝试以下方法:</span><span class="sxs-lookup"><span data-stu-id="50831-103">If you're getting too much junk or spam, try these methods:</span></span>
 
-<span data-ttu-id="28e74-104">若要阻止来自特定电子邮件地址的所有邮件, 请在邮件列表中选择该邮件, 然后选择 "**垃圾** > 邮件**阻止**"。</span><span class="sxs-lookup"><span data-stu-id="28e74-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
+1. <span data-ttu-id="50831-104">**将电子邮件标记为垃圾邮件**</span><span class="sxs-lookup"><span data-stu-id="50831-104">**Mark an email as junk**</span></span>
+    1. <span data-ttu-id="50831-105">选择邮件。</span><span class="sxs-lookup"><span data-stu-id="50831-105">Select the message.</span></span>
+    1. <span data-ttu-id="50831-106">选择 "**垃圾** > \*\*\*\* 邮件" 将邮件移动到 "垃圾邮件" 文件夹。</span><span class="sxs-lookup"><span data-stu-id="50831-106">Select **Junk** > **Junk** to move the message to your Junk Email folder.</span></span>
+    1. [<span data-ttu-id="50831-107">了解有关如何帮助将垃圾邮件和垃圾邮件从收件箱中注销的详细信息。</span><span class="sxs-lookup"><span data-stu-id="50831-107">Learn more about how to help keep spam and junk email out of your inbox.</span></span>](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="28e74-105">如果误将邮件标记为垃圾邮件, 请选择 "[垃圾邮件" 文件夹](https://outlook.live.com/mail/junkemail)中的邮件, 然后选择 "**不垃圾** > \*\*\*\* 邮件"。</span><span class="sxs-lookup"><span data-stu-id="28e74-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="28e74-106">(*注意:* "垃圾邮件" 文件夹中的项目将在30天后删除。)</span><span class="sxs-lookup"><span data-stu-id="28e74-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="50831-108">**从收件箱阻止发件人**</span><span class="sxs-lookup"><span data-stu-id="50831-108">**Block a sender from your inbox**</span></span>
+    1. <span data-ttu-id="50831-109">选择邮件。</span><span class="sxs-lookup"><span data-stu-id="50831-109">Select the message.</span></span>
+    1. <span data-ttu-id="50831-110">选择 "**垃圾邮件** > **块** > **" "确定"**。</span><span class="sxs-lookup"><span data-stu-id="50831-110">Select **Junk** > **Block** > **OK**.</span></span>
+    1. [<span data-ttu-id="50831-111">了解有关如何阻止或取消阻止发件人的详细信息。</span><span class="sxs-lookup"><span data-stu-id="50831-111">Learn more about how to block or unblock senders.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="28e74-107">若要了解更多信息, 请阅读将[电子邮件标记为垃圾邮件或阻止 Outlook.com 中的发件人](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="28e74-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="50831-112">**将发件人添加到阻止发件人列表**</span><span class="sxs-lookup"><span data-stu-id="50831-112">**Add a sender to your blocked senders list**</span></span>
+    1. <span data-ttu-id="50831-113">打开 "[垃圾邮件" 设置](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)。</span><span class="sxs-lookup"><span data-stu-id="50831-113">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span></span>
+    1. <span data-ttu-id="50831-114">在 "**阻止的发件人和域**" 下, 选择 "**添加**"。</span><span class="sxs-lookup"><span data-stu-id="50831-114">Under **Blocked senders and domains**, select **Add**.</span></span>
+    1. <span data-ttu-id="50831-115">键入要阻止的电子邮件地址或域, 然后按 Enter。</span><span class="sxs-lookup"><span data-stu-id="50831-115">Type the email address or domain you want to block and press Enter.</span></span>
+    1. <span data-ttu-id="50831-116">在 "**筛选器**" 下, 选择是否要信任 "安全发件人和域" 和 "安全邮件列表" 下的电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="50831-116">Under **Filters**, choose if you want to trust email from addresses under Safe senders and domains and Safe mailing lists.</span></span>
+    1. <span data-ttu-id="50831-117">选择“保存”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="50831-117">Select **Save**.</span></span>
+
+1. <span data-ttu-id="50831-118">**创建收件箱规则**</span><span class="sxs-lookup"><span data-stu-id="50831-118">**Create an inbox rule**</span></span>
+    1. <span data-ttu-id="50831-119">右键单击邮件列表中的邮件, 然后选择 "**创建规则**"。</span><span class="sxs-lookup"><span data-stu-id="50831-119">Right-click a message in your message list and select **Create rule**.</span></span>
+    1. <span data-ttu-id="50831-120">选择要在其中移动来自该发件人的所有邮件的文件夹, 然后选择 **"确定** > **" "确定"**。</span><span class="sxs-lookup"><span data-stu-id="50831-120">Choose the folder where you want all messages from that sender to be moved, and select **OK** > **OK**.</span></span>
+    1. [<span data-ttu-id="50831-121">了解有关 Outlook.com 中的收件箱规则的详细信息。</span><span class="sxs-lookup"><span data-stu-id="50831-121">Learn more about inbox rules in Outlook.com.</span></span>](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
