@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000555"
 - "2405"
-ms.openlocfilehash: 07b60aa96a42511f3bfbfe0d63b8107a0cfd87e2
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 5387aeaff7be7df4dc44723f420ff2c5784cd260
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752857"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800107"
 ---
 # <a name="troubleshoot-onenote-sync-issues"></a>解决 OneNote 同步问题
+
+* 若要解决与 OneNote 同步相关的最常见问题, 请在[无法同步 onenote 时使用修复问题](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)中的步骤。
 
 如果不同步的笔记本存储在 OneDrive 或 SharePoint 的较新版本上, 请尝试在 OneNote Online 中打开笔记本 (在 www.onenote.com)。 这有助于确定问题是否由服务器或 OneNote 引起。
 
@@ -33,5 +35,3 @@ ms.locfileid: "35752857"
 如果你无法在 OneNote Online 中打开笔记本, 并且出现更改, 则问题可能是由桌面版本的 OneNote 导致的。 关闭并重新打开笔记本通常会清除并成功重置连接。
 
 * 我们建议按照 "[安装 Office 更新](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)" 中的步骤在你的电脑上安装最新的 OneNote 更新。 如果你在 Mac 上, 请按照[自动检查 Office For Mac 更新](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1)中的步骤操作。
-
-* 若要解决与 OneeNote 同步相关的最常见问题, 请在[无法同步 OneNote 时使用修复问题](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)中的步骤。
