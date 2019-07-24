@@ -1,7 +1,7 @@
 ---
-title: SharePoint Online 权限级别
-ms.author: kirks
-author: Techwriter40
+title: SharePoint Designer 连接问题
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,41 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 356fef8e02f2c1fd9d209c68194685bb0acaa367
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1d3f6ad3128292a9dbcc46cc7da23af59a63fbb4
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760683"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840541"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer 连接问题 
 
-如果 SharePoint Designer 在 SharePoint 网站中遇到连接问题, 请尝试以下常见解决方案。
+如果 SharePoint Designer 遇到 SharePoint 网站的连接问题, 请尝试以下常见解决方案。
 
-步骤 1: 验证 SharePoint Designer 是否已更新。
+步骤 1: 验证 sharepoint designer 2013 是否已更新 sharepoint designer [Service Pack 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1)和[8 月2日, 2016 Update for sharepoint designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)。
 
-- [SharePoint Designer 2013](https://www.microsoft.com/download/details.aspx?id=35491)
 
-- [SharePoint Designer Service Pack 1 (SP1)](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1)
 
-- [SharePoint Designer 2013 更新 (KB3114721)](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)
+步骤 2: 清除本地缓存文件:
 
-步骤 2: 清除本地缓存文件
+1. 关闭 SharePoint Designer 2013。
 
-- 关闭 SharePoint Designer 2013。
+2. 在本地计算机上, 删除在以下每个文件夹中找到的所有文件。
 
-- 在本地计算机上, 浏览到以下文件夹以删除缓存的文件。
+    - %APPDATA%\Microsoft\Web Server Extensions\Cache
+    - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
+    - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-- 单击 "启动", 运行并删除在以下每个位置下找到的所有文件。
+3. 打开 SharePoint Designer 2013, 然后再次输入帐户以查看它是否正常工作。
 
-%APPDATA%\Microsoft\Web Server Extensions\Cache%APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache%USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
+步骤 3:[为 Windows 设备上的 Office 2013 启用新式验证](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)。
 
-打开 SharePoint Designer 2013, 然后再次输入帐户以查看它是否正常工作。
-
-步骤 3:[为 Windows 设备上的 Office 2013 启用新式验证](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)
-
-步骤 4: 管理员将需要允许自定义脚本允许 SharePoint Designer 连接。
-
-有关详细步骤、示例和注意事项, 请参阅[Allow or 预防自定义脚本](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)。
+步骤 4: 管理员将需要允许 sharepoint 管理中心设置中的**自定义脚本**, 以允许 sharepoint Designer 连接。 有关详细信息, 请参阅[允许或阻止自定义脚本](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)。
 
 
