@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
+ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384743"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937848"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>将邮箱置于法定保留状态
 
@@ -26,4 +26,4 @@ ms.locfileid: "35384743"
 
 - 若要为单个用户启用诉讼保留, 请[执行以下步骤](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)。 启用诉讼保留时, 将保留邮箱中的所有内容。
 
-- 若要将组织中的所有邮箱置于保留状态, 可以通过执行[以下步骤](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)来使用 Office 365 保留策略。 请注意, 对于组织范围内的保留策略, 新用户将自动分配给该策略。
+- 若要将组织中的所有邮箱置于保留状态, 可以通过执行[以下步骤](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold)来使用 Office 365 保留策略。 请注意, 对于组织范围内的保留策略, 新用户将自动分配给该策略。
