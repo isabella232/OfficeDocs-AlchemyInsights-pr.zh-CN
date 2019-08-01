@@ -15,12 +15,12 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 1139ddf9028e8e54ec467948705d10a456e4e84f
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: f05e8fa7b973fd4b747aebaac0b76baf3fd67b2d
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35745597"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36049166"
 ---
 # <a name="find-missing-folders"></a>查找丢失的文件夹
 
@@ -28,4 +28,4 @@ ms.locfileid: "35745597"
   
 如果您意外删除了某个文件夹, 则可以将其恢复 (如果它仍在 "已删除邮件" 文件夹中)。 若要了解详细信息, 请参阅[在 Outlook.com 中还原已删除的电子邮件](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)。
   
-存在缺少文件夹的已知问题。 我们正在努力解决此问题。 您仍可以使用 "**搜索**" 查找在丢失的文件夹中保存的项目, 如果您注销然后重新登录, 则可能会有所帮助。 [单击此处注销。](https://login.live.com/logout.srf)
+存在缺少文件夹的已知问题。 我们正在努力解决此问题。 您仍可以使用 "**搜索**" 查找在丢失的文件夹中保存的项目 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, 如果你注销然后重新登录, 则可能会有所帮助。 [单击此处注销。](https://login.live.com/logout.srf)
