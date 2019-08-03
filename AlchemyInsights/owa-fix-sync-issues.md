@@ -11,23 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "9000641"
 - "2478"
-ms.openlocfilehash: 88d6cae01da1142f0d087592920f8cc2b5b33bf2
-ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
+ms.openlocfilehash: e7494964f08c7300c9329330b758edf7e0380554
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35079268"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171240"
 ---
-# <a name="fix-outlook-on-the-web-sync-issues"></a><span data-ttu-id="8ea9d-102">修复 web 上的 Outlook 同步问题</span><span class="sxs-lookup"><span data-stu-id="8ea9d-102">Fix Outlook on the web sync issues</span></span>
+# <a name="fix-outlook-on-the-web-sync-issues"></a><span data-ttu-id="777c9-102">修复 web 上的 Outlook 同步问题</span><span class="sxs-lookup"><span data-stu-id="777c9-102">Fix Outlook on the web sync issues</span></span>
 
-<span data-ttu-id="8ea9d-103">Outlook 网页版显示用于连接到邮箱的移动设备。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-103">Outlook on the web shows the mobile devices you use to connect to your mailbox.</span></span> <span data-ttu-id="8ea9d-104">如果不再使用设备或设备未正常同步, 可以从此列表中将其删除。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-104">If you're no longer using a device or a device isn't syncing properly, you can delete it from this list.</span></span>
+<span data-ttu-id="777c9-103">Outlook 网页版显示用于连接到邮箱的移动设备。</span><span class="sxs-lookup"><span data-stu-id="777c9-103">Outlook on the web shows the mobile devices you use to connect to your mailbox.</span></span> <span data-ttu-id="777c9-104">如果不再使用设备或设备未正常同步, 可以从此列表中将其删除。</span><span class="sxs-lookup"><span data-stu-id="777c9-104">If you're no longer using a device or a device isn't syncing properly, you can delete it from this list.</span></span>
 
-1. <span data-ttu-id="8ea9d-105">选择 "**设置** > " "**查看所有 Outlook 设置** > **常规** > **移动设备**"。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-105">Choose **Settings** > **View all Outlook settings** > **General** > **Mobile devices**.</span></span>
-1. <span data-ttu-id="8ea9d-106">将光标移到列表中的设备上, 然后选择垃圾桶图标以删除设备合作关系。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-106">Move the cursor over your device in the list, and then select the trash icon to delete the device partnership.</span></span>
-1. <span data-ttu-id="8ea9d-107">在窗口顶部, 选择 "**保存**"。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-107">At the top of the window, select **Save**.</span></span>
-1. <span data-ttu-id="8ea9d-108">转到你的移动设备并将其完全断电。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-108">Go to your mobile device and power it off completely.</span></span>
-1. <span data-ttu-id="8ea9d-109">几秒钟后重新启动移动设备, 然后再次同步邮箱。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-109">Restart your mobile device after a few seconds, and then sync your mailbox again.</span></span>
+1. <span data-ttu-id="777c9-105">Choose</span><span class="sxs-lookup"><span data-stu-id="777c9-105">Choose</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="777c9-106">**"设置** > **" 查看所有 Outlook 设置** > **常规** > **移动设备**。</span><span class="sxs-lookup"><span data-stu-id="777c9-106">**Settings** > **View all Outlook settings** > **General** > **Mobile devices**.</span></span>
+1. <span data-ttu-id="777c9-107">将光标移到列表中的设备上, 然后选择垃圾桶图标</span><span class="sxs-lookup"><span data-stu-id="777c9-107">Move the cursor over your device in the list, and then select the trash icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAYAAACEnoQPAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wgCFhU3Ud7cHwAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAdklEQVQ4je2UyxGAIAxEiWMLFJOWQhNpgiopYj3xGYyMoN58Fwiw2TBDIABwi+zWoqq6lFKJvfdOVc8HYSAiwzhDABBCmC45xlidr7KPqtqmLRtMcb5GP94SP3L+xR+J33thbSdZ9PulJZnZbrsOZi5zAtY/gwP06MoBiw8fkwAAAABJRU5ErkJggg==' /> <span data-ttu-id="777c9-108">删除设备合作关系。</span><span class="sxs-lookup"><span data-stu-id="777c9-108">to delete the device partnership.</span></span>
+1. <span data-ttu-id="777c9-109">在窗口顶部, 选择 "**保存**"。</span><span class="sxs-lookup"><span data-stu-id="777c9-109">At the top of the window, select **Save**.</span></span>
+1. <span data-ttu-id="777c9-110">转到你的移动设备并将其完全断电。</span><span class="sxs-lookup"><span data-stu-id="777c9-110">Go to your mobile device and power it off completely.</span></span>
+1. <span data-ttu-id="777c9-111">几秒钟后重新启动移动设备, 然后再次同步邮箱。</span><span class="sxs-lookup"><span data-stu-id="777c9-111">Restart your mobile device after a few seconds, and then sync your mailbox again.</span></span>
 
-<span data-ttu-id="8ea9d-110">若要了解详细信息, 请参阅[修复电子邮件同步问题或从 Outlook 网页邮箱中删除设备](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)</span><span class="sxs-lookup"><span data-stu-id="8ea9d-110">To learn more, see [Fix email sync issues or remove a device from your Outlook on the web mailbox](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)</span></span>
+<span data-ttu-id="777c9-112">若要了解详细信息, 请参阅[修复电子邮件同步问题或从 Outlook 网页邮箱中删除设备](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)</span><span class="sxs-lookup"><span data-stu-id="777c9-112">To learn more, see [Fix email sync issues or remove a device from your Outlook on the web mailbox](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)</span></span>
 
-<span data-ttu-id="8ea9d-111">*注意:* Web 上的 Outlook 不再支持已连接的帐户。</span><span class="sxs-lookup"><span data-stu-id="8ea9d-111">*Note:* Connected accounts are no longer supported in Outlook on the web.</span></span> <span data-ttu-id="8ea9d-112">若要了解详细信息, 请参阅[web 上的 Outlook 不再支持已连接帐户](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="8ea9d-112">To learn more, see [Connected accounts are no longer supported in Outlook on the web](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
+<span data-ttu-id="777c9-113">*注意:* Web 上的 Outlook 不再支持已连接的帐户。</span><span class="sxs-lookup"><span data-stu-id="777c9-113">*Note:* Connected accounts are no longer supported in Outlook on the web.</span></span> <span data-ttu-id="777c9-114">若要了解详细信息, 请参阅[web 上的 Outlook 不再支持已连接帐户](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="777c9-114">To learn more, see [Connected accounts are no longer supported in Outlook on the web](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
