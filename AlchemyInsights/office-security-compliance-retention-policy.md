@@ -1,25 +1,24 @@
 ---
-title: 自动创建的新保留标签
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: 有关保留策略的详细信息
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222982"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448825"
 ---
-# <a name="new-retention-labels-created-automatically"></a>自动创建的新保留标签
+# <a name="more-info-about-retention-policies"></a>有关保留策略的详细信息
 
 对于大多数组织而言, 其数据的数量和复杂性增加了每天的电子邮件、文档、即时消息等。
-
-有效地管理或管理此信息非常重要, 保留策略可帮助您实现这些目标。 有关保留策略的详细信息, 请访问下面的链接。
+有效地管理或管理此信息非常重要, 保留策略可帮助您实现这些目标。 有关保留策略的详细信息, 请访问以下链接:
 
 - [保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
