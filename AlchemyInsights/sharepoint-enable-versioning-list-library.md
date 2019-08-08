@@ -1,20 +1,24 @@
 ---
-title: 在列表或库中启用版本控制
-ms.author: kirks
-author: Techwriter40
+title: SharePoint 和 OneDrive 中的版本控制
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223594"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232648"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>为 SharePoint 列表或库启用版本控制
+# <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中的版本控制 
 
 
 在 SharePoint 列表或库中启用版本控制后, 可以在列表中存储、跟踪和还原项目, 并在更改时在库中存储和还原这些文件。 与其他设置 (如 checkout) 结合使用的版本控制可为您提供对在网站上发布的内容的大量控制, 如果您需要查看或还原项目或文件的旧版本, 则可以提供真正的价值。
