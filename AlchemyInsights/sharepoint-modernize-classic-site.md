@@ -1,18 +1,19 @@
 ---
 title: 新式网站作为根网站
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: cb2afc4cacf4c45b7643ebce7b6e8ca6f92c9e03
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: a3e22ec802826c1e9b205314f3e9b461a00c46dd
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803064"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270194"
 ---
 # <a name="modernize-your-classic-sharepoint-site"></a>现代化您的经典 SharePoint 网站
 

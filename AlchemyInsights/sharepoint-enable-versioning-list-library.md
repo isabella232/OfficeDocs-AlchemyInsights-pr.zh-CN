@@ -2,6 +2,7 @@
 title: SharePoint 和 OneDrive 中的版本控制
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232648"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270410"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中的版本控制 
 
@@ -37,6 +38,7 @@ ms.locfileid: "36232648"
 
 - [版本控制限制](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**注意:** 如果你是 Office 365 客户, 则在创建新的 OneDrive for Business 库时, 默认情况下版本控制现已打开, 并将自动保存文档的最后一个500版本。 这将有助于防止丢失重要的文档或数据。 如果你的 OneDrive for business 网站或你的团队网站上的现有库未启用版本控制, 则可以随时为其启用版本控制。
+>[!Note] 
+>如果你是 Office 365 客户, 则在创建新的 OneDrive for Business 库时, 默认情况下版本控制现已打开, 并将自动保存文档的最后一个500版本。 这将有助于防止丢失重要的文档或数据。 如果你的 OneDrive for business 网站或你的团队网站上的现有库未启用版本控制, 则可以随时为其启用版本控制。
 
 
