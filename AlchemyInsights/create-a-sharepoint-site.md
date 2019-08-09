@@ -1,39 +1,40 @@
 ---
 title: 创建 SharePoint 网站
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.collection: Adm_O365
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "5200004"
 - "1386"
 - "2303"
-- "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 022f572aadae3b4d9f6665f9f8be871d79b51817
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: ad1a77b69d2d453dbd3daa304759238b329f96ba
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35802956"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269906"
 ---
-# <a name="create-a-sharepoint-site"></a><span data-ttu-id="55480-102">创建 SharePoint 网站</span><span class="sxs-lookup"><span data-stu-id="55480-102">Create a SharePoint site</span></span>
+# <a name="create-a-sharepoint-site"></a><span data-ttu-id="d9ab2-102">创建 SharePoint 网站</span><span class="sxs-lookup"><span data-stu-id="d9ab2-102">Create a SharePoint site</span></span>
 
-<span data-ttu-id="55480-103">您可以参阅以下内容, 了解有关 SharePoint 网站创建的信息:</span><span class="sxs-lookup"><span data-stu-id="55480-103">You can see the following for information about SharePoint site creation:</span></span>
-- <span data-ttu-id="55480-104">[在新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-site-creation): 了解网站创建选项, 包括如何创建经典网站或不包含 Office 365 组的团队网站。</span><span class="sxs-lookup"><span data-stu-id="55480-104">[Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation): Learn about site creation options, including how to create a classic site or a teams site that doesn't include an Office 365 group.</span></span>
-- <span data-ttu-id="55480-105">[在 SharePoint 中创建团队网站](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): 了解如何创建团队网站。</span><span class="sxs-lookup"><span data-stu-id="55480-105">[Create a team site in SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Learn how to create a team site.</span></span>
-- <span data-ttu-id="55480-106">[在 SharePoint Online 中创建通信网站](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): 了解如何创建通信网站。</span><span class="sxs-lookup"><span data-stu-id="55480-106">[Create a communication site in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Learn how to create a communications site.</span></span>
-- <span data-ttu-id="55480-107">[在新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): 了解如何创建不包含 Office 365 组的经典网站或团队网站。</span><span class="sxs-lookup"><span data-stu-id="55480-107">[Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site):  Learn how to create a classic site or a team site that doesn't include an Office 365 group.</span></span>
+<span data-ttu-id="d9ab2-103">您可以参阅以下内容, 了解有关 SharePoint 网站创建的信息:</span><span class="sxs-lookup"><span data-stu-id="d9ab2-103">You can see the following for information about SharePoint site creation:</span></span>
+- <span data-ttu-id="d9ab2-104">[在新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-site-creation): 了解网站创建选项, 包括如何创建经典网站或不包含 Office 365 组的团队网站。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-104">[Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation): Learn about site creation options, including how to create a classic site or a teams site that doesn't include an Office 365 group.</span></span>
+- <span data-ttu-id="d9ab2-105">[在 SharePoint 中创建团队网站](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): 了解如何创建团队网站。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-105">[Create a team site in SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Learn how to create a team site.</span></span>
+- <span data-ttu-id="d9ab2-106">[在 SharePoint Online 中创建通信网站](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): 了解如何创建通信网站。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-106">[Create a communication site in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Learn how to create a communications site.</span></span>
+- <span data-ttu-id="d9ab2-107">[在新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): 了解如何创建不包含 Office 365 组的经典网站或团队网站。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-107">[Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site):  Learn how to create a classic site or a team site that doesn't include an Office 365 group.</span></span>
 
 
   
-> <span data-ttu-id="55480-108">[!几点</span><span class="sxs-lookup"><span data-stu-id="55480-108">[!Tips]</span></span>
-> - <span data-ttu-id="55480-109">您无法使用与现有网站相同的 URL 创建网站。</span><span class="sxs-lookup"><span data-stu-id="55480-109">You cannot create a site with the same URL of an existing site.</span></span> <span data-ttu-id="55480-110">如果您删除了某个网站, 并且希望重新使用该 URL, 则可能是已删除的网站仍存在于 "**已删除的网站**" 下。</span><span class="sxs-lookup"><span data-stu-id="55480-110">If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under **Deleted sites**.</span></span> <span data-ttu-id="55480-111">若要管理已删除的网站, 请参阅[删除网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。</span><span class="sxs-lookup"><span data-stu-id="55480-111">To manage deleted sites see, [Delete a Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site).</span></span> <span data-ttu-id="55480-112">若要使用 Powershell 完全删除站点, 请参阅[remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。</span><span class="sxs-lookup"><span data-stu-id="55480-112">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.</span></span>
-> - <span data-ttu-id="55480-113">某些用户可能不能创建网站。</span><span class="sxs-lookup"><span data-stu-id="55480-113">Some users may not be able to create a site.</span></span> <span data-ttu-id="55480-114">请参阅[在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)。</span><span class="sxs-lookup"><span data-stu-id="55480-114">See [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span>
-> - <span data-ttu-id="55480-115">在**创建**比预期更长的时间, 网站可能会变得被卡住。</span><span class="sxs-lookup"><span data-stu-id="55480-115">It's possible the site appears stuck at **Creating** longer than expected.</span></span> <span data-ttu-id="55480-116">如果在你首次看到此问题后过去已经超过24小时, 请记录一个支持票证。</span><span class="sxs-lookup"><span data-stu-id="55480-116">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="55480-117">在许多情况下, 我们已经在努力解决了解决方案。</span><span class="sxs-lookup"><span data-stu-id="55480-117">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="55480-118">请至少为我们提供24小时的时间来完成解决方案。</span><span class="sxs-lookup"><span data-stu-id="55480-118">Please give us at least 24 hours to complete a solution.</span></span>
-> - <span data-ttu-id="55480-119">如果您需要创建一个不包含 Office 365 组的新团队网站,</span><span class="sxs-lookup"><span data-stu-id="55480-119">If you need to create a new team site that doesn't include an Office 365 group,</span></span> 
+> <span data-ttu-id="d9ab2-108">[!几点</span><span class="sxs-lookup"><span data-stu-id="d9ab2-108">[!Tips]</span></span>
+> - <span data-ttu-id="d9ab2-109">您无法使用与现有网站相同的 URL 创建网站。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-109">You cannot create a site with the same URL of an existing site.</span></span> <span data-ttu-id="d9ab2-110">如果您删除了某个网站, 并且希望重新使用该 URL, 则可能是已删除的网站仍存在于 "**已删除的网站**" 下。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-110">If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under **Deleted sites**.</span></span> <span data-ttu-id="d9ab2-111">若要管理已删除的网站, 请参阅[删除网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-111">To manage deleted sites see, [Delete a Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site).</span></span> <span data-ttu-id="d9ab2-112">若要使用 Powershell 完全删除站点, 请参阅[remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-112">To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.</span></span>
+> - <span data-ttu-id="d9ab2-113">某些用户可能不能创建网站。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-113">Some users may not be able to create a site.</span></span> <span data-ttu-id="d9ab2-114">请参阅[在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-114">See [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).</span></span>
+> - <span data-ttu-id="d9ab2-115">在**创建**比预期更长的时间, 网站可能会变得被卡住。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-115">It's possible the site appears stuck at **Creating** longer than expected.</span></span> <span data-ttu-id="d9ab2-116">如果在你首次看到此问题后过去已经超过24小时, 请记录一个支持票证。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-116">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="d9ab2-117">在许多情况下, 我们已经在努力解决了解决方案。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-117">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="d9ab2-118">请至少为我们提供24小时的时间来完成解决方案。</span><span class="sxs-lookup"><span data-stu-id="d9ab2-118">Please give us at least 24 hours to complete a solution.</span></span>
+> - <span data-ttu-id="d9ab2-119">如果您需要创建一个不包含 Office 365 组的新团队网站,</span><span class="sxs-lookup"><span data-stu-id="d9ab2-119">If you need to create a new team site that doesn't include an Office 365 group,</span></span> 
 
 
