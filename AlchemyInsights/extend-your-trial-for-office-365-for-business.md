@@ -13,24 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 2754d2c8a1d0e2ab5aaf751ca3bedfe41b11ba3a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387875"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389022"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>延长试用版的 Office 365 for Business
 
 如果你的试用版订阅在15天内过期, 且尚未在之前延长试用版, 则你可以延长30天内的试用版。 该操作仅可执行一次。
   
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择" **帐单**"\>" **订阅**"。
+1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
 2. 选择要扩展的试用订阅。
 
-3. 选择 "**扩展试用版**" 并完成向导中的步骤。
+3. 选择 "**扩展试用版**" 并完成其余步骤。
 
 4. 您需要提供信用卡信息, 以延长试用版。 我们不会向你的信用卡收取试用分机号。
 
-若要了解有关扩展试用版或分步说明的详细信息, 请参阅[延长试用版的 Office 365 for business](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b)。
-  
+若要了解有关扩展试用版或分步说明的详细信息, 请参阅[延长试用版的 Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial)。

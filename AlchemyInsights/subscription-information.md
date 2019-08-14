@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: cac2ecccd3026671ef557f0d91264929abf441cc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c455489f1daadee74eca909e1a974887227039f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354139"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388302"
 ---
 # <a name="subscription-information"></a>订阅信息
 
-有关你拥有的订阅的信息, 请转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**付费** \> **订阅**"。
+有关你拥有的订阅的信息, 请转到 "**计费** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
   
 有关每个订阅的关键信息:
   

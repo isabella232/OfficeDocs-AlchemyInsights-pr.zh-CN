@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383519"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389926"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期计费
 
 看起来你的订阅已过期。 如果要将其重新激活, 请单击下面的操作方法。
   
-1. 在管理中心中, 转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或转到 "**付费** \> **订阅**"。
+1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
 2. 选择已**过期**或**已禁用**的订阅。
 
@@ -36,11 +36,10 @@ ms.locfileid: "35383519"
 
 若要管理每月或每年的帐单, 可以开启或关闭**定期记帐**。
   
-1. 在管理中心中, 转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或转到 "**付费** \> **订阅**"。
+1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
 2. 选择要为其管理定期计费的订阅。
 
 3. 将**定期记帐**切换切换为 **"开" 或 "** **关**"。
 
-有关详细信息, 请参阅:[管理订阅的定期帐单](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)。
-  
+有关详细信息, 请参阅[启用定期付费或启用](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。

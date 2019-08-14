@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>2019年7月1日一周
-
-
-| 发布日期 |主题标题 | 更改 |
-|------|------------|--------|
-| 7/1/2019 | [经典 SharePoint 审核日志报告](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | 修改内容 |
-| 7/2/2019 | [有关保留策略的详细信息](/AlchemyInsights/office-security-compliance-retention-policy) | 修改内容 |
-
-
 ## <a name="week-of-july-08-2019"></a>2019年7月1日一周
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [在 web 上的 Outlook 中组织你的电子邮件](/AlchemyInsights/owa-organize-email) | 修改内容 |
 | 8/2/2019 | [在 web 上的 Outlook 中打印电子邮件、日历和附件](/AlchemyInsights/owa-print-email-calendars-attachments) | 修改内容 |
 | 8/2/2019 | [在 Outlook 网页网络中阅读回执](/AlchemyInsights/owa-read-receipts) | 修改内容 |
+
+
+## <a name="week-of-august-05-2019"></a>2019年8月5日一周
+
+
+| 发布日期 |主题标题 | 更改 |
+|------|------------|--------|
+| 8/5/2019 | [如何答复或转发 web 上的 Outlook 中的邮件](/AlchemyInsights/owa-reply-forward-messages) | 修改内容 |
+| 8/5/2019 | [8000003搜索邮件和 web 上的 Outlook 中的人员](/AlchemyInsights/owa-search-mail-and-people) | 修改内容 |
+| 8/5/2019 | [在 web 上的 Outlook 中创建签名](/AlchemyInsights/owa-signature) | 修改内容 |
+| 8/5/2019 | [Web 上的 Outlook 中的 S/MIME](/AlchemyInsights/owa-smime) | 修改内容 |
+| 8/5/2019 | [阻止邮件转到 web 上的 Outlook 中的 "垃圾邮件" 文件夹](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | 修改内容 |
+| 8/5/2019 | [关闭重点收件箱](/AlchemyInsights/owa-turn-off-focused-inbox) | 修改内容 |
+| 8/5/2019 | [1332 OWA-收件箱规则未对邮箱执行](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | 修改内容 |
+| 8/6/2019 | [测试 Alchemy 内嵌图像](/AlchemyInsights/testing-alchemy-inline-images) | 修改内容 |
+| 8/6/2019 | [SharePoint 和 OneDrive 中的高级威胁防护](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | 修改内容 |
+| 8/6/2019 | [SharePoint 或 OneDrive 中的勒索软件攻击](/AlchemyInsights/ransomware-attack-in-sharepoint) | 修改内容 |
+| 8/6/2019 | [新式网站作为根网站](/AlchemyInsights/modern-site-as-the-root-site) | 修改内容 |
+| 8/6/2019 | [将数据迁移到 SharePoint Online 时出现的问题](/AlchemyInsights/sharepoint-data-size-migration-issues) | 修改内容 |
+| 8/6/2019 | [下载或阻止从 OneDrive 或 SharePoint 下载文件](/AlchemyInsights/sharepoint-onedrive-download-files) | 修改内容 |
+| 8/6/2019 | [对 OneDrive for Business 网站的 "拒绝访问" 消息进行故障排除](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | 修改内容 |
+| 8/6/2019 | [还原已删除的文件或文件夹](/AlchemyInsights/sharepoint-deleted-items-restore) | 修改内容 |
+| 8/6/2019 | [SharePoint 和 OneDrive 中的版本控制](/AlchemyInsights/sharepoint-enable-versioning-list-library) | 修改内容 |
+| 8/6/2019 | [OneDrive 保留和删除信息](/AlchemyInsights/one-drive-retention-and-deletion) | 修改内容 |
+| 8/7/2019 | [阻止从 SharePoint 或 OneDrive 下载文件](/AlchemyInsights/prevent-download) | 修改内容 |
+| 8/7/2019 | [还原已删除的文件或文件夹](/AlchemyInsights/sharepoint-deleted-items-restore) | 修改内容 |
+| 8/7/2019 | [在 SharePoint Online 中启用外部共享](/AlchemyInsights/sharepoint-enable-external-sharing) | 修改内容 |
+| 8/7/2019 | [修复 OneDrive 同步问题](/AlchemyInsights/fix-onedrive-sync-issues) | 修改内容 |
+| 8/7/2019 | [修复 OneDrive 同步问题](/AlchemyInsights/fix-onedrive-sync-problems) | 修改内容 |
+| 8/7/2019 | [未发送工作流电子邮件](/AlchemyInsights/workflow-email-not-being-sent) | 修改内容 |
+| 8/7/2019 | [工作流未启动](/AlchemyInsights/workflow-is-not-starting) | 修改内容 |
+| 8/7/2019 | [SharePoint 和 OneDrive 中的高级威胁防护](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | 修改内容 |
+| 8/7/2019 | [关联中心网站](/AlchemyInsights/associate-a-hub-site) | 修改内容 |
+| 8/7/2019 | [创建 SharePoint 网站](/AlchemyInsights/create-a-sharepoint-site) | 修改内容 |
+| 8/7/2019 | [新式网站作为根网站](/AlchemyInsights/modern-site-as-the-root-site) | 修改内容 |
+| 8/7/2019 | [OneDrive 保留和删除](/AlchemyInsights/one-drive-retention-and-deletion) | 修改内容 |
+| 8/7/2019 | [OneDrive 常见问题和解决方法](/AlchemyInsights/onedrive-common-issues-and-resolutions) | 修改内容 |
+| 8/7/2019 | [SharePoint 或 OneDrive 中的勒索软件攻击](/AlchemyInsights/ransomware-attack-in-sharepoint) | 修改内容 |
+| 8/7/2019 | [SharePoint Online 中的外部共享](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | 修改内容 |
+| 8/7/2019 | [SharePoint 和 OneDrive 中的版本控制](/AlchemyInsights/sharepoint-enable-versioning-list-library) | 修改内容 |
+| 8/7/2019 | [外部联系人无法接受共享邀请](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | 修改内容 |
+| 8/7/2019 | [SharePoint Online 常见问题和解决方法](/AlchemyInsights/sharepoint-get-started-faq) | 修改内容 |
+| 8/7/2019 | [新式网站作为根网站](/AlchemyInsights/sharepoint-modernize-classic-site) | 修改内容 |
+| 8/7/2019 | [下载或阻止从 OneDrive 或 SharePoint 下载文件](/AlchemyInsights/sharepoint-onedrive-download-files) | 修改内容 |
+| 8/7/2019 | [在 Mac 上安装、设置和同步 OneDrive 或 SharePoint 文件](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | 修改内容 |
+| 8/7/2019 | [SharePoint Online 中的 "使用资源管理器打开" 问题疑难解答](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | 修改内容 |
+| 8/8/2019 | [SharePoint 和 OneDrive 中的高级威胁防护](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | 修改内容 |
+| 8/8/2019 | [关联中心网站](/AlchemyInsights/associate-a-hub-site) | 修改内容 |
+| 8/8/2019 | [创建 SharePoint 网站](/AlchemyInsights/create-a-sharepoint-site) | 修改内容 |
+| 8/8/2019 | [错误 404: 找不到文件](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | 修改内容 |
+| 8/8/2019 | [修复 Mac 上的 OneDrive 同步问题](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | 修改内容 |
+| 8/8/2019 | [将 SharePoint 库映射到网络驱动器](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | 修改内容 |
+| 8/8/2019 | [新式网站作为根网站](/AlchemyInsights/modern-site-as-the-root-site) | 修改内容 |
+| 8/8/2019 | [OneDrive 保留和删除](/AlchemyInsights/one-drive-retention-and-deletion) | 修改内容 |
+| 8/8/2019 | [SharePoint 或 OneDrive 中的勒索软件攻击](/AlchemyInsights/ransomware-attack-in-sharepoint) | 修改内容 |
+| 8/8/2019 | [还原已删除的文件或文件夹](/AlchemyInsights/sharepoint-deleted-items-restore) | 修改内容 |
+| 8/8/2019 | [外部用户无法访问 SharePoint Online 中的内容](/AlchemyInsights/sharepoint-external-sharing-issues) | 修改内容 |
+| 8/8/2019 | [SharePoint 中心网站概述](/AlchemyInsights/sharepoint-hub-sites) | 修改内容 |
+| 8/8/2019 | [下载或阻止从 OneDrive 或 SharePoint 下载文件](/AlchemyInsights/sharepoint-onedrive-download-files) | 修改内容 |
+| 8/8/2019 | [在 SharePoint Online 中管理搜索架构](/AlchemyInsights/sharepoint-search-schema) | 修改内容 |
+| 8/8/2019 | [创建 SharePoint 工作流的步骤](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | 修改内容 |
+| 8/8/2019 | [将经典根网站替换为新式网站](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | 修改内容 |
+| 8/8/2019 | [SharePoint Online 中的 "使用资源管理器打开" 问题疑难解答](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | 修改内容 |
+| 8/8/2019 | [工作流故障排除](/AlchemyInsights/workflow-troubleshooting) | 修改内容 |
+| 8/8/2019 | [启用和搜索审核日志](/AlchemyInsights/enable-auditing) | 修改内容 |
+| 8/8/2019 | [启用和搜索审核日志](/AlchemyInsights/enable-auditing) | 修改内容 |

@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: acd84c9d7de2887170b40431954b3cf791b479de
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bc1bd4f8b0a895a16c574239f79d0ba956c6c030
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360043"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389130"
 ---
 # <a name="declined-credit-card"></a>已拒绝信用卡
 
@@ -26,5 +26,4 @@ ms.locfileid: "35360043"
   
 如果仍然看到"拒绝"消息，请联系你的银行。这可能是因为你的信用卡尚未激活，例如，如果你最近在邮件中收到信用卡，且到期日期已更新，你可能仍需将其激活。你的银行还可能会告诉你这是因为你的信用卡不允许进行联机、国际或定期交易。  
   
-有关详细信息, 请参阅对[信用卡和银行帐户进行故障排除](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)。
-  
+有关详细信息, 请参阅对[信用卡和银行帐户进行故障排除](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)。

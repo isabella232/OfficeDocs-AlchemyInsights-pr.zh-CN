@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385679"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386286"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>如何将许可证分配给用户
 
 用户需要许可证才能访问服务。 以下是添加、更改或删除用户许可证的步骤。
   
-1. 在管理中心中, 转到 "[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)" 页面, 或选择 **"用户** \> **活动用户**"。
+1. 在 "管理中心" 中, 转到 "**用户** \> [活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)" 页。
 
 2. 选择要向其分配、更改或删除许可证的用户的名称旁边的框。
 
@@ -38,5 +38,4 @@ ms.locfileid: "35385679"
 
 5. 在" **产品许可证**"窗格底部，选择" **保存**"\>" **关闭**"\>" **关闭**"。
 
-有关详细信息, 请参阅[在 office 365 for business 中向用户分配许可证](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)和[删除 office 365 for business 中的用户的许可证](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)。
-  
+有关详细信息, 请参阅[在 office 365 for business 中向用户分配许可证](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)和[删除 office 365 for business 中的用户的许可证](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)。

@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 6e47011a79db805085e16e520455b64b937f0c3b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358819"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385855"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>激活 Microsoft Office 365 批量许可证订阅
 
@@ -32,4 +32,4 @@ ms.locfileid: "35358819"
 
 5. 使用您现有的 Office 365[https://portal.office.com](https://portal.office.com)管理员凭据登录到 Office 365 ()。 成功登录后, 你将收到确认购买的另一封电子邮件。
 
-6. 登录后, 可以转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**帐单** - \> **订阅**" 以验证你购买的 Office 365 订阅是否已在你的租户中激活。 (也可以选择 VLSC 中的 "**订阅**" 选项卡以查看详细信息, 以验证您的订阅是否已存入。) 
+6. 登录后, 您可以转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页, 以验证您购买的 Office 365 订阅是否已在您的租户中激活。 (也可以选择 VLSC 中的 "**订阅**" 选项卡以查看详细信息, 以验证您的订阅是否已存入。)

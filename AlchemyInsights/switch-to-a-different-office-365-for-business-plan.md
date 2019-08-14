@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367639"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388163"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>切换到不同的 Office 365 for Business Plan
 
 当您的业务发生变化, 或者需要更多的 Office 365 功能时, 您可以切换计划。
   
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
+1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
 2. 选择 "**切换计划**" 以查看可用的新计划的列表。
 
@@ -32,7 +32,6 @@ ms.locfileid: "35367639"
 
 在所有情况下都不支持 "切换计划" 按钮。 在某些情况下, 您可能能够手动切换计划。
   
-如果 "**切换计划**" 按钮不可用, 则可以尝试[手动切换计划](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209), 或使用 "我们呼叫你" 选项与支持工程师进行交谈。
+如果 "**切换计划**" 按钮不可用, 则可以尝试[手动切换计划](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually), 或使用 "我们呼叫你" 选项与支持工程师进行交谈。
   
-有关切换计划的所有变体, 请参阅[切换到不同的 Office 3635 For Business Plan](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2)。
-  
+您是否正在使用新的管理中心？ 有关新步骤, 请参阅[升级到其他计划](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。  
