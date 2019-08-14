@@ -13,25 +13,25 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 369e6e8e5e8e2e5d9739415e2a4ab959ba706c80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370665"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388446"
 ---
-# <a name="question-about-licenses"></a><span data-ttu-id="434ef-102">有关许可证的问题</span><span class="sxs-lookup"><span data-stu-id="434ef-102">Question about licenses</span></span>
+# <a name="question-about-licenses"></a><span data-ttu-id="60e93-102">有关许可证的问题</span><span class="sxs-lookup"><span data-stu-id="60e93-102">Question about licenses</span></span>
 
-<span data-ttu-id="434ef-103">如果您想要了解已购买的许可证数量, 或者分配了订阅的许可证数量, 请执行以下操作:</span><span class="sxs-lookup"><span data-stu-id="434ef-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
+<span data-ttu-id="60e93-103">如果您想要了解已购买的许可证数量, 或者分配了订阅的许可证数量, 请执行以下操作:</span><span class="sxs-lookup"><span data-stu-id="60e93-103">If you want to know how many licenses you have purchased, or how many licenses are assigned from a subscription:</span></span>
   
-1. <span data-ttu-id="434ef-104">在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。</span><span class="sxs-lookup"><span data-stu-id="434ef-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="60e93-104">在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。</span><span class="sxs-lookup"><span data-stu-id="60e93-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="434ef-105">选择您想要详细了解的订阅。</span><span class="sxs-lookup"><span data-stu-id="434ef-105">Choose the subscription you want to know more about.</span></span>
+2. <span data-ttu-id="60e93-105">选择您想要详细了解的订阅。</span><span class="sxs-lookup"><span data-stu-id="60e93-105">Choose the subscription you want to know more about.</span></span>
 
-3. <span data-ttu-id="434ef-106">订阅卡片的左侧是有关你的许可证的信息:</span><span class="sxs-lookup"><span data-stu-id="434ef-106">On the left side of the subscription card is information about your licenses:</span></span>
+3. <span data-ttu-id="60e93-106">订阅卡片的左侧是有关你的许可证的信息:</span><span class="sxs-lookup"><span data-stu-id="60e93-106">On the left side of the subscription card is information about your licenses:</span></span>
 
-  - <span data-ttu-id="434ef-107">"已**购买**号码" 是您要支付的许可证的数量。</span><span class="sxs-lookup"><span data-stu-id="434ef-107">The **Purchased** number is the number of licenses you are paying for.</span></span>
+  - <span data-ttu-id="60e93-107">"已**购买**号码" 是您要支付的许可证的数量。</span><span class="sxs-lookup"><span data-stu-id="60e93-107">The **Purchased** number is the number of licenses you are paying for.</span></span>
 
-  - <span data-ttu-id="434ef-108">"**分配**的号码" 是分配给用户的许可证数。</span><span class="sxs-lookup"><span data-stu-id="434ef-108">The **Assigned** number is the number of licenses assigned to a user.</span></span>
+  - <span data-ttu-id="60e93-108">"**分配**的号码" 是分配给用户的许可证数。</span><span class="sxs-lookup"><span data-stu-id="60e93-108">The **Assigned** number is the number of licenses assigned to a user.</span></span>
 
-4. <span data-ttu-id="434ef-109">如果要添加更多许可证, 或者如果你有太多许可证, 请选择 "**添加/删除许可证**" 以调整购买的金额。</span><span class="sxs-lookup"><span data-stu-id="434ef-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>
+4. <span data-ttu-id="60e93-109">如果要添加更多许可证, 或者如果你有太多许可证, 请选择 "**添加/删除许可证**" 以调整购买的金额。</span><span class="sxs-lookup"><span data-stu-id="60e93-109">If you want to add more licenses, or if you have too many, choose **Add/Remove licenses** to adjust the amount purchased.</span></span>

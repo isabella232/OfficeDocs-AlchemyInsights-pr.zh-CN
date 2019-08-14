@@ -13,14 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 95f45ae2979887ebe2a613c740320c50e20a2d68
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383591"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389962"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="32d6c-102">如何购买 Office 365 以实现非盈利</span><span class="sxs-lookup"><span data-stu-id="32d6c-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="bf4d5-102">如何购买 Office 365 以实现非盈利</span><span class="sxs-lookup"><span data-stu-id="bf4d5-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="32d6c-103">符合 Microsoft 限定的非赢利组织的资格正处于审阅中。</span><span class="sxs-lookup"><span data-stu-id="32d6c-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="32d6c-104">你可以在你的试用期到期之前, 收到有关确定资格的通知。</span><span class="sxs-lookup"><span data-stu-id="32d6c-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="32d6c-105">你可以在[此处](http://eligibilityweb.azurewebsites.net/)跟踪应用程序的状态。</span><span class="sxs-lookup"><span data-stu-id="32d6c-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
-  
+<span data-ttu-id="bf4d5-103">符合 Microsoft 限定的非赢利组织的资格正处于审阅中。</span><span class="sxs-lookup"><span data-stu-id="bf4d5-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="bf4d5-104">你可以在你的试用期到期之前, 收到有关确定资格的通知。</span><span class="sxs-lookup"><span data-stu-id="bf4d5-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="bf4d5-105">你可以在[此处](http://eligibilityweb.azurewebsites.net/)跟踪应用程序的状态。</span><span class="sxs-lookup"><span data-stu-id="bf4d5-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
