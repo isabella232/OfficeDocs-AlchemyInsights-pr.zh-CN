@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383627"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390826"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新激活订阅
 
 如果你的订阅已过期、已被 Microsoft 取消或禁用，则可以在 Microsoft 365 管理中心中重新激活它。
   
-1. 在管理中心，转到[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)页面，或选择“**帐单**”\>“**订阅**”。
+1. 在管理中心，转到“**账单**”\>“[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
 
 2. 选择想要重新激活的订阅。
 
@@ -36,5 +36,4 @@ ms.locfileid: "35383627"
 
 6. 如果几分钟后没有显示出订阅，请刷新此页面。
 
-有关详细信息，请参阅：[续订 Office 365 商业版](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)
-  
+有关详细信息，请参阅：[续订 Office 365 商业版](https://docs.microsoft.com/zh-CN/office365/admin/subscriptions-and-billing/renew-your-subscription)

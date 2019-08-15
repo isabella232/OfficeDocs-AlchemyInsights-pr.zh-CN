@@ -3,28 +3,53 @@ title: 有关保留策略的详细信息
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448825"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404828"
 ---
 # <a name="more-info-about-retention-policies"></a>有关保留策略的详细信息
 
-对于大多数组织而言, 其数据的数量和复杂性增加了每天的电子邮件、文档、即时消息等。
-有效地管理或管理此信息非常重要, 保留策略可帮助您实现这些目标。 有关保留策略的详细信息, 请访问以下链接:
+对于大多数组织而言, 其数据的数量和复杂性增加了每天的电子邮件、文档、即时消息等。 有效地管理或管理此信息非常重要, 保留策略可帮助您实现这些目标。 有关保留策略的详细信息, 请访问以下链接:
 
-- [保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a>A) 从安全与合规中心
 
-- [保留标记和保留策略](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- 转到安全性和合规性 > 数据治理 > 保留
+  - 请[](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies)参阅本文
 
-- [将保留策略应用于整个组织或特定位置](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- 转到安全与合规 > 电子数据展示> 高级电子数据展示 
+  - 请[](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)参阅本文
 
-- [Exchange 管理中心中新创建或更新的保留策略不应用于邮箱](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- 转到安全性和合规性 > 分类 > 保留
+  - 请参阅以下文章
+    - [敏感度标签](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [标签概述](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a>B) 旧版电子数据展示策略
+
+- 请[](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)参阅本文
+
+## <a name="c-site-closure-and-deletion-policies"></a>C) 网站关闭和删除策略
+
+- 请[](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)参阅本文  
+
+## <a name="d-information-rights-management-irm"></a>D) 信息权限管理 (IRM)
+
+- 请参阅以下文章
+  - [列表/库上的 IRM](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM 概述](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> 如果你仍在使用旧版电子数据展示或 IRM 或网站关闭和删除策略, 强烈建议移动到安全和合规性策略。

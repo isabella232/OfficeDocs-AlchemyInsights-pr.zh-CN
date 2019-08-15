@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903680"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387731"
 ---
 # <a name="update-payment-details"></a>更新付款详细信息
 
-1. 在管理中心中，转到“[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面，或选择“**帐单**”\>“**付款方式**”。
+1. 在管理中心，转到“**账单**”\>“[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面。
 
     > [!NOTE]
     > 如果遇到在更新完成前反复返回“管理”主页的情况，请尝试使用 Inprivate 或 Incognito 模式。
@@ -37,4 +37,4 @@ ms.locfileid: "35903680"
 
 5. 若要删除此付款方式，选择“**删除**”。
 
-有关详细信息，请参阅“[在 Office 365 商业版中添加，更新或删除信用卡或银行帐户](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)”和“[信用卡和银行帐户疑难解答](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724)”。
+有关详细信息，请参阅“[在 Office 365 商业版中添加，更新或删除信用卡或银行帐户](https://docs.microsoft.com/zh-CN/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)”和“[信用卡和银行帐户疑难解答](https://docs.microsoft.com/zh-CN/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)”。
