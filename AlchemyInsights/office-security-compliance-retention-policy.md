@@ -3,28 +3,53 @@ title: 有关保留策略的详细信息
 ms.author: stephow
 author: msft-stephow
 manager: laurawi
+ms.date: 08/14/2019
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.collection: Adm_O365
+ms.custom:
+- "9000048"
+- "1983"
+ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
+ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35448825"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404828"
 ---
-# <a name="more-info-about-retention-policies"></a><span data-ttu-id="92627-102">有关保留策略的详细信息</span><span class="sxs-lookup"><span data-stu-id="92627-102">More info about retention policies</span></span>
+# <a name="more-info-about-retention-policies"></a><span data-ttu-id="87f49-102">有关保留策略的详细信息</span><span class="sxs-lookup"><span data-stu-id="87f49-102">More info about retention policies</span></span>
 
-<span data-ttu-id="92627-103">对于大多数组织而言, 其数据的数量和复杂性增加了每天的电子邮件、文档、即时消息等。</span><span class="sxs-lookup"><span data-stu-id="92627-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span>
-<span data-ttu-id="92627-104">有效地管理或管理此信息非常重要, 保留策略可帮助您实现这些目标。</span><span class="sxs-lookup"><span data-stu-id="92627-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="92627-105">有关保留策略的详细信息, 请访问以下链接:</span><span class="sxs-lookup"><span data-stu-id="92627-105">For more information on retention policies, please visit these links:</span></span>
+<span data-ttu-id="87f49-103">对于大多数组织而言, 其数据的数量和复杂性增加了每天的电子邮件、文档、即时消息等。</span><span class="sxs-lookup"><span data-stu-id="87f49-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="87f49-104">有效地管理或管理此信息非常重要, 保留策略可帮助您实现这些目标。</span><span class="sxs-lookup"><span data-stu-id="87f49-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="87f49-105">有关保留策略的详细信息, 请访问以下链接:</span><span class="sxs-lookup"><span data-stu-id="87f49-105">For more information on retention policies, please visit these links:</span></span>
 
-- [<span data-ttu-id="92627-106">保留策略概述</span><span class="sxs-lookup"><span data-stu-id="92627-106">Overview of retention policies</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="87f49-106">A) 从安全与合规中心</span><span class="sxs-lookup"><span data-stu-id="87f49-106">A) From Security and Compliance Center</span></span>
 
-- [<span data-ttu-id="92627-107">保留标记和保留策略</span><span class="sxs-lookup"><span data-stu-id="92627-107">Retention tags and retention policies</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- <span data-ttu-id="87f49-107">转到安全性和合规性 > 数据治理 > 保留</span><span class="sxs-lookup"><span data-stu-id="87f49-107">Go to Security and Compliance > Data governance > Retention</span></span>
+  - <span data-ttu-id="87f49-108">请[](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies)参阅本文</span><span class="sxs-lookup"><span data-stu-id="87f49-108">See [THIS](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies) article</span></span>
 
-- [<span data-ttu-id="92627-108">将保留策略应用于整个组织或特定位置</span><span class="sxs-lookup"><span data-stu-id="92627-108">Applying a retention policy to an entire organization or specific locations</span></span>](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)
+- <span data-ttu-id="87f49-109">转到安全与合规 > 电子数据展示> 高级电子数据展示</span><span class="sxs-lookup"><span data-stu-id="87f49-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
+  - <span data-ttu-id="87f49-110">请[](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)参阅本文</span><span class="sxs-lookup"><span data-stu-id="87f49-110">See [THIS](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases) article</span></span>
 
-- [<span data-ttu-id="92627-109">Exchange 管理中心中新创建或更新的保留策略不应用于邮箱</span><span class="sxs-lookup"><span data-stu-id="92627-109">Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes</span></span>](https://docs.microsoft.com/alchemyinsights/retention-policies-in-exchange-admin-center-not-working)
+- <span data-ttu-id="87f49-111">转到安全性和合规性 > 分类 > 保留</span><span class="sxs-lookup"><span data-stu-id="87f49-111">Go to Security and Compliance > Classifications > Retention</span></span>
+  - <span data-ttu-id="87f49-112">请参阅以下文章</span><span class="sxs-lookup"><span data-stu-id="87f49-112">See these articles</span></span>
+    - [<span data-ttu-id="87f49-113">敏感度标签</span><span class="sxs-lookup"><span data-stu-id="87f49-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
+    - [<span data-ttu-id="87f49-114">标签概述</span><span class="sxs-lookup"><span data-stu-id="87f49-114">Labels Overview</span></span>](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
 
+## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="87f49-115">B) 旧版电子数据展示策略</span><span class="sxs-lookup"><span data-stu-id="87f49-115">B) Legacy eDiscovery policies</span></span>
+
+- <span data-ttu-id="87f49-116">请[](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)参阅本文</span><span class="sxs-lookup"><span data-stu-id="87f49-116">See [THIS](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
+
+## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="87f49-117">C) 网站关闭和删除策略</span><span class="sxs-lookup"><span data-stu-id="87f49-117">C) Site closure and deletion policies</span></span>
+
+- <span data-ttu-id="87f49-118">请[](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)参阅本文</span><span class="sxs-lookup"><span data-stu-id="87f49-118">See [THIS](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
+
+## <a name="d-information-rights-management-irm"></a><span data-ttu-id="87f49-119">D) 信息权限管理 (IRM)</span><span class="sxs-lookup"><span data-stu-id="87f49-119">D) Information Rights Management (IRM)</span></span>
+
+- <span data-ttu-id="87f49-120">请参阅以下文章</span><span class="sxs-lookup"><span data-stu-id="87f49-120">See these articles</span></span>
+  - [<span data-ttu-id="87f49-121">列表/库上的 IRM</span><span class="sxs-lookup"><span data-stu-id="87f49-121">IRM on a list/Library</span></span>](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [<span data-ttu-id="87f49-122">IRM 概述</span><span class="sxs-lookup"><span data-stu-id="87f49-122">IRM Overview</span></span>](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+
+> [!Note]
+> <span data-ttu-id="87f49-123">如果你仍在使用旧版电子数据展示或 IRM 或网站关闭和删除策略, 强烈建议移动到安全和合规性策略。</span><span class="sxs-lookup"><span data-stu-id="87f49-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
