@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371423"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444762"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何执行内容搜索和电子数据展示搜索
 
-**内容搜索**
+使用安全 & 合规中心中的内容搜索工具在 Exchange 邮箱、SharePoint 网站和 OneDrive 帐户中的文档以及 Skype for Business 中的即时消息对话中快速查找电子邮件。 您还可以使用内容搜索工具在 Office 365 协作工具 (如 Microsoft 团队和 Office 365 组) 中搜索电子邮件、文档和即时消息对话。
+
+**执行内容搜索**
 
 1. 转到[安全 & 合规性中心](https://protection.office.com)并登录。
-2. 单击 "**搜索 & 调查 > 内容搜索**"。
+2. 单击 "**搜索 > 内容搜索**"。
 3. 单击 "**新建搜索**" 以创建新的搜索。
 4. 输入所需的搜索条件, 包括关键字和内容位置。  
 5. 单击 "**保存" & "运行**" 以命名搜索, 启动它, 然后预览结果。
 
-有关创建搜索和导出结果的详细说明, 请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/content-search)。
+有关内容搜索、导出结果和创建电子数据展示事例以保存数据的详细说明, 请参阅[内容搜索](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search)和[电子数据展示事例](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)。
 
-**电子数据展示搜索**
-
-1. 转到[安全 & 合规性中心](https://protection.office.com)并登录。
-2. 单击 "**搜索 & 调查 > 电子数据展示**。
-3. 打开一个现有的事例或创建一个新的事例。
-4. 在案例主页上, 单击 "**搜索**" 选项卡。  
-5. 单击 "**新建搜索**" 以创建新的搜索。
-6. 输入所需的搜索条件, 包括关键字和内容位置。  
-7. 单击 "**保存" & "运行**" 以命名搜索, 启动它, 然后预览结果。
-
-有关创建与电子数据展示事例关联的搜索和导出结果的详细说明, 请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)。
+通过查看[要求和限制](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search)并[调查部分索引项](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)和要了解的其他结果, 了解更多有关内容搜索的信息。
