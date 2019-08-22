@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383087"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539091"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a><span data-ttu-id="cf628-102">确定何时在邮箱上配置了外部电子邮件转发</span><span class="sxs-lookup"><span data-stu-id="cf628-102">Identify when external email forwarding is configured on mailboxes</span></span>
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a><span data-ttu-id="dc946-102">确定何时在邮箱上配置了外部电子邮件转发</span><span class="sxs-lookup"><span data-stu-id="dc946-102">Identify when external email forwarding is configured on mailboxes</span></span>
 
-<span data-ttu-id="cf628-103">当用户在邮箱上配置外部电子邮件转发时, 该活动将作为 "**设置邮箱**" cmdlet 的一部分进行审核。</span><span class="sxs-lookup"><span data-stu-id="cf628-103">When a user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet.</span></span> <span data-ttu-id="cf628-104">您可以使用安全 & 合规性中心中的 "审核日志搜索" 查看活动。</span><span class="sxs-lookup"><span data-stu-id="cf628-104">You can see the activity using audit log search in the Security & Compliance Center.</span></span>
+<span data-ttu-id="dc946-103">当 Office 365 用户在邮箱上配置外部电子邮件转发时, 该活动将作为**设置邮箱**cmdlet 的一部分进行审核。</span><span class="sxs-lookup"><span data-stu-id="dc946-103">When an Office 365  user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet.</span></span> <span data-ttu-id="dc946-104">您可以使用安全 & 合规性中心中的 "审核日志搜索" 查看活动。</span><span class="sxs-lookup"><span data-stu-id="dc946-104">You can see the activity using audit log search in the Security & Compliance Center.</span></span>
 
-1. <span data-ttu-id="cf628-105">登录到[Office 365 安全 & 合规中心](https://protection.office.com/)</span><span class="sxs-lookup"><span data-stu-id="cf628-105">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/)</span></span>
+1. <span data-ttu-id="dc946-105">登录到[Office 365 安全 & 合规中心](https://protection.office.com/)。</span><span class="sxs-lookup"><span data-stu-id="dc946-105">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/).</span></span>
 
-2. <span data-ttu-id="cf628-106">单击 "**搜索和调查**", 然后选择 "**审核日志搜索**"。</span><span class="sxs-lookup"><span data-stu-id="cf628-106">Click **Search and Investigation** and select **Audit Log Search**.</span></span>
+2. <span data-ttu-id="dc946-106">转到 "**搜索** > **审核日志搜索**" 页。</span><span class="sxs-lookup"><span data-stu-id="dc946-106">Go to the **Search** > **Audit log search** page.</span></span>
 
-3. <span data-ttu-id="cf628-107">在 "**开始日期**" 和 "**结束日期**" 字段中选择日期范围。</span><span class="sxs-lookup"><span data-stu-id="cf628-107">Select the date range in the **Start date** and **End date** fields.</span></span> <span data-ttu-id="cf628-108">无需指定用户名。</span><span class="sxs-lookup"><span data-stu-id="cf628-108">You don't need to specify a username.</span></span> <span data-ttu-id="cf628-109">验证 "**活动**" 字段是否设置为**显示所有活动的结果**。</span><span class="sxs-lookup"><span data-stu-id="cf628-109">Verify the **Activities** field is set to **Show results for all activities**.</span></span>
+3. <span data-ttu-id="dc946-107">在 "**开始日期**" 和 "**结束日期**" 字段中选择日期范围。</span><span class="sxs-lookup"><span data-stu-id="dc946-107">Select the date range in the **Start date** and **End date** fields.</span></span> <span data-ttu-id="dc946-108">无需指定用户名。</span><span class="sxs-lookup"><span data-stu-id="dc946-108">You don't need to specify a username.</span></span> <span data-ttu-id="dc946-109">验证 "**活动**" 字段是否设置为**显示所有活动的结果**。</span><span class="sxs-lookup"><span data-stu-id="dc946-109">Verify the **Activities** field is set to **Show results for all activities**.</span></span>
 
-4. <span data-ttu-id="cf628-110">单击"搜索"。</span><span class="sxs-lookup"><span data-stu-id="cf628-110">Click **Search**.</span></span>
+4. <span data-ttu-id="dc946-110">单击"搜索"。</span><span class="sxs-lookup"><span data-stu-id="dc946-110">Click **Search**.</span></span>
 
-<span data-ttu-id="cf628-111">在结果中, 单击 "活动筛选器" 框中的 "**筛选结果**并键入 '**设置 '-邮箱**"。</span><span class="sxs-lookup"><span data-stu-id="cf628-111">In the results, click **Filter Results** and type **Set-Mailbox** in the activity filter box.</span></span> <span data-ttu-id="cf628-112">在结果中选择一个审核记录。</span><span class="sxs-lookup"><span data-stu-id="cf628-112">Select an audit record in the results.</span></span> <span data-ttu-id="cf628-113">在 "**详细**信息" 浮出控件中, 单击 "**详细信息**"。</span><span class="sxs-lookup"><span data-stu-id="cf628-113">In the **Details** flyout, click **More information**.</span></span> <span data-ttu-id="cf628-114">您必须查看每个审核记录的详细信息, 以确定该活动是否与电子邮件转发相关。</span><span class="sxs-lookup"><span data-stu-id="cf628-114">You have to look at the details of each audit record to determine if the activity is related to email forwarding.</span></span>
+<span data-ttu-id="dc946-111">在结果中, 单击 "活动筛选器" 框中的 "**筛选结果**并键入 '**设置 '-邮箱**"。</span><span class="sxs-lookup"><span data-stu-id="dc946-111">In the results, click **Filter Results** and type **Set-Mailbox** in the activity filter box.</span></span> <span data-ttu-id="dc946-112">在结果中选择一个审核记录。</span><span class="sxs-lookup"><span data-stu-id="dc946-112">Select an audit record in the results.</span></span> <span data-ttu-id="dc946-113">在 "**详细**信息" 浮出控件中, 单击 "**详细信息**"。</span><span class="sxs-lookup"><span data-stu-id="dc946-113">In the **Details** flyout, click **More information**.</span></span> <span data-ttu-id="dc946-114">您必须查看每个审核记录的详细信息, 以确定该活动是否与电子邮件转发相关。</span><span class="sxs-lookup"><span data-stu-id="dc946-114">You have to look at the details of each audit record to determine if the activity is related to email forwarding.</span></span>
 
-- <span data-ttu-id="cf628-115">**ObjectId**: 已修改的邮箱的别名值。</span><span class="sxs-lookup"><span data-stu-id="cf628-115">**ObjectId**: The alias value of the mailbox that was modified.</span></span>
+- <span data-ttu-id="dc946-115">**ObjectId**: 已修改的邮箱的别名值。</span><span class="sxs-lookup"><span data-stu-id="dc946-115">**ObjectId**: The alias value of the mailbox that was modified.</span></span>
 
-- <span data-ttu-id="cf628-116">**参数**: _ForwardingSmtpAddress_表示目标电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="cf628-116">**Parameters**: _ForwardingSmtpAddress_ indicates the target email address.</span></span>
+- <span data-ttu-id="dc946-116">**参数**: _ForwardingSmtpAddress_表示目标电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="dc946-116">**Parameters**: _ForwardingSmtpAddress_ indicates the target email address.</span></span>
 
-- <span data-ttu-id="cf628-117">**UserId**: 在**ObjectId**字段中的邮箱上配置电子邮件转发的用户。</span><span class="sxs-lookup"><span data-stu-id="cf628-117">**UserId**: The user who configured email forwarding on the mailbox in the **ObjectId** field.</span></span>
+- <span data-ttu-id="dc946-117">**UserId**: 在**ObjectId**字段中的邮箱上配置电子邮件转发的用户。</span><span class="sxs-lookup"><span data-stu-id="dc946-117">**UserId**: The user who configured email forwarding on the mailbox in the **ObjectId** field.</span></span>
 
-<span data-ttu-id="cf628-118">有关详细信息, 请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)。</span><span class="sxs-lookup"><span data-stu-id="cf628-118">For more information, see [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span></span>
+<span data-ttu-id="dc946-118">有关详细信息, 请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)。</span><span class="sxs-lookup"><span data-stu-id="dc946-118">For more information, see [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span></span>

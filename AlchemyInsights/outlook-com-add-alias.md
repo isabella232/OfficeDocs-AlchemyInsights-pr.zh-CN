@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1821"
 - "9000238"
-ms.openlocfilehash: 9553fc152c12fd4b1799b781707588f977bcc53d
-ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
+ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35614088"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542691"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="b76a0-102">在 Outlook.com 中添加电子邮件别名</span><span class="sxs-lookup"><span data-stu-id="b76a0-102">Add an email alias in Outlook.com</span></span>
+# <a name="add-an-email-alias-in-outlookcom"></a><span data-ttu-id="4f1b2-102">在 Outlook.com 中添加电子邮件别名</span><span class="sxs-lookup"><span data-stu-id="4f1b2-102">Add an email alias in Outlook.com</span></span>
 
-<span data-ttu-id="b76a0-103">别名是另一个电子邮件地址, 它使用与主电子邮件地址相同的收件箱、联系人列表和帐户设置。</span><span class="sxs-lookup"><span data-stu-id="b76a0-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="b76a0-104">您可以选择从哪个电子邮件地址发送邮件, 并且可以使用任何别名登录到您的 Outlook.com 帐户, 它们都使用相同的密码。</span><span class="sxs-lookup"><span data-stu-id="b76a0-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
+<span data-ttu-id="4f1b2-103">别名是另一个电子邮件地址, 它使用与主电子邮件地址相同的收件箱、联系人列表和帐户设置。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-103">An alias is an additional email address that uses the same inbox, contact list, and account settings as your primary email address.</span></span> <span data-ttu-id="4f1b2-104">您可以选择从哪个电子邮件地址发送邮件, 并且可以使用任何别名登录到您的 Outlook.com 帐户, 它们都使用相同的密码。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-104">You can choose which email address to send mail from, and you can sign in to your Outlook.com account with any of your aliases — they all use the same password.</span></span>
 
-<span data-ttu-id="b76a0-105">添加电子邮件地址:</span><span class="sxs-lookup"><span data-stu-id="b76a0-105">To add an email address:</span></span>
+<span data-ttu-id="4f1b2-105">添加电子邮件地址:</span><span class="sxs-lookup"><span data-stu-id="4f1b2-105">To add an email address:</span></span>
 
-1. <span data-ttu-id="b76a0-106">转到 "[添加别名](https://go.microsoft.com/fwlink/p/?linkid=864833)"。</span><span class="sxs-lookup"><span data-stu-id="b76a0-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="b76a0-107">如果出现提示, 请登录你的 Microsoft 帐户。</span><span class="sxs-lookup"><span data-stu-id="b76a0-107">Sign in to your Microsoft account, if prompted.</span></span>
-2. <span data-ttu-id="b76a0-108">在 "**添加别名**" 下, 可以:</span><span class="sxs-lookup"><span data-stu-id="b76a0-108">Under **Add an alias**, either:</span></span>
-    1. <span data-ttu-id="b76a0-109">创建一个新的 Outlook.com 电子邮件地址, 并将其添加为别名。</span><span class="sxs-lookup"><span data-stu-id="b76a0-109">Create a new Outlook.com email address and add it as an alias.</span></span>
-    2. <span data-ttu-id="b76a0-110">将现有的电子邮件地址添加为别名。</span><span class="sxs-lookup"><span data-stu-id="b76a0-110">Add an existing email address as an alias.</span></span>
-3. <span data-ttu-id="b76a0-111">选择 "**添加别名**"。</span><span class="sxs-lookup"><span data-stu-id="b76a0-111">Select **Add alias**.</span></span>
+1. <span data-ttu-id="4f1b2-106">转到 "[添加别名](https://go.microsoft.com/fwlink/p/?linkid=864833)"。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-106">Go to [Add an alias](https://go.microsoft.com/fwlink/p/?linkid=864833).</span></span> <span data-ttu-id="4f1b2-107">如果出现提示, 请登录你的 Microsoft 帐户。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-107">Sign in to your Microsoft account, if prompted.</span></span>
+2. <span data-ttu-id="4f1b2-108">在 "**添加别名**" 下, 可以:</span><span class="sxs-lookup"><span data-stu-id="4f1b2-108">Under **Add an alias**, either:</span></span>
+    1. <span data-ttu-id="4f1b2-109">创建一个新的 Outlook.com 电子邮件地址, 并将其添加为别名。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-109">Create a new Outlook.com email address and add it as an alias.</span></span>
+    2. <span data-ttu-id="4f1b2-110">将现有的电子邮件地址添加为别名。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-110">Add an existing email address as an alias.</span></span>
+3. <span data-ttu-id="4f1b2-111">选择 "**添加别名**"。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-111">Select **Add alias**.</span></span>
 
-<span data-ttu-id="b76a0-112">阅读有关如何[在 Outlook.com 中添加或删除电子邮件别名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)的详细信息。</span><span class="sxs-lookup"><span data-stu-id="b76a0-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
+<span data-ttu-id="4f1b2-112">阅读有关如何[在 Outlook.com 中添加或删除电子邮件别名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)的详细信息。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-112">Read more about how to [add or remove an email alias in Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>  
 
-<span data-ttu-id="b76a0-113">阅读[如何将另一个电子邮件帐户连接](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)到您的 Outlook.com 帐户。</span><span class="sxs-lookup"><span data-stu-id="b76a0-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>
+<span data-ttu-id="4f1b2-113">阅读[如何将另一个电子邮件帐户连接](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)到您的 Outlook.com 帐户。</span><span class="sxs-lookup"><span data-stu-id="4f1b2-113">Read [how to connect another email account](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) to your Outlook.com account.</span></span>
