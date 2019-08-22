@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364642"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516733"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>创建 SharePoint 中心网站
 
@@ -27,7 +27,7 @@ ms.locfileid: "35364642"
 3. 输入中心网站的显示名称, 并指定要允许其将网站与中心关联的单个用户或安全组。
 
     > [!NOTE]
-    >  我们建议您选择一个通信网站, 或使用新模板的团队网站。 如果使用经典团队网站, 中心导航将仅显示在新式页面上, 中心网站设置将仅显示在新式页面上。 已与其他中心关联的 > 网站无法注册为中心网站。
+    >  我们建议您选择一个通信网站, 或使用新模板的团队网站。 如果使用经典团队网站, 中心导航将仅显示在新式页面上, 中心网站设置将仅显示在新式页面上。 已与其他中心相关联的网站不能注册为中心网站。
   
 [了解有关中心网站的详细信息](https://go.microsoft.com/fwlink/?linkid=869149)
   

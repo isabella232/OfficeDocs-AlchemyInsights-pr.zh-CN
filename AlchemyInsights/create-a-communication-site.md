@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407568"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516266"
 ---
 # <a name="create-a-communication-site"></a>创建通信网站
 
-若要创建通信网站, 请完成以下步骤: 
+若要在 SharePoint Online 中创建通信网站, 请完成以下步骤: 
   
-1. 在页面的左上角, 单击应用启动器并选择 "SharePoint" 图块。 如果看不到 sharepoint 磁贴, 请单击 "**网站**" 或 "**所有应用程序**" (如果 sharepoint 不可见)。 
+1. 在页面的左上角, 单击应用启动器并选择 "SharePoint" 图块。 如果看不到 SharePoint 磁贴, 请单击 "**网站**" 或 "**所有应用程序**" (如果 sharepoint 不可见)。 
     
 2. 在 SharePoint 页面顶部, 单击 "**创建网站**", 然后选择 "**通信网站**"。 按照 "网站创建向导" 中的步骤操作。 
     

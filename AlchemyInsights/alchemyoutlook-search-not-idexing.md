@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397924"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505821"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlook 搜索未编制索引
 
 我们意识到与 Windows 的最近安全更新相关的 Outlook 搜索问题。
   
-在 Outlook 中搜索时, 您可能会收到以下错误: * * 出现错误, 无法完成搜索 * *, 或者**由于仍在对项目编制索引, 因此搜索结果可能不完整**。 修补程序作为可选的 Windows 更新程序发出。 请安装与你在以下情况中看到的 Windows 版本对应的一种版本: 
+在 Outlook 中搜索时, 您可能会收到以下错误之一: 出现**错误, 无法完成搜索**, 或者**由于仍在对项目编制索引, 搜索结果可能不完整**。 修补程序作为可选的 Windows 更新程序发出。 请安装与你在以下情况中看到的 Windows 版本对应的一种版本: 
   
 > [Windows 7-2017 更新 (年6月27日)](https://support.microsoft.com/kb/4022168.aspx)
     

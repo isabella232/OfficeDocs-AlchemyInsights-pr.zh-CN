@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270734"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501069"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>将经典根网站替换为新式网站
 
 如果您的环境是在2019年4月之前设置的, 则可以使用 Microsoft PowerShell 将您的根网站更改为新式网站:
 
 - 如果您有一个要用作根网站的不同网站, 则可以将根网站替换 (交换) 到根网站。 
-    - 使用[SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)可在存档原始网站的同时, 将网站的位置替换为其他网站。 可用于两个工作组网站 (未连接到组) 和通信网站。 
+    - 使用[SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps)可在存档原始网站的同时, 将网站的位置替换为其他网站。 可用于两个工作组网站 (未连接到组) 和通信网站。 
 
 - 将很快引入其他功能, 从而使您能够继续使用网站上的内容, 但将现有网站转换为通信网站。 
 >[!Important]

@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 642b17adc4c362394995ff78dfc8a237a6484a12
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704598"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501285"
 ---
 # <a name="spam-filter-not-working"></a>垃圾邮件筛选器不工作
 
-如果您认为收到的邮件是网络钓鱼或欺骗骗局, 请将邮件标记为垃圾邮件, 然后转到 "**垃圾邮件**", 选择该邮件, 然后选择 "**不是垃圾** \> **** 邮件", 将其标记为 "仿冒欺诈"。 若要了解有关滥用、网络钓鱼和欺骗的详细信息, 请[阅读此](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)信息。 若要阻止电子邮件地址、将地址或域添加到安全发件人列表或应用其他垃圾邮件选项, 请选择 "**垃圾邮件选项**"。
+如果您认为您在 Outlook.com 中收到的邮件是网络钓鱼或欺骗诈骗, 请选择该邮件, 然后选择 "**垃圾** \>邮件**仿冒**" 以将其标记为 "仿冒骗局"。 若要了解有关滥用、网络钓鱼和欺骗的详细信息, 请[阅读此](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy)信息。 若要阻止电子邮件地址、将地址或域添加到安全发件人列表或应用其他垃圾邮件选项, 请选择 "**垃圾邮件选项**"。
   

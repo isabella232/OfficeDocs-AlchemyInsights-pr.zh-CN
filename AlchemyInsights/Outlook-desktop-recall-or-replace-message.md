@@ -9,18 +9,18 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389659"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496101"
 ---
-# <a name="recall-or-replace-an-email-message"></a>撤回或替换电子邮件
+# <a name="recall-or-replace-an-outlook-email-message"></a>撤回或替换 Outlook 电子邮件
 
 - 作为管理员, 你可以**使用 PowerShell 代表用户撤回邮件**。 无法从管理中心撤回邮件。
 - 您**只能撤回发送给组织中的人员的邮件**。 例如, 如果邮件发送到 Gmail 地址, 则无法撤回它。
-- **只能撤回从电脑上的 Outlook 2016 发送的邮件**。 如果用户使用 outlook for Mac 或 web 上的 outlook 发送邮件, 则无法撤回它。
+- **只能撤回从电脑上的 Outlook 2016 发送的邮件**。 如果用户使用 Outlook for Mac 或 web 上的 Outlook 发送邮件, 则无法撤回它。
 
 若要撤回或替换电子邮件, 请执行以下操作:
 

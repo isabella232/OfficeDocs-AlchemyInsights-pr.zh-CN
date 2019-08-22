@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 5bab5dae1b98fd2de57f07d5321b01dbec974b60
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398808"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495201"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>将组添加到 SharePoint 网站
 
-某些 SharePoint 团队网站 (包括在 Microsoft 团队中创建的网站) 由 Office 365 组所有者进行管理。 还可以使用 Office 365 组和 sharepoint 组共享 sharepoint 网站和内容。 SharePoint 组是对网站和内容具有相同权限集的用户的集合。 对于经典网站, 我们建议您使用组方便地将相同的权限级别分配给多个用户, 而不是一次为一个人分配权限。
+某些 SharePoint 团队网站 (包括在 Microsoft 团队中创建的网站) 由 Office 365 组所有者进行管理。 还可以使用 Office 365 组和 SharePoint 组共享 SharePoint 网站和内容。 SharePoint 组是对网站和内容具有相同权限集的用户的集合。 对于经典网站, 我们建议您使用组方便地将相同的权限级别分配给多个用户, 而不是一次为一个人分配权限。
   
 管理 Office 365 组成员:
   
