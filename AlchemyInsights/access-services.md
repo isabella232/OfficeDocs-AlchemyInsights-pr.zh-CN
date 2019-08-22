@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: acbdd1a85cc12c22178506c060bf13ed36dbcddf
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 2e645d3462d48227624e3d416d37d422c5d8baed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883366"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495669"
 ---
-# <a name="access-services"></a><span data-ttu-id="cc287-102">Access Services</span><span class="sxs-lookup"><span data-stu-id="cc287-102">Access Services</span></span>
+# <a name="access-services"></a><span data-ttu-id="7a73c-102">Access Services</span><span class="sxs-lookup"><span data-stu-id="7a73c-102">Access Services</span></span>
 
-<span data-ttu-id="cc287-103">SharePoint Online 中的 Access Services 功能将被停用。</span><span class="sxs-lookup"><span data-stu-id="cc287-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="cc287-104">不能再创建新的基于 Access 的 web 应用程序和 web 数据库, 并且现有的 web 应用和 web 数据库将在4月2018的时间点关闭。</span><span class="sxs-lookup"><span data-stu-id="cc287-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="cc287-105">此更改不会影响 Access 桌面数据库 (.accdb)。</span><span class="sxs-lookup"><span data-stu-id="cc287-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="cc287-106">我们建议 Microsoft PowerApps 作为 Access web apps 和 web 数据库的替代方法。</span><span class="sxs-lookup"><span data-stu-id="cc287-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
+<span data-ttu-id="7a73c-103">SharePoint Online 中的 Access Services 功能将被停用。</span><span class="sxs-lookup"><span data-stu-id="7a73c-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="7a73c-104">不能再创建新的基于 Access 的 web 应用程序和 web 数据库, 并且现有的 web 应用和 web 数据库将在4月2018的时间点关闭。</span><span class="sxs-lookup"><span data-stu-id="7a73c-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="7a73c-105">此更改不会影响 Access 桌面数据库 (.accdb)。</span><span class="sxs-lookup"><span data-stu-id="7a73c-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="7a73c-106">我们建议 Microsoft PowerApps 作为 Access web apps 和 web 数据库的替代方法。</span><span class="sxs-lookup"><span data-stu-id="7a73c-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
   
-[<span data-ttu-id="cc287-107">了解 Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="cc287-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
+[<span data-ttu-id="7a73c-107">了解 Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="7a73c-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
   

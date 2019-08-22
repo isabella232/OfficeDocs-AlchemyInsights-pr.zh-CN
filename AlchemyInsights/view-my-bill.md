@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387729"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506109"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="3656f-102">查看我的帐单</span><span class="sxs-lookup"><span data-stu-id="3656f-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="64e83-102">查看我的帐单</span><span class="sxs-lookup"><span data-stu-id="64e83-102">View my bill</span></span>
 
-1. <span data-ttu-id="3656f-103">在 "管理中心" 中, 转到 "**记帐** \> [帐单](https://go.microsoft.com/fwlink/p/?linkid=848039)" 页面。</span><span class="sxs-lookup"><span data-stu-id="3656f-103">In the admin center, go to the **Billing** \> [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="64e83-103">在 Microsoft 365 管理中心, 转到 "**计费** \> [帐单 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)" 页。</span><span class="sxs-lookup"><span data-stu-id="64e83-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="3656f-104">选择所需发票的月份和日期，然后选择" **查看**"。</span><span class="sxs-lookup"><span data-stu-id="3656f-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="64e83-104">从下拉列表中选择一个日期范围, 然后选择要查看的顺序。</span><span class="sxs-lookup"><span data-stu-id="64e83-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-3. <span data-ttu-id="3656f-105">选择一个订单，然后选择" **查看详细信息**"。</span><span class="sxs-lookup"><span data-stu-id="3656f-105">Choose an order, and then choose **View Details**.</span></span>
-
-<span data-ttu-id="3656f-106">有关详细信息, 请参阅[查看你的帐单或发票](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。</span><span class="sxs-lookup"><span data-stu-id="3656f-106">For more information see [View your bill or invoice](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+<span data-ttu-id="64e83-105">有关详细信息, 请参阅[查看你的帐单或发票](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。</span><span class="sxs-lookup"><span data-stu-id="64e83-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>

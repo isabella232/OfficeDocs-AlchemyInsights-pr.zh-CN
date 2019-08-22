@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 96b2438d01163398438e5124a24228630756b7bc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353887"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500392"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="278f2-102">Office 365 试用版用户发送电子邮件时出现错误: 已使用 Spamhaus 阻止客户端主机</span><span class="sxs-lookup"><span data-stu-id="278f2-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="f6e21-102">Office 365 试用版用户发送电子邮件时出现错误: 已使用 Spamhaus 阻止客户端主机</span><span class="sxs-lookup"><span data-stu-id="f6e21-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="278f2-103">您似乎正在从新的 Office 365 试用组织发送电子邮件。</span><span class="sxs-lookup"><span data-stu-id="278f2-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="278f2-104">为了帮助防止滥用, 我们阻止已知已被泄露的 IP 地址。</span><span class="sxs-lookup"><span data-stu-id="278f2-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="278f2-105">开始使用付费许可证后, 不再强制执行此特定检查。</span><span class="sxs-lookup"><span data-stu-id="278f2-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="278f2-106">您可以通过从 internet 服务提供商 (ISP) 处获取新的 IP 地址, 或从[Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)网站中删除阻止, 从而获得暂时的起伏降低能力。</span><span class="sxs-lookup"><span data-stu-id="278f2-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="f6e21-103">您似乎正在从新的 Office 365 试用组织发送电子邮件。</span><span class="sxs-lookup"><span data-stu-id="f6e21-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="f6e21-104">为了帮助防止滥用, 我们阻止已知已被泄露的 IP 地址。</span><span class="sxs-lookup"><span data-stu-id="f6e21-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="f6e21-105">开始使用付费许可证后, 不再强制执行此特定检查。</span><span class="sxs-lookup"><span data-stu-id="f6e21-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="f6e21-106">您可以通过从 internet 服务提供商 (ISP) 处获取新的 IP 地址, 或从[Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245)网站中删除阻止, 从而获得暂时的起伏降低能力。</span><span class="sxs-lookup"><span data-stu-id="f6e21-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
