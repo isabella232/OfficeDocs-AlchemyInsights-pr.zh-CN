@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 9c678a49c681a806102f5fd0d64a85d84bbbb66d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e13abc35c04ad692ea72e4d6fd46fbdbc203c2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388679"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36543195"
 ---
-# <a name="onedrive-not-responding"></a><span data-ttu-id="29428-102">OneDrive 不响应</span><span class="sxs-lookup"><span data-stu-id="29428-102">OneDrive not responding</span></span>
+# <a name="onedrive-not-responding"></a><span data-ttu-id="e37b6-102">OneDrive 不响应</span><span class="sxs-lookup"><span data-stu-id="e37b6-102">OneDrive not responding</span></span>
 
-<span data-ttu-id="29428-103">对于新创建的帐户, 用户需要使用其自己的帐户登录到 Office 365 门户, 然后单击 "onedrive" 以手动启动 OneDrive 网站的预配。</span><span class="sxs-lookup"><span data-stu-id="29428-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
+<span data-ttu-id="e37b6-103">对于新创建的帐户, 用户需要使用其自己的帐户登录到 Office 365 门户, 然后单击 "OneDrive" 以手动启动 OneDrive 网站的预配。</span><span class="sxs-lookup"><span data-stu-id="e37b6-103">For newly created accounts, users need to sign in to the Office 365 portal with their own account and click OneDrive to manually start the provision of the OneDrive site.</span></span>
   
-<span data-ttu-id="29428-104">但是, 如果用户已单击 OneDrive, 且其个人网站未在24小时内设置, 请记录支持票证以获取进一步帮助。</span><span class="sxs-lookup"><span data-stu-id="29428-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
+<span data-ttu-id="e37b6-104">但是, 如果用户已单击 OneDrive, 且其个人网站未在24小时内设置, 请记录支持票证以获取进一步帮助。</span><span class="sxs-lookup"><span data-stu-id="e37b6-104">However, if the user has already clicked OneDrive and their personal site is not provisioned within 24 hours, please log a support ticket for further assistance.</span></span>
   
 

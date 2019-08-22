@@ -13,15 +13,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 133cf9ba507e551d00a3f109f7e3ef7bddc7abed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376320"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537325"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a><span data-ttu-id="acac8-102">更改语言、日期和时间格式或时区</span><span class="sxs-lookup"><span data-stu-id="acac8-102">Change your language, date and time format, or time zone</span></span>
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="555f7-102">在 Outlook.com 中更改语言、日期和时间格式或时区</span><span class="sxs-lookup"><span data-stu-id="555f7-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
 
-1. <span data-ttu-id="acac8-103">打开您的[语言和时间设置](https://go.microsoft.com/fwlink/?linkid=2085505)。</span><span class="sxs-lookup"><span data-stu-id="acac8-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
-1. <span data-ttu-id="acac8-104">选择要使用的语言、日期格式、时间格式和时区。</span><span class="sxs-lookup"><span data-stu-id="acac8-104">Select the language, date format, time format, and time zone you want to use.</span></span>
-1. <span data-ttu-id="acac8-105">选择“保存”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="acac8-105">Select **Save**.</span></span>
+1. <span data-ttu-id="555f7-103">打开您的[语言和时间设置](https://go.microsoft.com/fwlink/?linkid=2085505)。</span><span class="sxs-lookup"><span data-stu-id="555f7-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
+1. <span data-ttu-id="555f7-104">选择要使用的语言、日期格式、时间格式和时区。</span><span class="sxs-lookup"><span data-stu-id="555f7-104">Select the language, date format, time format, and time zone you want to use.</span></span>
+1. <span data-ttu-id="555f7-105">选择“保存”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="555f7-105">Select **Save**.</span></span>
