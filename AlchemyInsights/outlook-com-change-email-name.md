@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701421"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537447"
 ---
 # <a name="change-your-email-name"></a>更改你的电子邮件名称
 
-如果您有一个电子邮件地址, 并且想要更改收件人将在邮件中看到的名称:
+如果您有一个 Outlook.com 电子邮件地址, 并且想要更改收件人将在邮件中看到的名称:
   
 1. 在页面右上角选择您的帐户图片。
 2. 选择 **"我的配置文件"**。

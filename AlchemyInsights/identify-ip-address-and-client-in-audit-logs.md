@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539019"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>在审核日志中标识 IP 地址和客户端
 
-用户或管理员对应的活动的 IP 地址显示在审核日志中。 还记录客户端信息。 以下是确定此类信息的步骤
+与 Office 365 用户或管理员的活动对应的 IP 地址显示在审核日志中。 还记录客户端信息。 以下是确定此类信息的步骤
 
-1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)
+1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)。
 
-2. 单击 "**搜索和调查**", 然后选择 "**审核日志搜索**"。
+2. 转到 "**搜索** > **审核日志搜索**" 页。
 
    如果你对特定活动感兴趣, 请从 "**活动**" 列表中选择该活动。 如果不是, 则将返回选定用户的所有活动 (默认设置)。
 

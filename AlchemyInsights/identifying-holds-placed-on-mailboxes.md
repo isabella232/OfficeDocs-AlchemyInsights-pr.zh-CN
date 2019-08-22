@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382871"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538747"
 ---
-您是否有您无法识别的**保留**内容**保留**的内容？ 需要**找出****邮箱**上保留的位置吗？ 可通过 Office 365 中的以下方法之一应用保留 (*保留功能*):
+# <a name="identify-holds-placed-on-mailboxes"></a>确定放置在邮箱上的保留
+
+您是否有您无法识别的保留所**保留**的 Office **** 365 内容？ 需要**找出****邮箱**上保留的位置吗？ 可通过 Office 365 中的以下方法之一应用保留 (*保留功能*):
   
 - 诉讼保留
 

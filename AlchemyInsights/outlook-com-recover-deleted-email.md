@@ -13,14 +13,14 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 116ba085b87c75eab3235a66e33aefdd93896f60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35372863"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545327"
 ---
-# <a name="recover-deleted-email"></a>恢复已删除的电子邮件
+# <a name="recover-deleted-email-outlookcom"></a>恢复已删除的电子邮件 Outlook.com
 
 1. 在左窗格中, 选择 "**已删除邮件**"。
 2. 选择要恢复的项目并选择 "**还原**"。

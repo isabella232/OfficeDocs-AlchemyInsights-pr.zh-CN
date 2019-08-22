@@ -11,22 +11,22 @@ ms.custom:
 - "9000252"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 9b52870f67c137101318d91ac0bf86708c281dd2
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: ecdff3fd7ebb56b6b9fe177d9a8cdc5dfd10c15e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697217"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537757"
 ---
 # <a name="cant-receive-email"></a>无法接收电子邮件
 
 如果您在使用 Outlook.com 时遇到问题, 请首先检查[服务状态](https://go.microsoft.com/fwlink/p/?linkid=837482)。
 
-1. 如果启用了重点收件箱, 请检查其他收件箱。 若要了解如何关闭重点收件箱, 请参阅[关闭重点收件箱](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy)。
-1. 查看 "[垃圾邮件" 文件夹](https://outlook.live.com/mail/junkemail)。 如果您的收件箱已满, 则不会收到新邮件。 若要在收件箱中留出空间, 请尝试通过右键单击 "垃圾邮件" 文件夹并选择 "**空文件夹**" 来清空 "垃圾邮件" 文件夹。
+1. 如果启用了重点收件箱, 请选中 "其他" 选项卡。若要了解如何关闭重点收件箱, 请参阅[关闭重点收件箱](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy)。
+1. 查看 "[垃圾邮件" 文件夹](https://outlook.live.com/mail/junkemail)。 如果您的收件箱已满, 则不会收到新邮件。 若要在收件箱中留出空间, 请尝试清空 "垃圾邮件" 文件夹, 方法是右键单击该文件夹, 然后选择 "**空文件夹**"。
 1. 检查收件箱筛选器。 若要更改筛选和排序, 请选择邮件列表顶部的 "**筛选器**"。
 1. 检查[阻止的发件人列表和安全发件人列表](https://outlook.live.com/mail/options/mail/junkEmail)。
-1. 检查[收件箱规则](https://outlook.live.com/mail/options/mail/rules)。
+1. 检查[收件箱规则](https://outlook.live.com/mail/options/mail/rules)和[电子邮件转发](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption)。
 1. 如果你无法发送或接收电子邮件, 可能会暂时阻止你的帐户, 因为我们注意到了一些异常登录活动。 若要了解如何取消阻止你的帐户, 请参阅[解除阻止我的 Outlook.com 帐户](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy)。
 
 了解有关[修复电子邮件同步问题](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)的详细信息。

@@ -15,16 +15,16 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373871"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535957"
 ---
 # <a name="security-info-and-security-codes"></a>安全信息和安全代码
 
-若要向帐户添加安全信息, 请执行以下操作:
+若要向你的 Microsoft 帐户添加安全信息, 请执行以下操作:
 
 1. 使用你的 Microsoft 帐户登录[安全基础知识](https://account.microsoft.com/security)。
 1. 选择 "**安全联系人信息**"。
