@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383087"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539091"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>确定何时在邮箱上配置了外部电子邮件转发
 
-当用户在邮箱上配置外部电子邮件转发时, 该活动将作为 "**设置邮箱**" cmdlet 的一部分进行审核。 您可以使用安全 & 合规性中心中的 "审核日志搜索" 查看活动。
+当 Office 365 用户在邮箱上配置外部电子邮件转发时, 该活动将作为**设置邮箱**cmdlet 的一部分进行审核。 您可以使用安全 & 合规性中心中的 "审核日志搜索" 查看活动。
 
-1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)
+1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)。
 
-2. 单击 "**搜索和调查**", 然后选择 "**审核日志搜索**"。
+2. 转到 "**搜索** > **审核日志搜索**" 页。
 
 3. 在 "**开始日期**" 和 "**结束日期**" 字段中选择日期范围。 无需指定用户名。 验证 "**活动**" 字段是否设置为**显示所有活动的结果**。
 

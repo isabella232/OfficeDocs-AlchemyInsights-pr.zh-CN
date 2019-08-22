@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423677"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531925"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中的用户权限
 
-如果组织中的用户无法访问 sharepoint 或 onedrive, 请确保他们拥有包含 SharePoint 和 onedrive 的许可证。 
+如果组织中的用户无法访问 SharePoint 或 OneDrive, 请确保他们拥有包含 SharePoint 和 OneDrive 的许可证。 
   
 1. 转到[Microsoft 365 管理中心中的 "活动用户" 页](https://portal.office.com/adminportal/home#/users), 然后选择该用户。 
     

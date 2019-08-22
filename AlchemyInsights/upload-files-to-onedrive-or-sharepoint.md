@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: d6ce8f93afc11414e0c77b0e852f4647378d5067
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423605"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532501"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>将文件上传到 OneDrive 或 SharePoint
 
@@ -27,6 +27,6 @@ ms.locfileid: "32423605"
 3. 选择文件并将其拖动到 OneDrive 或 SharePoint 中的位置。 注意: 如果使用的是 Microsoft Edge、Mozilla FireFox 或 Google Chrome, 则还可以上传文件夹和其中的所有文件。
     
 > [!NOTE]
->  最大可上载 15 GB 的文件。 > 文件的完整路径 (包括文件名) 长度不能超过400个字符。 > 如果需要上传超过100个文件, 请[使用 OneDrive 同步客户端](https://go.microsoft.com/fwlink/?linkid=866427)。 
+>  最大可上载 15 GB 的文件。 > 文件的完整路径 (包括文件名) 的长度不能超过400个字符。 > 如果需要上载100以上的文件, 请[使用 OneDrive 同步客户端](https://go.microsoft.com/fwlink/?linkid=866427)。 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 使用 "安装和恢复助手" 对 OneDrive for business 进行故障排除
+title: 使用 "安装和恢复助手" 对 OneDrive for Business 进行故障排除
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 659c08d2e8c123147dd7106798d2c8af1ac37249
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 38e3c3d397fa4f58f86fdde4e029a551b8e24099
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423353"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532177"
 ---
 # <a name="fix-onedrive-sync-problems"></a>修复 OneDrive 同步问题
 

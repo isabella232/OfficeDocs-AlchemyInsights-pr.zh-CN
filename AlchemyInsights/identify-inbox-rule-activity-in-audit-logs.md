@@ -12,20 +12,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 51c25897223371a6dcc94c948955107ce74b0e8e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383015"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539127"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>确定审核日志中的收件箱规则活动
 
-您可以使用安全 & 合规性中心中的审核日志搜索来查看收件箱规则事件 (创建、修改和删除收件箱规则)。
+可以在 "Office 365 安全 & 合规中心" 中使用审核日志搜索, 以查看收件箱规则事件 (创建、修改和删除收件箱规则)。
 
-1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)
+1. 登录到[Office 365 安全 & 合规中心](https://protection.office.com/)。
 
-2. 单击 "**搜索和调查**", 然后选择 "**审核日志搜索**"。
+2. 转到 "**搜索** > **审核日志搜索**" 页。
 
 3. 在 "**开始日期**" 和 "**结束日期**" 字段中选择日期范围。
 
