@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 126cfa4e44b3b7e900e47de0b86602c60f3f0dc2
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223882"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504201"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="7ffdb-102">对 SharePoint 文件的 IRM 保护</span><span class="sxs-lookup"><span data-stu-id="7ffdb-102">IRM Protection to SharePoint files</span></span>
+# <a name="irm-protection-to-sharepoint-files"></a><span data-ttu-id="df1c9-102">对 SharePoint 文件的 IRM 保护</span><span class="sxs-lookup"><span data-stu-id="df1c9-102">IRM Protection to SharePoint files</span></span>
 
 
-<span data-ttu-id="7ffdb-103">在 SharePoint Online 中, IRM 保护应用于列表和库级别的文件。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="7ffdb-104">您的组织可以使用 IRM 保护之前, 必须先设置权限管理。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="7ffdb-105">IRM 依赖 azure 权限管理服务 (来自 Azure 信息保护) 来加密和分配使用限制。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="7ffdb-106">一些 Office 365 计划包括 Azure 权限管理, 但并非全部。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-106">Some Office 365 plans include Azure Rights Management, but not all.</span></span> 
+<span data-ttu-id="df1c9-103">在 SharePoint Online 中, IRM 保护应用于列表和库级别的文件。</span><span class="sxs-lookup"><span data-stu-id="df1c9-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="df1c9-104">您的组织可以使用 IRM 保护之前, 必须先设置权限管理。</span><span class="sxs-lookup"><span data-stu-id="df1c9-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="df1c9-105">IRM 依赖 azure 权限管理服务 (来自 Azure 信息保护) 来加密和分配使用限制。</span><span class="sxs-lookup"><span data-stu-id="df1c9-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span> <span data-ttu-id="df1c9-106">一些 Office 365 计划包括 Azure 权限管理, 但并非全部。</span><span class="sxs-lookup"><span data-stu-id="df1c9-106">Some Office 365 plans include Azure Rights Management, but not all.</span></span> 
 
-<span data-ttu-id="7ffdb-107">有关详细信息，请参阅：</span><span class="sxs-lookup"><span data-stu-id="7ffdb-107">To learn more, see:</span></span>
+<span data-ttu-id="df1c9-107">有关详细信息，请参阅：</span><span class="sxs-lookup"><span data-stu-id="df1c9-107">To learn more, see:</span></span>
 
-- <span data-ttu-id="7ffdb-108">[Office 应用程序和服务如何支持 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
+- <span data-ttu-id="df1c9-108">[Office 应用程序和服务如何支持 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。</span><span class="sxs-lookup"><span data-stu-id="df1c9-108">[How Office applications and services support Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).</span></span>
 
-- <span data-ttu-id="7ffdb-109">[在 SharePoint 管理中心中设置信息权限管理 (IRM)](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
+- <span data-ttu-id="df1c9-109">[在 SharePoint 管理中心中设置信息权限管理 (IRM)](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。</span><span class="sxs-lookup"><span data-stu-id="df1c9-109">[Set up Information Rights Management (IRM) in SharePoint admin center](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
 
-- <span data-ttu-id="7ffdb-110">[IRM-启用 SharePoint 文档库和列表](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
+- <span data-ttu-id="df1c9-110">[IRM-启用 SharePoint 文档库和列表](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。</span><span class="sxs-lookup"><span data-stu-id="df1c9-110">[IRM-enable SharePoint document libraries and lists](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).</span></span>
 
-- <span data-ttu-id="7ffdb-111">[Office 中的信息权限管理](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
+- <span data-ttu-id="df1c9-111">[Office 中的信息权限管理](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)。</span><span class="sxs-lookup"><span data-stu-id="df1c9-111">[Information Rights Management in Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).</span></span>
 
-- <span data-ttu-id="7ffdb-112">[Exchange Online 中的信息权限管理](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online)。</span><span class="sxs-lookup"><span data-stu-id="7ffdb-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span></span>
+- <span data-ttu-id="df1c9-112">[Exchange Online 中的信息权限管理](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online)。</span><span class="sxs-lookup"><span data-stu-id="df1c9-112">[Information Rights Management in Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).</span></span>
 
 

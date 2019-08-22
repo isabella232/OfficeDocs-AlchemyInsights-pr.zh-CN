@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 81cfdb7c4b218ffacfca75b3cc14e5aac13dc3d5
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223738"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503805"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a><span data-ttu-id="f7c47-102">授予用户对 SharePoint 网站的访问权限</span><span class="sxs-lookup"><span data-stu-id="f7c47-102">Give users access to SharePoint site</span></span>
+# <a name="give-users-access-to-sharepoint-site"></a><span data-ttu-id="70f2b-102">授予用户对 SharePoint 网站的访问权限</span><span class="sxs-lookup"><span data-stu-id="70f2b-102">Give users access to SharePoint site</span></span>
 
-<span data-ttu-id="f7c47-103">访问请求功能允许用户请求访问他们当前没有权限查看的内容。</span><span class="sxs-lookup"><span data-stu-id="f7c47-103">The access request feature allows people to request access to content that they do not currently have permission to see.</span></span> <span data-ttu-id="f7c47-104">作为网站所有者，您可以配置该功能以便在某人请求网站访问权限时向您发送邮件。</span><span class="sxs-lookup"><span data-stu-id="f7c47-104">As a site owner, you can configure the feature to send you mail when someone requests access to a site.</span></span> <span data-ttu-id="f7c47-105">有关详细信息, 请访问[设置和管理访问请求](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)。</span><span class="sxs-lookup"><span data-stu-id="f7c47-105">For more information, please visit [Set up and manage access requests](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span></span>
+<span data-ttu-id="70f2b-103">访问请求功能允许用户请求访问他们当前没有权限查看的内容。</span><span class="sxs-lookup"><span data-stu-id="70f2b-103">The access request feature allows people to request access to content that they do not currently have permission to see.</span></span> <span data-ttu-id="70f2b-104">作为网站所有者，您可以配置该功能以便在某人请求网站访问权限时向您发送邮件。</span><span class="sxs-lookup"><span data-stu-id="70f2b-104">As a site owner, you can configure the feature to send you mail when someone requests access to a site.</span></span> <span data-ttu-id="70f2b-105">有关详细信息, 请访问[设置和管理访问请求](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)。</span><span class="sxs-lookup"><span data-stu-id="70f2b-105">For more information, please visit [Set up and manage access requests](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).</span></span>
 
-<span data-ttu-id="f7c47-106">以下是有关访问请求的一些常见链接:</span><span class="sxs-lookup"><span data-stu-id="f7c47-106">Here are some common links regarding access requests:</span></span>
+<span data-ttu-id="70f2b-106">以下是有关访问请求的一些常见链接:</span><span class="sxs-lookup"><span data-stu-id="70f2b-106">Here are some common links regarding access requests:</span></span>
 
-- [<span data-ttu-id="f7c47-107">在 SharePoint Online 中处理挂起的请求时访问被拒绝 "访问请求列表" 或 "请求审批失败"</span><span class="sxs-lookup"><span data-stu-id="f7c47-107">Access Denied" to Access Requests list or "Request approval failed" when you process a pending request in SharePoint Online</span></span>](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [<span data-ttu-id="70f2b-107">在 SharePoint Online 中处理挂起的请求时访问被拒绝 "访问请求列表" 或 "请求审批失败"</span><span class="sxs-lookup"><span data-stu-id="70f2b-107">Access Denied" to Access Requests list or "Request approval failed" when you process a pending request in SharePoint Online</span></span>](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
 
-- [<span data-ttu-id="f7c47-108">更改访问请求设置</span><span class="sxs-lookup"><span data-stu-id="f7c47-108">Change access requests settings</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [<span data-ttu-id="70f2b-108">更改访问请求设置</span><span class="sxs-lookup"><span data-stu-id="70f2b-108">Change access requests settings</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [<span data-ttu-id="f7c47-109">批准或拒绝网站的访问请求</span><span class="sxs-lookup"><span data-stu-id="f7c47-109">Approve or decline access requests for a site</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [<span data-ttu-id="70f2b-109">批准或拒绝网站的访问请求</span><span class="sxs-lookup"><span data-stu-id="70f2b-109">Approve or decline access requests for a site</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [<span data-ttu-id="f7c47-110">管理外部用户邀请（仅适用于 SharePoint Online）</span><span class="sxs-lookup"><span data-stu-id="f7c47-110">Manage invitations to external users (SharePoint Online only)</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [<span data-ttu-id="70f2b-110">管理外部用户邀请（仅适用于 SharePoint Online）</span><span class="sxs-lookup"><span data-stu-id="70f2b-110">Manage invitations to external users (SharePoint Online only)</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [<span data-ttu-id="f7c47-111">重新发送邀请</span><span class="sxs-lookup"><span data-stu-id="f7c47-111">Resend an invitation</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [<span data-ttu-id="70f2b-111">重新发送邀请</span><span class="sxs-lookup"><span data-stu-id="70f2b-111">Resend an invitation</span></span>](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

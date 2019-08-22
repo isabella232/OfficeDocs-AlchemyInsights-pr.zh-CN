@@ -13,14 +13,14 @@ ms.custom:
 - "620"
 - "3800018"
 ms.assetid: 9ee8d6dc-3bb4-4e2b-ba22-7a8466d039d9
-ms.openlocfilehash: 29633d96201d557ea70f4c3974c5730fe5b9f30e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 64e58d9ff51543919418668971c08ad90acee32f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357883"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499917"
 ---
-# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="29ec2-102">在 web 上的 Outlook 中调整时区和语言设置</span><span class="sxs-lookup"><span data-stu-id="29ec2-102">Adjust time zone and language settings in Outlook on the web</span></span>
+# <a name="adjust-time-zone-and-language-settings-in-outlook-on-the-web"></a><span data-ttu-id="fb16c-102">在 web 上的 Outlook 中调整时区和语言设置</span><span class="sxs-lookup"><span data-stu-id="fb16c-102">Adjust time zone and language settings in Outlook on the web</span></span>
 
-<span data-ttu-id="29ec2-103">若要在 Outlook 网页中调整时区和语言设置 (使用 Office 365 工作或学校帐户访问), 请参阅在[web 上的 outlook 中更改时区和语言设置](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)。</span><span class="sxs-lookup"><span data-stu-id="29ec2-103">To adjust the time zone and language settings in Outlook on the web, which you access using your Office 365 work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
+<span data-ttu-id="fb16c-103">若要在 Outlook 网页中调整时区和语言设置 (使用 Office 365 工作或学校帐户访问), 请参阅在[web 上的 outlook 中更改时区和语言设置](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d)。</span><span class="sxs-lookup"><span data-stu-id="fb16c-103">To adjust the time zone and language settings in Outlook on the web, which you access using your Office 365 work or school account, see [Change the time zone and language settings in Outlook on the web](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273d).</span></span>
   

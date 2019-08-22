@@ -13,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 501e9266a58c9bd39fe42771becee804c62ede46
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357235"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506541"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="dccc9-102">允许外部发件人向通讯组发送邮件</span><span class="sxs-lookup"><span data-stu-id="dccc9-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="c9ad3-102">允许外部发件人向通讯组发送邮件</span><span class="sxs-lookup"><span data-stu-id="c9ad3-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="dccc9-103">如果贵组织外部的用户在向您的通讯组发送邮件时收到错误, 或者您想要验证您的通讯组是否配置为接收来自外部发件人的邮件, 请按照下列步骤操作:</span><span class="sxs-lookup"><span data-stu-id="dccc9-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="c9ad3-103">如果贵组织外部的用户在向您的通讯组发送邮件时收到错误, 或者您想要验证您的通讯组是否配置为接收来自外部发件人的邮件, 请按照下列步骤操作:</span><span class="sxs-lookup"><span data-stu-id="c9ad3-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="dccc9-104">转到[Office 365 管理门户](https://portal.office.com/adminportal/home#/groups)中的 "**组**" 节点。</span><span class="sxs-lookup"><span data-stu-id="dccc9-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="c9ad3-104">转到[Office 365 管理门户](https://portal.office.com/adminportal/home#/groups)中的 "**组**" 节点。</span><span class="sxs-lookup"><span data-stu-id="c9ad3-104">Go to the **Groups** node in the [Office 365 admin portal](https://portal.office.com/adminportal/home#/groups).</span></span>
 
-2. <span data-ttu-id="dccc9-105">选择通讯组, 并在出现的 "组属性" 对话框中, 单击包含**允许外部发件人**的部分中的 "**编辑**"。</span><span class="sxs-lookup"><span data-stu-id="dccc9-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
+2. <span data-ttu-id="c9ad3-105">选择通讯组, 并在出现的 "组属性" 对话框中, 单击包含**允许外部发件人**的部分中的 "**编辑**"。</span><span class="sxs-lookup"><span data-stu-id="c9ad3-105">Select the distribution group, and in the group properties fly out that appears, click **Edit** in the section that contains **Allow external senders**.</span></span>
 
-3. <span data-ttu-id="dccc9-106">在显示的 "**编辑详细信息**" 中, 验证是否**允许我的组织外部的人员向此通讯组发送电子邮件。**</span><span class="sxs-lookup"><span data-stu-id="dccc9-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="dccc9-107">已**打开**, 然后单击 "**保存**"。</span><span class="sxs-lookup"><span data-stu-id="dccc9-107">is **On**, and then click **Save**.</span></span>
+3. <span data-ttu-id="c9ad3-106">在显示的 "**编辑详细信息**" 中, 验证是否**允许我的组织外部的人员向此通讯组发送电子邮件。**</span><span class="sxs-lookup"><span data-stu-id="c9ad3-106">In the **Edit details** fly out that appears, verify that **Allow people outside of my organization to send email to this distribution group.**</span></span> <span data-ttu-id="c9ad3-107">已**打开**, 然后单击 "**保存**"。</span><span class="sxs-lookup"><span data-stu-id="c9ad3-107">is **On**, and then click **Save**.</span></span>
