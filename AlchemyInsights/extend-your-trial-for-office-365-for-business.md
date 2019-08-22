@@ -13,12 +13,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389022"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526129"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>延长试用版的 Office 365 for Business
 
@@ -32,4 +32,4 @@ ms.locfileid: "36389022"
 
 4. 您需要提供信用卡信息, 以延长试用版。 我们不会向你的信用卡收取试用分机号。
 
-若要了解有关扩展试用版或分步说明的详细信息, 请参阅[延长试用版的 Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial)。
+若要了解有关扩展试用版或分步说明的详细信息, 请参阅[延长试用版的 Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial)。

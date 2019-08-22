@@ -12,16 +12,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 854c02a9734cae99049d4219c04fac870ad318af
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6ea25d3340c00cf05d166418470a0ca5f5490f34
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371711"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511873"
 ---
 # <a name="how-to-stop-signing-in-automatically"></a>如何停止自动登录
 
-若要停止自动登录, 请取消选择 "**让我**登录到您输入密码的页面上的登录" 框。
+若要停止自动登录到 Outlook.com, 请在输入密码的页面上取消选中 "**使我保持**登录" 框。
   
 若要了解详细信息, 请参阅 how [to sign in or out Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)。
   

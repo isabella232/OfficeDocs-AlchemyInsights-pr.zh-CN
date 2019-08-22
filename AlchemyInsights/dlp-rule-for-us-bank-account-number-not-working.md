@@ -12,13 +12,15 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 83050b05cffacd3e81d34f05383c213eb0042fae
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0a32708b5ac8d95ec6777ada2d151a15f90d65bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389459"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529847"
 ---
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>包含美国银行帐户号的 DLP 问题
+
 在 O365 中使用 DLP 敏感信息类型时, 您是否遇到**数据丢失防护 (DLP)** 无法处理包含**美国银行帐号**的内容的问题？ 如果是这样, 请确保您的内容包含在评估时 DLP 策略要查找的内容所需的信息。
   
 例如, 对于配置为可信度为 85% 的**美国银行帐户号**策略, 将对其进行评估, 并且必须检测到规则才能触发以下条件:

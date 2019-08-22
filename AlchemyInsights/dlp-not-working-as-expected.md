@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
-ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
+ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35941058"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530269"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP 未按预期正常工作
 
@@ -42,7 +42,7 @@ DLP 策略允许你标识和保护组织中的敏感信息。 若要设置 DLP �
 
 **测试 DLP 策略**
 
-若要使用内置或自定义的敏感信息类型测试数据, 请使用 "**分类** > **敏感信息类型**" 下的 "**测试类型**" 选项。 有关详细信息, 请参阅[测试自定义敏感信息类型](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)。
+若要使用内置或自定义的敏感信息类型测试数据, 请使用 "**分类** > **敏感信息类型**" 下的 "**测试类型**" 选项。 有关详细信息, 请参阅[测试自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)。
 
  **报表**
   

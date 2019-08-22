@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: e7b1b58f0b5bf73d50721cf2715b366280867431
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404039"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527641"
 ---
 # <a name="enable-external-sharing"></a>启用外部共享
 
- **如何确保启用共享:**
+ 若要确保为 SharePoint Online 启用共享, 请执行以下操作:
   
 - **全局共享**
     
@@ -27,7 +27,7 @@ ms.locfileid: "32404039"
     
 - **管理共享-SharePoint 管理中心**
     
-- 外部共享-确保选中两个选项之一:
+    外部共享-确保选中两个选项之一:
     
   - "允许接受共享邀请并以已通过身份验证的用户身份登录的外部用户"
     

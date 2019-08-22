@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 69b48e614fe55912699a7b943dbd2b132ee1c17d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9b19d15bcca10ff6e2dadf02e0a6092fae144292
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271542"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525957"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online 中的外部共享
 
@@ -37,7 +37,7 @@ ms.locfileid: "36271542"
 是否收到外部用户的错误消息？检查以下链接:
 
 - [SharePoint Online 和 OneDrive for Business 中的 "访问被拒绝"、"你需要访问此网站的权限" 或 "在目录中找不到用户" 错误](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["在 SharePoint Online 或 OneDrive for Business 中共享项目或网站时, 您的组织的策略不允许与这些用户共享" 错误](https://docs.microsoft.com/en-us/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- ["在 SharePoint Online 或 OneDrive for Business 中共享项目或网站时, 您的组织的策略不允许与这些用户共享" 错误](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [从 SharePoint Online 或 OneDrive 共享时, 共享选项将灰显](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
 - [外部用户使用其他帐户接受 SharePoint Online 邀请时的错误消息](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
 - [在 SharePoint 和 OneDrive 中发生 OSE 共享错误](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)

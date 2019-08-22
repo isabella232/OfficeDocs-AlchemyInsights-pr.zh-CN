@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 0fdab2f37554cd91aeb2a71101f6841fe148f66d
-ms.sourcegitcommit: 01fc5e0c25e691351d58295f055a1c64402867a0
+ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36399724"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507333"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>将日历同步到设备的问题
 
@@ -33,4 +33,4 @@ SharePoint 日历是典型的列表类型, 有时与 Office 365 组日历相混�
 >[!Note]
 > 当您在同步的 Outlook 日历中进行更改时, 它将显示在 SharePoint 日历中, 反之亦然。
 
-有关 Office 365 组的详细信息, 请参阅[本文](https://support.office.com/en-us/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。
+有关 Office 365 组的详细信息, 请参阅[本文](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。

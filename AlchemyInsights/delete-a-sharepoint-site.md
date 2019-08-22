@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115585"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513673"
 ---
-# <a name="delete-a-sharepoint-site"></a>删除 SharePoint 网站
-**从新 SharePoint 管理中心删除网站**通过使用新的 SharePoint 管理中心, 可以删除经典和新式网站。 选择 "**活动网站**", 选择网站, 然后选择 "**删除**"。 若要[在新 SharePoint 管理中心中查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), 请选择 "**已删除网站**"。 有关详细信息, 请参阅[在新 SharePoint 管理中心删除网站](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)。
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>从新的 SharePoint 管理中心删除网站
+
+通过使用新的 SharePoint 管理中心, 可以删除经典和新式网站。 选择 "**活动网站**", 选择网站, 然后选择 "**删除**"。 若要[在新 SharePoint 管理中心中查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), 请选择 "**已删除网站**"。 有关详细信息, 请参阅[在新 SharePoint 管理中心删除网站](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center)。
 
 **重要说明:** 如果网站是保留策略的一部分, 则在从[安全&amp;合规性管理中心策略](https://protection.office.com/?rfr=AdminCenter#/homepage)中删除该网站之前, 可能无法将其删除。 有关详细信息, 请参阅[保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。 
 

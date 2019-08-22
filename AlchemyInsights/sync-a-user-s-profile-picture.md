@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 0ee818002cf89ab0b2e5c94f8718b3df602d529d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31eb8462553714796a7bcfc2c5356d1343b5ee57
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32370197"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559543"
 ---
 # <a name="sync-a-users-profile-picture"></a>同步用户的个人资料图片
 
-配置文件图片同步在 SharePoint Online 中, 需要用户的操作来启动其照片的同步。 不会自动将照片同步到 SharePoint Online。 SharePoint online 仅同步来自 Exchange Online (而非 Azure Active Directory) 的照片。
+配置文件图片同步在 SharePoint Online 中, 需要用户的操作来启动其照片的同步。 不会自动将照片同步到 SharePoint Online。 SharePoint Online 仅同步来自 Exchange Online (而非 Azure Active Directory) 的照片。
   
 如果用户从未执行过将提示同步的操作, 或者他们已更新其配置文件图片, 并且新的配置文件图片在 SharePoint Online 中未显示, 则用户可能需要提示它进行同步。下面介绍了如何执行此操作:
   

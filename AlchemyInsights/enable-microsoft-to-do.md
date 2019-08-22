@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 39bd4634d31b8ff33081c10e566e05f7e1561404
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403629"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527533"
 ---
 # <a name="how-to-enable-microsoft-to-do"></a>如何启用 Microsoft 待办
 
 若要使用 Microsoft 执行此操作, 管理员必须在每个用户的帐户上启用该应用程序。 转到 Office 365 管理员设置页的 "[服务&amp;外接程序" 页](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), 为每个用户启用-Do。 
   
-Microsoft to Do 使用 Exchange Online 中的功能来同步和存储用户的待办事项。 若要使用 Microsoft to Do, 用户需要有效的 Exchange Online 邮箱。
+Microsoft To Do 使用 Exchange Online 中的功能来同步和存储用户的待办事项。 若要使用 Microsoft To Do, 用户需要有效的 Exchange Online 邮箱。
   
 有关详细信息, 请参阅[Microsoft To Do Preview administration](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)。
   

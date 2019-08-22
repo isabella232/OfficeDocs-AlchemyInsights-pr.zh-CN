@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: be232b682b7bb3d24f59ad10501edbd796e6bcaf
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4c774864a03b7dbc099f64b7906fa4a0bc26c63c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401743"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525713"
 ---
 # <a name="file-open-read-only"></a>文件以只读状态打开
 
@@ -34,11 +34,11 @@ ms.locfileid: "32401743"
   
  **OneDrive 是否已满？**
   
-如果文件存储在 onedrive 上, 且你的 onedrive 存储空间已满, 你将无法保存该文档, 直到你已被分配空间所下。 您可以通过单击通知中心中的 onedrive 图标并选择 "管理存储" 来检查 onedrive 上的可用空间, 也可以转[http://onedrive.live.com](http://onedrive.live.com)到 "登录", 并记下屏幕左下角的可用空间量。
+如果文件存储在 OneDrive 上, 且你的 OneDrive 存储空间已满, 你将无法保存该文档, 直到你已被分配空间所下。 您可以通过单击通知中心中的 OneDrive 图标并选择 "管理存储" 来检查 OneDrive 上的可用空间, 也可以转[http://onedrive.live.com](http://onedrive.live.com)到 "登录", 并记下屏幕左下角的可用空间量。
   
  **Office 是否已激活？**
   
-如果未激活 Office, 或者订阅已过期, 则可以处于只读功能模式下。 有关如何激活 office 的信息, 请参阅: [office 中的无许可证产品和激活错误](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
+如果未激活 Office, 或者订阅已过期, 则可以处于只读功能模式下。 有关如何激活 Office 的信息, 请参阅: [office 中的无许可证产品和激活错误](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
   
  **如果所有其他操作均失败 .。。**
   

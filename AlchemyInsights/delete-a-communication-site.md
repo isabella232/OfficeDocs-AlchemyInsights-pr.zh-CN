@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405798"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514108"
 ---
 # <a name="delete-a-communication-site"></a>删除通信网站
 
@@ -25,14 +25,12 @@ ms.locfileid: "32405798"
   
 3. 在 "**网站信息**" 下, 单击 "**删除此网站**", 然后单击 "**删除**"。 
   
-管理员还可以通过执行以下步骤, 从新式管理中心删除通信网站: 
+管理员还可以通过执行以下步骤, 从新管理中心删除通信网站: 
   
-1. 通过单击右上角的 "**立即尝试**" 按钮来尝试新管理中心。 
+1. 选择左侧的 "**活动网站**"。 
   
-2. 选择 "**活动网站**"。 
+2. 在要删除的网站上单击 "" 旁边, 将出现一个 "**删除**" 选项 (位于顶部菜单中)。 
   
-3. 在要删除的网站上单击 "" 旁边, 将出现一个 "**删除**" 选项 (位于顶部菜单中)。 
-  
- **注意:** 如果您希望永久删除通信网站 (通过将其从回收站中删除), 以便您可以重复使用网站 URL, 请使用[https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite)评估回收站并[https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite)将网站从回收站中删除。 
+ **注意:** 如果您想要永久删除通信网站 (通过将其从回收站中删除) 以便您可以重复使用网站 URL, 请使用[remove-spodeletedsite](https://aka.ms/Get-SPODeletedSite)评估回收站和[remove-remove-spodeletedsite](https://aka.ms/Remove-SPODeletedSite)将网站从回收站中删除。 
   
 
