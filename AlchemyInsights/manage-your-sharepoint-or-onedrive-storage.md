@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408924"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497073"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>管理 SharePoint 或 OneDrive 存储
 
@@ -34,6 +34,6 @@ ms.locfileid: "32408924"
   
 - 转到[OneDrive 管理中心](https://admin.onedrive.com/?v=StorageSettings)的 "存储" 页, 并输入新的金额 (GB)。
     
-若要检查您自己的 onedrive 中使用的存储空间量, 请参阅[管理您的 onedrive for business 存储](https://go.microsoft.com/fwlink/?linkid=866429)。 有关每个计划附带的存储的信息, 请参阅[OneDrive for Business 服务说明](https://go.microsoft.com/fwlink/p/?LinkID=826071)。
+若要检查您自己的 OneDrive 中使用的存储空间量, 请参阅[管理您的 onedrive For business 存储](https://go.microsoft.com/fwlink/?linkid=866429)。 有关每个计划附带的存储的信息, 请参阅[OneDrive For Business 服务说明](https://go.microsoft.com/fwlink/p/?LinkID=826071)。
   
 

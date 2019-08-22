@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381719"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498405"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>在终端服务器上安装 Office
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381719"
 
 - 您需要启用[共享计算机激活](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus)。
 
-如果要从 Office 365 门户安装 RDS 上的 Office 365 专业增强版, * **使用默认安装设置** *, 请按照以下步骤操作:
+如果要从 Office 365 门户 (***它使用默认安装设置***) 在 RDS 上安装 Office 365 专业增强版, 请按照以下步骤操作:
   
 1. 检查您拥有的 Office 365 计划。 [了解方法](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ ms.locfileid: "35381719"
 
 4. 在 RDS 服务器上, 使用管理员帐户登录到 Office 365 门户, 并[安装 office 365 专业增强版](https://portal.office.com/OLS/MySoftware.aspx)。
 
-5. 安装 Office 后, * **请勿打开** * 并登录到任何 Office 应用程序。
+5. 安装 Office 后, 请***不要打开或登录***任何 Office 应用程序。
 
 6. 在 RDS 服务器上, 通过执行以下步骤, 通过编辑注册表来启用共享计算机激活:
 
@@ -46,7 +46,7 @@ ms.locfileid: "35381719"
 
 3. 在注册表编辑器中, 在 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration. 下添加一个**SharedComputerLicensing**设置为1的字符串值。
 
-7. 在 RDS 服务器上, * * 以*最终用户的形式登录** *, 并[验证是否为 Office 365 专业增强版启用了共享计算机激活](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
+7. 在 RDS 服务器上,***以最终用户的形式登录***, 并[验证是否已为 Office 365 专业增强版启用了共享计算机激活](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
 
 有关使用 Office 部署工具的自定义安装的先决条件、设置说明和指南的详细信息, 请参阅[Deploy Office 365 专业增强版 by Using Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)。
   

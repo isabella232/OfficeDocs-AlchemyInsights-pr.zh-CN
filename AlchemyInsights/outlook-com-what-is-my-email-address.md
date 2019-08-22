@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166070"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511478"
 ---
-# <a name="see-your-own-email-address"></a>查看你自己的电子邮件地址
+# <a name="see-your-own-outlookcom-email-address"></a>查看自己的 Outlook.com 电子邮件地址
 
 若要查看发送电子邮件时使用的默认电子邮件地址, 请转到[同步电子邮件设置](https://outlook.live.com/mail/options/mail/accounts), 并在 "**设置默认发件人地址**" 下查看。
 

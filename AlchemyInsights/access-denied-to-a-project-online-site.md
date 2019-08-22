@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: 992c5c5e90e1e6218a0318c29c34c465ce7a8a5c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b460f3b66a25b2724954c9ce5f2a7b30d8a4f1c4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359428"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495885"
 ---
-# <a name="help-with-permissions-in-project-online"></a>帮助在 Project Online 中获取权限
+# <a name="give-users-permissions-in-project-online"></a>在 Project Online 中为用户授予权限
 
 使用 SharePoint 权限模式向用户授予对 Project Web App 网站的访问权限:
 

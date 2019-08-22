@@ -1,5 +1,5 @@
 ---
-title: 增加 SMB sku 的邮箱大小
+title: 增加 SMB Sku 的邮箱大小
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412561"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499269"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>切换计划以增加邮箱大小
 
-如果邮箱大小为 50 gb, 您可以通过切换到[office 365 企业版](https://products.office.com/business/office-365-enterprise-e3-business-software) [E5 或 office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software), 将邮箱大小增加到 100 GB。 以下是切换到不同 Office 365 计划的步骤:
+如果邮箱大小为 50 GB, 您可以通过切换到[office 365 企业版](https://products.office.com/business/office-365-enterprise-e3-business-software) [E5 或 Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software), 将邮箱大小增加到 100 GB。 以下是切换到不同 Office 365 计划的步骤:
   
 1. 在 Microsoft 365 管理中心, 转到 "[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 或选择 "**付费** \> **订阅**"。
     

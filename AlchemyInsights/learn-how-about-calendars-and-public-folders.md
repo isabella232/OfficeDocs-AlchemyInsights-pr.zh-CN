@@ -13,13 +13,13 @@ ms.custom:
 - "612"
 - "3800010"
 ms.assetid: 390e208c-6f7f-4430-86b1-068f66ea3243
-ms.openlocfilehash: 24d3d3fcaca5c07254e5965ca9f8a0188d8654c5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 738661eefe554b32367ddf67a7951a72d229f3c2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381143"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497397"
 ---
 # <a name="learn-about-using-public-folders-in-outlook"></a>了解如何在 Outlook 中使用公用文件夹
 
-有关详细信息, 请参阅[在 Outlook 中创建和共享公用文件夹](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97)。
+Outlook 中的公用文件夹为您提供了收集、整理和共享组织中特定主题或项目的相关信息的最佳位置。 有关详细信息, 请参阅[在 Outlook 中创建和共享公用文件夹](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97)。
