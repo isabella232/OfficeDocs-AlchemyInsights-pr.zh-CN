@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403665"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527461"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="42a0e-102">启用多重身份验证</span><span class="sxs-lookup"><span data-stu-id="42a0e-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="36588-102">启用多重身份验证</span><span class="sxs-lookup"><span data-stu-id="36588-102">Enable multi-factor authentication</span></span>
 
-1. <span data-ttu-id="42a0e-103">导航到 "**用户** \> **活动用户**"</span><span class="sxs-lookup"><span data-stu-id="42a0e-103">Navigate to **Users** \> **Active users**</span></span>
+<span data-ttu-id="36588-103">若要在 Microsoft 365 管理中心启用多重身份验证, 请执行以下操作:</span><span class="sxs-lookup"><span data-stu-id="36588-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+
+1. <span data-ttu-id="36588-104">转到 "**用户** \> **活动用户**" 页。</span><span class="sxs-lookup"><span data-stu-id="36588-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="42a0e-104">单击 "**更多** \> **安装 Azure 多因素身份验证**"。</span><span class="sxs-lookup"><span data-stu-id="42a0e-104">Click **More** \> **Setup Azure multi-factor auth**.</span></span> 
+2. <span data-ttu-id="36588-105">在页面顶部, 选择 "**多因素身份验证**"。</span><span class="sxs-lookup"><span data-stu-id="36588-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="42a0e-105">查找要为其启用 MFA 的一个或一用户。</span><span class="sxs-lookup"><span data-stu-id="42a0e-105">Find the user or users who you want to enable for MFA.</span></span> <span data-ttu-id="42a0e-106">若要查看所有用户, 您可能需要更改顶部的 "多重身份验证状态" 视图。</span><span class="sxs-lookup"><span data-stu-id="42a0e-106">In order to see all the users, you might need to change the Multi-Factor Auth status view at the top.</span></span>
+3. <span data-ttu-id="36588-106">查找要为其启用多因素身份验证的一个或多个用户。</span><span class="sxs-lookup"><span data-stu-id="36588-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="36588-107">若要查看所有用户, 您可能需要更改顶部的 "**多重身份验证状态**" 筛选器。</span><span class="sxs-lookup"><span data-stu-id="36588-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="42a0e-107">选中要启用的用户旁边的复选框。</span><span class="sxs-lookup"><span data-stu-id="42a0e-107">Check the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="36588-108">选中要启用的用户旁边的复选框。</span><span class="sxs-lookup"><span data-stu-id="36588-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="42a0e-108">在 "右侧用户信息" 窗格中的 "**快速步骤**" 下, 您将看到 "启用和管理用户设置"。</span><span class="sxs-lookup"><span data-stu-id="42a0e-108">On the right user info pane, under **quick steps** you'll see Enable and Manage user settings.</span></span> <span data-ttu-id="42a0e-109">选择" **启用**"。</span><span class="sxs-lookup"><span data-stu-id="42a0e-109">Choose **Enable**.</span></span> 
+5.  <span data-ttu-id="36588-109">在 "右侧用户信息" 窗格中的 "**快速步骤**" 下, 选择 "**启用**"。</span><span class="sxs-lookup"><span data-stu-id="36588-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="42a0e-110">在打开的对话框中,**单击 "启用多重身份验证**"。</span><span class="sxs-lookup"><span data-stu-id="42a0e-110">In the dialog box that opens, **click enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="36588-110">在打开的对话框中, 选择 "**启用多重身份验证**"。</span><span class="sxs-lookup"><span data-stu-id="36588-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 
