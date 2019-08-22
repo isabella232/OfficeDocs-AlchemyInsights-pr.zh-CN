@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385818"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510073"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>在电子邮件中接收帐单表的副本
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>在电子邮件中接收 Office 365 记帐声明的副本
 
 可以选择以电子邮件附件的形式接收帐单副本。如果执行此操作，请注意：
   
@@ -32,4 +32,4 @@ ms.locfileid: "36385818"
   
 1. 在 "管理中心" 中, 转到 "**付费** \> [帐单通知](https://go.microsoft.com/fwlink/p/?linkid=853212)" 页面。
 
-2. 在" **想要以电子邮件附件形式接收帐单？**"下，将开关切换到" **开**"。 将开关切换到" **关**"可随时停止接收帐单电子邮件。
+2. 在 "**以电子邮件附件形式接收帐单？**" 下, 将开关切换到 **"开**"。 将开关切换到" **关**"可随时停止接收帐单电子邮件。

@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386826"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517993"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>从你的免费试用版购买 Office 365 的订阅
 
@@ -26,16 +26,14 @@ ms.locfileid: "36386826"
   
  **你可以购买与试用版相同的计划**
   
-1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
+1. 在 "管理中心" 中, 转到 "**帐单** \> [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
-2. 选择 "**立即购买**" 以获取所需的试用订阅, 然后按照步骤进行检查。
+2. 查找要购买的订阅。 在 "**许可证**" 部分, 选择 "**购买订阅**", 然后按照步骤进行检查。
 
 **你也可以购买其他订阅**
   
-1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
+1. 在 "管理中心" 中, 转到 "**付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页。
 
-2. 在 "**订阅**" 页上, 选择 "**添加订阅**"。
+3. 找到要购买的订阅, 选择 "**购买**", 然后按照步骤进行检查。
 
-3. 找到要购买的订阅, 选择 "**立即购买**", 然后按照步骤进行检查。
-
-您是否正在使用新的管理中心？ 有关新步骤, 请参阅[从免费试用版购买 Office 365 for business 订阅](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)。
+有关详细信息，请参阅[从你的免费试用版购买 Office 365 商业版的订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial)。

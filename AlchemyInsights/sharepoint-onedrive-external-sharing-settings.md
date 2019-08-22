@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059157"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507873"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>SharePoint & OneDrive 的外部共享设置
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>警告消息: 你的组织的策略不允许你与这些用户共享
 
 尝试与组织的外部用户共享时, 用户可能会遇到警告消息。 邮件是你的**组织的策略不允许你与这些用户共享。转到 Office 365 管理中心中的 "外部共享" 以启用它**。 这通常发生在尝试与外部用户共享或与新外部用户共享时。
 

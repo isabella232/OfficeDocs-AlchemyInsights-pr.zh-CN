@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 12f1e81eaafc2650482803796fc20fd7f8b3bd55
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f168e377aaf61ba3296ca9ce83f9ad27218fcdf7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406706"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514933"
 ---
 # <a name="creating-public-folders"></a>创建公用文件夹
 
@@ -28,7 +28,7 @@ ms.locfileid: "32406706"
     
 3. 在 "**公用文件夹邮箱**" 中, 提供公用文件夹邮箱的名称。
     
-4. 单击“**保存**”。
+4. 单击“保存”****。
     
 一旦创建了邮箱, 就可以开始创建单个文件夹或告诉用户[开始在 Outlook 中创建和使用公用文件夹](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)。 作为管理员, 您还可以[为您的组织创建公用文件夹](https://technet.microsoft.com/library/bb691104%28v=exchg.150%29.aspx)。
   
