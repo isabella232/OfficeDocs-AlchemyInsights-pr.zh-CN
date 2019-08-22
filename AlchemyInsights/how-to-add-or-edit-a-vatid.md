@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386394"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522601"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何添加或编辑 VatID
 
-- 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
+1.  在 Microsoft 365 管理中心, 转到 "**帐单** \> [产品 & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) " 页。
 
-- 在 "**订阅**" 页上, 选择要编辑的订阅, 然后选择 "**更多操作** \> "**编辑 VAT 号码**。
+2. 查找要更新的订阅的订阅卡。
 
-- 在 "**编辑服务使用地址**" 窗格的底部, 在 " **vat 号码**" 框中输入或编辑 vat ID, 然后选择 "**提交**"。
+3. 在 "**设置" & "操作**" 部分, 选择 "**编辑服务使用地址**"。
+
+4. 在 "**编辑服务使用地址**" 页上, 在 " **vat 号码**" 框中输入 vat ID, 然后选择 "**保存**"。
 
     完成后, 将不会对下一张帐单收取 VAT 费用。
 
-有关详细信息, 请参阅[我将对 Office 365 收取哪些税？](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-您是否正在使用新的管理中心？ 有关新步骤, 请参阅[添加你的 VAT ID](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)。
+有关详细信息, 请参阅[我将为 Office 365 支付什么税？](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)或[添加你的 VAT ID](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only)。

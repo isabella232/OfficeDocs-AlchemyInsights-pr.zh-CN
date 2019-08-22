@@ -7,16 +7,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 10a393284b12a4850d06f613b0403dcf45a9237f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: e63da2e0e67f2ed1f4f95d128b3215c8378ee81e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762426"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521845"
 ---
 # <a name="sync-a-users-profile-picture"></a>同步用户的个人资料图片
 
-您可以从 Office.com 中添加或更改您的个人资料365照片, 也可以在您的计算机上或在您的手机上的浏览器中使用 office 365 应用程序。 此处的照片将显示在 Office 365 中的个人资料照片圆圈的任何位置。
+您可以从[Office.com](http://www.office.com)中添加或更改您的个人资料365照片, 也可以在您的计算机上或在您的手机上的浏览器中使用 office 365 应用程序。 此处的照片将显示在 Office 365 中的个人资料照片圆圈的任何位置。
 
 将个人资料照片添加到 Office 365 for business
 

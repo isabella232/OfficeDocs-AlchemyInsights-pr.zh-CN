@@ -13,13 +13,15 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389350"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522109"
 ---
+# <a name="office-365-government-plans"></a>Office 365 政府版计划
+
 Office 365 美国政府版计划旨在满足美国政府组织的独特需求。 它们在分段的政府云社区中提供了 Office 365 服务的所有特性和功能, 使组织能够满足美国法规遵从性和安全标准。
   
 - [查看政府计划](https://products.office.com/government/compare-office-365-government-plans)

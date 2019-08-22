@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 8b54e5449ed0726170393916df58722bfabc1129
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379055"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522169"
 ---
 # <a name="new-retention-labels-created-automatically"></a>自动创建的新保留标签
 
-在您的组织中, 您可能会看到在安全或合规性管理中心内的**保留标签**下自动创建[三个新的保留标签](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)。 标签名称为:
+您可能会看到在您的组织中自动在安全或合规性管理中心内的**保留标签**下创建[三个新的 Office 365 保留标签](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy)。 标签名称为:
 
 - 操作过程
 - 业务常规

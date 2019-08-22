@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420114"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533190"
 ---
 # <a name="trying-to-verify-your-domain"></a>尝试验证你的域？
 
-需要将 TXT 记录添加到域注册机构，以验证自己拥有该域。 通过单击“**设置**”\>“**域**”并选择“**添加域**”，按照“添加域”向导进行操作。 
+需要将 TXT 记录添加到域注册机构，以验证自己拥有该域。 转到 "**安装** \> **域**", 然后按照 Microsoft 365 管理中心中的 "新建域" 向导操作, 然后**添加域**。 
   
 按照下文中的说明操作，添加 TXT 记录以验证域。 选择域注册机构获取域的特定说明。
   

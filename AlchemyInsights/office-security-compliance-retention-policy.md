@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 8d85116443b74369d33008ae8a398abc4597b6d4
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404828"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521665"
 ---
 # <a name="more-info-about-retention-policies"></a>有关保留策略的详细信息
 
@@ -27,29 +27,29 @@ ms.locfileid: "36404828"
 ## <a name="a-from-security-and-compliance-center"></a>A) 从安全与合规中心
 
 - 转到安全性和合规性 > 数据治理 > 保留
-  - 请[](https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies)参阅本文
+  - 请[](https://docs.microsoft.com/office365/securitycompliance/retention-policies)参阅本文
 
 - 转到安全与合规 > 电子数据展示> 高级电子数据展示 
-  - 请[](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)参阅本文
+  - 请[](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)参阅本文
 
 - 转到安全性和合规性 > 分类 > 保留
   - 请参阅以下文章
-    - [敏感度标签](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-    - [标签概述](https://docs.microsoft.com/en-us/office365/securitycompliance/labels)
+    - [敏感度标签](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [标签概述](https://docs.microsoft.com/office365/securitycompliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) 旧版电子数据展示策略
 
-- 请[](https://support.office.com/en-us/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)参阅本文
+- 请[](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)参阅本文
 
 ## <a name="c-site-closure-and-deletion-policies"></a>C) 网站关闭和删除策略
 
-- 请[](https://support.office.com/en-us/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)参阅本文  
+- 请[](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)参阅本文  
 
 ## <a name="d-information-rights-management-irm"></a>D) 信息权限管理 (IRM)
 
 - 请参阅以下文章
-  - [列表/库上的 IRM](https://support.office.com/en-us/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [IRM 概述](https://support.office.com/en-us/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+  - [列表/库上的 IRM](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [IRM 概述](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
 > 如果你仍在使用旧版电子数据展示或 IRM 或网站关闭和删除策略, 强烈建议移动到安全和合规性策略。

@@ -10,13 +10,15 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
-ms.openlocfilehash: 5b1da07d0f255fc12af5eadbcb89ea53273537c1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32365456"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496406"
 ---
+# <a name="change-your-password-in-outlook"></a>在 Outlook 中更改密码
+
 如果您忘记了密码, 请转到 " [Microsoft 帐户密码重置" 页](https://go.microsoft.com/fwlink/p/?linkid=841909)。 否则, 请按照下面的说明进行操作。
   
 1. 在右上角选择您的姓名或个人资料图片, 然后选择 "**查看帐户**"。
