@@ -13,14 +13,14 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 1f8db144a93d77abc8427ab68cf50916b1a19d40
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7b4aa5214b0e33bfd26cd9d95f050fc21b4088fc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367135"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533833"
 ---
-# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="1ef32-102">解决 Outlook 类别中的问题</span><span class="sxs-lookup"><span data-stu-id="1ef32-102">Troubleshoot issues with Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="430e3-102">Outlook 类别</span><span class="sxs-lookup"><span data-stu-id="430e3-102">Outlook categories</span></span>
 
-<span data-ttu-id="1ef32-103">有关详细信息, 请参阅[创建和分配颜色类别](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)。</span><span class="sxs-lookup"><span data-stu-id="1ef32-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
+<span data-ttu-id="430e3-103">颜色类别使您可以轻松地识别和分组 Microsoft Outlook 中的关联项。</span><span class="sxs-lookup"><span data-stu-id="430e3-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="430e3-104">有关详细信息, 请参阅[创建和分配颜色类别](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)。</span><span class="sxs-lookup"><span data-stu-id="430e3-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
   

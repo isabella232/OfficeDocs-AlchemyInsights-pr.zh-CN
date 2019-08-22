@@ -13,15 +13,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: fda78891486aa17efee91ca6653227e639006ba6
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "35612477"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535597"
 ---
-# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="63764-102">Outlook.com 中的 PST 数据文件</span><span class="sxs-lookup"><span data-stu-id="63764-102">PST data files in Outlook.com</span></span>
+# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="99800-102">Outlook.com 中的 PST 数据文件</span><span class="sxs-lookup"><span data-stu-id="99800-102">PST data files in Outlook.com</span></span>
 
-<span data-ttu-id="63764-103">不能导入 Outlook。PST 数据文件使用浏览器向您的 Outlook.com 帐户。</span><span class="sxs-lookup"><span data-stu-id="63764-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
+<span data-ttu-id="99800-103">不能导入 Outlook。PST 数据文件使用浏览器向您的 Outlook.com 帐户。</span><span class="sxs-lookup"><span data-stu-id="99800-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
 
-<span data-ttu-id="63764-104">若要导入。PST 数据文件, 则必须使用 Outlook 桌面应用程序。</span><span class="sxs-lookup"><span data-stu-id="63764-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="63764-105">若要了解详细信息, 请参阅[从 Outlook .Pst 导入电子邮件、联系人和日历。](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="63764-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+<span data-ttu-id="99800-104">若要导入。PST 数据文件, 则必须使用 Outlook 桌面应用程序。</span><span class="sxs-lookup"><span data-stu-id="99800-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="99800-105">若要了解详细信息, 请参阅[从 Outlook .Pst 导入电子邮件、联系人和日历。](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="99800-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
