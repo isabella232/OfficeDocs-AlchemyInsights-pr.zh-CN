@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769466"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544544"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>云服务遇到问题？
 
-如果您在云服务中遇到问题, 则可以检查[服务运行状况](https://admin.microsoft.com/AdminPortal/Home#/servicehealth), 以确定它是否是在呼叫支持或花时间故障排除之前进行的解决方案中存在的已知问题。 该问题可能非常临时, 并且已由 Microsoft 进行了识别, 但在问题识别和发布到服务运行状况仪表板之间可能会有很长时间。 请继续查看服务仪表板以获取进一步更新。
+如果您在云服务中遇到问题, 则可以检查 Microsoft 365 管理中心中的[服务运行状况](https://admin.microsoft.com/AdminPortal/Home#/servicehealth), 以确定它是否是在致电支持或花时间故障排除之前进行的解决方案中存在的已知问题。 该问题可能非常临时, 并且已由 Microsoft 进行了识别, 但在问题识别和发布到服务运行状况仪表板之间可能会有很长时间。 请继续查看服务仪表板以获取进一步更新。
 
 **通知策略**
 

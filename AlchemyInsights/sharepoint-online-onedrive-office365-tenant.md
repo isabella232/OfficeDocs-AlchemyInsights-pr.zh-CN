@@ -7,15 +7,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 108bed3dc8ca617abfaba2f7f1aa27a672f3d8c7
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736323"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535131"
 ---
-"设置"
-
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online 或 OneDrive "设置"
 
 将用户添加到现有 Office 365 租户时, 他们可能会看到 SharePoint Online 或 OneDrive for business 图标在设置过程完成之前被列为 "设置"。

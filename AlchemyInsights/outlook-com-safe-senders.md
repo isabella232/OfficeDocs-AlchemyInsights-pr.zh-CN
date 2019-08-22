@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1400"
 - "8000089"
-ms.openlocfilehash: 81ee40a9f9598b6a9fbc0f28c04a0d229c8442c8
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601989"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535345"
 ---
 # <a name="stop-messages-from-going-into-your-junk-email-folder"></a>阻止邮件进入您的 "垃圾邮件" 文件夹
 
-有时, 您不希望来自特定人员或域的邮件在 "垃圾邮件" 文件夹中结束。 来自安全发件人列表中地址或域的邮件将不会移动到 "垃圾邮件" 文件夹。
+有时, 您不希望来自特定人员或域的邮件在 Outlook.com 中的 "垃圾邮件" 文件夹中结束。 来自安全发件人列表中地址或域的邮件将不会移动到 "垃圾邮件" 文件夹。
 
 1. 打开 "[安全发件人设置](https://go.microsoft.com/fwlink/?linkid=2035804)"。
 2. 在 "**安全发件人和域**" 下, 输入要添加的电子邮件地址或域, 然后选择 "**添加**"。

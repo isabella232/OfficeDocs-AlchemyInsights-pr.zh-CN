@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701277"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546077"
 ---
 # <a name="account-locked"></a>帐户已锁定
 
-如果您在尝试登录时看到 "你的帐户已锁定" 消息, 这是因为我们已注意到你的帐户上的一些异常活动。 为了帮助你抵御潜在的欺诈或滥用行为, 我们暂时锁定了你的帐户。 我们知道这会令人沮丧, 但我们可以通过几个步骤帮助你返回到你的帐户。
+如果您在尝试登录到 Outlook.com 时看到 "您的帐户已锁定" 消息, 这是因为我们注意到了您的帐户上的一些异常活动。 为了帮助你抵御潜在的欺诈或滥用行为, 我们暂时锁定了你的帐户。 我们知道这会令人沮丧, 但我们可以通过几个步骤帮助你返回到你的帐户。
 
 1. 转到 [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484)并登录到锁定的帐户。若要解锁你的帐户, 必须输入 Microsoft 的短信中提供的安全代码。 若要获取短信, 您必须具有支持短信的电话。 如果你的电话不支持短信服务, 则可以让朋友或家庭成员使用其电话。 Microsoft 不会保存此电话号码, 因此您使用的用于接收此短信的电话号码不需要与您的帐户相关联。
 2. 如果看到 "已超过使用率限制" 消息, 请转到[account Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) , 其中一个代理将查看你的帐户。

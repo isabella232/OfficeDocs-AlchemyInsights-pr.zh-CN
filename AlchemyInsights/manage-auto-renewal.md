@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389782"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542428"
 ---
 # <a name="manage-recurring-billing"></a>管理定期记帐
 
-若要管理定期计费, 可以开启或关闭**定期帐单**。
+你可以在 Microsoft 365 管理中心中打开或关闭定期记帐。
   
-1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
+1. 转到 "**付费** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
-2. 选择要为其管理定期计费的订阅。
+2. 在 "**帐单**" 下的 "**续订打开**" 或 "**到期**日" 旁边, 选择 "**编辑**"。
 
-3. 将**定期记帐**切换切换为 **"开" 或 "** **关**"。
+3. 在 "**定期记帐设置**" 窗格中, 选择 "**定期帐单关闭**" 以关闭它。 如果**定期付费**已关闭, 请选择 "**每月**" 或 "**一次**" 以将其打开。
 
-有关详细信息, 请参阅[启用定期付费或启用](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)。
+4. 选择 "**提交更改**"。
+
+有关详细信息, 请参阅[启用定期付费或启用](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on)。
