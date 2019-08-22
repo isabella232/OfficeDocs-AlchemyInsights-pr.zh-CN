@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: 41d31bef53077ede8440733807671a78c0914030
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: 2b458c46f98b5f82fab33add6d66d7b34f8b9bfd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171142"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510397"
 ---
-# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts"></a>查找和恢复缺失或删除的电子邮件、日历事件或联系人
+# <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts-in-outlook-on-the-web"></a>在 web 上的 Outlook 中查找和恢复缺失或已删除的电子邮件、日历事件或联系人
 
 - 在 "邮件" 中, 使用 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
  页面顶部的**搜索**栏, 以[搜索邮件或联系人](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b)。
