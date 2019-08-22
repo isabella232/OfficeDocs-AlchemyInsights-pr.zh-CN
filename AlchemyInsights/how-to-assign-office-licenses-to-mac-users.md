@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385338"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522493"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="7477f-102">如何向 Mac 用户分配 Office 许可证</span><span class="sxs-lookup"><span data-stu-id="7477f-102">How to assign Office licenses to Mac users</span></span>
+# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="a0fb9-102">如何向 Mac 用户分配 Office 许可证</span><span class="sxs-lookup"><span data-stu-id="a0fb9-102">How to assign Office licenses to Mac users</span></span>
 
-- <span data-ttu-id="7477f-103">在 Microsoft 365 管理中心, 转到 "[活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)" 页面, 或选择 "**用户** \> **活动用户**"。</span><span class="sxs-lookup"><span data-stu-id="7477f-103">In the Microsoft 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="a0fb9-103">在 "管理中心" 中, 转到 "**用户** \> [活动用户](https://go.microsoft.com/fwlink/p/?linkid=834822)" 页。</span><span class="sxs-lookup"><span data-stu-id="a0fb9-103">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-- <span data-ttu-id="7477f-104">选择要为其分配许可证的用户姓名旁边的框。</span><span class="sxs-lookup"><span data-stu-id="7477f-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
+2. <span data-ttu-id="a0fb9-104">选择要向其分配、更改或删除许可证的用户的名称。</span><span class="sxs-lookup"><span data-stu-id="a0fb9-104">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-- <span data-ttu-id="7477f-105">在右侧的" **产品许可证**"行中，选择" **编辑**"。</span><span class="sxs-lookup"><span data-stu-id="7477f-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="a0fb9-105">在 "**许可证和应用**" 选项卡上, 选择要分配给此用户的许可证。</span><span class="sxs-lookup"><span data-stu-id="a0fb9-105">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-- <span data-ttu-id="7477f-106">在 "**产品许可证**" 窗格中, 将您要分配给此用户的许可证的开关切换到 "**开**" 位置。</span><span class="sxs-lookup"><span data-stu-id="7477f-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+    <span data-ttu-id="a0fb9-106">默认情况下，与该许可证关联的所有服务都将自动分配给该用户。</span><span class="sxs-lookup"><span data-stu-id="a0fb9-106">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="a0fb9-107">若要限制哪些服务对用户可用, 请清除您不希望该用户拥有的服务所对应的复选框。</span><span class="sxs-lookup"><span data-stu-id="a0fb9-107">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-- <span data-ttu-id="7477f-107">在" **产品许可证**"窗格底部，选择" **保存**"\>" **关闭**"\>" **关闭**"。</span><span class="sxs-lookup"><span data-stu-id="7477f-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+4. <span data-ttu-id="a0fb9-108">在窗格底部, 选择 "**保存更改**"。</span><span class="sxs-lookup"><span data-stu-id="a0fb9-108">At the bottom of the pane, choose **Save changes**.</span></span>
 
-<span data-ttu-id="7477f-108">有关详细信息, 请[在 Office 365 for business 中向用户分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="7477f-108">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
+<span data-ttu-id="a0fb9-109">有关详细信息, 请[在 Office 365 for business 中向用户分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="a0fb9-109">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
   
