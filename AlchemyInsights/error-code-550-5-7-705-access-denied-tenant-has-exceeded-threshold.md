@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: e05b799ae88b0e431397c5f17fd0eddbe39f9c95
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388055"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527209"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="85296-102">550 5.7.705 访问被拒绝, 租户已超出阈值</span><span class="sxs-lookup"><span data-stu-id="85296-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="60082-102">550 5.7.705 访问被拒绝, 租户已超出阈值</span><span class="sxs-lookup"><span data-stu-id="60082-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="85296-103">当您的组织发送太多垃圾邮件或批量邮件时, 将出现此消息, 并在传出邮件上放置一个阻止。</span><span class="sxs-lookup"><span data-stu-id="85296-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="85296-104">常见原因是本地服务器或已被用来创建连接器的受影响的管理员帐户的危害。</span><span class="sxs-lookup"><span data-stu-id="85296-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="85296-105">这两个条件都可以允许垃圾邮件通过您的组织。</span><span class="sxs-lookup"><span data-stu-id="85296-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="60082-103">当您的组织发送太多垃圾邮件或批量邮件时, 将出现此消息, 并在传出邮件上放置一个阻止。</span><span class="sxs-lookup"><span data-stu-id="60082-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="60082-104">常见原因是本地服务器或已被用来创建连接器的受影响的管理员帐户的危害。</span><span class="sxs-lookup"><span data-stu-id="60082-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="60082-105">这两个条件都可以允许垃圾邮件通过您的组织。</span><span class="sxs-lookup"><span data-stu-id="60082-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="85296-106">若要删除此块, 您需要了解并解释支持代理的原因, 并纠正基本问题。</span><span class="sxs-lookup"><span data-stu-id="85296-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="85296-107">准备就绪后, 单击 "**与我们联系**"。</span><span class="sxs-lookup"><span data-stu-id="85296-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="60082-106">若要删除此块, 您需要了解并解释支持代理的原因, 并纠正基本问题。</span><span class="sxs-lookup"><span data-stu-id="60082-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="60082-107">准备就绪后, 单击 "**与我们联系**"。</span><span class="sxs-lookup"><span data-stu-id="60082-107">Click **Contact us** below once you're ready.</span></span>
