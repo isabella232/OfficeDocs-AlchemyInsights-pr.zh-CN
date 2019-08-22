@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
-ms.openlocfilehash: 69241cad34058df87886ee4db7826ceb2779fbf7
-ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
+ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35595089"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545861"
 ---
-# <a name="my-personalized-email-address-isnt-sending-or-receiving"></a>我的个性化电子邮件地址未发送或接收
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>我的个性化 Outlook.com 电子邮件地址未发送或接收
 
 选择工具栏上的菱形图标以打开高级仪表板。
 

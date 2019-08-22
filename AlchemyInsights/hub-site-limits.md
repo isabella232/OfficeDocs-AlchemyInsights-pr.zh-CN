@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: d0d5e949a23e9a8570aa0c157d1577ea16270151
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717617"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539343"
 ---
-# <a name="hub-site-limits-and-restrictions"></a>中心网站限制和限制
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint 中心网站限制和限制
 
 - 建议选择一个通信网站或使用新新式模板的团队网站。 如果使用经典团队网站, 中心导航将仅显示在新式页面上, 中心网站设置将仅显示在新式页面上。
 

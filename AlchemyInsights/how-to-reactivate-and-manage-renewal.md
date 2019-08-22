@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f6ecb4c2db6f7fc8165089a5c3b8483c6b11558
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389926"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540027"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期计费
 
@@ -42,4 +42,4 @@ ms.locfileid: "36389926"
 
 3. 将**定期记帐**切换切换为 **"开" 或 "** **关**"。
 
-有关详细信息, 请参阅[启用定期付费或启用](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。
+有关详细信息, 请参阅[启用定期付费或启用](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。
