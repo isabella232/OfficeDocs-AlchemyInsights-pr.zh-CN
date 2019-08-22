@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: 595ed7b6cd27261de82e6d0a96a985a19383f4d3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423857"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533365"
 ---
 # <a name="unable-to-send-group-emails"></a>无法发送组电子邮件
 
-如果无法向联系人列表或联系人组发送电子邮件, 请尝试以下操作:
+如果无法向 Outlook.com 中的联系人列表或联系人组发送电子邮件, 请尝试以下操作:
   
 1. 使用 Outlook.com beta。 有关详细信息, 请[了解 Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)。
     

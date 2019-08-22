@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: ebb9037362d261b81b9b1dcafcbe461aac7f4963
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 1be9763ce7766c6261f0c1dae78ced6727c7a88d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523753"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>授予用户对 SharePoint 和 OneDrive 的访问权限
 
 > [!NOTE]
 > 如果 OneDrive 或 SharePoint 网站对之前有权访问的多个用户不可用, 则可能存在暂时性的服务问题。 [检查服务运行状况仪表板](https://portal.office.com/adminportal/home#/servicehealth)
   
-如果您希望组织中的人员能够登录并使用 SharePoint 和 onedrive, 您需要为他们添加帐户, 并确保他们拥有访问 SharePoint 和 onedrive 的许可证。 添加用户的最简单方法是在 Microsoft 365 管理中心。
+如果您希望组织中的人员能够登录并使用 SharePoint 和 OneDrive, 您需要为他们添加帐户, 并确保他们拥有访问 SharePoint 和 OneDrive 的许可证。 添加用户的最简单方法是在 Microsoft 365 管理中心。
   
 1. 转到[Microsoft 365 管理中心中的 "活动用户" 页](https://portal.office.com/adminportal/home#/users), 然后单击 "**添加用户**"。
     
