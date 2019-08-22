@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422705"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530992"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="beedb-102">谁签出了文件？</span><span class="sxs-lookup"><span data-stu-id="beedb-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="19545-102">谁签出了文件？</span><span class="sxs-lookup"><span data-stu-id="19545-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="beedb-103">若要查看哪些用户签出了文件, 您可以执行以下任一步骤:</span><span class="sxs-lookup"><span data-stu-id="beedb-103">To see who has a file checked out you can do either one of the following steps:</span></span>
+<span data-ttu-id="19545-103">若要查看哪些用户在 SharePoint 中签出了哪些文件, 您可以执行以下任一步骤:</span><span class="sxs-lookup"><span data-stu-id="19545-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="beedb-104">悬停在**签出状态**以查看工具提示, 告知您签出文件的用户。</span><span class="sxs-lookup"><span data-stu-id="beedb-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="19545-104">悬停在**签出状态**以查看工具提示, 告知您签出文件的用户。</span><span class="sxs-lookup"><span data-stu-id="19545-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="beedb-105">将 \* \* "签出者 \* \*" 列添加到库的默认视图中。</span><span class="sxs-lookup"><span data-stu-id="beedb-105">Add the \*\* Checked Out By \*\* column to the default view of the library.</span></span> <span data-ttu-id="beedb-106">这样一来, 每个人都可以轻松查看签出文档的用户。</span><span class="sxs-lookup"><span data-stu-id="beedb-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="19545-105">将 "**签出者**" 列添加到库的默认视图中。</span><span class="sxs-lookup"><span data-stu-id="19545-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="19545-106">这样一来, 每个人都可以轻松查看签出文档的用户。</span><span class="sxs-lookup"><span data-stu-id="19545-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="beedb-107">若要了解如何在 SharePoint 中添加签出的列, 请参阅[在列表或库中创建列](https://go.microsoft.com/fwlink/?linkid=2019591)。</span><span class="sxs-lookup"><span data-stu-id="beedb-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="19545-107">若要了解如何在 SharePoint 中添加签出的列, 请参阅[在列表或库中创建列](https://go.microsoft.com/fwlink/?linkid=2019591)。</span><span class="sxs-lookup"><span data-stu-id="19545-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="beedb-108">查看更多有关签入或签出的常见问题, 请参阅[关于签出的主要问题和签入](https://go.microsoft.com/fwlink/?linkid=2018786)。</span><span class="sxs-lookup"><span data-stu-id="beedb-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="19545-108">查看更多有关签入或签出的常见问题, 请参阅[关于签出的主要问题和签入](https://go.microsoft.com/fwlink/?linkid=2018786)。</span><span class="sxs-lookup"><span data-stu-id="19545-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 
