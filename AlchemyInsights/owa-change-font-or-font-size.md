@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: 907cb0a0fcc111f993dbc0d580ff397340eab8ab
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 28efa991c3449716af7453051e2cfd7ceea56467
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171133"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557383"
 ---
-# <a name="change-font-or-font-size"></a>更改字体或字号
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>在 web 上的 Outlook 中更改字体或字号
 
 阅读电子邮件时, 可以使用浏览器的缩放功能放大或缩小屏幕上的文本。
   

@@ -16,12 +16,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 92761e4679a155781555daec023ee9602d62a857
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356083"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551837"
 ---
 # <a name="restore-a-deleted-mailbox"></a>还原已删除的邮箱
 
@@ -35,5 +35,5 @@ ms.locfileid: "35356083"
 
 3. 分配 Exchange Online 许可证并按 "**保存**"
 
-如果尝试恢复共享邮箱, 它也可以恢复30天。 你可以在**用户** \> **删除**的用户下找到它们;共享邮箱不需要许可证。 如果您意识到您需要还原已删除的用户, 请参阅[在 Office 365 中还原用户](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user)。
+如果尝试恢复共享邮箱, 它也可以恢复30天。 你可以在**用户** \> **删除**的用户下找到它们;共享邮箱不需要许可证。 如果您意识到您需要还原已删除的用户, 请参阅[在 Office 365 中还原用户](https://docs.microsoft.com/office365/admin/add-users/restore-user)。
   

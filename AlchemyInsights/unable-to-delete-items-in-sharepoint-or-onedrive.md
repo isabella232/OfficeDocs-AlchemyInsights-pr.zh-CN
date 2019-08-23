@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: d25214f26a3168e3e350b5cc31ca870e65d48ad9
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b25e6d144dcefcfed4258e78ad5cfd4089ba7d1e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366523"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558643"
 ---
 # <a name="unable-to-delete-items"></a>无法删除项目
 
-删除项目时遇到问题？
+删除 SharePoint 项时遇到问题？
 
 - 请始终确保你具有删除项目的[相应权限](https://docs.microsoft.com/sharepoint/default-sharepoint-groups), 或让[网站集管理员](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator)尝试删除该项目。
 
