@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388590"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554611"
 ---
-# <a name="prepaid-renewal"></a><span data-ttu-id="3748f-102">预付续订</span><span class="sxs-lookup"><span data-stu-id="3748f-102">Prepaid renewal</span></span>
+# <a name="prepaid-office-365-renewal"></a><span data-ttu-id="79255-102">预付 Office 365 续订</span><span class="sxs-lookup"><span data-stu-id="79255-102">Prepaid Office 365 renewal</span></span>
 
-1. <span data-ttu-id="3748f-103">在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。</span><span class="sxs-lookup"><span data-stu-id="3748f-103">In the Admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="79255-103">在 "管理中心" 中, 转到 "**帐单** \> [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。</span><span class="sxs-lookup"><span data-stu-id="79255-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="3748f-104">选择要扩展的预付订阅, 然后选择 "**扩展**"。</span><span class="sxs-lookup"><span data-stu-id="3748f-104">Choose the prepaid subscription you would like to extend, then choose **Extend**.</span></span>
+2. <span data-ttu-id="79255-104">查找要扩展的订阅。</span><span class="sxs-lookup"><span data-stu-id="79255-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="79255-105">在 "**记帐**" 部分, 选择 "**延长结束日期**"。</span><span class="sxs-lookup"><span data-stu-id="79255-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="3748f-105">选择 "**产品密钥**" 选项。</span><span class="sxs-lookup"><span data-stu-id="3748f-105">Choose the option for **Product key**.</span></span> <span data-ttu-id="3748f-106">(如果这是在零售位置购买的产品密钥, 则可以选择使用其他付款方式进行扩展。)</span><span class="sxs-lookup"><span data-stu-id="3748f-106">(If this was a product key purchased at a retail location, you might have the option to extend with other payment methods.)</span></span>
+3. <span data-ttu-id="79255-106">在 "**扩展订阅**" 窗格中, 选择 "**使用新的未使用的产品密钥**", 然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="79255-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="3748f-107">输入产品密钥。</span><span class="sxs-lookup"><span data-stu-id="3748f-107">Enter the product key.</span></span>
+4. <span data-ttu-id="79255-107">输入产品密钥, 然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="79255-107">Enter the product key, then select **Next**.</span></span>
 
-5. <span data-ttu-id="3748f-108">请确保信息正确, 然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="3748f-108">Make sure the information is correct, then choose **Next**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="79255-108">如果有多个产品密钥，可以选择" **添加其他产品密钥**"以输入产品密钥。</span><span class="sxs-lookup"><span data-stu-id="79255-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-6. <span data-ttu-id="3748f-109">选择单选按钮以延长现有许可证的结束日期, 然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="3748f-109">Choose the radio button to extend the end date of the existing licenses, then choose **Next**.</span></span>
+5. <span data-ttu-id="79255-109">查看你的订单详细信息, 然后选择 "**兑换**"。</span><span class="sxs-lookup"><span data-stu-id="79255-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="3748f-110">您是否正在使用新的管理中心？</span><span class="sxs-lookup"><span data-stu-id="3748f-110">Are you using the new admin center?</span></span> <span data-ttu-id="3748f-111">有关新步骤, 请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key)。</span><span class="sxs-lookup"><span data-stu-id="3748f-111">For new steps, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="79255-110">有关详细信息, 请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)。</span><span class="sxs-lookup"><span data-stu-id="79255-110">For more information, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

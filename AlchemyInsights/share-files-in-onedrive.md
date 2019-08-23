@@ -11,34 +11,34 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f225705878065c06a2af75cc55780bd6cecf0a80
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421302"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549533"
 ---
-# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="d2c23-102">如何在 OneDrive 中共享</span><span class="sxs-lookup"><span data-stu-id="d2c23-102">How to share in OneDrive</span></span>
+# <a name="how-to-share-in-onedrive"></a><span data-ttu-id="c29fb-102">如何在 OneDrive 中共享</span><span class="sxs-lookup"><span data-stu-id="c29fb-102">How to share in OneDrive</span></span>
 
-1. <span data-ttu-id="d2c23-103">使用应用启动器在 web 浏览器中转到 OneDrive。</span><span class="sxs-lookup"><span data-stu-id="d2c23-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
+1. <span data-ttu-id="c29fb-103">使用应用启动器在 web 浏览器中转到 OneDrive。</span><span class="sxs-lookup"><span data-stu-id="c29fb-103">Use the app launcher to go to OneDrive in your web browser.</span></span> 
     
-2. <span data-ttu-id="d2c23-104">选择要共享的文件或文件夹, 然后选择 "**共享**"。</span><span class="sxs-lookup"><span data-stu-id="d2c23-104">Select the file or folder you want to share, and then select **Share**.</span></span>
+2. <span data-ttu-id="c29fb-104">选择要共享的文件或文件夹, 然后选择 "**共享**"。</span><span class="sxs-lookup"><span data-stu-id="c29fb-104">Select the file or folder you want to share, and then select **Share**.</span></span>
     
-3. <span data-ttu-id="d2c23-105">Optional如果链接类型不是所需的链接类型, 请单击向下箭头以选择其他类型:</span><span class="sxs-lookup"><span data-stu-id="d2c23-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
+3. <span data-ttu-id="c29fb-105">Optional如果链接类型不是所需的链接类型, 请单击向下箭头以选择其他类型:</span><span class="sxs-lookup"><span data-stu-id="c29fb-105">(Optional) If the link type isn't the one you want, click the down arrow to select a different type:</span></span>
     
-  - <span data-ttu-id="d2c23-106">无论用户是直接从你那里接收的, 还是从其他人转发的,**任何**人都可以访问接收此链接的任何人。</span><span class="sxs-lookup"><span data-stu-id="d2c23-106">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="d2c23-107">这可能包括组织外部的人员。</span><span class="sxs-lookup"><span data-stu-id="d2c23-107">This may include people outside of your organization.</span></span> 
+  - <span data-ttu-id="c29fb-106">无论用户是直接从你那里接收的, 还是从其他人转发的,**任何**人都可以访问接收此链接的任何人。</span><span class="sxs-lookup"><span data-stu-id="c29fb-106">**Anyone** gives access to anyone who receives this link, whether they receive it directly from you or forwarded from someone else.</span></span> <span data-ttu-id="c29fb-107">这可能包括组织外部的人员。</span><span class="sxs-lookup"><span data-stu-id="c29fb-107">This may include people outside of your organization.</span></span> 
     
-  - <span data-ttu-id="d2c23-108">**\>组织中\<的人员**可让组织中的每个人访问链接, 无论他们是直接从你那里接收, 还是从其他人转发。</span><span class="sxs-lookup"><span data-stu-id="d2c23-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
+  - <span data-ttu-id="c29fb-108">**\>组织中\<的人员**可让组织中的每个人访问链接, 无论他们是直接从你那里接收, 还是从其他人转发。</span><span class="sxs-lookup"><span data-stu-id="c29fb-108">**People in \<Your Organization\>** gives everyone in your organization access to the link, whether they receive it directly from you or forwarded from someone else.</span></span> 
     
-  - <span data-ttu-id="d2c23-109">虽然其他人可能已经拥有访问权限, 但**特定人员**只会向您指定的人员授予访问权限。</span><span class="sxs-lookup"><span data-stu-id="d2c23-109">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="d2c23-110">如果人转发共享邀请, 则只有已有权访问该项目的人员才能使用该链接。</span><span class="sxs-lookup"><span data-stu-id="d2c23-110">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
+  - <span data-ttu-id="c29fb-109">虽然其他人可能已经拥有访问权限, 但**特定人员**只会向您指定的人员授予访问权限。</span><span class="sxs-lookup"><span data-stu-id="c29fb-109">**Specific people** gives access only to the people you specify, although other people may already have access.</span></span> <span data-ttu-id="c29fb-110">如果人转发共享邀请, 则只有已有权访问该项目的人员才能使用该链接。</span><span class="sxs-lookup"><span data-stu-id="c29fb-110">If people forward the sharing invitation, only people who already have access to the item will be able to use the link.</span></span> 
     
     > [!NOTE]
-    > <span data-ttu-id="d2c23-111">如果其中一个选项不可用, 或者您希望在默认情况下显示不同的链接类型, 可以转到 OneDrive 管理中心并在左窗格中单击 "**共享**" 来更改组织范围的设置。</span><span class="sxs-lookup"><span data-stu-id="d2c23-111">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane.</span></span> [<span data-ttu-id="d2c23-112">了解更多</span><span class="sxs-lookup"><span data-stu-id="d2c23-112">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871961)
+    > <span data-ttu-id="c29fb-111">如果其中一个选项不可用, 或者您希望在默认情况下显示不同的链接类型, 可以转到 OneDrive 管理中心并在左窗格中单击 "**共享**" 来更改组织范围的设置。</span><span class="sxs-lookup"><span data-stu-id="c29fb-111">If one of these options isn't available, or if you want a different link type to appear by default, you can change your organization-wide settings by going to the OneDrive admin center and clicking **Sharing** in the left pane.</span></span> [<span data-ttu-id="c29fb-112">了解更多</span><span class="sxs-lookup"><span data-stu-id="c29fb-112">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. <span data-ttu-id="d2c23-113">默认情况下,**允许编辑**处于打开状态。</span><span class="sxs-lookup"><span data-stu-id="d2c23-113">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="d2c23-114">如果您希望用户只能查看您的文件, 请取消选中该复选框。</span><span class="sxs-lookup"><span data-stu-id="d2c23-114">If you want people to only view your files, uncheck the check box.</span></span> 
+4. <span data-ttu-id="c29fb-113">默认情况下,**允许编辑**处于打开状态。</span><span class="sxs-lookup"><span data-stu-id="c29fb-113">By default, **Allow editing** is turned on.</span></span> <span data-ttu-id="c29fb-114">如果您希望用户只能查看您的文件, 请取消选中该复选框。</span><span class="sxs-lookup"><span data-stu-id="c29fb-114">If you want people to only view your files, uncheck the check box.</span></span> 
     
-5. <span data-ttu-id="d2c23-115">输入要与之共享的人员的姓名, 然后单击 "**发送**"。</span><span class="sxs-lookup"><span data-stu-id="d2c23-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
+5. <span data-ttu-id="c29fb-115">输入要与之共享的人员的姓名, 然后单击 "**发送**"。</span><span class="sxs-lookup"><span data-stu-id="c29fb-115">Enter the names of the people you want to share with, and then click **Send**.</span></span>
     
-[<span data-ttu-id="d2c23-116">了解更多</span><span class="sxs-lookup"><span data-stu-id="d2c23-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
+[<span data-ttu-id="c29fb-116">了解更多</span><span class="sxs-lookup"><span data-stu-id="c29fb-116">Learn more</span></span>](https://go.microsoft.com/fwlink/?linkid=871861)
   
 
