@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444762"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555223"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何执行内容搜索和电子数据展示搜索
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444762"
 4. 输入所需的搜索条件, 包括关键字和内容位置。  
 5. 单击 "**保存" & "运行**" 以命名搜索, 启动它, 然后预览结果。
 
-有关内容搜索、导出结果和创建电子数据展示事例以保存数据的详细说明, 请参阅[内容搜索](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search)和[电子数据展示事例](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases)。
+有关内容搜索、导出结果和创建电子数据展示事例以保存数据的详细说明, 请参阅[内容搜索](https://docs.microsoft.com/office365/securitycompliance/content-search)和[电子数据展示事例](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)。
 
-通过查看[要求和限制](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search)并[调查部分索引项](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)和要了解的其他结果, 了解更多有关内容搜索的信息。
+通过查看[要求和限制](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)并[调查部分索引项](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)和要了解的其他结果, 了解更多有关内容搜索的信息。

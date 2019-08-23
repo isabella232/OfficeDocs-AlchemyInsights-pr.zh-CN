@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171317"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557491"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>更改邮箱的外观
+# <a name="change-the-look-of-your-outlook-mailbox"></a>更改 Outlook 邮箱的外观
 
 您可以更改邮件列表和阅读窗格的外观, 使其以所需方式显示和行为。 选择是单独显示邮件还是显示为对话, 如果新邮件应显示在邮件列表的顶部或底部, 等等。
 

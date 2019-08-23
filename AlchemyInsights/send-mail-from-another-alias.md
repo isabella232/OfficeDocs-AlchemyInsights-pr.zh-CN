@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388374"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551513"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>从别名或次要地址发送电子邮件
 
@@ -26,4 +26,4 @@ Office 365 目前不支持从别名或辅助电子邮件地址发送电子邮件
   
 - [转到此处创建共享邮箱](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-您还可以阅读[创建共享邮箱](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox)的文章, 该文章将告诉您您需要了解的有关共享邮箱的所有信息, 包括如何使用它们。
+您还可以阅读[创建共享邮箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)的文章, 该文章将告诉您您需要了解的有关共享邮箱的所有信息, 包括如何使用它们。
