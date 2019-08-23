@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356587"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553422"
 ---
-# <a name="recall-or-replace-an-email-message"></a>撤回或替换电子邮件
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>撤回或替换 Office 365 中的电子邮件
 
 - 您**只能撤回发送给组织中的人员的邮件**。 例如, 如果邮件发送到 Gmail 地址, 则无法撤回它。
 - 您**只能撤回从 Outlook 2016 为电脑发送的邮件**。 如果用户使用 Outlook for Mac 或 web 上的 Outlook 发送邮件, 则无法撤回它。
 - 如果您是管理员, 则可以**使用 PowerShell 代表用户撤回邮件**。 无法从管理中心撤回邮件。 向下滚动到 "搜索组织中的电子邮件并删除电子邮件", 了解详细信息。
 
-***撤回或替换您发送的电子邮件***
+**撤回或替换您发送的电子邮件**
 
 1. 在 Outlook 窗口左侧的文件夹窗格中, 选择 "已发送邮件" 文件夹。
 2. 打开要撤回的邮件。 您必须双击才能打开邮件。 如果选择邮件使其显示在阅读窗格中, 则不会允许您撤回邮件。

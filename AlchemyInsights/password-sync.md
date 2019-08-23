@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372946"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555367"
 ---
 # <a name="enable-password-sync"></a>启用密码同步
 
-1.  选择 O365 管理中心主页上的 " **DirSync 状态**"。 
+1.  在 Microsoft 365 管理中心主页上选择 " **DirSync 状态**"。 
     
-     * 或者, 您可以转到**用户** \> * * 活动用户 **, 并在 "活动用户" 页上选择 "**更多** \> **目录同步"。** * 
+     *或者, 您可以转到**用户** \> **活动用户**, 并在 "活动用户" 页上选择 "**更多** \> **目录同步"。*** 
     
 2. 在 "目录同步" 窗格中, 选择 "**转到 DirSync management**"。 
     

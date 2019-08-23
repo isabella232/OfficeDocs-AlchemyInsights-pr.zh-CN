@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 3cdf5909595b5b1fac9aeb00865546c1dcff5f09
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372154"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554868"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>用户配置文件和照片同步
 
@@ -25,6 +25,6 @@ ms.locfileid: "32372154"
   
 有关配置文件同步过程的详细信息, 请参阅[SharePoint Online 中有关用户配置文件同步的信息](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **更新 office delve 中的配置文件**-delve 用户可以管理其 Office 365 配置文件。 有关详细信息, 请参阅[在 Office Delve 中查看和更新您的配置文件](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)。
+- **更新 Office delve 中的配置文件**-delve 用户可以管理其 Office 365 配置文件。 有关详细信息, 请参阅[在 Office Delve 中查看和更新您的配置文件](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba)。
     
 

@@ -13,14 +13,14 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: d6ae972c6d95b33612290b4ee20464e53f60327f
-ms.sourcegitcommit: 3ddd01d693d306d47509da7a2fd44737b3059dd0
+ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34423043"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556517"
 ---
-# <a name="how-to-delete-a-folder"></a>如何删除文件夹
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>如何在 web 上的 Outlook 中删除文件夹
 
 1. 在文件夹窗格中, 右键单击要删除的文件夹或子文件夹。
 2. 选择 "**删除文件夹**"。
