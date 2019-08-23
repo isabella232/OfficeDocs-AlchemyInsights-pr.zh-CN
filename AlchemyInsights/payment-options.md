@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388662"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555259"
 ---
-# <a name="payment-options"></a>支付选项
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Office 365 商业版订阅的支付选项
 
 **支付选项**
   
@@ -30,7 +30,7 @@ ms.locfileid: "36388662"
   
 当通过信用卡或银行帐户付款时，将在发票日期后自动扣除你的订阅的费用，直到订阅期限结束。 只要你需要，可以随时[更新信用卡或银行帐户信息](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。 也可以选择[以电子邮件方式接收帐单副本](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)。
   
-如果信用卡被拒或有过期未付款项，可以选择**账单**\> [订阅](https://portal.office.com/adminportal/home#/subscriptions)页面上的“**立即付款**”选项。
+如果信用卡被拒或有过期未付款项，可以选择“**账单**”\>“[产品和服务](https://portal.office.com/adminportal/home#/subscriptions)”页面上的“**结账**”选项。
   
 **转账支付（支票或电子资金汇划）**
   

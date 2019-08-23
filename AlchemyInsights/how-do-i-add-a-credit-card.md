@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390430"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523033"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>如何添加信用卡？
 
-1. 在管理中心，转到“**账单**”\>“[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在 Microsoft 365 管理中心，转到“**账单**”\>“[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面。
 
-2. 选择要用新信用卡或新银行帐户付款的订阅，然后选择“**更新付款详细信息**”。
+2. 选择“**添加付款方式**”。
 
-3. 选择“**添加或选择付款方式**”下的下拉箭头，然后选择“**新信用卡**”或“**新银行帐户**”。
+3. 在“**付款方式**”页面上，从下拉菜单中选择一种付款方式。
 
-4. 输入新信用卡或新银行帐户的信息，然后选择“提交”。
+4. 输入新信用卡或新银行帐户的信息，然后选择“**保存**”。
 
-正在使用新的管理中心吗？ 有关新步骤，请参阅[在 Office 365 商业版中添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/zh-CN/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。
+有关详细信息，请参阅[在 Office 365 商业版中添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。

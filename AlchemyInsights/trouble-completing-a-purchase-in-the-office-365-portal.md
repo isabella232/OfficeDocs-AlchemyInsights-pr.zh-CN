@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 17e37f939c199120b85637eb889bb22432e85325
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387978"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507225"
 ---
 # <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>无法在 Office 365 门户中完成购买
 
-尝试进行购买时，如果系统已多次提示登录到 Office 365 门户，或收到关于所发现问题的消息，第一步最好尝试使用浏览器的隐私/隐身模式。 打开隐私/隐身窗口后，转到 [portal.office.com](https://portal.office.com) 网站并使用管理员凭据登录。 然后继续完成购买。
+尝试进行购买时，如果系统已多次提示你登录到 Microsoft 365 管理中心，或者你收到关于所发现问题的消息，则首先最好是尝试使用浏览器的隐私/隐身模式。 打开隐私/隐身窗口后，转到 [portal.office.com](https://portal.office.com) 网站并使用管理员凭据登录。 然后继续完成购买。

@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390826"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539919"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新激活订阅
 
-如果你的订阅已过期、已被 Microsoft 取消或禁用，则可以在 Microsoft 365 管理中心中重新激活它。
+如果你的订阅已过期、已取消或者已被 Microsoft 禁用，可在 Microsoft 365 管理中心重新激活它。
   
-1. 在管理中心，转到“**账单**”\>“[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
 
-2. 选择想要重新激活的订阅。
+2. 在“**账单**”下的“**续订日期**”或“**到期日期**”旁边，选择“**编辑**”。
 
-3. 选择右侧的“**重新激活**”按钮。
+3. 在“**定期计费设置**”窗格中，选择所需的选项。 如果“定期计费”已关闭，请选择“**每月**”或“**一次性**”将其启用。
 
-4. 系统将让你更新付款详细信息。 当正确填写所有信息后，选择“**提交**”。
+4. 选择“**提交更改**”。
 
-5. 一条确认消息将显示在屏幕底部。 选择“**关闭**”返回到“**订阅**”页面。
-
-6. 如果几分钟后没有显示出订阅，请刷新此页面。
-
-有关详细信息，请参阅：[续订 Office 365 商业版](https://docs.microsoft.com/zh-CN/office365/admin/subscriptions-and-billing/renew-your-subscription)
+有关详细信息，请参阅：[续订 Office 365 商业版](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
