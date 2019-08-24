@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518029"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575938"
 ---
 # <a name="buy-additional-office-365-licenses"></a>购买额外的 Office 365 许可证
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518029"
 
     > [!NOTE]
     > 如果通过信用卡或银行账户为订阅付费，则你购买的任何新许可证都将在收到订单确认后立即提供给你。 如果通过发票支付，可能必须等待完成信用检查才能使用新许可证。
-  
+
+您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅购买适用于[Office 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。  
+
 **其他资源**
 
 - [向 Office 365 for Business 中的用户分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-有关详细信息, 请参阅购买适用于[Office 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。

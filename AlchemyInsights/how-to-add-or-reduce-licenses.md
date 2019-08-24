@@ -13,12 +13,12 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522421"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574932"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>如何添加或减少许可证
 
@@ -39,7 +39,7 @@ ms.locfileid: "36522421"
 > [!NOTE]
 > 下一张帐单中将显示任何新的收费 (许可证增加) 或信用 (许可证减少)。
 
-有关详细信息, 请参阅购买适用于[Office 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。
+您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅购买适用于[Office 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。
 
  **其他资源**
   

@@ -14,21 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390178"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574788"
 ---
 # <a name="how-to-purchase-education-offer"></a>如何购买教育版
 
 您已批准 Office 365 教育版。 若要购买:
   
-1. 在管理中心中, 转到 "**记帐** \> [订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
+1. 在 "管理中心" 中, 转到 "**帐单** \> [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
 2. 选择**学生或教职员**的试用版。
 
-3. 选择 "**立即购买**" 以购买你想要购买的试用版。 
+3. 在 "**许可证**" 部分, 选择 "**购买订阅**"。
+
+4. 按照其余步骤进行检查。
 
 如果要购买非试用版的订阅, 请转到 "**付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页面, 然后从 "**教育计划**" 下的列表中进行选择。
+
+您使用的是旧管理中心吗？ 有关旧步骤或了解详细信息, 请参阅[购买与试用版相同的计划](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)。
