@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537866"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643684"
 ---
 # <a name="block-or-unblock-senders"></a>阻止或取消阻止发件人
 
-来自阻止发件人的电子邮件地址或域的邮件将直接转到 "垃圾邮件" 文件夹。 在14天后, 电子邮件会自动从 "垃圾邮件" 文件夹中删除, 并且无法恢复。
+来自阻止发件人的电子邮件地址或域的邮件将直接转到 "垃圾邮件" 文件夹。 在30天后, 电子邮件会自动从 "垃圾邮件" 文件夹中删除, 并且无法恢复。 Se; ect 将删除项目时要查看的项目。
 
 **从收件箱:**
 
 - 在邮件列表中, 选择邮件, 然后选择 "**垃圾** > 邮件**阻止**"。
+- **注意:** 阻止 "垃圾邮件" 文件夹中已有的项目不会将其删除。
 
 **源设置:**
 
