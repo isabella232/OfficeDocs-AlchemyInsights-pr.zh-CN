@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544575"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666902"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="fcbbc-102">将电子邮件从 G 套件迁移到 Office 365</span><span class="sxs-lookup"><span data-stu-id="fcbbc-102">Migrate email from G Suite to Office 365</span></span>
+# <a name="migrate-email-from-g-suite-to-office-365"></a><span data-ttu-id="59cd8-102">将电子邮件从 G 套件迁移到 Office 365</span><span class="sxs-lookup"><span data-stu-id="59cd8-102">Migrate email from G Suite to Office 365</span></span>
 
-<span data-ttu-id="fcbbc-103">若要将电子邮件从 G 套件迁移到 Office 365, 请使用迁移工具迁移电子邮件、日历和联系人:[执行 G 套件迁移](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。</span><span class="sxs-lookup"><span data-stu-id="fcbbc-103">To migrate email from G Suite to Office 365, use our migration tools to migrate email, calendar and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
+<span data-ttu-id="59cd8-103">若要将电子邮件从 G 套件迁移到 Office 365, 请使用迁移工具迁移电子邮件、日历和联系人:[执行 G 套件迁移](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。</span><span class="sxs-lookup"><span data-stu-id="59cd8-103">To migrate email from G Suite to Office 365, use our migration tools for migrating email, calendar, and contacts: [Perform a G Suite migration](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).</span></span>
   
