@@ -3,7 +3,6 @@ title: 重新激活订阅
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553350"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666578"
 ---
 # <a name="reactivate-an-office-365-subscription"></a>重新激活 Office 365 订阅
 
@@ -32,4 +31,4 @@ ms.locfileid: "36553350"
 
 3. 确认你的付款详细信息。 您可以在此处更新现有的付款信息。 输入完付款方法后, 选择 "**重新激活**"。
 
-有关详细信息, 请参阅[重新激活订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
+若要了解详细信息, 请参阅[重新激活订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
