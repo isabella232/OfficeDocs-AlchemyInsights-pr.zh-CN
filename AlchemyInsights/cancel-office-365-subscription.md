@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576046"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665498"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>取消 Office 365 订阅？
 
@@ -28,4 +28,4 @@ ms.locfileid: "36576046"
 
 - 如果分配了25个以上的许可证, 则可以删除用户, 直到少于25个, 或者使用 "我们呼叫你" 选项与支持工程师交谈。
 
-您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅[取消订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+若要了解详细信息, 请参阅[取消订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。

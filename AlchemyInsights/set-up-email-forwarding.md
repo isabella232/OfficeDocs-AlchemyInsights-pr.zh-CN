@@ -3,7 +3,6 @@ title: 设置电子邮件转发
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/21/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +12,24 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7b246c7b1463f02e5386207fcb5a3a1d14811e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549929"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666218"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>检查邮箱的电子邮件转发设置
 
-可以很轻松地验证 Office 365 邮箱上的电子邮件转发设置! 只需按照以下步骤操作即可。
+可以很轻松地验证 Office 365 邮箱上的电子邮件转发设置。 只需按照以下步骤操作即可。
   
 > 如果这是用户邮箱, 请转到 "**用户** \> **活动用户**", 然后选择要转发的邮箱用户。 在 "**邮件**" 选项卡上, 选择 "**管理 emaill 转发**"。
     
-> 如果这是共享邮箱, 请转到 "**组** \> **共享**邮箱", 然后选择要转发的共享邮箱。 编辑**** 电子邮件转发的编辑。
+> 如果这是共享邮箱, 请转到 "**组** \> **共享**邮箱", 然后选择要转发的共享邮箱。 选择 "**编辑**" 以进行电子邮件转发。
 
-有关更多详细信息, 请参阅[在 Office 365 中配置电子邮件转发](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74)。
+您使用的是旧管理中心吗？ 有关旧步骤或详细信息, 请参阅[在 Office 365 中配置电子邮件转发](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74)。
   
-若要向用户发送说明, 以便他们可以在自己的邮箱上设置电子邮件转发, 请将其指向将[电子邮件从 Office 365 转发到其他电子邮件帐户](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)。 请注意, 您只能转发到一个电子邮件地址。 如果您需要设置到一组人员的转发, 请创建一个通讯组列表 (在 "组" 下), 然后将用户添加到该组, 然后配置到该组的转发。
+若要向用户发送说明, 以便他们可以在自己的邮箱上设置电子邮件转发, 请将其指向将[电子邮件从 Office 365 转发到其他电子邮件帐户](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)。 请注意, 您只能转发到一个电子邮件地址。 如果您需要设置到一组人员的转发, 请创建一个通讯组列表 (在 "组" 下), 将您的用户添加到该组, 然后配置到该组的转发。
   
-您是否有员工离开？ 若要获取建议的步骤, 请参阅[从 Office 365 删除以前的员工](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)。
+您是否有员工离开？ 有关建议的步骤, 请参阅[从 Office 365 删除以前的员工](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)。
   

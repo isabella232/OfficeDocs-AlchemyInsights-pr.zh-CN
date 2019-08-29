@@ -3,7 +3,6 @@ title: 启用和搜索审核日志
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527713"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665066"
 ---
 # <a name="enable-and-search-the-audit-log"></a>启用和搜索审核日志
+
+**Office 365**
 
 若要搜索 Office 365 审核日志, 请执行[以下步骤](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)。
 
@@ -28,7 +29,7 @@ ms.locfileid: "36527713"
 
 - 默认情况下, 会审核 Exchange 管理员活动。
 
-- 我们正在启用默认情况下在 Office 365 中启用邮箱审核的过程。 在此之前, 若要为组织中的单个邮箱或所有邮箱启用审核, 请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
+- 默认情况下, 在 Office 365 中启用邮箱审核。 有关详细信息, 请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
 
 - Exchange Online 中的 Office 365 组邮箱和公用文件夹邮箱不支持审核日志记录。
 

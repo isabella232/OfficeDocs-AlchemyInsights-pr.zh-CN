@@ -13,16 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 61a43938d5ae647aa08d388f466e9a97a6126d3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514001"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665157"
 ---
 # <a name="declined-credit-card"></a>已拒绝信用卡
 
-如果通过信用卡支付，且信用卡被拒，将收到一封电子邮件，告知无法处理该付款。 仔细检查[信用卡详细信息](https://go.microsoft.com/fwlink/p/?linkid=842054)-信用卡号码、到期日期、信用卡上的姓名以及地址 (包括城市、州和邮政编码) 是否与信用卡和信用卡上的信用卡声明完全一样。 可更新信用卡信息并使用" **订阅**"页上的" [立即支付](https://go.microsoft.com/fwlink/p/?linkid=842054)"按钮立即提交付款。 有关详细信息，请参阅支付 Office 365 商业版订阅费用中的"如果我的行用卡和我的付款均已过期，该怎么办？ "。
+如果通过信用卡支付，且信用卡被拒，将收到一封电子邮件，告知无法处理该付款。 仔细检查[信用卡详细信息](https://go.microsoft.com/fwlink/p/?linkid=842054)-信用卡号码、到期日期、信用卡上的姓名以及地址 (包括城市、州和邮政编码) 是否与信用卡和信用卡上的信用卡声明完全一样。 您可以更新信用卡信息, 并通过使用 "[产品" & "服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页上的 "**结算余额**" 选项立即提交付款。 
+
+若要了解详细信息, 请参阅 "如果我的信用卡已过期且我的付款逾期, 我该怎么办？" "。
   
 如果仍然看到"拒绝"消息，请联系你的银行。这可能是因为你的信用卡尚未激活，例如，如果你最近在邮件中收到信用卡，且到期日期已更新，你可能仍需将其激活。你的银行还可能会告诉你这是因为你的信用卡不允许进行联机、国际或定期交易。  
   

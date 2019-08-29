@@ -3,7 +3,6 @@ title: SharePoint Online 常见问题和解决方法
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e6b21d4d457cacf1666a74751d285cf09a8833ea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508351"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666074"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online 常见问题和解决方法
 
-似乎你正在询问 SharePoint。 如果您使用一个或两个句子 (包括错误、您正在使用的功能等) 简要地重新表述您的问题, 我们可以帮助您更精确地解决问题。 
-
-同时, 以下是一些经常请求的主题:
-
-
-
-
+以下是 SharePoint Online 问题的一些经常请求的主题:
 
 - **权限**:[生成权限策略](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)并[了解权限级别](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 

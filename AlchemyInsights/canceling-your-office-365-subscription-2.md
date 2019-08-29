@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576082"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665462"
 ---
 # <a name="canceling-your-office-365-subscription"></a>取消 Office 365 订阅？
 
@@ -28,4 +28,4 @@ ms.locfileid: "36576082"
   
 或者, 选择 "**需要帮助**" 与支持工程师交谈。
   
-您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅[取消订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+若要了解详细信息, 请参阅[取消订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。

@@ -3,7 +3,6 @@ title: 有关 DLP 问题的详细信息
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
-ms.date: ''
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: e1340945b5d90505e290d2561d0179856c93679d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530377"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665173"
 ---
-# <a name="more-info-about-dlp-issues"></a>有关 DLP 问题的详细信息
+# <a name="information-about-dlp-issues"></a>有关 DLP 问题的信息
 
 使用 DLP 策略, 可以识别、监视和自动保护跨 Office 365 的敏感信息。
 

@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574532"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663950"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期计费
 
@@ -32,7 +32,7 @@ ms.locfileid: "36574532"
 
 3. 确认你的付款详细信息。 您可以在此处更新现有的付款信息。 输入完付款方法后, 选择 "**重新激活**"。
 
-您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅[重新激活订阅](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。 
+若要了解详细信息, 请参阅[重新激活订阅](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。 
 
 若要管理每月或每年的帐单, 可以开启或关闭**定期记帐**。
   
@@ -46,4 +46,4 @@ ms.locfileid: "36574532"
 
 5. 选择 "**提交更改**"。
 
-您使用的是旧管理中心吗？ 有关旧步骤或了解详细信息, 请参阅[启用或禁用定期付费](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。
+若要了解详细信息, 请参阅[启用或禁用定期付费](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)。

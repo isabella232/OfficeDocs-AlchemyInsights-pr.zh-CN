@@ -3,7 +3,6 @@ title: 切换到不同的 Office 365 for Business Plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575974"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665966"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>切换到不同的 Office 365 for Business Plan
 
@@ -33,5 +32,5 @@ ms.locfileid: "36575974"
 4. 找到要升级的计划, 然后选择 "**升级**" 按钮。
 
 5. 输入所需的许可证数量, 选择是每月支付还是整年支付, 然后选择 "**签出**"。
-   
-您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅[升级到其他计划](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。  
+
+若要了解详细信息, 请参阅[升级到其他计划](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。  

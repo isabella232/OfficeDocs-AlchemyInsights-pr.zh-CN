@@ -3,7 +3,6 @@ title: 重置或更改密码
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552235"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666398"
 ---
 # <a name="reset-or-change-office-365-business-passwords"></a>重置或更改 Office 365 业务密码
 
-用户可以从[我的帐户 (安全&amp;隐私)](https://portal.office.com/account/#security)更改自己的密码。
+用户可以从**我的帐户** > [安全 & 隐私](https://portal.office.com/account/#security)更改自己的密码。
   
-如果用户忘记了密码, 管理员可以通过转到**用户** > [活动用户](https://portal.office.com/adminportal/home#/users)来重置密码, 选择用户, 然后选择 "**重置密码**"。
+如果用户忘记了密码, 管理员可以通过转到**用户** > [活动用户](https://portal.office.com/adminportal/home#/users)、选择用户并选择 "**重置密码**" 来重置密码。
   
 [单击此处了解详细信息](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), 或允许用户重置其自己的忘记的密码。
   

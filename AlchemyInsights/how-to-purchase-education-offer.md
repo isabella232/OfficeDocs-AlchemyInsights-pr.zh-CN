@@ -14,12 +14,12 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574788"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663914"
 ---
 # <a name="how-to-purchase-education-offer"></a>如何购买教育版
 
@@ -35,4 +35,4 @@ ms.locfileid: "36574788"
 
 如果要购买非试用版的订阅, 请转到 "**付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页面, 然后从 "**教育计划**" 下的列表中进行选择。
 
-您使用的是旧管理中心吗？ 有关旧步骤或了解详细信息, 请参阅[购买与试用版相同的计划](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)。
+若要了解详细信息, 请参阅[购买与试用版相同的计划](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)。

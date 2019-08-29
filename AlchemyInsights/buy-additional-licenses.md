@@ -3,7 +3,6 @@ title: 购买附加许可证
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575938"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664706"
 ---
 # <a name="buy-additional-office-365-licenses"></a>购买额外的 Office 365 许可证
 
@@ -28,14 +27,13 @@ ms.locfileid: "36575938"
 
     [如果看不到 "添加/删除" 链接, 该怎么办？](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. 在 "**许可证总数**" 框中, 输入此订阅所需的许可证总数, 然后选择 "**提交*更改 * *"。 例如，如果有 100 个许可证并需要再添加 5 个，请输入 105。
+3. 在 "**许可证总数**" 框中, 输入此订阅所需的许可证总数, 然后选择 "**提交更改**"。 例如，如果有 100 个许可证并需要再添加 5 个，请输入 105。
 
     > [!NOTE]
     > 如果通过信用卡或银行账户为订阅付费，则你购买的任何新许可证都将在收到订单确认后立即提供给你。 如果通过发票支付，可能必须等待完成信用检查才能使用新许可证。
 
-您使用的是旧管理中心吗？ 有关旧步骤或要了解详细信息, 请参阅购买适用于[Office 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。  
+若要了解详细信息, 请参阅购买适用于[Office 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。  
 
 **其他资源**
 
 - [向 Office 365 for Business 中的用户分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
-

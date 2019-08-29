@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554611"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666686"
 ---
 # <a name="prepaid-office-365-renewal"></a>预付 Office 365 续订
 
@@ -35,4 +35,4 @@ ms.locfileid: "36554611"
 
 5. 查看你的订单详细信息, 然后选择 "**兑换**"。
 
-有关详细信息, 请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)。
+若要了解详细信息, 请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)。

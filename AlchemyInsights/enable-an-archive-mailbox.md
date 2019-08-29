@@ -2,7 +2,6 @@
 title: 启用存档邮箱
 ms.author: markjjo
 author: markjjo
-ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527785"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665106"
 ---
 # <a name="enable-an-archive-mailbox"></a>启用存档邮箱
 
@@ -28,13 +27,13 @@ Office 365 中的存档邮箱 (也称为*在线存档*) 为用户提供额外的
 
 2. 使用管理员帐户登录到 Office 365。
 
-3. 在安全&amp;合规性中心的左侧窗格中, 单击 "**数据调控** \> **存档**"。
+3. 在安全&amp;合规性中心的左侧窗格中, 选择 "**数据调控** \> **存档**"。
 
 4. 选择要启用其存档邮箱的用户。
 
-5. 在右侧的 "详细信息" 窗格中, 单击 "**启用**", 然后在警告消息中单击 **"是"** 启用存档邮箱。
+5. 在右侧的 "详细信息" 窗格中, 选择 "**启用**", 然后在警告消息中选择 **"是"** 以启用存档邮箱。
 
-您还可以通过选择多个用户 (使用**Shift**或**Ctrl**键), 然后在详细信息窗格中单击 "**启用**" 来批量启用存档邮箱。
+您还可以通过选择多个用户 (使用**Shift**或**Ctrl**键), 然后在详细信息窗格中选择 "**启用**" 来批量启用存档邮箱。
   
 有关详细信息，请参阅：
   
