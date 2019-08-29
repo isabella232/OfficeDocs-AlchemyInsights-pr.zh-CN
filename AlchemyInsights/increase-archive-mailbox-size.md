@@ -3,25 +3,24 @@ title: 305增加存档邮箱大小
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391137"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661790"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>增加存档邮箱大小
 
 Office 365 根据分配给用户帐户的许可证[限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)存档邮箱的大小。 当存档邮箱达到其允许大小的 90% 时, 用户将收到电子邮件通知。 当存档邮箱达到其大小限制时, 用户将无法将更多项目移至存档邮箱。 一旦达到大小限制, Office 365 将不会增加存档邮箱的大小。 相反, 用户可以执行以下操作来释放存档邮箱中的空间:
 
-- 使用 Outlook 将项目导出到 .pst 文件
+- 使用 Outlook 将项目导出到 .pst 文件。
 
 - 删除存档邮箱中的项目。
 

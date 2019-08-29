@@ -13,12 +13,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495021"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660962"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>将座位添加到预付订阅
 
@@ -26,17 +26,15 @@ ms.locfileid: "36495021"
 
 1. 在 "管理中心" 中, 转到 "**帐单** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
 
-2. 查找要向其添加许可证的订阅。 选择 "**更多操作**" 下拉列表, 然后选择 "**续订" 或 "添加带令牌的许可证**"。
+2. 查找要向其添加许可证的订阅。 在 "**许可证**" 部分, 选择 "**添加更多许可证**"。
 
-3. 在 "**续订或添加用户许可证**" 页上, 选择 "**使用新的和未使用的产品密钥**", 然后选择 "**下一步**"。
+3. 在 "**添加更多许可证**" 窗格中, 选择 "**使用新的未使用的产品密钥**", 然后选择 "**下一步**"
 
 4. 输入产品密钥, 然后选择 "**下一步**"。
 
     > [!NOTE]
     > 如果有多个产品密钥，可以选择" **添加其他产品密钥**"以输入产品密钥。
 
-5. 选择向订阅添加用户, 然后选择 "**下一步**"。
+5. 查看你的订单详细信息, 然后选择 "**兑换**"。
 
-6. 查看你的订单详细信息, 然后选择 "**兑换**"。
-
-有关详细信息, 请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)。
+若要了解详细信息, 请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)。
