@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529621"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665105"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>是否有正当邮件被标记为垃圾邮件？
 
-尝试以上诊断或尝试此[分步指南，以解决将正当邮件标记为垃圾邮件的问题](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。
+尝试以上诊断或尝试此[分步指南，以解决在 Office 365 中将正当邮件标记为垃圾邮件的问题](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。
   
 报告这些类型问题的最佳方式是：
   

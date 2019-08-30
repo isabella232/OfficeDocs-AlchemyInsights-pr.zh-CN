@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574752"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663986"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>如何重新激活订阅
 
@@ -32,4 +32,4 @@ ms.locfileid: "36574752"
 
 3. 确认付款详细信息。 可以在此处更新现有付款信息。 输入付款方式之后，选择“**重新激活**”。
 
-是否使用的是旧版管理中心？ 如需旧版步骤或者了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription)。
