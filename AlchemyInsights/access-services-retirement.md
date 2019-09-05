@@ -1,6 +1,6 @@
 ---
 title: 访问服务退休
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495741"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747774"
 ---
 # <a name="access-services-retirement"></a>访问服务退休
 
-正如我们最初在 MC97576 中宣布的那样, 在2017年3月, 并持续与过去一年的通信。将从 Office 365 中停用 Access 服务。 此过程的下一阶段将是删除使用 SharePoint 列表作为其基础数据存储的 Access Web 数据库。
+正如我们最初在 MC97576 中宣布的那样，在2017年3月，并持续与过去一年的通信。将从 Office 365 中停用 Access 服务。 此过程的下一阶段将是删除使用 SharePoint 列表作为其基础数据存储的 Access Web 数据库。
 
 **这对我有何影响？**
 
-从2019年6月起, 我们将停止在 SharePoint Online 中创建新的 Access 数据库, 并在4月2020关闭服务和任何剩余的应用。
+从2019年6月起，我们将停止在 SharePoint Online 中创建新的 Access 数据库，并在4月2020关闭服务和任何剩余的应用。
 
 **为此更改做准备需要做些什么？**
 
 我们鼓励你为组织的 Access web 数据库创建过渡计划。 管理员可以使用[SharePoint access 应用程序扫描](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner)程序获取网站正在使用的 Access 应用程序的清单。
 
-有几种方法可以迁移 Access web 数据库数据:
+有几种方法可以迁移 Access web 数据库数据：
 
-- 导入到本地 Access 数据库 (。.ACCDB) 或 Excel 文件。
-- 我们还建议研究 Microsoft PowerApps 作为替代平台, 以便为 web 和移动设备创建无代码业务解决方案。
+- 导入到本地 Access 数据库（。.ACCDB）或 Excel 文件。
+- 我们还建议研究 Microsoft PowerApps 作为替代平台，以便为 web 和移动设备创建无代码业务解决方案。

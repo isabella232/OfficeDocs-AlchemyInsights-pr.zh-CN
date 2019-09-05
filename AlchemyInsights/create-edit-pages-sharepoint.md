@@ -1,6 +1,6 @@
 ---
 title: 创建 SharePoint 网站
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,16 +8,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: f5e39ee3f4b8f543987267e873ef24a8f452c209
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515473"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754794"
 ---
 # <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>在 SharePoint 网站上创建和编辑新式页面
 
-您可以快速轻松地编辑文件和页面, 并且在任何设备上看起来都很出色。 有关详细信息, 请访问下面的链接。
+您可以快速轻松地编辑文件和页面，并且在任何设备上看起来都很出色。 有关详细信息，请访问下面的链接。
 
 
 - [在 SharePoint 网站上创建和编辑新式页面](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)

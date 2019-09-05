@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: f4b5001f2a6291a422b5cd0c3c40de7be0f1ecf0
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35902919"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736639"
 ---
 # <a name="update-your-domain-nameservers-to-office-365"></a>将域名称服务器更新为 Office 365
 
@@ -35,5 +35,5 @@ ms.locfileid: "35902919"
 
 3. 保存更改。
 
-还可在本文中查看详细的说明：[更改名称服务器以使用任意域名注册机构设置 Office 365](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+还可在本文中查看详细的说明：[更改名称服务器以使用任意域名注册机构设置 Office 365](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

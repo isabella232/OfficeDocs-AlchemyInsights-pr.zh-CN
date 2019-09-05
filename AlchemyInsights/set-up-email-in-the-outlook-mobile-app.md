@@ -15,24 +15,24 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509170"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734155"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>在 Outlook 移动应用程序中设置电子邮件
 
-1. 如果首次在移动应用程序中设置电子邮件, 请选择 "**已启动**"。 否则, 点击 "**菜单**", 然后点击 "**设置** \> **添加帐户** \> " "添加**电子邮件帐户**"。
+1. 如果首次在移动应用程序中设置电子邮件，请选择 "**已启动**"。 否则，点击 "**菜单**"，然后点击 "**设置** \> **添加帐户** \> " "添加**电子邮件帐户**"。
 
-2. 输入完整的电子邮件地址, 然后点击 "**继续**" 或 "**添加帐户**"。
+2. 输入完整的电子邮件地址，然后点击 "**继续**" 或 "**添加帐户**"。
 
-3. 输入您的电子邮件帐户密码, 然后点击 **"登录" 或 "** **下一步**"。
+3. 输入您的电子邮件帐户密码，然后点击 **"登录" 或 "** **下一步**"。
 
-4. 如果启用了[多重身份验证](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx), 请使用您设置的方法 (6 个数字代码、电话呼叫或 Microsoft 身份验证器应用) 进行验证。
+4. 如果启用了[多重身份验证](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication)，请使用您设置的方法（6个数字代码、电话呼叫或 Microsoft 身份验证器应用）进行验证。
 
-5. 如果已准备好其他 IT 管理员策略, 请点击 "**激活**" 以启用它们。
+5. 如果已准备好其他 IT 管理员策略，请点击 "**激活**" 以启用它们。
 
 6. Outlook 可能会请求访问您的日历、联系人和其他信息的权限。 选择 **"是" 或 "** **允许**"。
 

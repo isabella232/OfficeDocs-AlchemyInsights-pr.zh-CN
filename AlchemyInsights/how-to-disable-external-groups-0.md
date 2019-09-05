@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541198"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739555"
 ---
 # <a name="how-to-disable-external-groups"></a>如何禁用外部组
 
 外部用户可以通过四种方式在 Yammer 中访问你的网络。
   
-1. **来宾用户**-Yammer 管理员可以邀请外部域中的联系人作为家庭网络上的用户。 这些用户将看到 "所有公司" 订阅源, 并且还可以加入网络中的其他组。
+1. **来宾用户**-Yammer 管理员可以邀请外部域中的联系人作为家庭网络上的用户。 这些用户将看到 "所有公司" 订阅源，并且还可以加入网络中的其他组。
 
-2. 外部**组中的外部用户**-外部组允许外部用户。 外部用户的访问权限范围仅限于外部组。 使用外部组, 只能邀请 Yammer 网络中允许用户参与外部对话的联系人。
+2. 外部**组中的外部用户**-外部组允许外部用户。 外部用户的访问权限范围仅限于外部组。 使用外部组，只能邀请 Yammer 网络中允许用户参与外部对话的联系人。
 
-3. **内部组中的 Yammer 对话中的外部用户**-此选项允许将外部参与者添加到特定对话中。 外部参与者只能参与对话。它已明确受到邀和该对话中的任何附件的对话。 他们通过 Yammer 收件箱 (在其网络上) 访问这些对话。 他们没有对网络其余部分的访问权限。
+3. **内部组中的 Yammer 对话中的外部用户**-此选项允许将外部参与者添加到特定对话中。 外部参与者只能参与对话。它已明确受到邀和该对话中的任何附件的对话。 他们通过 Yammer 收件箱（在其网络上）访问这些对话。 他们没有对网络其余部分的访问权限。
 
 4. **外部网络**-此选项允许你邀请外部用户加入已验证管理员可以在你的网络中创建的外部网络。 此选项最适合承载外部社区。
 
-有关详细信息, 请参阅[向您的 Yammer 对话](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US)和[外部邮件常见问题解答 (Yammer)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)添加外部邮件参与者
+有关详细信息，请参阅[向您的 Yammer 对话](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)和[外部邮件常见问题解答（Yammer）](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)添加外部邮件参与者
   
