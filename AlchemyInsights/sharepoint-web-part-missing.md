@@ -1,6 +1,6 @@
 ---
 title: SharePoint 网站集缺少 Project Web App
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502547"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749646"
 ---
 # <a name="missing-web-part-in-sharepoint-site-collection"></a>SharePoint 网站集中缺少 Web 部件
 
-如果您缺少用于查看的 Web 部件, 则可能是您尝试[在新式页面上添加经典 web 部件](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)。 请务必注意, 新式页面只能使用新式 web 部件, 而经典页面只能使用经典 web 部件。 许多新式 web 部件的用途与经典 web 部件相同, 但您将看到外观和功能方面的差异。
+如果您缺少用于查看的 Web 部件，则可能是您尝试[在新式页面上添加经典 web 部件](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)。 请务必注意，新式页面只能使用新式 web 部件，而经典页面只能使用经典 web 部件。 许多新式 web 部件的用途与经典 web 部件相同，但您将看到外观和功能方面的差异。
 
-由于[自定义脚本设置](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)(在新式网站上默认禁用), 有许多 Web 部件不显示。 
+由于[自定义脚本设置](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)（在新式网站上默认禁用），有许多 Web 部件不显示。 
 
-有关不可用的 Web 部件的列表, 请参阅[在阻止自定义脚本时受影响的功能](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked)。
+有关不可用的 Web 部件的列表，请参阅[在阻止自定义脚本时受影响的功能](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked)。
 
- 有关自定义脚本的安全隐患的详细信息, 请参阅[允许自定义脚本的安全注意事项](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)。
+ 有关自定义脚本的安全隐患的详细信息，请参阅[允许自定义脚本的安全注意事项](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)。

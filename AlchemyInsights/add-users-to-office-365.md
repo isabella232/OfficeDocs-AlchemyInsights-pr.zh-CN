@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: af7088a9c3110ea5b18912485f05cbfecc8068bf
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660674"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737827"
 ---
 # <a name="add-a-user-to-office-365"></a>将用户添加到 Office 365
 
@@ -27,5 +27,5 @@ ms.locfileid: "36660674"
 
 3. 填写用户信息。 完成时，选择“**完成添加**”。
 
-使用的是否是旧版管理中心？ 要查看之前的步骤或了解详细信息，请参阅[将用户单独或批量添加到 Office 365](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)。
+使用的是否是旧版管理中心？ 要查看之前的步骤或了解详细信息，请参阅[将用户单独或批量添加到 Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users)。
   
