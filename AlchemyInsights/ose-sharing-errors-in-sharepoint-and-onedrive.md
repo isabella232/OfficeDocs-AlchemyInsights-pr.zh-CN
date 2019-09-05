@@ -1,6 +1,6 @@
 ---
 title: 在 SharePoint 和 OneDrive 中发生 OSE 共享错误
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543123"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752958"
 ---
 # <a name="ose-sharing-errors"></a>OSE 共享错误
 
 本文介绍了在 Office 365 中的 SharePoint Online 或 OneDrive for Business 中共享文件或文件夹时可能会遇到的不同错误。 你需要成为贵公司的全局或 SharePoint 管理员才能修复这些错误。 如果你不是管理员，请联系帮助中心并向其提供错误代码。
 
-有关 OSE 错误代码的详细信息, 请参阅[在 SharePoint 和 OneDrive 中共享错误](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)。
+有关 OSE 错误代码的详细信息，请参阅[在 SharePoint 和 OneDrive 中共享错误](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)。

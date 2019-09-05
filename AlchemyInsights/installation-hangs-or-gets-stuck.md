@@ -12,12 +12,12 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498621"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735415"
 ---
 # <a name="office-installation-hangs-or-gets-stuck"></a>Office 安装挂起或停滞
 
@@ -27,7 +27,7 @@ ms.locfileid: "36498621"
 
 - 使用有线连接
 
-- 如果您使用的是低速 internet 连接, 请[使用 office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 office[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- 如果您使用的是低速 internet 连接，请[使用 office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 office
 
 - 暂时关闭防病毒软件
 

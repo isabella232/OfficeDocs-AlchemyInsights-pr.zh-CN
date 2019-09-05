@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523357"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739771"
 ---
 # <a name="having-email-delivery-issues"></a>遇到电子邮件传递问题？
 
@@ -26,9 +26,8 @@ ms.locfileid: "36523357"
   
 {HealthCheckString}
   
-域 (DNS) 设置的 NS 或 MX 记录未正确配置，使得电子邮件无法传递到 Office 365 服务。 可参阅[更新 Office 365 中的 DNS 记录](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)，了解有关详细说明。
+域 (DNS) 设置的 NS 或 MX 记录未正确配置，使得电子邮件无法传递到 Office 365 服务。 有关详细说明，可参阅[在任何 DNS 托管提供商处为 Office 365 创建 DNS 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
   
 若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。
   
-[查看域常见问题解答](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx)，了解其他常见解决方案。
   

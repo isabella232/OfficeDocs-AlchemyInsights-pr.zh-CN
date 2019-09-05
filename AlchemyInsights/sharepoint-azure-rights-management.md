@@ -1,29 +1,29 @@
 ---
 title: 在 SharePoint 或 OneDrive 中限制访问权限
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504201"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751734"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>对 SharePoint 文件的 IRM 保护
 
 
-在 SharePoint Online 中, IRM 保护应用于列表和库级别的文件。 您的组织可以使用 IRM 保护之前, 必须先设置权限管理。 IRM 依赖 azure 权限管理服务 (来自 Azure 信息保护) 来加密和分配使用限制。 一些 Office 365 计划包括 Azure 权限管理, 但并非全部。 
+在 SharePoint Online 中，IRM 保护应用于列表和库级别的文件。 您的组织可以使用 IRM 保护之前，必须先设置权限管理。 IRM 依赖 azure 权限管理服务（来自 Azure 信息保护）来加密和分配使用限制。 一些 Office 365 计划包括 Azure 权限管理，但并非全部。 
 
 有关详细信息，请参阅：
 
 - [Office 应用程序和服务如何支持 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。
 
-- [在 SharePoint 管理中心中设置信息权限管理 (IRM)](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
+- [在 SharePoint 管理中心中设置信息权限管理（IRM）](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)。
 
 - [IRM-启用 SharePoint 文档库和列表](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。
 

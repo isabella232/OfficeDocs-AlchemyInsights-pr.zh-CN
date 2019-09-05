@@ -1,22 +1,22 @@
 ---
 title: 同步用户的个人资料图片
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f86606b86a4493730e68e50a6a965f1441556aed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 77b956c6239ee5d97e1358986807180055ee0525
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543670"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753678"
 ---
 # <a name="sync-a-users-profile-picture"></a>同步用户的个人资料图片
 
-您可以从 Office.com 中添加或更改您的个人资料365照片, 也可以在您的计算机上或在您的手机上的浏览器中使用 Office 365 应用程序。 此处的照片将显示在 Office 365 中的个人资料照片圆圈的任何位置。
+您可以从 Office.com 中添加或更改您的个人资料365照片，也可以在您的计算机上或在您的手机上的浏览器中使用 Office 365 应用程序。 此处的照片将显示在 Office 365 中的个人资料照片圆圈的任何位置。
 
 将个人资料照片添加到 Office 365 for business
 
@@ -26,9 +26,9 @@ ms.locfileid: "36543670"
 
 - 选择显示您的缩写或某人图标的页面右上角的圆圈。
 
-在 "我的帐户" 窗格中, 选择显示你的缩写或人员的图标的圆圈。 在出现的弹出窗口中更改您的照片。
+在 "我的帐户" 窗格中，选择显示你的缩写或人员的图标的圆圈。 在出现的弹出窗口中更改您的照片。
 
-注意: 如果已上载图片, 可能需要尝试单击 SharePoint 或 OneDrive 磁贴以重新同步该图片。
+注意：如果已上载图片，可能需要尝试单击 SharePoint 或 OneDrive 磁贴以重新同步该图片。
 
-有关详细信息, 请访问[有关 Office 365 中的配置文件图片同步的信息](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)
+有关详细信息，请访问[有关 Office 365 中的配置文件图片同步的信息](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

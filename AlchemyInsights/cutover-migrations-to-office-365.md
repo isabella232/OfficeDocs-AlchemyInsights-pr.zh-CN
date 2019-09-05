@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: f50ac52c030a04b1125cff751b5b3e9dc538a566
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a2017060fceecf3172facc4cd75f52fc2e07f9f3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903747"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740563"
 ---
 # <a name="cutover-migrations-to-office-365"></a>到 Office 365 的直接转换迁移
 
-注册 Office 365 时, 可将用户邮箱的内容从本地 Exchange 组织迁移到 Office 365。 当你一次性执行此操作时, 它称为直接转换迁移。 如果你运行的是受支持的 Exchange 版本且邮箱少于2000个, 则直接转换迁移可能非常适合你。 若要了解有关直接转换迁移的详细信息, 请参阅[到 Office 365 的直接转换迁移](https://support.office.com/article/9496e93c-1e59-41a8-9bb3-6e8df0cd81b4.aspx)。
+注册 Office 365 时, 可将用户邮箱的内容从本地 Exchange 组织迁移到 Office 365。 当你一次性执行此操作时, 它称为直接转换迁移。 如果你运行的是受支持的 Exchange 版本且邮箱数少于 2,000 个，则直接转换迁移可能适合你。 要详细了解直接转换迁移，请参阅[使用 Exchange 直接转换方法迁移电子邮件](https://docs.microsoft.com/Exchange/mailbox-migration/cutover-migration-to-office-365)。
   

@@ -13,18 +13,18 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: f159770bc8f68344fac1386d4a8b5bd24282373f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499737"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737395"
 ---
 # <a name="adding-external-users"></a>添加外部用户
 
-添加外部/来宾用户的步骤可能会有所不同, 具体取决于您需要他们能够访问的内容。 请选择以下选项之一:
+添加外部/来宾用户的步骤可能会有所不同，具体取决于您需要他们能够访问的内容。 请选择以下选项之一：
   
-- [管理 SharePoint Online 环境的外部共享](https://support.office.com/article/manage-external-sharing-for-your-sharepoint-online-environment-c8a462eb-0723-4b0b-8d0a-70feafe4be85)
+- [外部共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
 - [Office 365 组中的来宾访问](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 

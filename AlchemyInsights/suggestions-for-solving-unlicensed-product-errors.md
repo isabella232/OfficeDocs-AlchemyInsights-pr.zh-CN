@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501033"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743263"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>解决 "未经许可的产品" 错误的建议
 
-确保您有一个允许客户端许可证 (如 Office 365 商业版或商业高级版) 的订阅, 并[确保用户已分配许可证](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)。 [停用安装](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA)以检查是否已超过您的订阅支持的安装数。
+确保您有一个允许客户端许可证（如 Office 365 商业版或商业高级版）的订阅，并[确保用户已分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。 [停用安装](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)以检查是否已超过您的订阅支持的安装数。
   
 确保用户使用已分配许可证的同一帐户进行登录。
   
@@ -34,5 +34,5 @@ ms.locfileid: "36501033"
   
 [执行 Office 的联机修复](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)。
   
-有关其他故障排除解决方案, 请参阅: [Office 中的无许可证产品和激活错误](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)。
+有关其他故障排除解决方案，请参阅： [Office 中的无许可证产品和激活错误](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)。
   
