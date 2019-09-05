@@ -1,34 +1,34 @@
 ---
 title: 同步用户的个人资料图片
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f86606b86a4493730e68e50a6a965f1441556aed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 77b956c6239ee5d97e1358986807180055ee0525
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543670"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753678"
 ---
-# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="8fd2e-102">同步用户的个人资料图片</span><span class="sxs-lookup"><span data-stu-id="8fd2e-102">Sync a user's profile picture</span></span>
+# <a name="sync-a-users-profile-picture"></a><span data-ttu-id="68cbe-102">同步用户的个人资料图片</span><span class="sxs-lookup"><span data-stu-id="68cbe-102">Sync a user's profile picture</span></span>
 
-<span data-ttu-id="8fd2e-103">您可以从 Office.com 中添加或更改您的个人资料365照片, 也可以在您的计算机上或在您的手机上的浏览器中使用 Office 365 应用程序。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-103">You can add or change your profile photo in Office 365 from Office.com, or while using Office 365 applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="8fd2e-104">此处的照片将显示在 Office 365 中的个人资料照片圆圈的任何位置。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-104">Your photo will appear everywhere there's a profile photo circle in Office 365.</span></span>
+<span data-ttu-id="68cbe-103">您可以从 Office.com 中添加或更改您的个人资料365照片，也可以在您的计算机上或在您的手机上的浏览器中使用 Office 365 应用程序。</span><span class="sxs-lookup"><span data-stu-id="68cbe-103">You can add or change your profile photo in Office 365 from Office.com, or while using Office 365 applications on your computer or in a browser on your phone.</span></span> <span data-ttu-id="68cbe-104">此处的照片将显示在 Office 365 中的个人资料照片圆圈的任何位置。</span><span class="sxs-lookup"><span data-stu-id="68cbe-104">Your photo will appear everywhere there's a profile photo circle in Office 365.</span></span>
 
-<span data-ttu-id="8fd2e-105">将个人资料照片添加到 Office 365 for business</span><span class="sxs-lookup"><span data-stu-id="8fd2e-105">To add your profile photo to Office 365 for business</span></span>
+<span data-ttu-id="68cbe-105">将个人资料照片添加到 Office 365 for business</span><span class="sxs-lookup"><span data-stu-id="68cbe-105">To add your profile photo to Office 365 for business</span></span>
 
-- <span data-ttu-id="8fd2e-106">查找要使用的照片并将其存储在你的计算机、OneDrive 或你可以访问的其他位置。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to.</span></span>
+- <span data-ttu-id="68cbe-106">查找要使用的照片并将其存储在你的计算机、OneDrive 或你可以访问的其他位置。</span><span class="sxs-lookup"><span data-stu-id="68cbe-106">Find a photo you want to use and store it on your computer, OneDrive, or other location you can get to.</span></span>
 
-- <span data-ttu-id="8fd2e-107">在[office.com](http://www.office.com)中使用您的工作或学校帐户登录 Office 365。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-107">Sign into Office 365 with your work or school account at [office.com](http://www.office.com).</span></span>
+- <span data-ttu-id="68cbe-107">在[office.com](http://www.office.com)中使用您的工作或学校帐户登录 Office 365。</span><span class="sxs-lookup"><span data-stu-id="68cbe-107">Sign into Office 365 with your work or school account at [office.com](http://www.office.com).</span></span>
 
-- <span data-ttu-id="8fd2e-108">选择显示您的缩写或某人图标的页面右上角的圆圈。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
+- <span data-ttu-id="68cbe-108">选择显示您的缩写或某人图标的页面右上角的圆圈。</span><span class="sxs-lookup"><span data-stu-id="68cbe-108">Select the circle in the upper right-hand corner of the page that shows your initials or an icon of a person.</span></span>
 
-<span data-ttu-id="8fd2e-109">在 "我的帐户" 窗格中, 选择显示你的缩写或人员的图标的圆圈。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="8fd2e-110">在出现的弹出窗口中更改您的照片。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-110">Change your photo in the pop-up that appears.</span></span>
+<span data-ttu-id="68cbe-109">在 "我的帐户" 窗格中，选择显示你的缩写或人员的图标的圆圈。</span><span class="sxs-lookup"><span data-stu-id="68cbe-109">In the My accounts pane, select the circle that shows your initials or an icon of a person.</span></span> <span data-ttu-id="68cbe-110">在出现的弹出窗口中更改您的照片。</span><span class="sxs-lookup"><span data-stu-id="68cbe-110">Change your photo in the pop-up that appears.</span></span>
 
-<span data-ttu-id="8fd2e-111">注意: 如果已上载图片, 可能需要尝试单击 SharePoint 或 OneDrive 磁贴以重新同步该图片。</span><span class="sxs-lookup"><span data-stu-id="8fd2e-111">Note: If you have already uploaded a picture you may want to try clicking the SharePoint or OneDrive tile to re-sync that picture.</span></span>
+<span data-ttu-id="68cbe-111">注意：如果已上载图片，可能需要尝试单击 SharePoint 或 OneDrive 磁贴以重新同步该图片。</span><span class="sxs-lookup"><span data-stu-id="68cbe-111">Note: If you have already uploaded a picture you may want to try clicking the SharePoint or OneDrive tile to re-sync that picture.</span></span>
 
-<span data-ttu-id="8fd2e-112">有关详细信息, 请访问[有关 Office 365 中的配置文件图片同步的信息](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)</span><span class="sxs-lookup"><span data-stu-id="8fd2e-112">For more information, please visit [Information about profile picture synchronization in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a?ui=en-US&amp;rs=en-US&amp;ad=US)</span></span>
+<span data-ttu-id="68cbe-112">有关详细信息，请访问[有关 Office 365 中的配置文件图片同步的信息](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)</span><span class="sxs-lookup"><span data-stu-id="68cbe-112">For more information, please visit [Information about profile picture synchronization in Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)</span></span>
 
