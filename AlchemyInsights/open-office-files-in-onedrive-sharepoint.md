@@ -1,6 +1,6 @@
 ---
 title: 从 Sharepoint 或 OneDrive 打开文件时出现的问题
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/5/2018
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 5602212d4426d3f8cfb5a9f627fdaa47f5926532
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50a4888a3f8b366101cefeae6b382c728994d8a0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548381"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753030"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>从 Sharepoint 或 OneDrive 打开文件时出现的问题 
 
 
-如果您在从 SharePoint 或 OneDrive 文档库打开 Office 文件和文档时遇到问题, 下面是一些帮助您解决这些问题的建议。
+如果您在从 SharePoint 或 OneDrive 文档库打开 Office 文件和文档时遇到问题，下面是一些帮助您解决这些问题的建议。
 
 - [检查文件限制以确保文件受支持](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
@@ -31,5 +31,5 @@ ms.locfileid: "36548381"
 
 - [在 Office 上运行修复](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-有关详细信息或详细信息, 请查看文章[修复问题在 SharePoint 库中打开文档](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+有关详细信息或详细信息，请查看文章[修复问题在 SharePoint 库中打开文档](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
