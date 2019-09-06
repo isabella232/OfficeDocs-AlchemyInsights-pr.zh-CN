@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 82389dfe7cd1ea3baf5549b11f72a02c1a2c00ee
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e141366c3130c529b1b4322813100002b220c9da
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393675"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734479"
 ---
 # <a name="compromised-email-accounts"></a>被泄露的电子邮件帐户
 
@@ -27,4 +27,4 @@ ms.locfileid: "32393675"
 
 - **启用邮箱审核日志记录**：邮箱审核日志记录能更轻松地跟踪用户帐户泄露时发生的事。
 
-有关详细信息，请参阅 [Office 365 安全性最佳做法](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx)。
+有关详细信息，请参阅 [Office 365 安全路线图](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)。

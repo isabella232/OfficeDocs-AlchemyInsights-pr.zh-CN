@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515941"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736495"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>创建和使用共享邮箱
 
-共享邮箱允许多个人发送和接收别名电子邮件 (如**sales@contoso.com**), 而无需分配另一个许可证。
+共享邮箱允许多个人发送和接收别名电子邮件（如**sales@contoso.com**），而无需分配另一个许可证。
   
-[创建共享邮箱](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9)说明如何执行以下操作: 
+[创建共享邮箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)说明如何执行以下操作： 
   
 - 创建共享邮箱
     
