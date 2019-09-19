@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666794"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035745"
 ---
 # <a name="in-app-support-in-outlook-for-mac"></a>Outlook for Mac 中的应用程序内支持
 
-若要接收适用于 Outlook for Mac 问题的支持, 请打开 outlook 并单击 "**帮助** \> " "**联系支持**"。 键入您的问题, Outlook for Mac 支持团队中的成员将与你联系。 
+若要接收适用于 Outlook for Mac 问题的支持，请打开 outlook 并单击 "**帮助** \> " "**联系支持**"。 键入您的问题，Outlook for Mac 支持团队中的成员将与你联系。 
 
-[在 Outlook for Mac 中联系支持人员](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+了解详细信息：[在 Outlook For Mac 中联系支持](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)人员
