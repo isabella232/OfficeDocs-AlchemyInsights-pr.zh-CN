@@ -15,20 +15,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: da35b257bb6aad9e3994dba562f9b8e86d08a693
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: f8b2bcebf875df2ff64521b0a489aa1aff50e0be
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741823"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122132"
 ---
 # <a name="using-a-shared-mailbox-on-a-mobile-device"></a>在移动设备上使用共享邮箱
 
-无法从安装在移动设备上的 Outlook 应用程序访问共享邮箱。 是否需要此功能？ 让 Outlook 工程团队知道。 [在此处投票](https://go.microsoft.com/fwlink/?linked=862116)！
+为了在移动设备上使用共享邮箱，应[下载 outlook mobile](https://products.office.com/en-us/outlook-mobile-for-android-and-ios) ，然后[将共享邮箱添加到 outlook mobile](https://support.office.com/en-us/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)。
   
-您只能在移动设备上使用共享邮箱，方法是打开浏览器，登录到 Office 365，然后转到 web 上的 Outlook。 有关说明，请参阅[在 web 上的 Outlook 中添加共享邮箱](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)。
-  
-如果必须使用移动设备上的 Outlook 应用程序访问共享邮箱，请考虑创建 Office 365 组，而不是使用共享邮箱。 有关详细信息，请参阅[比较组](https://docs.microsoft.com/office365/admin/create-groups/compare-groups)。
-  
-了解详细信息：获取适用于[iOS 和 Android 的 Outlook 相关应用程序帮助](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+若要获取帮助：获取适用于[iOS 和 Outlook For Android 的应用程序帮助](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
