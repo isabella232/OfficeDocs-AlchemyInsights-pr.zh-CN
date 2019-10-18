@@ -18,9 +18,9 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36740239"
 ---
-# <a name="email-forwarding-report"></a><span data-ttu-id="e7f98-102">电子邮件转发报告</span><span class="sxs-lookup"><span data-stu-id="e7f98-102">Email forwarding report</span></span>
+# <a name="email-forwarding-report"></a><span data-ttu-id="5ae91-102">电子邮件转发报告</span><span class="sxs-lookup"><span data-stu-id="5ae91-102">Email forwarding report</span></span>
 
-<span data-ttu-id="e7f98-103">若要查看有关组织中有多少自动转发邮件的报告，请查看 [Office 365 安全 &amp; 合规中心](https://protection.office.com/#/homepage)中的[邮件流见解](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2)。</span><span class="sxs-lookup"><span data-stu-id="e7f98-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2) in the [Office 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
+<span data-ttu-id="5ae91-103">若要查看有关组织中有多少自动转发邮件的报告，请查看 [Office 365 安全 &amp; 合规中心](https://protection.office.com/#/homepage)中的[邮件流见解](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2)。</span><span class="sxs-lookup"><span data-stu-id="5ae91-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2) in the [Office 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
   
-<span data-ttu-id="e7f98-104">请注意：如果这是你首次登录安全 &amp; 合规中心，则可能需要在几分钟后刷新浏览器以查看所有可用选项。</span><span class="sxs-lookup"><span data-stu-id="e7f98-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
+<span data-ttu-id="5ae91-104">请注意：如果这是你首次登录安全 &amp; 合规中心，则可能需要在几分钟后刷新浏览器以查看所有可用选项。</span><span class="sxs-lookup"><span data-stu-id="5ae91-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
   

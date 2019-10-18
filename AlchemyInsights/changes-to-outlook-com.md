@@ -17,10 +17,10 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520621"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="11397-102">了解新的 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="11397-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="e2f45-102">了解新的 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e2f45-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="11397-103">[详细了解](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409)新版 Outlook.com 中的更改内容或在下框中进行搜索。</span><span class="sxs-lookup"><span data-stu-id="11397-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="e2f45-103">[详细了解](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409)新版 Outlook.com 中的更改内容或在下框中进行搜索。</span><span class="sxs-lookup"><span data-stu-id="e2f45-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="11397-104">向下滚动以查看结果。</span><span class="sxs-lookup"><span data-stu-id="11397-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="e2f45-104">向下滚动以查看结果。</span><span class="sxs-lookup"><span data-stu-id="e2f45-104">Scroll down to see the results.</span></span>
   
 
