@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555367"
 ---
 # <a name="enable-password-sync"></a>启用密码同步
 
 1.  在 Microsoft 365 管理中心主页上选择 " **DirSync 状态**"。 
     
-     *或者, 您可以转到**用户** \> **活动用户**, 并在 "活动用户" 页上选择 "**更多** \> **目录同步"。*** 
+     *或者，您可以转到**用户** \> **活动用户**，并在 "活动用户" 页上选择 "**更多** \> **目录同步"。*** 
     
-2. 在 "目录同步" 窗格中, 选择 "**转到 DirSync management**"。 
+2. 在 "目录同步" 窗格中，选择 "**转到 DirSync management**"。 
     
-3. 现在, 你将看到你的状态并进行更改:
+3. 现在，你将看到你的状态并进行更改：
     
-    **启用密码同步:**(True 或 False)。 指定是否在本地和 Office 365 租户之间启用密码同步。 
+    **启用密码同步：** （True 或 False）。 指定是否在本地和 Office 365 租户之间启用密码同步。 
     
-    **上次密码同步:**(上一次运行密码同步)。 如果上一次同步的时间超过三天, 这将显示一条警告和指向故障排除工具的链接。 
+    **上次密码同步：** （上次运行密码同步的时间）。 如果上一次同步的时间超过三天，这将显示一条警告和指向故障排除工具的链接。 
     
 

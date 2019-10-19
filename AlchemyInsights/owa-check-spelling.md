@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510541"
 ---
 # <a name="use-your-browser-to-check-spelling"></a>使用浏览器检查拼写
 
-Web 上的 Outlook 中没有拼写检查选项。 若要检查拼写, 您需要使用 web 浏览器。 在 Microsoft Edge、Internet Explorer 10 及更高版本以及 Firefox、Chrome 和 Safari 的当前版本中均提供拼写检查。 检查 web 浏览器的选项以了解有关如何检查拼写的详细信息。
+Web 上的 Outlook 中没有拼写检查选项。 若要检查拼写，您需要使用 web 浏览器。 在 Microsoft Edge、Internet Explorer 10 及更高版本以及 Firefox、Chrome 和 Safari 的当前版本中均提供拼写检查。 检查 web 浏览器的选项以了解有关如何检查拼写的详细信息。
