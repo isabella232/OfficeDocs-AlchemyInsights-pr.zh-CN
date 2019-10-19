@@ -8,19 +8,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36755550"
 ---
-# <a name="conditional-access"></a><span data-ttu-id="4a577-102">条件访问</span><span class="sxs-lookup"><span data-stu-id="4a577-102">Conditional Access</span></span>
+# <a name="conditional-access"></a><span data-ttu-id="2b36b-102">条件访问</span><span class="sxs-lookup"><span data-stu-id="2b36b-102">Conditional Access</span></span>
 
-<span data-ttu-id="4a577-103">条件访问是 Azure Active Directory 的功能。</span><span class="sxs-lookup"><span data-stu-id="4a577-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="4a577-104">通过条件访问，您可以实现自动访问控制决策，以访问基于条件的云应用。</span><span class="sxs-lookup"><span data-stu-id="4a577-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="4a577-105">有关详细信息，请访问[配置基于位置的策略](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)。</span><span class="sxs-lookup"><span data-stu-id="4a577-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
+<span data-ttu-id="2b36b-103">条件访问是 Azure Active Directory 的功能。</span><span class="sxs-lookup"><span data-stu-id="2b36b-103">Conditional access is a capability of Azure Active Directory.</span></span> <span data-ttu-id="2b36b-104">通过条件访问，您可以实现自动访问控制决策，以访问基于条件的云应用。</span><span class="sxs-lookup"><span data-stu-id="2b36b-104">With conditional access, you can implement automated access control decisions for accessing your cloud apps that are based on conditions.</span></span> <span data-ttu-id="2b36b-105">有关详细信息，请访问[配置基于位置的策略](https://docs.microsoft.com/azure/active-directory/conditional-access/overview)。</span><span class="sxs-lookup"><span data-stu-id="2b36b-105">For more information, please visit [Configuring Location-Based Policies](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).</span></span>
 
-<span data-ttu-id="4a577-106">作为 IT 管理员，您还可以根据您信任的定义的网络位置或设备来控制对 SharePoint 和 OneDrive 资源的访问。</span><span class="sxs-lookup"><span data-stu-id="4a577-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="4a577-107">有关详细信息，请访问下面的链接。</span><span class="sxs-lookup"><span data-stu-id="4a577-107">For more information, please visit the links below.</span></span>
+<span data-ttu-id="2b36b-106">作为 IT 管理员，您还可以根据您信任的定义的网络位置或设备来控制对 SharePoint 和 OneDrive 资源的访问。</span><span class="sxs-lookup"><span data-stu-id="2b36b-106">As an IT admin, you can also control access to SharePoint and OneDrive resources based on defined network locations or devices you trust.</span></span> <span data-ttu-id="2b36b-107">有关详细信息，请访问下面的链接。</span><span class="sxs-lookup"><span data-stu-id="2b36b-107">For more information, please visit the links below.</span></span>
 
-- [<span data-ttu-id="4a577-108">基于网络位置控制对 SharePoint Online 和 OneDrive 数据的访问</span><span class="sxs-lookup"><span data-stu-id="4a577-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [<span data-ttu-id="2b36b-108">基于网络位置控制对 SharePoint Online 和 OneDrive 数据的访问</span><span class="sxs-lookup"><span data-stu-id="2b36b-108">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [<span data-ttu-id="4a577-109">通过非托管设备控制访问</span><span class="sxs-lookup"><span data-stu-id="4a577-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="2b36b-109">通过非托管设备控制访问</span><span class="sxs-lookup"><span data-stu-id="2b36b-109">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

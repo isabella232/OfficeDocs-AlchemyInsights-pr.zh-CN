@@ -1,5 +1,5 @@
 ---
-title: 有关如何使用 Office 部署工具 (ODT) 的问题
+title: 有关如何使用 Office 部署工具（ODT）的问题
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,21 +10,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: 604fc200517316de6e0194bd64e6eb3039cfa61b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36553530"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="20366-102">有关如何使用 Office 部署工具 (ODT) 的问题</span><span class="sxs-lookup"><span data-stu-id="20366-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="6860a-102">有关如何使用 Office 部署工具（ODT）的问题</span><span class="sxs-lookup"><span data-stu-id="6860a-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="20366-103">[从 Microsoft 下载中心](http://go.microsoft.com/fwlink/p/?LinkID=626065)下载 Office 部署工具。</span><span class="sxs-lookup"><span data-stu-id="20366-103">Download the Office Deployment Tool from the [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="6860a-103">[从 Microsoft 下载中心](http://go.microsoft.com/fwlink/p/?LinkID=626065)下载 Office 部署工具。</span><span class="sxs-lookup"><span data-stu-id="6860a-103">Download the Office Deployment Tool from the [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="20366-104">下载文件后，运行自解压缩可执行文件，其中包含 Office 部署工具可执行文件 (setup.exe) 和一个示例配置文件 (configuration.xml)。</span><span class="sxs-lookup"><span data-stu-id="20366-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="6860a-104">下载文件后，运行自解压缩可执行文件，其中包含 Office 部署工具可执行文件 (setup.exe) 和一个示例配置文件 (configuration.xml)。</span><span class="sxs-lookup"><span data-stu-id="6860a-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="20366-105">**若要从客户端计算机中排除或删除 Office 365 专业增强版产品:**</span><span class="sxs-lookup"><span data-stu-id="20366-105">**To exclude or remove Office 365 ProPlus products from client computers:**</span></span>
+ <span data-ttu-id="6860a-105">**若要从客户端计算机中排除或删除 Office 365 专业增强版产品：**</span><span class="sxs-lookup"><span data-stu-id="6860a-105">**To exclude or remove Office 365 ProPlus products from client computers:**</span></span>
   
-<span data-ttu-id="20366-p101">安装 Office 365 ProPlus 时可以排除特定的产品。若要执行此操作，请按照使用 ODT 安装 Office 的步骤，但是将 ExcludeApp 元素包括在你的配置文件中。例如，此配置文件安装除 Publisher 以外的所有 Office 365 ProPlus 产品。</span><span class="sxs-lookup"><span data-stu-id="20366-p101">When installing Office 365 ProPlus, you can exclude specific products. To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file. For example, this configuration file installs all the Office 365 ProPlus products except Publisher:</span></span>
+<span data-ttu-id="6860a-p101">安装 Office 365 ProPlus 时可以排除特定的产品。若要执行此操作，请按照使用 ODT 安装 Office 的步骤，但是将 ExcludeApp 元素包括在你的配置文件中。例如，此配置文件安装除 Publisher 以外的所有 Office 365 ProPlus 产品。</span><span class="sxs-lookup"><span data-stu-id="6860a-p101">When installing Office 365 ProPlus, you can exclude specific products. To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file. For example, this configuration file installs all the Office 365 ProPlus products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +35,6 @@ ms.locfileid: "36553530"
 </Add>
 ```
 
-[<span data-ttu-id="20366-109">Office 部署工具概述</span><span class="sxs-lookup"><span data-stu-id="20366-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
+[<span data-ttu-id="6860a-109">Office 部署工具概述</span><span class="sxs-lookup"><span data-stu-id="6860a-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)
   
 

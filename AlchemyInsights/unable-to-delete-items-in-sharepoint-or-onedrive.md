@@ -12,25 +12,25 @@ ms.custom:
 - "9000255"
 ms.assetid: ''
 ms.openlocfilehash: 3cc168846999c6880b95edfaedb2df8cf6e843a6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36748524"
 ---
-# <a name="unable-to-delete-items"></a><span data-ttu-id="5675b-102">无法删除项目</span><span class="sxs-lookup"><span data-stu-id="5675b-102">Unable to delete items</span></span>
+# <a name="unable-to-delete-items"></a><span data-ttu-id="18b4d-102">无法删除项目</span><span class="sxs-lookup"><span data-stu-id="18b4d-102">Unable to delete items</span></span>
 
-<span data-ttu-id="5675b-103">删除 SharePoint 项时遇到问题？</span><span class="sxs-lookup"><span data-stu-id="5675b-103">Having issues deleting SharePoint items?</span></span>
+<span data-ttu-id="18b4d-103">删除 SharePoint 项时遇到问题？</span><span class="sxs-lookup"><span data-stu-id="18b4d-103">Having issues deleting SharePoint items?</span></span>
 
-- <span data-ttu-id="5675b-104">请始终确保你具有删除项目的[相应权限](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)，或让[网站集管理员](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator)尝试删除该项目。</span><span class="sxs-lookup"><span data-stu-id="5675b-104">Always make sure you have the [appropriate permissions](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) to delete the item or have a [site collection administrator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) attempt remove the item.</span></span>
+- <span data-ttu-id="18b4d-104">请始终确保你具有删除项目的[相应权限](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)，或让[网站集管理员](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator)尝试删除该项目。</span><span class="sxs-lookup"><span data-stu-id="18b4d-104">Always make sure you have the [appropriate permissions](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) to delete the item or have a [site collection administrator](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) attempt remove the item.</span></span>
 
-- <span data-ttu-id="5675b-105">确保项目上没有[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)设置。</span><span class="sxs-lookup"><span data-stu-id="5675b-105">Ensure that there is not a [retention policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup on the item.</span></span>
+- <span data-ttu-id="18b4d-105">确保项目上没有[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)设置。</span><span class="sxs-lookup"><span data-stu-id="18b4d-105">Ensure that there is not a [retention policy](https://docs.microsoft.com/office365/securitycompliance/retention-policies) setup on the item.</span></span>
 
-- <span data-ttu-id="5675b-106">确保该项目未[签出](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)给其他用户。</span><span class="sxs-lookup"><span data-stu-id="5675b-106">Ensure the item is not [checked out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) to another user.</span></span>
+- <span data-ttu-id="18b4d-106">确保该项目未[签出](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)给其他用户。</span><span class="sxs-lookup"><span data-stu-id="18b4d-106">Ensure the item is not [checked out](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) to another user.</span></span>
 
-- <span data-ttu-id="5675b-107">最后，管理员可以使用[SharePoint 模式和做法](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation)（PnP），其中包含一个 PowerShell 命令库，这些命令允许您执行复杂的管理操作，例如强制删除 stubborn 项目。</span><span class="sxs-lookup"><span data-stu-id="5675b-107">Finally, administrators can use [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) which contains a library of PowerShell commands that allow you to perform complex management actions such as force deleting stubborn items.</span></span>
-- [<span data-ttu-id="5675b-108">删除 PNP 文件</span><span class="sxs-lookup"><span data-stu-id="5675b-108">Remove PNP File</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
-- [<span data-ttu-id="5675b-109">删除 PNP 文件夹</span><span class="sxs-lookup"><span data-stu-id="5675b-109">Remove PNP Folder</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
-- [<span data-ttu-id="5675b-110">删除 PNP 列表项</span><span class="sxs-lookup"><span data-stu-id="5675b-110">Remove PNP List Item</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
-- [<span data-ttu-id="5675b-111">删除 PNP 列表</span><span class="sxs-lookup"><span data-stu-id="5675b-111">Remove PNP List</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
-- [<span data-ttu-id="5675b-112">删除 PNP 字段（列）</span><span class="sxs-lookup"><span data-stu-id="5675b-112">Remove PNP Field (Column)</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)
+- <span data-ttu-id="18b4d-107">最后，管理员可以使用[SharePoint 模式和做法](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation)（PnP），其中包含一个 PowerShell 命令库，这些命令允许您执行复杂的管理操作，例如强制删除 stubborn 项目。</span><span class="sxs-lookup"><span data-stu-id="18b4d-107">Finally, administrators can use [SharePoint Patterns and Practices](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PnP) which contains a library of PowerShell commands that allow you to perform complex management actions such as force deleting stubborn items.</span></span>
+- [<span data-ttu-id="18b4d-108">删除 PNP 文件</span><span class="sxs-lookup"><span data-stu-id="18b4d-108">Remove PNP File</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
+- [<span data-ttu-id="18b4d-109">删除 PNP 文件夹</span><span class="sxs-lookup"><span data-stu-id="18b4d-109">Remove PNP Folder</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
+- [<span data-ttu-id="18b4d-110">删除 PNP 列表项</span><span class="sxs-lookup"><span data-stu-id="18b4d-110">Remove PNP List Item</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
+- [<span data-ttu-id="18b4d-111">删除 PNP 列表</span><span class="sxs-lookup"><span data-stu-id="18b4d-111">Remove PNP List</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplist?view=sharepoint-ps)
+- [<span data-ttu-id="18b4d-112">删除 PNP 字段（列）</span><span class="sxs-lookup"><span data-stu-id="18b4d-112">Remove PNP Field (Column)</span></span>](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfield?view=sharepoint-ps)

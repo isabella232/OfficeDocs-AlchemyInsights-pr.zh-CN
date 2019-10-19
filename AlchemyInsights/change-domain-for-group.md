@@ -14,14 +14,14 @@ ms.custom:
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
 ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736819"
 ---
-# <a name="change-the-domain-for-office-365-group"></a><span data-ttu-id="5da32-102">更改 Office 365 组的域</span><span class="sxs-lookup"><span data-stu-id="5da32-102">Change the domain for Office 365 Group</span></span>
+# <a name="change-the-domain-for-office-365-group"></a><span data-ttu-id="666ed-102">更改 Office 365 组的域</span><span class="sxs-lookup"><span data-stu-id="666ed-102">Change the domain for Office 365 Group</span></span>
 
-<span data-ttu-id="5da32-103">如果要在创建过程中更改 Office 365 组的域，请按照[选择创建 Office 365 组时要使用的域](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="5da32-103">If you want to change the domain for an Office 365 Group during creation, follow the steps in [Choose the domain to use when creating Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).</span></span>
+<span data-ttu-id="666ed-103">如果要在创建过程中更改 Office 365 组的域，请按照[选择创建 Office 365 组时要使用的域](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups)中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="666ed-103">If you want to change the domain for an Office 365 Group during creation, follow the steps in [Choose the domain to use when creating Office 365 Groups](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).</span></span>
   
-<span data-ttu-id="5da32-104">在已创建 Office 365 组之后，目前无法更改域。</span><span class="sxs-lookup"><span data-stu-id="5da32-104">After the Office 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="5da32-105">唯一的方法是创建一个新的 Office 365 组，并在必要时删除旧的组（可以通过[Exchange 管理中心](https://outlook.office365.com/ecp.aspx)添加其他电子邮件地址）。</span><span class="sxs-lookup"><span data-stu-id="5da32-105">The only way is to create a new Office 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).</span></span>
+<span data-ttu-id="666ed-104">在已创建 Office 365 组之后，目前无法更改域。</span><span class="sxs-lookup"><span data-stu-id="666ed-104">After the Office 365 Group is already created, there is currently no way to change the domain.</span></span> <span data-ttu-id="666ed-105">唯一的方法是创建一个新的 Office 365 组，并在必要时删除旧的组（可以通过[Exchange 管理中心](https://outlook.office365.com/ecp.aspx)添加其他电子邮件地址）。</span><span class="sxs-lookup"><span data-stu-id="666ed-105">The only way is to create a new Office 365 Group and delete the old one if necessary (additional email addresses can be added through the [Exchange Admin Center](https://outlook.office365.com/ecp.aspx)).</span></span>
