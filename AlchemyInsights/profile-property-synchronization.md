@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
 ms.openlocfilehash: 3f2fd97bd357c6fd6a94cb9715a316ca7fd1bacf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554431"
 ---
 # <a name="profile-property-synchronization"></a>配置文件属性同步
 
-无法映射 AD 导入的其他属性以从 Azure Active Directory 同步到用户配置文件应用程序。 AD 导入仅限于预配置的一组属性, 以确保计时器作业的一致性能。
+无法映射 AD 导入的其他属性以从 Azure Active Directory 同步到用户配置文件应用程序。 AD 导入仅限于预配置的一组属性，以确保计时器作业的一致性能。
   
 [了解有关同步的配置文件属性的详细信息](https://go.microsoft.com/fwlink/?linkid=875671)
   

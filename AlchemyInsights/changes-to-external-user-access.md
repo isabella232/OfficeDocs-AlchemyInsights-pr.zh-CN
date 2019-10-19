@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
 ms.openlocfilehash: a136938d3962c0b49a8711b5940ed650c0903c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36520801"
 ---
 # <a name="changes-to-external-user-access"></a>对外部用户访问的更改
 
-从2018年3月23日起, 外部用户将无法再访问已与所有人共享的内容、所有经过身份验证的用户或所有表单用户, 即使这些用户已被邀请或添加到授权组也是如此。 外部用户将只能访问与用户共享的内容或与用户所属的组共享的内容。 如果你想要保留现有设置, 请参阅:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+从2018年3月23日起，外部用户将无法再访问已与所有人共享的内容、所有经过身份验证的用户或所有表单用户，即使这些用户已被邀请或添加到授权组也是如此。 外部用户将只能访问与用户共享的内容或与用户所属的组共享的内容。 如果你想要保留现有设置，请参阅：https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 

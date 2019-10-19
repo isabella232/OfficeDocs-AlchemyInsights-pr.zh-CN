@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519757"
 ---
 # <a name="change-app-license-quantity"></a>更改应用程序许可证数量
 
-您可以查看或更改已拥有的许可证数量, 并将其分配给 Microsoft 365 管理中心中的用户。 
+您可以查看或更改已拥有的许可证数量，并将其分配给 Microsoft 365 管理中心中的用户。 
 
 ## <a name="to-change-license-quantity"></a>更改许可证数量
 
-1. 转到 "**计费** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 然后选择 "**应用**" 选项卡。
+1. 转到 "**计费** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面，然后选择 "**应用**" 选项卡。
 
 2. 查找并选择要管理的应用程序。  
 
 3. 选择 "**添加/删除许可证**"。
 
-4. 输入所需的新数量的许可证。 例如, 如果您当前有5个许可证并且只需要4个, 请在 "**许可证总数**" 框中输入 "4"。 如果你当前有5个许可证, 并且需要10个总许可证, 请在 "**许可证总数**" 框中输入10。
+4. 输入所需的新数量的许可证。 例如，如果您当前有5个许可证并且只需要4个，请在 "**许可证总数**" 框中输入 "4"。 如果你当前有5个许可证，并且需要10个总许可证，请在 "**许可证总数**" 框中输入10。
 
 ## <a name="to-assign-app-licenses"></a>分配应用程序许可证
 
-1. 转到 "**计费** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面, 然后选择 "**应用**" 选项卡。
+1. 转到 "**计费** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面，然后选择 "**应用**" 选项卡。
 
 2. 查找并选择要管理的应用程序。  
 
-3. 在 "**设置" & "操作**" 下, 选择要**在 publisher 的门户中管理**的链接。
+3. 在 "**设置" & "操作**" 下，选择要**在 publisher 的门户中管理**的链接。

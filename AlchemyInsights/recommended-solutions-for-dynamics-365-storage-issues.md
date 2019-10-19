@@ -10,15 +10,15 @@ ms.custom:
 - "1429"
 - "6200006"
 ms.openlocfilehash: c3d1ce1f0da0710772456baeb63ba2cf1b834fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36509856"
 ---
 # <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>针对 Dynamics 365 存储问题的建议解决方案
 
-* 作为全局管理员, 查看按环境排列的存储细目, 前10个表, 等等
+* 作为全局管理员，查看按环境排列的存储细目，前10个表，等等
 
 * [存储帐单和订阅问题](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 

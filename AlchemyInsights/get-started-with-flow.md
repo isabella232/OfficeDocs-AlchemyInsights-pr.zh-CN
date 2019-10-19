@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46adf2ae-f55c-4ae5-9540-7fcfcb0a3e4f
 ms.openlocfilehash: 008f17cd8e266497ad339e79c2095e06d7184d67
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524185"
 ---
 # <a name="get-started-with-microsoft-flow"></a>Microsoft Flow 入门
 
-使用 Microsoft 流, 可以执行以下操作:
+使用 Microsoft 流，可以执行以下操作：
   
 - 轻松搜索模板和服务。
     
