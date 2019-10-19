@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557203"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a><span data-ttu-id="d50fe-102">在 web 上的 Outlook 中更改你的个人资料图片</span><span class="sxs-lookup"><span data-stu-id="d50fe-102">Change your profile picture in Outlook on the web</span></span>
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a><span data-ttu-id="312e4-102">在 web 上的 Outlook 中更改你的个人资料图片</span><span class="sxs-lookup"><span data-stu-id="312e4-102">Change your profile picture in Outlook on the web</span></span>
 
-1. <span data-ttu-id="d50fe-103">在页面顶部, 选择您的姓名或个人资料图片。</span><span class="sxs-lookup"><span data-stu-id="d50fe-103">At the top of the page, select your name or profile picture.</span></span>
-1. <span data-ttu-id="d50fe-104">在 "**我的帐户**" 窗格中, 选择您的配置文件图片。</span><span class="sxs-lookup"><span data-stu-id="d50fe-104">In the **My account** pane, select your profile picture.</span></span>
-1. <span data-ttu-id="d50fe-105">在 "**更改照片**" 对话框中, 选择 "**上传新照片**"。</span><span class="sxs-lookup"><span data-stu-id="d50fe-105">In the **Change your photo** dialog, select **Upload a new photo**.</span></span>
-1. <span data-ttu-id="d50fe-106">选择要上传的照片并选择 "**应用**"。</span><span class="sxs-lookup"><span data-stu-id="d50fe-106">Choose a photo to upload and select **Apply**.</span></span>
+1. <span data-ttu-id="312e4-103">在页面顶部，选择您的姓名或个人资料图片。</span><span class="sxs-lookup"><span data-stu-id="312e4-103">At the top of the page, select your name or profile picture.</span></span>
+1. <span data-ttu-id="312e4-104">在 "**我的帐户**" 窗格中，选择您的配置文件图片。</span><span class="sxs-lookup"><span data-stu-id="312e4-104">In the **My account** pane, select your profile picture.</span></span>
+1. <span data-ttu-id="312e4-105">在 "**更改照片**" 对话框中，选择 "**上传新照片**"。</span><span class="sxs-lookup"><span data-stu-id="312e4-105">In the **Change your photo** dialog, select **Upload a new photo**.</span></span>
+1. <span data-ttu-id="312e4-106">选择要上传的照片并选择 "**应用**"。</span><span class="sxs-lookup"><span data-stu-id="312e4-106">Choose a photo to upload and select **Apply**.</span></span>
 
-<span data-ttu-id="d50fe-107">*注意:* 下次登录 Office 365 时, 将显示您的新照片。</span><span class="sxs-lookup"><span data-stu-id="d50fe-107">*Note:* Your new photo will appear the next time you sign in to Office 365.</span></span>
+<span data-ttu-id="312e4-107">*注意：* 下次登录 Office 365 时，将显示您的新照片。</span><span class="sxs-lookup"><span data-stu-id="312e4-107">*Note:* Your new photo will appear the next time you sign in to Office 365.</span></span>
 
-<span data-ttu-id="d50fe-108">有关详细信息, 请参阅[在 Outlook 网页版中更改您的照片和帐户信息](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)。</span><span class="sxs-lookup"><span data-stu-id="d50fe-108">For more information, see [Change your photo and account information in Outlook on the web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span></span>
+<span data-ttu-id="312e4-108">有关详细信息，请参阅[在 Outlook 网页版中更改您的照片和帐户信息](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec)。</span><span class="sxs-lookup"><span data-stu-id="312e4-108">For more information, see [Change your photo and account information in Outlook on the web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span></span>

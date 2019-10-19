@@ -12,23 +12,23 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739483"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="bd87a-102">如何禁用外部组</span><span class="sxs-lookup"><span data-stu-id="bd87a-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="9c736-102">如何禁用外部组</span><span class="sxs-lookup"><span data-stu-id="9c736-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="bd87a-103">Yammer 外部邮件应用 Exchange 传输规则（Etr），这是一组用于防止公司信息被共享的主动控制。</span><span class="sxs-lookup"><span data-stu-id="bd87a-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="bd87a-104">为了限制用户创建外部组，您需要配置 Exchange 传输规则（ETR），然后将 Yammer 配置为使用 Exchange 传输规则来阻止外部邮件。</span><span class="sxs-lookup"><span data-stu-id="bd87a-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="9c736-103">Yammer 外部邮件应用 Exchange 传输规则（Etr），这是一组用于防止公司信息被共享的主动控制。</span><span class="sxs-lookup"><span data-stu-id="9c736-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="9c736-104">为了限制用户创建外部组，您需要配置 Exchange 传输规则（ETR），然后将 Yammer 配置为使用 Exchange 传输规则来阻止外部邮件。</span><span class="sxs-lookup"><span data-stu-id="9c736-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="bd87a-105">在 Exchange Online 管理中心中创建规则后，请按照以下步骤设置 ETR 以在 Yammer 中应用：</span><span class="sxs-lookup"><span data-stu-id="bd87a-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="9c736-105">在 Exchange Online 管理中心中创建规则后，请按照以下步骤设置 ETR 以在 Yammer 中应用：</span><span class="sxs-lookup"><span data-stu-id="9c736-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="bd87a-106">以经验证的管理员身份登录到 Yammer，并在**Yammer 管理中心**中，转到 "C **Content And \> security security Settings"。**</span><span class="sxs-lookup"><span data-stu-id="bd87a-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="9c736-106">以经验证的管理员身份登录到 Yammer，并在**Yammer 管理中心**中，转到 "C **Content And \> security security Settings"。**</span><span class="sxs-lookup"><span data-stu-id="9c736-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="bd87a-107">在 "**外部邮件**" 下，选择 "在**Yammer 中强制实施 Exchange Online exchange 传输规则（etr）"。**</span><span class="sxs-lookup"><span data-stu-id="bd87a-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="9c736-107">在 "**外部邮件**" 下，选择 "在**Yammer 中强制实施 Exchange Online exchange 传输规则（etr）"。**</span><span class="sxs-lookup"><span data-stu-id="9c736-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="bd87a-108">选择“保存”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="bd87a-108">Choose **Save**.</span></span>
+- <span data-ttu-id="9c736-108">选择“保存”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="9c736-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="bd87a-109">有关详细信息，请参阅在[Yammer 网络中禁用外部消息](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。</span><span class="sxs-lookup"><span data-stu-id="bd87a-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
+<span data-ttu-id="9c736-109">有关详细信息，请参阅在[Yammer 网络中禁用外部消息](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。</span><span class="sxs-lookup"><span data-stu-id="9c736-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
   
