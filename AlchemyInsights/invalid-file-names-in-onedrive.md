@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36498189"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>OneDrive 和 SharePoint 中的文件和文件夹名称无效
 
-在文件和文件夹名称中不允许使用这些\*字符\< \> ":？ / \ | 
+在文件和文件夹名称中不允许使用这些\*字符\< \> "：？ / \ | 
   
-有些组织尚不支持 # 和% 启用。 若要了解如何在组织中允许这些字符, 请参阅[启用 # 和% Support](https://go.microsoft.com/fwlink/?linkid=862611)。 
+有些组织尚不支持 # 和% 启用。 若要了解如何在组织中允许这些字符，请参阅[启用 # 和% Support](https://go.microsoft.com/fwlink/?linkid=862611)。 
   
 [有关文件和文件夹名称限制的详细信息](https://go.microsoft.com/fwlink/?linkid=866430)
   

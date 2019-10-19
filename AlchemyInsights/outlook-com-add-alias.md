@@ -12,21 +12,21 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542691"
 ---
 # <a name="add-an-email-alias-in-outlookcom"></a>在 Outlook.com 中添加电子邮件别名
 
-别名是另一个电子邮件地址, 它使用与主电子邮件地址相同的收件箱、联系人列表和帐户设置。 您可以选择从哪个电子邮件地址发送邮件, 并且可以使用任何别名登录到您的 Outlook.com 帐户, 它们都使用相同的密码。
+别名是另一个电子邮件地址，它使用与主电子邮件地址相同的收件箱、联系人列表和帐户设置。 您可以选择从哪个电子邮件地址发送邮件，并且可以使用任何别名登录到您的 Outlook.com 帐户，它们都使用相同的密码。
 
-添加电子邮件地址:
+添加电子邮件地址：
 
-1. 转到 "[添加别名](https://go.microsoft.com/fwlink/p/?linkid=864833)"。 如果出现提示, 请登录你的 Microsoft 帐户。
-2. 在 "**添加别名**" 下, 可以:
-    1. 创建一个新的 Outlook.com 电子邮件地址, 并将其添加为别名。
+1. 转到 "[添加别名](https://go.microsoft.com/fwlink/p/?linkid=864833)"。 如果出现提示，请登录你的 Microsoft 帐户。
+2. 在 "**添加别名**" 下，可以：
+    1. 创建一个新的 Outlook.com 电子邮件地址，并将其添加为别名。
     2. 将现有的电子邮件地址添加为别名。
 3. 选择 "**添加别名**"。
 

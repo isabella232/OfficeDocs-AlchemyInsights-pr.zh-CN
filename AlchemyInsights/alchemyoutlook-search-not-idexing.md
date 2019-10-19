@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505821"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlook 搜索未编制索引
 
 我们意识到与 Windows 的最近安全更新相关的 Outlook 搜索问题。
   
-在 Outlook 中搜索时, 您可能会收到以下错误之一: 出现**错误, 无法完成搜索**, 或者**由于仍在对项目编制索引, 搜索结果可能不完整**。 修补程序作为可选的 Windows 更新程序发出。 请安装与你在以下情况中看到的 Windows 版本对应的一种版本: 
+在 Outlook 中搜索时，您可能会收到以下错误之一：出现**错误，无法完成搜索**，或者**由于仍在对项目编制索引，搜索结果可能不完整**。 修补程序作为可选的 Windows 更新程序发出。 请安装与你在以下情况中看到的 Windows 版本对应的一种版本： 
   
-> [Windows 7-2017 更新 (年6月27日)](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-2017 更新（年6月27日）](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8.1-6 月27日, 2017 update](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1-6 月27日，2017 update](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10 版本 1703-6 月27日, 2017 更新](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 版本 1703-6 月27日，2017更新](https://support.microsoft.com/kb/4022716.aspx)
     
-有关最新信息, 请参阅文章: [2017 年6月安全更新中的 Outlook 已知问题](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx)#5。 
+有关最新信息，请参阅文章： [2017 年6月安全更新中的 Outlook 已知问题](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx)#5。 
   
 

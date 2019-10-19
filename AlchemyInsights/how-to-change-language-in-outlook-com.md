@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541656"
 ---
 # <a name="change-your-language"></a>更改语言
 
-1. 若要在 Outlook 中 chang 语言, 请转到 "[**语言和时间**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional)设置" ("**设置** \> **查看所有 Outlook 设置** > **常规** > **语言和时间**")。
+1. 若要在 Outlook 中 chang 语言，请转到 "[**语言和时间**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional)设置" （"**设置** \> **查看所有 Outlook 设置** > **常规** > **语言和时间**"）。
 
 2. 选择您的语言。
 
-3. 选择“保存”****。
+3. 选择“**保存**”。
 
-若要了解详细信息, 请参阅[在 Outlook.com 中更改时区和语言设置](https://go.microsoft.com/fwlink/p/?linkid=873132)。
+若要了解详细信息，请参阅[在 Outlook.com 中更改时区和语言设置](https://go.microsoft.com/fwlink/p/?linkid=873132)。

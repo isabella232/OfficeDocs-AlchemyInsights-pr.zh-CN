@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528921"
 ---
 # <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>统一 inteface 应用程序不支持完整名称字段
 
-基于统一界面的应用程序不支持使用**完整名称**(fullname) 域的操作或条件。 或者, 也可以使用 "**名字**" (名字) 和 "**姓氏**" (姓氏) 域中的操作或条件。
+基于统一界面的应用程序不支持使用**完整名称**（fullname）域的操作或条件。 或者，也可以使用 "**名字**" （名字）和 "**姓氏**" （姓氏）域中的操作或条件。
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536461"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>如何在 Outlook.com 中获取支持
 
-抱歉, Outlook.com 不提供电话支持, 但我们确实拥有可帮助你的专用团队。
-在上面的 "**帮助**" 框中输入您的问题或说明你的问题, 然后选择 "**获取帮助**"。
+抱歉，Outlook.com 不提供电话支持，但我们确实拥有可帮助你的专用团队。
+在上面的 "**帮助**" 框中输入您的问题或说明你的问题，然后选择 "**获取帮助**"。
 
 [获取有关 Outlook.com 的帮助](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

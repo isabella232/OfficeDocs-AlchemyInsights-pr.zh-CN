@@ -14,10 +14,10 @@ ms.custom:
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
 ms.openlocfilehash: bf16fa05a2c878e11d28582258c3615923393cdc
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737395"
 ---
 # <a name="adding-external-users"></a>添加外部用户
@@ -28,4 +28,4 @@ ms.locfileid: "36737395"
 
 - [Office 365 组中的来宾访问](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [Microsoft 团队中的来宾访问](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [Microsoft Teams 中的来宾访问](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

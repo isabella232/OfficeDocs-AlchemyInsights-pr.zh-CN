@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530449"
 ---
 # <a name="distribution-group-not-showing-in-groups-list"></a>通讯组未显示在组列表中
 
-在 Exchange 管理中心内的新通讯组列表显示之前, 可能需要长达60分钟的时间。
+在 Exchange 管理中心内的新通讯组列表显示之前，可能需要长达60分钟的时间。
   
-如果要立即添加成员或进行其他编辑, 请使用[Exchange 管理中心](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)中的 "组" 功能。
+如果要立即添加成员或进行其他编辑，请使用[Exchange 管理中心](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)中的 "组" 功能。
   
 
