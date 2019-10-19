@@ -1,5 +1,5 @@
 ---
-title: 为 SharePoint 启用或禁用外部共享
+title: 对 SharePoint 启用或禁用外部共享
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -11,25 +11,25 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
 ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750906"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="a8f0f-102">警告消息：你的组织的策略不允许你与这些用户共享</span><span class="sxs-lookup"><span data-stu-id="a8f0f-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a><span data-ttu-id="478bc-102">警告消息：你的组织的策略不允许你与这些用户共享</span><span class="sxs-lookup"><span data-stu-id="478bc-102">Warning message: Your organization's policies don't allow you to share with these users</span></span>
 
-<span data-ttu-id="a8f0f-103">尝试与组织的外部用户共享时，用户可能会遇到警告消息。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="a8f0f-104">邮件是你的**组织的策略不允许你与这些用户共享。转到 Office 365 管理中心中的 "外部共享" 以启用它**。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="a8f0f-105">这通常发生在尝试与外部用户共享或与新外部用户共享时。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
+<span data-ttu-id="478bc-103">尝试与组织的外部用户共享时，用户可能会遇到警告消息。</span><span class="sxs-lookup"><span data-stu-id="478bc-103">Users may experience a warning message when trying to share with external users of your organization.</span></span> <span data-ttu-id="478bc-104">邮件是你的**组织的策略不允许你与这些用户共享。转到 Office 365 管理中心中的 "外部共享" 以启用它**。</span><span class="sxs-lookup"><span data-stu-id="478bc-104">The message is **Your organization's policies don't allow you to share with these users. Go to External Sharing in the Office 365 admin center to enable it**.</span></span> <span data-ttu-id="478bc-105">这通常发生在尝试与外部用户共享或与新外部用户共享时。</span><span class="sxs-lookup"><span data-stu-id="478bc-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span>
 
-<span data-ttu-id="a8f0f-106">检查您的组织的**SharePoint 和 OneDrive 外部共享设置**。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
+<span data-ttu-id="478bc-106">检查您的组织的**SharePoint 和 OneDrive 外部共享设置**。</span><span class="sxs-lookup"><span data-stu-id="478bc-106">Check the **SharePoint and OneDrive External Sharing settings** for your organization.</span></span>
 
-1. <span data-ttu-id="a8f0f-107">在[Microsoft 365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)，选择 " **SharePoint**"。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-3. <span data-ttu-id="a8f0f-108">选择 "**共享**" 以查看外部共享设置。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-108">Select **Sharing** to see the External sharing settings.</span></span>
+1. <span data-ttu-id="478bc-107">在[Microsoft 365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)，选择 " **SharePoint**"。</span><span class="sxs-lookup"><span data-stu-id="478bc-107">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+3. <span data-ttu-id="478bc-108">选择 "**共享**" 以查看外部共享设置。</span><span class="sxs-lookup"><span data-stu-id="478bc-108">Select **Sharing** to see the External sharing settings.</span></span>
 
-<span data-ttu-id="a8f0f-109">检查特定网站的**外部共享设置**。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-109">Check the **External Sharing settings** for a specific site.</span></span>
+<span data-ttu-id="478bc-109">检查特定网站的**外部共享设置**。</span><span class="sxs-lookup"><span data-stu-id="478bc-109">Check the **External Sharing settings** for a specific site.</span></span>
 
-1. <span data-ttu-id="a8f0f-110">在[Microsoft 365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)，选择 " **SharePoint**"。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
-2. <span data-ttu-id="a8f0f-111">选择 "**活动网站**" 查看可用网站。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-111">Select **Active Sites** to see your sites that are available.</span></span>
-3. <span data-ttu-id="a8f0f-112">选择要检查的网站，然后选择菜单栏中显示的 "**共享**" 按钮以验证网站的设置。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
+1. <span data-ttu-id="478bc-110">在[Microsoft 365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)，选择 " **SharePoint**"。</span><span class="sxs-lookup"><span data-stu-id="478bc-110">In your [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), select **SharePoint**.</span></span>
+2. <span data-ttu-id="478bc-111">选择 "**活动网站**" 查看可用网站。</span><span class="sxs-lookup"><span data-stu-id="478bc-111">Select **Active Sites** to see your sites that are available.</span></span>
+3. <span data-ttu-id="478bc-112">选择要检查的网站，然后选择菜单栏中显示的 "**共享**" 按钮以验证网站的设置。</span><span class="sxs-lookup"><span data-stu-id="478bc-112">Select the site you want to check, and then select the **Sharing** button that displays in the menu bar to verify the settings for the site.</span></span>
 
-<span data-ttu-id="a8f0f-113">有关详细信息，请参阅[外部共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)。</span><span class="sxs-lookup"><span data-stu-id="a8f0f-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
+<span data-ttu-id="478bc-113">有关详细信息，请参阅[外部共享概述](https://docs.microsoft.com/sharepoint/external-sharing-overview)。</span><span class="sxs-lookup"><span data-stu-id="478bc-113">For more information, see [External sharing overview](https://docs.microsoft.com/sharepoint/external-sharing-overview).</span></span>
