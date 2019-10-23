@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376537"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637767"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>控制前厅浏览设置和参与级别
 
-这些设置控制哪些会议参与者在会议厅中等待，并在会议中允许他们参加会议和参与的程度。 您可以使用 Powershell 更新团队管理中心中尚未实现的会议策略设置（标为 "即将推出"）。  有关允许所有用户绕过会议厅的 PowerShell cmdlet 示例，请参阅下面的示例。  
+如果您希望允许每个人（包括拨入、外部和匿名用户）绕过会议厅，则可以使用 PowerShell 执行此操作。 下面的示例展示了如何修改组织的全局会议策略：
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+此 cmdlet 当前需要使用 Skype for Business PowerShell 模块。 若要获取安装程序以使用此 cmdlet，请通过 PowerShell 查看管理策略。
+
+您可以设置新策略，然后需要将其应用于用户。 如果您修改全局策略，它将自动应用于用户。 对于任何策略更改，至少需要等待4小时，且最长为24小时才能使策略生效。
+
+在进行这些更改之前，请务必查看下面的文档，以了解所允许的确切内容。
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>了解团队会议会议厅策略控件
 
 - [自动承认人员](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people)是每个组织者策略，它控制人员是直接加入会议还是在大厅中等待，直到他们被经过身份验证的用户许可。
 
@@ -30,15 +40,4 @@ ms.locfileid: "37376537"
 
 - [允许组织者重写前厅浏览设置](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)（即将**推出**）是每个组织者策略，它控制会议组织者是否可以覆盖管理员设置的前厅浏览设置，以**自动承认人员**并**允许拨入用户**在安排新会议时绕过会议厅。
 
-**注意：** 有关 Microsoft 团队会议策略的完整概述，请参阅[在团队中管理会议策略](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)。 
-
-
-**PowerShell 示例**
-
-如果您希望允许所有人（包括外部或匿名用户）绕过会议厅，您还可以使用 PowerShell 来完成此任务。  下面的示例展示了如何修改组织的全局会议策略。   
-
-（请务必先查看上面的文档，然后再进行这些更改，以了解此功能的具体内容。）
-
-CsTeamsMeetingPolicy-Identity Global-AutoAdmittedUsers "Everyone"-AllowPSTNUsersToBypassLobby $True
-
-有关详细信息，请参阅[CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps)。
+**注意：** 有关 Microsoft 团队会议策略的完整概述，请参阅[在团队中管理会议策略](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)。
