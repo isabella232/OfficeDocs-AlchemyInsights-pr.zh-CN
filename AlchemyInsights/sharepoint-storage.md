@@ -3,7 +3,6 @@ title: SharePoint 存储
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502692"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658247"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>管理 SharePoint Online 存储
 
-对于大多数组织来说, SharePoint 存储是自动管理的, 因此您无需为每个网站集设置限制。 若要查看您拥有的 SharePoint 存储量, 请执行以下操作:
-  
-- 在新的 SharePoint 管理中心中, 在 "网站" 页面的右上方查找可用和总存储。
+了解如何基于您的计划[计算租户存储](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)。
 
-有关如何计算限制的信息, 请参阅[SharePoint Online 限制](https://go.microsoft.com/fwlink/p/?LinkID=856113)。 若要购买额外的存储空间, 请参阅[更改订阅的存储空间](https://go.microsoft.com/fwlink/?linkid=866428)。
-  
-有关使用 PowerShell 监视单个网站存储的信息以及手动管理网站集存储的信息, 请参阅[管理网站集存储限制](https://go.microsoft.com/fwlink/?linkid=867833)
+对于大多数组织，SharePoint 存储是自动管理的，因此不需要为每个网站集设置限制。
+
+了解如何[查看您的组织的总存储空间和可用存储空间](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)。
+
+了解如何[管理单个网站集存储限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。
+
+如果您的网站空间不足或想要了解哪些库或列表正在使用该空间，请转到**网站设置** > **存储指标**（需要网站集管理员权限）。
+
+了解如何[使用 PowerShell 监视网站存储限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)。
+
+了解如何[购买额外的存储空间](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
   

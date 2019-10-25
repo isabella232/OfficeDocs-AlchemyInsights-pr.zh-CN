@@ -2,7 +2,6 @@
 title: 在 SharePoint Online 中更改域名
 ms.author: pebaum
 author: Techwriter40
-ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 58da0e0dd4d7d02aba1ecd64a23dc2227596ec7a
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36747630"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658319"
 ---
 # <a name="change-domain-name-in-sharepoint-online"></a>在 SharePoint Online 中更改域名
 
@@ -24,7 +23,7 @@ ms.locfileid: "36747630"
   
 若要使用域名 fourthcoffee.sharepoint.com，您需要购买新的 Office 365 订阅，并移动所有要保留到新订阅的电子邮件、文件和其他任何数据。
   
- **注意**：例如，若要将网站的名称从https://contoso.sharepoint.com/sites/sample1更改为https://contoso.sharepoint.com/sites/sample2，请创建一个新网站，然后将旧网站的所有内容移到新网站。
+ **注意**：例如，若要将网站的名称从https://contoso.sharepoint.com/sites/sample1更改为https://contoso.sharepoint.com/sites/sample2，请按照[本文](https://docs.microsoft.com/sharepoint/change-site-address)中的说明操作。 
   
 有关在文档库中移动项目的信息，请参阅[从 SharePoint 文档库移动或复制项目](https://go.microsoft.com/fwlink/?linkid=2025831)。
   
