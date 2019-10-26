@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36661214"
 ---
-# <a name="give-users-permissions-in-project-online"></a><span data-ttu-id="7fd3b-102">在 Project Online 中为用户授予权限</span><span class="sxs-lookup"><span data-stu-id="7fd3b-102">Give users permissions in Project Online</span></span>
+# <a name="give-users-permissions-in-project-online"></a><span data-ttu-id="2bb38-102">在 Project Online 中为用户授予权限</span><span class="sxs-lookup"><span data-stu-id="2bb38-102">Give users permissions in Project Online</span></span>
 
-<span data-ttu-id="7fd3b-103">使用 SharePoint 权限模式向用户授予对 Project Web App 网站的访问权限：</span><span class="sxs-lookup"><span data-stu-id="7fd3b-103">Give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
+<span data-ttu-id="2bb38-103">使用 SharePoint 权限模式向用户授予对 Project Web App 网站的访问权限：</span><span class="sxs-lookup"><span data-stu-id="2bb38-103">Give users access to a Project Web App site using SharePoint Permission Mode:</span></span>
 
-1. <span data-ttu-id="7fd3b-104">以管理员身份登录到 Project Online。</span><span class="sxs-lookup"><span data-stu-id="7fd3b-104">Log in to Project Online as an admin.</span></span>
-2. <span data-ttu-id="7fd3b-105">在 Project Web App 主页上，选择右上角的 "**共享**"。</span><span class="sxs-lookup"><span data-stu-id="7fd3b-105">On the Project Web App home page, select **Share** in the top right corner.</span></span>
-3. <span data-ttu-id="7fd3b-106">在 "**共享 Project Web App** " 对话框中，在 "**邀请人员**" 框中键入要向其授予访问权限的人员的用户名。</span><span class="sxs-lookup"><span data-stu-id="7fd3b-106">In the **Share Project Web App** dialog box, type the user name of the person you want to give access to in the **Invite People** box.</span></span>
-4. <span data-ttu-id="7fd3b-107">选择 "**显示选项**"，并在 "**选择权限级别**" 菜单中选择 "Project **Web App 的项目管理器**"。</span><span class="sxs-lookup"><span data-stu-id="7fd3b-107">Select **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
-5. <span data-ttu-id="7fd3b-108">选择 "**共享**"。</span><span class="sxs-lookup"><span data-stu-id="7fd3b-108">Select **Share**.</span></span>
+1. <span data-ttu-id="2bb38-104">以管理员身份登录到 Project Online。</span><span class="sxs-lookup"><span data-stu-id="2bb38-104">Log in to Project Online as an admin.</span></span>
+2. <span data-ttu-id="2bb38-105">在 Project Web App 主页上，选择右上角的 "**共享**"。</span><span class="sxs-lookup"><span data-stu-id="2bb38-105">On the Project Web App home page, select **Share** in the top right corner.</span></span>
+3. <span data-ttu-id="2bb38-106">在 "**共享 Project Web App** " 对话框中，在 "**邀请人员**" 框中键入要向其授予访问权限的人员的用户名。</span><span class="sxs-lookup"><span data-stu-id="2bb38-106">In the **Share Project Web App** dialog box, type the user name of the person you want to give access to in the **Invite People** box.</span></span>
+4. <span data-ttu-id="2bb38-107">选择 "**显示选项**"，并在 "**选择权限级别**" 菜单中选择 "Project **Web App 的项目管理器**"。</span><span class="sxs-lookup"><span data-stu-id="2bb38-107">Select **Show Options**, and in the **Select a permission level** menu, select **Project Managers for Project Web App**.</span></span>
+5. <span data-ttu-id="2bb38-108">选择 "**共享**"。</span><span class="sxs-lookup"><span data-stu-id="2bb38-108">Select **Share**.</span></span>
 
-<span data-ttu-id="7fd3b-109">如果使用项目权限模式或详细信息，请参阅[将人员添加到 Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)。</span><span class="sxs-lookup"><span data-stu-id="7fd3b-109">If you use Project Permissions mode, or for more information, please see [Add people to Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span></span>
+<span data-ttu-id="2bb38-109">如果使用项目权限模式或详细信息，请参阅[将人员添加到 Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)。</span><span class="sxs-lookup"><span data-stu-id="2bb38-109">If you use Project Permissions mode, or for more information, please see [Add people to Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).</span></span>
