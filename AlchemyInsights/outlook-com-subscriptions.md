@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36511801"
 ---
 # <a name="subscriptions-and-unsubscribing"></a>订阅和取消订阅
 
-如果要停止接收新闻稿或促销, 可以通过两种方式在 Outlook.com 中取消订阅:
+如果要停止接收新闻稿或促销，可以通过两种方式在 Outlook.com 中取消订阅：
 
-1. 在 "收件箱" 中, 选择新闻稿或促销电子邮件。 在阅读窗格顶部, 选择 "**取消订阅**"。
-2. 打开您[的 Outlook.com 订阅设置](https://outlook.live.com/mail/options/mail/brandsSubscriptions)("**设置** > **查看所有 Outlook 设置** > **电子邮件** > **订阅**), 然后选择 "**取消订阅**"。
+1. 在 "收件箱" 中，选择新闻稿或促销电子邮件。 在阅读窗格顶部，选择 "**取消订阅**"。
+2. 打开您[的 Outlook.com 订阅设置](https://outlook.live.com/mail/options/mail/brandsSubscriptions)（"**设置** > **查看所有 Outlook 设置** > **电子邮件** > **订阅**），然后选择 "**取消订阅**"。
 
 注意：
 
-- 目前, 并非所有客户都可以从该功能中受益。
-- 仅当你收到来自发送订阅的电子邮件的公司的电子邮件时, 你才会看到此功能。
+- 目前，并非所有客户都可以从该功能中受益。
+- 仅当你收到来自发送订阅的电子邮件的公司的电子邮件时，你才会看到此功能。
