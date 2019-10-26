@@ -12,17 +12,17 @@ ms.custom:
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36754830"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="41600-102">如何使用 SharePoint Online 术语库</span><span class="sxs-lookup"><span data-stu-id="41600-102">How to use the SharePoint Online Term store</span></span>
+# <a name="how-to-use-the-sharepoint-online-term-store"></a><span data-ttu-id="ce267-102">如何使用 SharePoint Online 术语库</span><span class="sxs-lookup"><span data-stu-id="ce267-102">How to use the SharePoint Online Term store</span></span>
 
-<span data-ttu-id="41600-103">术语库适用于 Office 365 全局管理员、SharePoint 管理员和术语库管理员，可在新的 SharePoint Online 管理中心中找到。</span><span class="sxs-lookup"><span data-stu-id="41600-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
+<span data-ttu-id="ce267-103">术语库适用于 Office 365 全局管理员、SharePoint 管理员和术语库管理员，可在新的 SharePoint Online 管理中心中找到。</span><span class="sxs-lookup"><span data-stu-id="ce267-103">The Term Store is available to an Office 365 Global Admin, SharePoint Admin, and Term Store Admins and can be found in the new SharePoint Online admin center.</span></span>
   
-<span data-ttu-id="41600-104">有关如何在 SharePoint Online 中使用 SharePoint Online 术语库和分类的详细信息，请参阅[托管元数据简介](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="41600-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
+<span data-ttu-id="ce267-104">有关如何在 SharePoint Online 中使用 SharePoint Online 术语库和分类的详细信息，请参阅[托管元数据简介](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="ce267-104">For more information on how to use the SharePoint Online Term Store and taxonomy within SharePoint Online, see [Introduction to managed metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="41600-105">如果您遇到不会出现或间歇性出现的问题的问题，我们建议您等待24小时，如果问题仍然存在，请记录支持请求。</span><span class="sxs-lookup"><span data-stu-id="41600-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="41600-106">尽管24小时的时间可能很长，但可能存在缓存问题，或者我们可能已经在解决此问题的解决方案。</span><span class="sxs-lookup"><span data-stu-id="41600-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
+<span data-ttu-id="ce267-105">如果您遇到不会出现或间歇性出现的问题的问题，我们建议您等待24小时，如果问题仍然存在，请记录支持请求。</span><span class="sxs-lookup"><span data-stu-id="ce267-105">If you are having an issue with terms not appearing or appearing intermittently, we recommend you wait 24 hours, and then log a support request if the issue persists.</span></span> <span data-ttu-id="ce267-106">尽管24小时的时间可能很长，但可能存在缓存问题，或者我们可能已经在解决此问题的解决方案。</span><span class="sxs-lookup"><span data-stu-id="ce267-106">Even though 24 hours can be a long time, there could be a caching issue or we may already be working on a solution to this problem.</span></span>
   

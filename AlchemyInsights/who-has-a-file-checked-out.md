@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
 ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36748314"
 ---
-# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="3698d-102">谁签出了文件？</span><span class="sxs-lookup"><span data-stu-id="3698d-102">Who has a file checked out?</span></span>
+# <a name="who-has-a-file-checked-out"></a><span data-ttu-id="26edf-102">谁签出了文件？</span><span class="sxs-lookup"><span data-stu-id="26edf-102">Who has a file checked out?</span></span>
 
-<span data-ttu-id="3698d-103">若要查看哪些用户在 SharePoint 中签出了哪些文件，您可以执行以下任一步骤：</span><span class="sxs-lookup"><span data-stu-id="3698d-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
+<span data-ttu-id="26edf-103">若要查看哪些用户在 SharePoint 中签出了哪些文件，您可以执行以下任一步骤：</span><span class="sxs-lookup"><span data-stu-id="26edf-103">To see who has a file checked out in SharePoint, you can do either one of the following steps:</span></span>
   
-1. <span data-ttu-id="3698d-104">悬停在**签出状态**以查看工具提示，告知您签出文件的用户。</span><span class="sxs-lookup"><span data-stu-id="3698d-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
+1. <span data-ttu-id="26edf-104">悬停在**签出状态**以查看工具提示，告知您签出文件的用户。</span><span class="sxs-lookup"><span data-stu-id="26edf-104">Hover over **Checked Out** to see a tooltip that tells you who has the file checked out.</span></span> 
     
-2. <span data-ttu-id="3698d-105">将 "**签出者**" 列添加到库的默认视图中。</span><span class="sxs-lookup"><span data-stu-id="3698d-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="3698d-106">这样一来，每个人都可以轻松查看签出文档的用户。</span><span class="sxs-lookup"><span data-stu-id="3698d-106">This way, everyone can easily see who has a document checked out.</span></span> 
+2. <span data-ttu-id="26edf-105">将 "**签出者**" 列添加到库的默认视图中。</span><span class="sxs-lookup"><span data-stu-id="26edf-105">Add the **Checked Out By** column to the default view of the library.</span></span> <span data-ttu-id="26edf-106">这样一来，每个人都可以轻松查看签出文档的用户。</span><span class="sxs-lookup"><span data-stu-id="26edf-106">This way, everyone can easily see who has a document checked out.</span></span> 
     
-<span data-ttu-id="3698d-107">若要了解如何在 SharePoint 中添加签出的列，请参阅[在列表或库中创建列](https://go.microsoft.com/fwlink/?linkid=2019591)。</span><span class="sxs-lookup"><span data-stu-id="3698d-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
+<span data-ttu-id="26edf-107">若要了解如何在 SharePoint 中添加签出的列，请参阅[在列表或库中创建列](https://go.microsoft.com/fwlink/?linkid=2019591)。</span><span class="sxs-lookup"><span data-stu-id="26edf-107">To learn how to add a Checked Out By column in SharePoint, see [Create a column in a list or library](https://go.microsoft.com/fwlink/?linkid=2019591).</span></span> 
   
-<span data-ttu-id="3698d-108">查看更多有关签入或签出的常见问题，请参阅[关于签出的主要问题和签入](https://go.microsoft.com/fwlink/?linkid=2018786)。</span><span class="sxs-lookup"><span data-stu-id="3698d-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
+<span data-ttu-id="26edf-108">查看更多有关签入或签出的常见问题，请参阅[关于签出的主要问题和签入](https://go.microsoft.com/fwlink/?linkid=2018786)。</span><span class="sxs-lookup"><span data-stu-id="26edf-108">See more frequently asked questions about check in or check out, see [Top questions about check out, check in](https://go.microsoft.com/fwlink/?linkid=2018786).</span></span>
   
 
