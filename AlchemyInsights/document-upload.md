@@ -3,7 +3,6 @@ title: 文档上载
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 2/28/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36529413"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769401"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="e6432-102">将文件上传到 OneDrive 或 SharePoint</span><span class="sxs-lookup"><span data-stu-id="e6432-102">Upload files to OneDrive or SharePoint</span></span>
+# <a name="upload-files-to-onedrive-or-sharepoint"></a><span data-ttu-id="93c08-102">将文件上传到 OneDrive 或 SharePoint</span><span class="sxs-lookup"><span data-stu-id="93c08-102">Upload files to OneDrive or SharePoint</span></span>
 
-1. <span data-ttu-id="e6432-103">在 web 浏览器中，转到要上载文件的位置。</span><span class="sxs-lookup"><span data-stu-id="e6432-103">In your web browser, go to the location where you want to upload files.</span></span>
+1. <span data-ttu-id="93c08-103">在 web 浏览器中，转到要上载文件的位置。</span><span class="sxs-lookup"><span data-stu-id="93c08-103">In your web browser, go to the location where you want to upload files.</span></span>
     
-2. <span data-ttu-id="e6432-104">打开 "文件资源管理器"，然后浏览到要上载的文件。</span><span class="sxs-lookup"><span data-stu-id="e6432-104">Open File Explorer and browse to the files you want to upload.</span></span>
+2. <span data-ttu-id="93c08-104">打开 "文件资源管理器"，然后浏览到要上载的文件。</span><span class="sxs-lookup"><span data-stu-id="93c08-104">Open File Explorer and browse to the files you want to upload.</span></span>
     
-3. <span data-ttu-id="e6432-105">选择文件并将其拖动到 OneDrive 或 SharePoint 中的位置。</span><span class="sxs-lookup"><span data-stu-id="e6432-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="e6432-106">注意：如果使用的是 Microsoft Edge、Mozilla FireFox 或 Google Chrome，则还可以上传文件夹和其中的所有文件。</span><span class="sxs-lookup"><span data-stu-id="e6432-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
+3. <span data-ttu-id="93c08-105">选择文件并将其拖动到 OneDrive 或 SharePoint 中的位置。</span><span class="sxs-lookup"><span data-stu-id="93c08-105">Select the files and drag them to the location in OneDrive or SharePoint.</span></span> <span data-ttu-id="93c08-106">注意：如果使用的是 Microsoft Edge、Mozilla FireFox 或 Google Chrome，则还可以上传文件夹和其中的所有文件。</span><span class="sxs-lookup"><span data-stu-id="93c08-106">Note: If you use Microsoft Edge, Mozilla FireFox, or Google Chrome, you can also upload a folder and all the files in it.</span></span>
     
-> [!NOTE]
->  <span data-ttu-id="e6432-107">最大可上载 15 GB 的文件。</span><span class="sxs-lookup"><span data-stu-id="e6432-107">You can upload files up to 15 GB in size.</span></span> <span data-ttu-id="e6432-108">> 文件的完整路径（包括文件名）的长度不能超过400个字符。</span><span class="sxs-lookup"><span data-stu-id="e6432-108">>  The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> <span data-ttu-id="e6432-109">> 如果需要上载100以上的文件，请[使用 OneDrive 同步客户端](https://go.microsoft.com/fwlink/?linkid=866427)。</span><span class="sxs-lookup"><span data-stu-id="e6432-109">>  If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
+<span data-ttu-id="93c08-107">**注意：**</span><span class="sxs-lookup"><span data-stu-id="93c08-107">**Notes:**</span></span>
+
+- <span data-ttu-id="93c08-108">最大可上载 15 GB 的文件。</span><span class="sxs-lookup"><span data-stu-id="93c08-108">You can upload files up to 15 GB in size.</span></span> 
+- <span data-ttu-id="93c08-109">文件的完整路径（包括文件名）的长度不能超过400个字符。</span><span class="sxs-lookup"><span data-stu-id="93c08-109">The full path for a file (including the file name) can't be more than 400 characters in length.</span></span> 
+- <span data-ttu-id="93c08-110">如果需要上传超过100个文件，请[使用 OneDrive 同步客户端](https://go.microsoft.com/fwlink/?linkid=866427)。</span><span class="sxs-lookup"><span data-stu-id="93c08-110">If you need to upload more than 100 files, [use the OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427).</span></span> 
   
 
