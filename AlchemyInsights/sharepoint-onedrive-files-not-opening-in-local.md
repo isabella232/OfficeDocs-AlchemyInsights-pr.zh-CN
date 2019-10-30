@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750834"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766773"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>打开 SharePoint 中的 Office 文件时出现问题
 
@@ -29,5 +29,5 @@ ms.locfileid: "36750834"
 
 有关详细信息或详细信息，请参阅文章，[解决在 SharePoint 库中打开文档的问题](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)。
 
-**注意**：如果在默认情况下，在浏览器或客户端中打开文档时遇到问题，则可能需要更改库设置。 为此，请导航到右上角 > 齿轮图标中存在问题的库 > 库设置 "> 高级设置 > 在浏览器中打开文档。
+**注意：** 如果在默认情况下，在浏览器或客户端中打开文档时遇到问题，则可能需要更改库设置。 若要执行此操作，请导航到 > 齿轮图标位于右上角的库中 >**库设置** >  **高级设置** > **打开浏览器中的文档**。
 

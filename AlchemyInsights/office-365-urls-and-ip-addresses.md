@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522025"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775305"
 ---
 # <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL 和 IP 地址范围
 
-Office 365 要求连接到 Internet。 在本文中, [office 365 url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)的终结点必须可访问, 以便用户能够访问 Office 365。
+Office 365 要求通过名为 "*终结点*" 的特定 IP 地址连接到 Internet。
+有关需要访问的终结点的列表，请参阅[Office 365 url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Office 365 IP 地址和 URL Web 服务可帮助你更好地识别和区分 Office 365 网络流量，以便更轻松地评估、配置和及时了解最新变更。 请参阅[Office 365 IP 地址和 URL web 服务](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)。

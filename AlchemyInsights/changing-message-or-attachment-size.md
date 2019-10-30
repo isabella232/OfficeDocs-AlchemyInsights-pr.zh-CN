@@ -2,7 +2,6 @@
 title: 更改邮件或附件大小
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520657"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769653"
 ---
 # <a name="changing-message-or-attachment-size"></a>更改邮件或附件大小
 
-作为 Office 365 管理员, 您可以更改您的用户发送的邮件的最大/最小大小 (包括附件)。 您可以为单个用户或所有用户执行此操作 (组织默认值)。 更改此设置后, 将需要大约30分钟才能生效。
+作为 Office 365 管理员，您可以更改您的用户发送的邮件的最大/最小大小（包括附件）。 您可以为单个用户或所有用户执行此操作（组织默认值）。 更改此设置后，将需要大约30分钟才能生效。
   
-- 若要更改特定用户的邮件大小, 请转到**管理中心** \> **Exchange** \> **收件人** \> **邮箱**。 选择用户的邮箱。 单击 "编辑" 图标, 然后在 "**邮件大小限制**" 下, 选择 "**查看详细信息**" 并指定新的最大邮件大小。
+- 若要更改特定用户的邮件大小，请转到**管理中心** \> **Exchange** \> **收件人** \> **邮箱**。 选择用户的邮箱。 选择 "编辑" 图标，选择 "**邮箱功能**"，然后在 "**邮件大小限制**" 下，选择 "**查看详细信息**" 并指定新的最大邮件大小。
 
-- 若要了解如何更改所有邮箱的此操作, 请参阅[本文](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
+- 若要了解如何更改所有邮箱的此操作，请参阅[本文](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/)。
 
-- 若要阅读有关使用 Outlook 或 web 上的 Outlook 的最大限制, 请参阅[本文](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits)。 Outlook Mobile 的最大限制为25MB。 若要获取 Outlook iOS 和 Android 支持, 请[单击此处](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)。
+- 若要阅读有关使用 Outlook 或 web 上的 Outlook 的最大限制，请参阅[本文](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits)。 Outlook Mobile 的最大限制为25MB。 若要获取 Outlook iOS 和 Android 支持，请[单击此处](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)。

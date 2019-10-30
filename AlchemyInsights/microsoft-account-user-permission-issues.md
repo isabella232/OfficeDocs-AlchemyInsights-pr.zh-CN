@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754182"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768791"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>问题疑难解答-在目录中找不到用户
 
-如果用户在目录中收到错误消息 "找不到用户"。 请重试问题类型为 "用户不在目录中" 的。
+如果用户在目录中收到错误消息 "找不到用户"，请重试问题类型为 "用户不在目录中的用户"。
 
 若要解决问题，可以完成以下步骤。
 

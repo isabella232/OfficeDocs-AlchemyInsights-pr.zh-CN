@@ -2,7 +2,6 @@
 title: 创建 SharePoint 网站
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738187"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769581"
 ---
 # <a name="create-a-sharepoint-site"></a>创建 SharePoint 网站
 
@@ -31,10 +30,10 @@ ms.locfileid: "36738187"
 
 
   
-> [!几点
-> - 您无法使用与现有网站相同的 URL 创建网站。 如果您删除了某个网站，并且希望重新使用该 URL，则可能是已删除的网站仍存在于 "**已删除的网站**" 下。 若要管理已删除的网站，请参阅[删除网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。 若要使用 Powershell 完全删除站点，请参阅[remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。
-> - 某些用户可能不能创建网站。 请参阅[在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)。
-> - 在**创建**比预期更长的时间，网站可能会变得被卡住。 如果在你首次看到此问题后过去已经超过24小时，请记录一个支持票证。 在许多情况下，我们已经在努力解决了解决方案。 请至少为我们提供24小时的时间来完成解决方案。
-> - 如果您需要创建一个不包含 Office 365 组的新团队网站， 
+**几点**
+- 您无法使用与现有网站相同的 URL 创建网站。 如果您删除了某个网站，并且希望重新使用该 URL，则可能是已删除的网站仍存在于 "**已删除的网站**" 下。 若要管理已删除的网站，请参阅[删除网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)。 若要使用 Powershell 完全删除站点，请参阅[remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。
+- 某些用户可能不能创建网站。 请参阅[在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)。
+- 在**创建**比预期更长的时间，网站可能会变得被卡住。 如果在你首次看到此问题后过去已经超过24小时，请记录一个支持票证。 在许多情况下，我们已经在努力解决了解决方案。 请至少为我们提供24小时的时间来完成解决方案。
+- 如果您需要创建一个不包含 Office 365 组的新团队网站， 
 
 

@@ -8,14 +8,14 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 1bcaa2d45179e38a47569fba172300a259c5b661
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36754794"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769509"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>在 SharePoint 网站上创建和编辑新式页面
+# <a name="create-and-edit-modern-pages-on-a-sharepoint-site"></a>在 SharePoint 网站上创建和编辑新式页面
 
 您可以快速轻松地编辑文件和页面，并且在任何设备上看起来都很出色。 有关详细信息，请访问下面的链接。
 

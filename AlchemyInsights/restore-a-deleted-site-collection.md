@@ -3,7 +3,6 @@ title: 还原已删除的网站
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: a1fb15869b9f576696de4eda4c0b2101bd6cca17
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36552451"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768538"
 ---
 # <a name="restore-a-deleted-site"></a>还原已删除的网站
 
-当管理员删除网站时，该网站将放置在网站集回收站中，在这种情况下，它将在永久删除前的93天内保留。 若要还原网站，请执行以下操作：
+当管理员删除 SharePoint 网站时，它将放在网站集回收站中，在这种情况下，将在永久删除之前的93天内保留。 若要还原网站，请执行以下操作：
   
 1. 在新的 SharePoint 管理中心中，单击功能区上的 "**回收站**"。 
     
