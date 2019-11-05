@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660926"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921804"
 ---
 # <a name="update-payment-details"></a>更新付款详细信息
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660926"
 4. 进行更新，然后选择“**保存**”。
 
 5. 若要删除此付款方式，选择“**删除**”。
+
+**疑难解答**
+
+如果遇到页面加载问题，请尝试在其他浏览器中打开网页，或者尝试打开页面的专用浏览器窗口，如 Microsoft Edge 中的 InPrivate 窗口或 Google Chrome 中的隐身窗口。 
 
 有关详细信息，请参阅“[在 Office 365 商业版中添加，更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)”和“[信用卡和银行帐户疑难解答](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)”。
