@@ -12,10 +12,10 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36739483"
 ---
 # <a name="how-to-disable-external-groups"></a>如何禁用外部组
@@ -28,7 +28,7 @@ Yammer 外部邮件应用 Exchange 传输规则（Etr），这是一组用于防
 
 - 在 "**外部邮件**" 下，选择 "在**Yammer 中强制实施 Exchange Online exchange 传输规则（etr）"。**
 
-- 选择“保存”****。
+- 选择“**保存**”。
 
 有关详细信息，请参阅在[Yammer 网络中禁用外部消息](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
   

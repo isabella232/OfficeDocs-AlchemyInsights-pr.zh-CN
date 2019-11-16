@@ -11,10 +11,10 @@ ms.custom:
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37205399"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>在终端服务器上安装 Office
@@ -46,7 +46,7 @@ ms.locfileid: "37205399"
 
 2. 当系统提示允许注册表编辑器对设备进行更改时，选择 "是"。
 
-3. 在注册表编辑器中，在 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration. 下添加一个**SharedComputerLicensing**设置为1的字符串值。
+3. 在注册表编辑器中，在 HKEY_LOCAL_MACHINE \SOFTWARE\Microsoft \Office\ClickToRun\Configuration. 下添加**SharedComputerLicensing**的字符串值设置为1。
 
 7. 在 RDS 服务器上，***以最终用户的形式登录***，并[验证是否已为 Office 365 专业增强版启用了共享计算机激活](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded)。
 
