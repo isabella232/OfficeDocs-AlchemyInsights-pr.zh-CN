@@ -14,18 +14,18 @@ ms.custom:
 - "647"
 - "2000016"
 ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36735307"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="209aa-102">如何从门户安装 Mac Office</span><span class="sxs-lookup"><span data-stu-id="209aa-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="d49a5-102">如何从门户安装 Mac Office</span><span class="sxs-lookup"><span data-stu-id="d49a5-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="209aa-103">[从计算机中卸载 Office 2011 For Mac](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)。</span><span class="sxs-lookup"><span data-stu-id="209aa-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="d49a5-103">[从计算机中卸载 Office 2011 For Mac](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA)。</span><span class="sxs-lookup"><span data-stu-id="d49a5-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="209aa-104">[在 Office 365 中管理软件下载设置](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)。</span><span class="sxs-lookup"><span data-stu-id="209aa-104">[Manage software download settings in Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
+2. <span data-ttu-id="d49a5-104">[在 Office 365 中管理软件下载设置](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)。</span><span class="sxs-lookup"><span data-stu-id="d49a5-104">[Manage software download settings in Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).</span></span>
 
-3. <span data-ttu-id="209aa-105">[向用户分配许可证](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)。</span><span class="sxs-lookup"><span data-stu-id="209aa-105">[Assign licenses to users](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
+3. <span data-ttu-id="d49a5-105">[向用户分配许可证](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)。</span><span class="sxs-lookup"><span data-stu-id="d49a5-105">[Assign licenses to users](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).</span></span>
 
-4. <span data-ttu-id="209aa-106">然后，用户可以自行安装 Office 软件，也可以使用将[Office 部署到你的 Mac 用户](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)。</span><span class="sxs-lookup"><span data-stu-id="209aa-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="d49a5-106">然后，用户可以自行安装 Office 软件，也可以使用将[Office 部署到你的 Mac 用户](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac)。</span><span class="sxs-lookup"><span data-stu-id="d49a5-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>

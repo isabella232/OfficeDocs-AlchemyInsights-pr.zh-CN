@@ -13,14 +13,14 @@ ms.custom:
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
 ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37766629"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="fa131-102">向通讯组添加外部电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="fa131-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="8080c-102">向通讯组添加外部电子邮件地址</span><span class="sxs-lookup"><span data-stu-id="8080c-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="fa131-103">首先，需要在组织中为外部电子邮件地址创建一个联系人。</span><span class="sxs-lookup"><span data-stu-id="fa131-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="fa131-104">然后，可以将该联系人添加到通讯组。</span><span class="sxs-lookup"><span data-stu-id="fa131-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="fa131-105">有关详细信息，请参阅[将外部用户添加到通讯组？](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)。</span><span class="sxs-lookup"><span data-stu-id="fa131-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="8080c-103">首先，需要在组织中为外部电子邮件地址创建一个联系人。</span><span class="sxs-lookup"><span data-stu-id="8080c-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="8080c-104">然后，可以将该联系人添加到通讯组。</span><span class="sxs-lookup"><span data-stu-id="8080c-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="8080c-105">有关详细信息，请参阅[将外部用户添加到通讯组？](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba)。</span><span class="sxs-lookup"><span data-stu-id="8080c-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="fa131-106">如果您希望外部用户能够向通讯组发送邮件，请验证该组是否已配置为接受来自外部发件人的邮件。</span><span class="sxs-lookup"><span data-stu-id="fa131-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="fa131-107">有关详细信息，请参阅[传递管理](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)。</span><span class="sxs-lookup"><span data-stu-id="fa131-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="8080c-106">如果您希望外部用户能够向通讯组发送邮件，请验证该组是否已配置为接受来自外部发件人的邮件。</span><span class="sxs-lookup"><span data-stu-id="8080c-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="8080c-107">有关详细信息，请参阅[传递管理](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement)。</span><span class="sxs-lookup"><span data-stu-id="8080c-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>

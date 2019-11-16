@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: 4a56cfe74d8940e53a316d3bcc3809e8666c2e37
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 4f531a063d63aff239ef7dead869bb526e17fb35
+ms.sourcegitcommit: 2591e1f56e8943bddb9d3b77ba5b494ac49d4f30
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964067"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38672423"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a><span data-ttu-id="d9cc0-102">修复错误代码550的传递问题5.4.1 中继访问被拒绝</span><span class="sxs-lookup"><span data-stu-id="d9cc0-102">Fix delivery issues for error code 550 5.4.1 Relay Access Denied</span></span>
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a><span data-ttu-id="74cfd-102">修复错误代码550的传递问题5.4.1 中继访问被拒绝</span><span class="sxs-lookup"><span data-stu-id="74cfd-102">Fix delivery issues for error code 550 5.4.1 Relay Access Denied</span></span>
 
-<span data-ttu-id="d9cc0-103">当您在进入 Office 365 网络时[检查电子邮件地址是否有效以防止 bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)时，会出现此问题。</span><span class="sxs-lookup"><span data-stu-id="d9cc0-103">This problem occurs when [checking to see if an email address is valid to prevent bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) when entering the Office 365 network.</span></span> <span data-ttu-id="d9cc0-104">请尝试执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="d9cc0-104">Try the following:</span></span>
+<span data-ttu-id="74cfd-103">当您在进入 Office 365 网络时[检查电子邮件地址是否有效以防止 bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)时，会出现此问题。</span><span class="sxs-lookup"><span data-stu-id="74cfd-103">This problem occurs when [checking to see if an email address is valid to prevent bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) when entering the Office 365 network.</span></span> <span data-ttu-id="74cfd-104">请尝试执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="74cfd-104">Try the following:</span></span>
 
-1. <span data-ttu-id="d9cc0-105">确定问题是否特定于整个域或单个电子邮件地址：</span><span class="sxs-lookup"><span data-stu-id="d9cc0-105">Determine whether the problem is specific to an entire domain or a single email address:</span></span>
-    - <span data-ttu-id="d9cc0-106">整个域：有时域需要同步;尝试[将域设置为 "内部"，然后再设置为 "权威"](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)。</span><span class="sxs-lookup"><span data-stu-id="d9cc0-106">Entire domain: Sometimes the domain needs to be synchronized; try [setting the domain to Internal and then back to Authoritative](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).</span></span>
-     - <span data-ttu-id="d9cc0-107">单个电子邮件地址：有时需要同步地址;更改 smtp 代理地址，然后将其更改为 "可帮助"。</span><span class="sxs-lookup"><span data-stu-id="d9cc0-107">Single email address: Sometimes the address needs to be synchronized; changing the smtp proxy address and then changing it back can help.</span></span>
-2. <span data-ttu-id="d9cc0-108">确定问题是否特定于组或公用文件夹。</span><span class="sxs-lookup"><span data-stu-id="d9cc0-108">Determine whether the problem is specific to a group or public folder.</span></span> <span data-ttu-id="d9cc0-109">对于某些对象类型，可能需要在 Azure Active Directory 中手动创建对象。</span><span class="sxs-lookup"><span data-stu-id="d9cc0-109">For some object types, the objects may need to be manually created in Azure Active Directory.</span></span>
+1. <span data-ttu-id="74cfd-105">确定问题是否特定于整个域或单个电子邮件地址：</span><span class="sxs-lookup"><span data-stu-id="74cfd-105">Determine whether the problem is specific to an entire domain or a single email address:</span></span>
+    - <span data-ttu-id="74cfd-106">整个域：有时域需要同步;尝试[将域设置为 "内部"，然后再设置为 "权威"](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)。</span><span class="sxs-lookup"><span data-stu-id="74cfd-106">Entire domain: Sometimes the domain needs to be synchronized; try [setting the domain to Internal and then back to Authoritative](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).</span></span>
+    - <span data-ttu-id="74cfd-107">单个电子邮件地址：有时需要同步地址;更改 smtp 代理地址，然后将其更改为 "可帮助"。</span><span class="sxs-lookup"><span data-stu-id="74cfd-107">Single email address: Sometimes the address needs to be synchronized; changing the smtp proxy address and then changing it back can help.</span></span>
+2. <span data-ttu-id="74cfd-108">确定问题是否特定于组或公用文件夹。</span><span class="sxs-lookup"><span data-stu-id="74cfd-108">Determine whether the problem is specific to a group or public folder.</span></span> <span data-ttu-id="74cfd-109">对于某些对象类型，可能需要在 Azure Active Directory 中手动创建对象。</span><span class="sxs-lookup"><span data-stu-id="74cfd-109">For some object types, the objects may need to be manually created in Azure Active Directory.</span></span>
 
-<span data-ttu-id="d9cc0-110">如果你需要其他帮助，请打开支持票证并指定问题的范围（includidng 要发送到的对象的类型），以便我们可以为你提供更好的帮助。</span><span class="sxs-lookup"><span data-stu-id="d9cc0-110">If you need additional help, please open a support ticket and specify the scope of the issue (includidng the type of object you're sending to) so we can assist you better.</span></span>
+<span data-ttu-id="74cfd-110">如果你需要其他帮助，请打开支持票证并指定问题的范围（includidng 要发送到的对象的类型），以便我们可以为你提供更好的帮助。</span><span class="sxs-lookup"><span data-stu-id="74cfd-110">If you need additional help, please open a support ticket and specify the scope of the issue (includidng the type of object you're sending to) so we can assist you better.</span></span>
