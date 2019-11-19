@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768358"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704343"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="72e4c-102">成为管理员</span><span class="sxs-lookup"><span data-stu-id="72e4c-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="44aaf-102">成为管理员</span><span class="sxs-lookup"><span data-stu-id="44aaf-102">Become an Admin</span></span>
 
-<span data-ttu-id="72e4c-103">若要为您的组织承担管理员角色，您需要在 Office 365 中接管租户。</span><span class="sxs-lookup"><span data-stu-id="72e4c-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
+<span data-ttu-id="44aaf-103">若要为您的组织承担管理员角色，您需要在 Office 365 中接管租户。</span><span class="sxs-lookup"><span data-stu-id="44aaf-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
   
-<span data-ttu-id="72e4c-104">按照本指南中的说明进行操作：[在 Office 365 中执行管理员接管](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="72e4c-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="44aaf-104">按照本指南中的说明进行操作：[管理接管](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)</span><span class="sxs-lookup"><span data-stu-id="44aaf-104">Follow the instructions in this guide: [Admin Takeover](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)</span></span>
