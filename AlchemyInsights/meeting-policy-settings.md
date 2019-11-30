@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376532"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627564"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>在 Microsoft 团队中管理会议策略
 
@@ -24,7 +24,7 @@ ms.locfileid: "37376532"
 
 有关会议策略的详细信息，请参阅以下资源：
 
-- 若要了解如何创建策略、进行更改以及将用户分配到策略，请参阅[在团队中管理会议策略](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)。
+- 若要了解如何创建策略、进行更改以及将用户分配到策略，请参阅[在团队中管理会议策略](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)。
 
 - 若要使用 PowerShell cmdlet 进行策略更改，请参阅[团队 PowerShell 概述](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)。 
     - 您需要使用[Skype For Business PowerShell 模块](https://www.microsoft.com/download/details.aspx?id=39366)获取团队会议策略。 

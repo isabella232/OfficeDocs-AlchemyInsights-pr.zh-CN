@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 11fbdff8857db747682b9b4a9d0367b06ac5fb6e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 73c46cc9ad17553f53f90a53fa272609a208d4a6
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682045"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627276"
 ---
 # <a name="blocking-legacy-authentication"></a>阻止旧版身份验证
 
@@ -25,4 +25,4 @@ ms.locfileid: "37682045"
 - 不使用新式验证的较旧的 Office 客户端（例如，Office 2010 客户端）
 - 使用旧版邮件协议（如 IMAP/SMTP/POP3）的任何客户端  
 
-有关阻止旧版身份验证和启用新式身份验证的详细信息，请参阅[阻止旧版身份验证](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)。
+有关阻止旧版身份验证和启用新式身份验证的详细信息，请参阅[阻止旧版身份验证](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)。

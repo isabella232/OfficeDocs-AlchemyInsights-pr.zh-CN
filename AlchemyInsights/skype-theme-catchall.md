@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000702"
 - "2601"
-ms.openlocfilehash: 893a37e16d9582e1dade8b5cd708dd37cb7b1036
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: 2cc76aee6e904c055fdf2a18a61a9263ecd0ddc0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316664"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627312"
 ---
 # <a name="skype-for-business-common-issues-and-resolutions"></a>Skype for Business 常见问题和解决方法 
 
@@ -34,4 +34,4 @@ ms.locfileid: "37316664"
 
 **与 Skype 联系人通信：** [让 skype for Business 用户添加 skype 联系人](https://docs.microsoft.com/SkypeForBusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)。
 
-**将 Skype For Business 升级到 Microsoft 团队：** 请查看[你的 Microsoft 团队升级](https://docs.microsoft.com/en-us/microsoftteams/upgrade-start-here)入门，并详细了解你在组织中采用团队时与 microsoft 团队[共存](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence)的情况。 
+**将 Skype For Business 升级到 Microsoft 团队：** 请查看[你的 Microsoft 团队升级](https://docs.microsoft.com/microsoftteams/upgrade-start-here)入门，并详细了解你在组织中采用团队时与 microsoft 团队[共存](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence)的情况。 
