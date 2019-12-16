@@ -1,7 +1,7 @@
 ---
 title: 工作流故障排除
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558067"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049291"
 ---
 # <a name="workflow-troubleshooting"></a>工作流故障排除
 
-有关调试 SharePoint 工作流的信息, 请参阅以下内容:
-- 调试工作流类似于早期版本的工作流。  有关详细信息, 请参阅[调试 SharePoint 工作流](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)。
-- 有关故障排除的详细信息, 请参阅[SharePoint Server 工作流验证错误疑难解答](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)。
+有关调试 SharePoint 工作流的信息，请参阅以下内容：
+- 调试工作流类似于早期版本的工作流。  有关详细信息，请参阅[调试 SharePoint 工作流](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)。
+- 有关故障排除的详细信息，请参阅[SharePoint Server 工作流验证错误疑难解答](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)。
  
 
 ## <a name="related-topics"></a>相关主题

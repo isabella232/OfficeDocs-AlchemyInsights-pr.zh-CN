@@ -1,7 +1,7 @@
 ---
 title: 在文件资源管理器中打开 SharePoint 库
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: daab3f4d61002a83755240fa0ea71e0bcd5030ad
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 4e696f2e82172df02de03b2de894567de61f1476
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36751158"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053971"
 ---
 # <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>无法将 Office 文档保存到 SharePoint 或 OneDrive 文档库
 

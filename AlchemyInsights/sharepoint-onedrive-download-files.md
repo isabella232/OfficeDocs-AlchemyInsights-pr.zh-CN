@@ -1,7 +1,7 @@
 ---
 title: 下载或阻止从 OneDrive 或 SharePoint 下载文件
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/07/2019
 ms.audience: Admin
@@ -13,16 +13,16 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 409845a2e62aaeb6027a4c9120f5fc84d9c9722a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503301"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051343"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>下载或阻止从 OneDrive 或 SharePoint 下载文件
 
-您可以仅单击几下, 从 OneDrive 或 SharePoint Online 向计算机下载文件和文件夹。 有关下载文件、加速和限制下载的详细信息, 请访问下面的链接。
+您可以仅单击几下，从 OneDrive 或 SharePoint Online 向计算机下载文件和文件夹。 有关下载文件、加速和限制下载的详细信息，请访问下面的链接。
 
 - [从 OneDrive 或 SharePoint 下载文件和文件夹](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
 - [使用 Azure AD 条件访问阻止文件下载](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)

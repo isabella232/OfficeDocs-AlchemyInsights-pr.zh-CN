@@ -1,7 +1,7 @@
 ---
 title: Outlook.com 设置
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386355"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053251"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com 中的设置
 
-如果收件人在组织内部或外部，并且他们使用的是 Office 365 或 Outlook.com 电子邮件帐户，则以下客户端无需执行任何特殊操作来打开邮件： **outlook 2016、outlook 网页/Outlook Web App、Outlook 移动应用**
+如果收件人在组织内部或外部，并且他们使用的是 Office 365 或 Outlook.com 电子邮件帐户，则以下客户端无需执行任何特殊操作来打开邮件： **outlook 2016、outlook 网页版/Outlook Web App、outlook mobile App**
 
 受保护的电子邮件发送到的用户的**代理**，无法打开受保护的邮件。 仅原始收件人（将受保护的电子邮件发送到的人员）可以查看电子邮件中的信息。
 

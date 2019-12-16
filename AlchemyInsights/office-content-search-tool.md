@@ -1,7 +1,7 @@
 ---
 title: 1491-搜索-不返回-预期结果
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36753828"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053467"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>用于查找相关信息的内容搜索工具
 
