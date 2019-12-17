@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 5fdbb315698a58145e5437b0a7b127ce0062a76f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
+ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048606"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "40065548"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint Online 限制
 
 尝试导航到 SharePoint 或 OneDrive 网站时，用户可能会收到 "503 服务器占线" 错误。 
 
-此错误可能是由 SharePoint 服务中的限制导致的。 SharePoint Online 使用限制来维护 SharePoint Online 服务的最佳性能和可靠性。 限制会限制用户操作或并发调用数量（通过脚本或代码），以防止资源的过度使用。 如果您被限制，99% 都是因为自定义代码。
+此错误可能是由 SharePoint 服务中的限制导致的。 SharePoint Online 使用限制来维护 SharePoint Online 服务的最佳性能和可靠性。 限制会限制用户操作或并发调用数量（通过脚本或代码），以防止资源的过度使用。 
 
 有关限制的详细信息，请参阅[避免在 SharePoint Online 中受到限制或被阻止](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)。
 
