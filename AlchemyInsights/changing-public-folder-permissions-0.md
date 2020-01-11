@@ -3,7 +3,6 @@ title: 更改公用文件夹权限
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631691"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022187"
 ---
 # <a name="changing-public-folder-permissions"></a>更改公用文件夹权限
 
-用户和 Outlook 中的管理员可以更改公用文件夹权限。 管理员还可以通过执行以下操作来控制 Exchange 管理中心 (EAC) 的权限:
+用户和 Outlook 中的管理员可以更改公用文件夹权限。 管理员还可以通过执行以下操作来控制 Exchange 管理中心（EAC）的权限：
   
-1. IIn Microsoft 365 管理中心, 转到 "**管理员中心** \> **Exchange**"。
+1. 在 Microsoft 365 管理中心，转到 "**管理员中心** \> **Exchange**"。
 
 2. 选择 "**公用文件夹**"。
 
-3. 在这里, 可以通过向权限分配安全组来更改单个公用文件夹的权限。 对于最终用户, 若要更改公用文件夹权限, 用户需要拥有对该文件夹的所有者权限。
+3. 在这里，可以通过向权限分配安全组来更改单个公用文件夹的权限。 对于最终用户，若要更改公用文件夹权限，用户需要拥有对该文件夹的所有者权限。
+
+> [!NOTE]
+> 当您尝试更改对公用文件夹的权限时，可能会遇到几个已知问题。 有关详细信息，请参阅以下文章。
+>
+> [无法在 EAC 中对公用文件夹子文件夹应用权限](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> ["在访问公用文件夹时，在本地林中找不到邮箱" 错误](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
