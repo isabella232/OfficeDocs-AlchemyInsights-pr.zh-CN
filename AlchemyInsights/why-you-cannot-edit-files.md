@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049399"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771133"
 ---
 # <a name="why-cant-i-edit-files"></a>为什么我无法编辑文件？
 
-如果已锁定文档、工作表或演示文稿以进行编辑，并且无法在 Windows 桌面应用程序中打开，则可能是由于其他人正在编辑该文件，或者这些文件已签出。让我们快速看看[可能无法编辑该文件](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)的原因。
+快速了解[您可能无法编辑该文件](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)的一些原因。
 
 如果您有包含**签出、必需**或**验证**列或元数据的库，或者在将 "**草稿项目安全性**" 设置为只有可以在库的版本设置中对**项目进行审核**的用户进行**编辑**：
 

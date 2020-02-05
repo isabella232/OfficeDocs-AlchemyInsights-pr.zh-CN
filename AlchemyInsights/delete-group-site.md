@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053035"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770485"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>删除属于 Office 365 组的 SharePoint 网站
 
@@ -27,8 +27,8 @@ ms.locfileid: "40053035"
   
 重要说明：
 
-- 你可以在93天内恢复已删除的网站。 有关详细信息，请参阅查看和还原已删除的网站。 请注意，必须在30天内恢复已删除的组。
+- 你可以在93天内恢复已删除的网站。 必须在30天内恢复已删除的组。 直接从 SharePoint 管理中心[查看和还原已删除的网站](https://admin.microsoft.com/sharepoint)。 [查看和还原已删除的组](https://outlook.office.com/people/group/deleted)，方法是选择 "**管理组**"，然后选择 "**已删除**"。
 - 如果网站是保留策略的一部分，则在从[安全&amp;合规性管理中心](https://protection.office.com/?rfr=AdminCenter#/retention)中删除该网站之前，可能无法将其删除。 有关详细信息，请参阅[保留策略概述](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites)。
   
-若要[在新 SharePoint 管理中心中查看和还原已删除的网站](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)，请选择 "**已删除网站**"。 选择已删除的网站，然后选择 "还原" 或 "删除" （将永久删除网站）。 若要删除活动网站，请选择 "**活动**网站"，选择该网站，然后选择 "**删除**"。 有关详细信息，请参阅在[新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。
+若要[查看和还原已删除的网站](https://admin.microsoft.com/sharepoint)，请选择已删除的网站，然后选择 "**还原**" 或 "**删除**" （将永久删除网站）。 通过选择网站，然后选择 "**删除**"，直接从 SharePoint 管理中心[删除活动网站](https://admin.microsoft.com/sharepoint)。 有关详细信息，请参阅在[新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)。
   

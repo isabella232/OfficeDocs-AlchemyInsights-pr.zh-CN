@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051523"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771169"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online 常见问题和解决方法
 
 以下是 SharePoint Online 问题的一些经常请求的主题：
+
+- **入门：使用**SharePoint 的 "[查看" 书籍](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf)构建连接工作场所的精美、功能强大的 intranet。 请参阅[示例](https://lookbook.microsoft.com/)并获取[设计指南](https://spdesign.azurewebsites.net/)。 有关 SharePoint Online 的总体介绍，请参阅[简介到 Sharepoint online](https://docs.microsoft.com/sharepoint/introduction) 。
 
 - **权限**：[生成权限策略](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)并[了解权限级别](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051523"
 
 - **现代化 sharepoint**：查看[Sharepoint 中的新式体验指南](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)，并[现代化你的经典 SharePoint 网站](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)开始移动。
 
-- **入门：了解**如何使用网站管理策略[开始使用 SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) 。
+**注意：** 有关 SharePoint 问题的更具体的答案，请简要地重新表述您的问题，并包含您所看到的任何错误或您正在使用的功能。

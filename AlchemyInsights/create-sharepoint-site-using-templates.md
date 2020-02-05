@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052459"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770413"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>使用模板创建 SharePoint 网站
 
-SharePoint 网站模板是围绕特定的业务需要设计的预制定义。 有关详细信息，请参阅[使用模板创建不同种类的 SharePoint 网站](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)。
+新式通信或工作组网站不支持将网站保存为模板的功能。 有关使用模板的详细信息，请参阅[保存、下载和上载 SharePoint 网站作为模板](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template)。
 
 下面是有关在 Sharepoint Online 中将网站或列表保存为模板的一些常见问题/解决方案。 
 
