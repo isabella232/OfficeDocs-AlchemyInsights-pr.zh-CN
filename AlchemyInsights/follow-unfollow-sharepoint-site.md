@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611687"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855541"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>遵循或取消关注 SharePoint 网站
 
-有多种方法可以在 SharePoint 中查找和关注您感兴趣的网站、新闻和内容。 这将使您能够轻松地在列表中查找信息，并允许您查看 SharePoint 中的活动。
+如果用户在以下或 unfollowing SharePoint 资源时遇到问题，请完成以下步骤：
 
-观看视频以[查找并关注网站和新闻](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c)。
-
-如果您无法跟踪或取消关注某个网站、新闻或内容并感觉结果不是预期结果，请查看该问题是否与组织中的单个用户或所有用户有关。 如果所有用户遇到此问题，则可能存在暂时性的服务问题。
-
-检查[服务运行状况仪表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)以查看您的组织是否受到影响。
+* 要求用户注销并重新登录到 SharePoint，并尝试相同的步骤，以遵循或取消追随 SharePoint 资源。
+* 确定问题是否与特定网站或所有网站有关。 如果特定网站出现问题，请通过转到 "网站设置" 来确保网站的 "以下内容" 功能对网站处于活动状态， **> 管理网站功能，> 关注的内容**。 如果功能设置为 "活动"，请尝试再次激活并激活该网站的功能。
+* 要求用户尝试其他 Internet 浏览器，以查看问题是否特定于用户的浏览器。
+* 如果所有用户和所有网站都遇到相同的问题，请检查[服务运行状况仪表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)以查看您的组织是否受到影响。
