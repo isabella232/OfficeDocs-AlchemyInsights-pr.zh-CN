@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770377"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042870"
 ---
 # <a name="delete-a-site"></a>删除网站
 
-删除网站时，会将其移动到[已删除的网站](https://admin.microsoft.com/sharepoint)，并保留93天。 若要删除网站，请转到 "[活动网站](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)"。 
+删除网站时，会将其移动到[已删除的网站](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)，并保留93天。 若要删除网站，请转到 "[活动网站](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)"。 
 
 删除网站时，将删除该网站中的所有内容，包括：
 

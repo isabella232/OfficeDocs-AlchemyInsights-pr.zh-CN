@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 9a205a6646d28fbb151d229719a104d6af383a92
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
+ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026851"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42031604"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>解决打开或保存 Word 文件时出现的错误
 
@@ -25,6 +25,7 @@ ms.locfileid: "37026851"
 - [安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 有关最新 Office 更新的列表，请参阅[最新更新](https://docs.microsoft.com/officeupdates/office-updates-msi)。
 - [解决 Word 中损坏的文档](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)。
 - [修复 Office 应用程序](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
+- 如果文档包含修订，[如果有过多的修订或注释](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding)可解决问题，请使用 Word 中的建议变慢或停止响应。
 
 如果收到如下所示的错误，在[注册表策略设置阻止文件时](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)，请使用 Office 中的错误消息中的建议：
 

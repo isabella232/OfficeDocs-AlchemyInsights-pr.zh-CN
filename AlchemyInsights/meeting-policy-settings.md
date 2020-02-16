@@ -9,16 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627564"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042834"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>在 Microsoft 团队中管理会议策略
+
+**注意：最长可能需要24小时才能使策略更改对用户生效。** 您可能无法立即对新创建的策略进行更改。等待4小时，并再次尝试修改新创建的策略。
 
 会议策略用于控制会议参与者对组织中的用户安排的会议参与者可用的功能。 会议策略的某些功能可能未在团队管理中心中实施（这些功能在文档中被标记为 "即将推出"）。 在这种情况下，或者如果遇到类似 "我们现在无法更新策略，但稍后再试一次" 这一错误（在 Microsoft 团队管理中心，我们建议使用 PowerShell 创建或修改团队会议策略。 
 
@@ -30,4 +32,3 @@ ms.locfileid: "39627564"
     - 您需要使用[Skype For Business PowerShell 模块](https://www.microsoft.com/download/details.aspx?id=39366)获取团队会议策略。 
     - 有关详细信息，请参阅[*-CsTeamsMeetingPolicy cmdlet 文档](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)。
 
-**注意：** 可能需要长达24小时才能使策略更改对用户生效。 您可能无法立即对新创建的策略进行更改。等待4小时，并再次尝试修改新创建的策略。 如果仍有问题，请尝试 PowerShell。  
