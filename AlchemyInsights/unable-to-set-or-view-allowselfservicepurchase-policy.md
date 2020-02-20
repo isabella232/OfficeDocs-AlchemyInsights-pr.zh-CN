@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091666"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158550"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>无法设置或查看 AllowSelfServicePurchase 策略
 
@@ -29,11 +29,11 @@ ms.locfileid: "42091666"
 尝试执行以下步骤，将 TLS 协议启用/设置为1.2、验证和重试。
  1. 在 PowerShell 命令提示符（PS C：\) ）中，输入以下命令，将 TLS 协议设置为版本1.2：
 
-    \[ServicePointManager]：： SecurityProtocol = \[SecurityProtocolType]：： Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. 使用以下命令验证所使用的 TLS 协议：
 
-    \[ServicePointManager]：： SecurityProtocol 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. 根据需要，重试 Get 或 Update 命令。
 

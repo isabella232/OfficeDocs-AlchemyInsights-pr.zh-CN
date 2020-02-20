@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: 7b04612daca61650d162c1dde240e25c1b185b04
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: cd85dd3c0eb14f6e02ac4f912e733468403387aa
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063598"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158482"
 ---
 # <a name="restore-a-deleted-public-folder"></a>还原已删除的公用文件夹
 
@@ -30,10 +30,10 @@ ms.locfileid: "42063598"
 
     语法：
 
-    >$pf = Set-publicfolder \ NON_IPM_SUBTREE \ DUMPSTER_ROOT 递归 |？{$_.Name-eq "\<name_of_deleted_public_Folder"};Set-publicfolder $pf-将在其中还原文件夹\<的路径路径>
+     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
     示例：下面的命令将还原 Subfolder1，并将其置于 \Parent1 中：
 
-    >$pf = Set-publicfolder \ NON_IPM_SUBTREE \ DUMPSTER_ROOT 递归 |？{$_.Name-eq "Subfolder1"};Set-publicfolder $pf identity-路径 \Parent1
+    `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
 有关详细信息，请参阅[还原已删除的公用文件夹](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder)。
