@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: 90c33249ee17ff65ece33d38f4722d57f214939c
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: a1c4f18633765c4990d2c0866a28f100555862e4
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305357"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42264970"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>启用外部通信并添加联系人
 
-在 Skype for Business 中，可以将人员添加到 "联系人" 列表中，以便只需单击即可。 系统将在您的一个或多个联系人组中为您添加的每个联系人分配成员资格。 有关详细信息，[请参阅为 Skype For Business 添加联系人](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1)。 
+在 Skype for Business 中，可以将人员添加到 "联系人" 列表中，以便只需单击即可。 系统将在您的一个或多个联系人组中为您添加的每个联系人分配成员资格。 有关详细信息，[请查看在 Skype For business 中添加联系人](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1)。 
 
 确保您的租户管理员已按照[允许外部通信](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)的步骤进行操作。
 
