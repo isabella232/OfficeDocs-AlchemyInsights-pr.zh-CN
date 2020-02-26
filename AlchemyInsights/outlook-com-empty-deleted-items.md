@@ -3,6 +3,7 @@ title: 清空 Outlook.com 中的 "已删除邮件" 文件夹
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768682"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277921"
 ---
 # <a name="empty-the-deleted-items-folder"></a>清空 "已删除邮件" 文件夹
 
-若要清除所有已删除的 Outlook 邮件，请转到 "[已删除邮件" 文件夹](https://outlook.live.com/mail/deleteditems) 并选择 " **清空文件夹**"，然后选择 "  **恢复从该文件夹上方的此文件夹中删除的项目**" 并再次选择 " **空文件夹** "。
+1. 打开 "已删除邮件" 文件夹并选择 "**空文件夹**"。
+2. 在页面顶部选择 "**可恢复的项目**"，然后再次选择 "**空文件夹**"。
 
-如果您删除了大量邮件，可能需要一段时间才能从 "已删除邮件" 文件夹中移到或清除这些邮件。 请将浏览器窗口保持打开状态，直到这些项目被删除。
+**无法清空 "已删除邮件" 文件夹**
 
-如果邮件未能正确删除，请尝试删除较少的邮件数。
+- 如果您删除了大量电子邮件，可能需要一段时间才能从 "已删除邮件" 文件夹中移到或删除这些项目。 删除过程中，将浏览器窗口保持打开状态。
+- 如果仍然无法正确删除电子邮件，请选择要删除的较小批次。
+- 如果删除的电子邮件返回，可能是因为最近您已删除了大量电子邮件。 请稍后重试。
