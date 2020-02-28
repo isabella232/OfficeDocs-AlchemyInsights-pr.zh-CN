@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855703"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322744"
 ---
 # <a name="modernize-the-classic-home-page"></a>现代化的经典主页
 
 当主页*仅包含现成的默认 web 部件*（如入门版、文档库和新闻源）时，经典 SharePoint 团队网站主页的最新更新将影响经典工作组网站的主页（STS # 0）。
+
+在[此处](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)查看更改的指导。 
 
 **注意：包含自定义内容的经典工作组网站不会自动更新。**
 
