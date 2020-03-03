@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626374"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371512"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>团队常见问题和解决方法
 
 有关 Microsoft 团队问题的更具体的答案，请简要地重新表述问题，并包含您所看到的任何错误或您正在使用的功能。
+
+如果需要使用团队支持远程工作人员（WFH）的帮助，请查看[使用 Microsoft 团队支持远程工作人员](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 以下是一些其他资源：
 
