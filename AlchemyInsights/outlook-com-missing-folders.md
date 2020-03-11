@@ -3,7 +3,7 @@ title: Outlook.com 缺少的文件夹
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 3/9/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
-ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
+ms.openlocfilehash: e6a5170655d98eaa914f686753e0aea3873fc058
+ms.sourcegitcommit: e1307138631f9a5489f5309dfc5dd1bc6be3dc96
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/24/2020
-ms.locfileid: "42260232"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42572565"
 ---
 # <a name="find-missing-folders"></a>查找丢失的文件夹
 
 在小屏幕上进行查看时，某些用户可能无法看到左侧的文件夹窗格。
 
+- 如果看不到 "文件夹" 窗格，请最大化浏览器窗口或向左滚动查看文件夹列表。
 - 仅在需要时才展开文件夹窗格。 选择左侧栏中的三个线条图标以显示或隐藏文件夹。
 - 打开[布局设置](https://outlook.live.com/mail/options/mail/layout)并选择 "**隐藏阅读窗格**"，然后单击 "**保存**"。 这将使屏幕显示更多的空间以显示文件夹。
 
