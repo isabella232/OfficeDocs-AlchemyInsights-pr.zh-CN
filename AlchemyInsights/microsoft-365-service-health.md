@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 14de391dd1f020e29beb4b432e288b46bee3dd9a
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558823"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600482"
 ---
 # <a name="microsoft-365-service-health"></a>Microsoft 365 服务运行状况
 
@@ -29,4 +29,4 @@ ms.locfileid: "42558823"
 
 - 选择 "**历史记录**" 以查看组织的服务运行状况历史记录。 
 
-有关详细信息，请参阅 how [to 检查 Office 365 服务运行状况](https://docs.microsoft.com/en-us/office365/enterprise/view-service-health)。 
+有关详细信息，请参阅 how [to 检查 Office 365 服务运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。 

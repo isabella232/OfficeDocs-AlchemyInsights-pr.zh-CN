@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157516"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600349"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>旧电子数据展示工具的退休
 
@@ -37,7 +37,7 @@ ms.locfileid: "42157516"
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 高级电子数据展示1。0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 高级电子数据展示1。0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **停用的时间线**：
 - 2020年4月1日：您将无法创建新的搜索和保留，但您仍可以自行承担运行、编辑和删除现有搜索。 Microsoft 支持将不再支持 EAC 中的就地电子数据展示 & 保留。
@@ -46,9 +46,9 @@ ms.locfileid: "42157516"
 
 **有关详细信息，请参阅**：
 
- - [将旧式电子数据展示搜索和保留迁移到 Microsoft 365 合规性中心](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [旧电子数据展示工具的退休](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [有关就地电子数据展示和就地保留的常见问题解答](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [将旧式电子数据展示搜索和保留迁移到 Microsoft 365 合规性中心](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [旧电子数据展示工具的退休](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [有关就地电子数据展示和就地保留的常见问题解答](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
