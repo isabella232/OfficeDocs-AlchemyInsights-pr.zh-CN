@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 982079c674e387018dc9f262400b0fc44b4da9fd
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
+ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42558895"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42632657"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>将权限管理保护与 Microsoft 365 结合使用
 
-必须先激活权限管理服务（RMS），然后才能使用 Office 365 应用程序和服务的信息权限管理（IRM）功能。
+必须先激活[权限管理服务（RMS）](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) ，然后才能使用 Office 365 应用程序和服务的信息权限管理（IRM）功能。
 
 1. 有关**microsoft 365 管理中心**的许可证要求和激活，请参阅 how [To Activate Rights Management Protection from The Microsoft 365 admin center](https://docs.microsoft.com/azure/information-protection/activate-office365)。 **注意**：需要全局管理帐户。
 
