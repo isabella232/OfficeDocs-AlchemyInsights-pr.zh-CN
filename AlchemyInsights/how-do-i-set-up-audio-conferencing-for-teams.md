@@ -1,24 +1,42 @@
 ---
-title: 如何为团队设置音频会议
+title: 如何设置 Teams 音频会议
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: eb875a0659327e0669c449a4b16037f2c7fc0eb2
-ms.sourcegitcommit: 60166417054fddd68750f1ce5898af79d9de1dfa
-ms.translationtype: MT
+ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37383916"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692385"
 ---
-# <a name="phone-systems-and-audio-conferencing-for-teams"></a>适用于团队的电话系统和音频会议
+# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 音频会议
 
-有关 Microsoft 团队中的会议和会议的详细信息，请参阅[Microsoft 团队中的会议和会议](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)。
+在启用或设置 Microsoft Teams 中的音频会议方面需要帮助？ 此用户最近已创建？  如果是这样，则需要等待2–24小时，设置才会生效。    
+
+若要验证用户是否获得音频会议许可，是否拥有默认收费电话号码：
+
+1. 转到“[活动的用户](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)”，并随后选择有问题的用户。
+
+2. 根据管理中心的版本，选择“**许可证和应用程序**”或点击“**产品许可证**”上的“**编辑**”。
+
+3. 确认用户已选择了适用于**音频会议、Microsoft Teams**、**Skype for Business Online (计划 2)** 的许可证。
+
+4. 用户 **管理中心** 单击“**显示全部**”，随后单击 **Teams**。
+
+5. 在“**Microsoft Teams 管理中心**”，点击“**旧门户**”。
+
+6. 在“**Skype for Business 管理中心**”中，单击“**音频会议**”， 然后单击“**用户**”。
+
+7. 选择有问题的用户，并验证用户是否有“**默认收费号码**”。
+
+有关详细信息，请参阅[Office 365 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)或致电 Microsoft Commerce 计费团队来获取授权相关问题的帮助。
