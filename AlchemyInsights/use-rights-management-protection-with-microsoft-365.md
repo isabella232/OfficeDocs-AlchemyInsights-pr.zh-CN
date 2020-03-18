@@ -1,30 +1,30 @@
 ---
-title: 将权限管理保护与 Microsoft 365 结合使用
+title: 使用权限管理保护和 Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632657"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707362"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>将权限管理保护与 Microsoft 365 结合使用
+# <a name="use-rights-management-protection-with-microsoft-365"></a>使用权限管理保护和 Microsoft 365
 
-必须先激活[权限管理服务（RMS）](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) ，然后才能使用 Office 365 应用程序和服务的信息权限管理（IRM）功能。
+使用 Office 365 应用和服务的信息权限管理 (IRM)前，必须启用“[信息权限管理 (IRM)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)”。
 
-1. 有关**microsoft 365 管理中心**的许可证要求和激活，请参阅 how [To Activate Rights Management Protection from The Microsoft 365 admin center](https://docs.microsoft.com/azure/information-protection/activate-office365)。 **注意**：需要全局管理帐户。
+1. 有关许可证要求和从“**Microsoft 365 管理中心**”启用的信息，请参阅“[如何从 Microsoft 365 管理中心启用权限管理保护](https://docs.microsoft.com/azure/information-protection/activate-office365)”。 **注意**：需要全局管理账户。
 
-2. 有关**Azure 门户**许可证要求和激活的详细说明，请参阅[如何从 Azure 门户激活权限管理保护服务](https://docs.microsoft.com/azure/information-protection/activate-azure)。 **注意**：不需要全局管理员帐户。
- 
+2. 有关许可证要求和从“**Azure 门户**”启用的信息，请参阅“[如何从 Azure 门户启用权限管理保护服务](https://docs.microsoft.com/azure/information-protection/activate-azure)”。 **注意**：不需要全局管理员账户。
 
-有关详细信息，请参阅[有关管理中心中权限管理的信息的指针](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365)。
+如需更多信息，请参阅“[管理中心权限管理信息指针](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365)”。

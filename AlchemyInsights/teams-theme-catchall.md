@@ -6,35 +6,44 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371512"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707469"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>团队常见问题和解决方法
+# <a name="teams-common-issues-and-resolutions"></a>Teams 常见问题和解决方法
 
-有关 Microsoft 团队问题的更具体的答案，请简要地重新表述问题，并包含您所看到的任何错误或您正在使用的功能。
+若要获得更具体的答案，请尝试重新撰写你的问题，包括看到的任何错误或正在使用的 Teams 功能。
 
-如果需要使用团队支持远程工作人员（WFH）的帮助，请查看[使用 Microsoft 团队支持远程工作人员](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+如果因为新型冠状病毒肺炎（COVID-19）需要帮助部署 Teams 以支持远程工作者，请参阅“[使用 Microsoft Teams 支持远程工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)”。 此外，还有资格获得 Microsoft 365 FastTrack 程序的部署帮助，具体请访问 [FastTrack 中心](https://www.microsoft.com/fasttrack)提交请求。
 
-以下是一些其他资源：
+所有 Teams 客户：
 
-- **启用团队来宾访问：** 查看 "[团队来宾访问" 清单](https://docs.microsoft.com/microsoftteams/guest-access-checklist)，并确保所有步骤都已完成。
-- **解决团队登录问题：** 首先，请确保[Microsoft 团队服务处于正常状态](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。 然后检查是否有任何常见错误代码，并查看[为什么我在 Microsoft 团队中登录时遇到问题？](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  您可能还需要[在 Microsoft 团队中查看标识模型和身份验证](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)。
-- **还原已删除的团队或频道：** 
-    - 请参阅[在 Microsoft 团队中还原已删除的团队](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)。
-    - 在删除频道后，可将团队中的已删除频道最长可恢复21天。 
-    - 若要恢复已删除的频道，请参阅[存档或还原团队](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7)。
-- **还原删除的文件：** 请参阅[恢复团队中删除的文件](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e)。
-- **解决缺少的拨号垫问题：**  
-    - 请确保已为用户分配了[团队许可证](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。
-    - 确保用户分配了通话套[餐](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)。
+- **不熟悉 Teams？** 请参阅“[Microsoft Teams 入门指南](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)”。
+
+- **启用 Teams 来宾范围：** 查看“[Teams 来宾访问检查清单](https://docs.microsoft.com/microsoftteams/guest-access-checklist)”并确保所有步骤已完成。
+
+- **[设置 Teams 音频会议](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **dial pad － 拨号盘故障排除：**  
+
+    - 确保用户已分配了[Teams 许可证](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses)。
+
+    - 确保用户已分配了[通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)。
+
     - 为用户启用[企业语音](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail)。
-- **团队的已知问题：** 阅读[Microsoft 团队的已知问题](https://docs.microsoft.com/microsoftteams/known-issues)。
+
+- **有关 Teams 登录的疑难解答：** 首先请确保 [Microsoft Teams 服务正常](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。 然后查看任何常见的错误代码，查看“[为什么我在登录 Microsoft 团队时遇到问题？](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)”  还可需要查看“[Microsoft Teams 中的身份模型和身份验证](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication)”。
+
+**教育版客户：**
+
+如果你的用户看到 "You're missing out!" 确保“[为学校启用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams)”。 在 EDU 租户中，默认情况下不启用 Microsoft Teams ，必须首先将其打开。
+
+下一步，请参阅“[使用 Office 365 教育版远程教学和学习](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)”，了解如何设置学校、课程规划、虚拟会议和与学生共享内容。 
