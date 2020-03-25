@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530269"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932612"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP 未按预期正常工作
 
-Office 365 中的**数据丢失防护 (DLP)** 是否有问题无法按预期工作？ 如果是这样, 请确保您的**dlp 策略**设置正确, 并且您的数据中包含**DLP 策略**在评估时要查找的内容。
-  
+**重要说明**：许多 SharePoint Online 和 OneDrive 客户对在后台运行的服务运行关键业务应用程序。 其中包括内容迁移、数据丢失防护（DLP）和备份解决方案。 在这些前所未有的时间内，我们将采取措施，以确保在远程工作方案中，SharePoint Online 和 OneDrive 服务对依赖于该服务的用户保持高可用性和可靠性。
+
+为支持此目标，我们已在工作日白天营业时对后台应用（迁移、DLP 和备份解决方案）实施了更严格的限制限制。 在这些情况中，您应认为这些应用程序的吞吐量非常有限。 但是，在夜间和周末的时间内，服务将准备好处理来自后台应用程序的较大数量的请求。
+
  **设置 DLP**
+
+Office 365 中的**数据丢失防护（DLP）** 是否有问题无法按预期工作？ 如果是这样，请确保您的**dlp 策略**设置正确，并且您的数据中包含**DLP 策略**在评估时要查找的内容。
   
-DLP 策略允许你标识和保护组织中的敏感信息。 若要设置 DLP 策略, 请使用[此处](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)的信息。
+DLP 策略允许你标识和保护组织中的敏感信息。 若要设置 DLP 策略，请使用[此处](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)的信息。
   
  **DLP 策略查找的内容**
   
-在 Office 365 安全与合规中心中使用**内置的敏感信息类型**时, DLP 策略会在检测这些敏感类型时查找特定模式和元素。
+在 Office 365 安全与合规中心中使用**内置的敏感信息类型**时，DLP 策略会在检测这些敏感类型时查找特定模式和元素。
   
 - **内置的敏感信息类型**
 
-    有关内置敏感类型以及在检测敏感类型时 DLP 策略查找的内容的信息, 请参阅:[敏感信息类型查找的内容](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
+    有关内置敏感类型以及在检测敏感类型时 DLP 策略查找的内容的信息，请参阅：[敏感信息类型查找的内容](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
 
 - **自定义敏感信息类型**
 
-    如果您尝试创建自定义敏感信息类型, 请使用以下文章, 了解有关如何创建自定义敏感信息类型的信息:[创建自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。
+    如果您尝试创建自定义敏感信息类型，请使用以下文章，了解有关如何创建自定义敏感信息类型的信息：[创建自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。
 
 **测试 DLP 策略**
 
-若要使用内置或自定义的敏感信息类型测试数据, 请使用 "**分类** > **敏感信息类型**" 下的 "**测试类型**" 选项。 有关详细信息, 请参阅[测试自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)。
+若要使用内置或自定义的敏感信息类型测试数据，请使用 "**分类** > **敏感信息类型**" 下的 "**测试类型**" 选项。 有关详细信息，请参阅[测试自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)。
 
  **报表**
   
 - 使用[DLP 报告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)获取敏感数据见解。
 
-- 有关事件[报告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)的详细信息, 请参阅事件的具体详细信息。
+- 有关事件[报告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)的详细信息，请参阅事件的具体详细信息。
