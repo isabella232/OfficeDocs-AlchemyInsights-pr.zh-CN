@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932469"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958528"
 ---
 # <a name="general-migration-performance-guidance"></a>通用迁移性能指南
 
-**重要说明**：许多 SharePoint Online 和 OneDrive 客户针对后台运行的服务来运行业务关键应用程序。 其中包括内容迁移、数据丢失防护 (DLP) 和备份解决方案。 在这个前所未有的时代，我们正在采取行动，以确保 SharePoint Online 和 OneDrive 服务保持高可用性和可靠性，为在远程工作场景中比以往任何时候都更依赖这些服务的用户提供便利。
-
-为了支持这一目标，我们对在工作日日间时间段内运行的后台应用（迁移、DLP 和备份解决方案）实施了更严格的限制。 预计这些应用应该会在这段时间内实现非常有限的吞吐量。 不过，在相应区域的夜间和周末时间段内，服务将可以处理来自后台应用的大量请求。
+**重要信息：** 在这些空前的时期，我们正在采取措施确保 SharePoint Online 和 OneDrive 服务高度可用，请访问 [SharePoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)获取详细信息。
 
 **迁移性能指南**
 
