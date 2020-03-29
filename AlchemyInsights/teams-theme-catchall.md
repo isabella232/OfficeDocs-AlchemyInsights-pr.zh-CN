@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856457"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030390"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Teams 常见问题和解决方法
+
+**重要信息**：由于最近 Teams 使用量增加，当向用户分配 Teams 许可证时，可能需要大约 24 小时才能完全设置。 在此之前，将无法为他们分配团队策略，并且可能无法访问某些团队功能，例如呼叫和音频会议。
+
+**常见问题和解决方法**
 
 若要获得更具体的答案，请尝试重新撰写你的问题，包括看到的任何错误或正在使用的 Teams 功能。
 
