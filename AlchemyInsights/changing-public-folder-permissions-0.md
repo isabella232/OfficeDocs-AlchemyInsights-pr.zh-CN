@@ -11,12 +11,12 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
-ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
+ms.openlocfilehash: 68aefd820c681a9022828f67655e1c843692a30e
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/11/2020
-ms.locfileid: "41022187"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059762"
 ---
 # <a name="changing-public-folder-permissions"></a>更改公用文件夹权限
 
@@ -28,9 +28,10 @@ ms.locfileid: "41022187"
 
 3. 在这里，可以通过向权限分配安全组来更改单个公用文件夹的权限。 对于最终用户，若要更改公用文件夹权限，用户需要拥有对该文件夹的所有者权限。
 
-> [!NOTE]
-> 当您尝试更改对公用文件夹的权限时，可能会遇到几个已知问题。 有关详细信息，请参阅以下文章。
->
-> [无法在 EAC 中对公用文件夹子文件夹应用权限](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
->
-> ["在访问公用文件夹时，在本地林中找不到邮箱" 错误](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+请按照[如何诊断和修复公用文件夹权限问题](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues)中所述的过程解决公用文件夹权限问题。
+
+**注意**：当您尝试更改公用文件夹的权限时，可能会遇到几个已知问题。 有关详细信息，请参阅以下文章。
+
+- [无法在 EAC 中对公用文件夹子文件夹应用权限](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+
+- ["在访问公用文件夹时，在本地林中找不到邮箱" 错误](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
