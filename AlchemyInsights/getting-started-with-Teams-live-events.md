@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034159"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142979"
 ---
 # <a name="getting-started-with-teams-live-events"></a>开始使用 Teams 实时事件
 
@@ -24,7 +24,7 @@ Microsoft Teams 实时事件是 Teams 会议的扩展，使您能够安排和制
 
 若要创建实时事件，需执行以下操作：
 
-- [Office 365 企业版 E1、E3 或 E5 许可证，或 Office 365 A3 或 A5 许可证](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)。
+- [Office 365 企业版 E1、E3 或 E5 许可证，或 Office 365 A3 或 A5 许可证](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)。 **注意**：由于最近 Teams 使用量增加，当向用户分配 Teams 许可证时，可能需要大约 24 小时才能完全设置。 在此之前，将无法为他们分配团队策略，并且可能无法访问某些团队功能，例如呼叫和音频会议。
 
 - [在 Microsoft Teams 管理中心中创建实时事件](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy)的权限。
 
