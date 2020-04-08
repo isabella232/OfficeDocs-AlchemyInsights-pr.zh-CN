@@ -23,7 +23,7 @@ ms.locfileid: "43160842"
 ---
 # <a name="reactivate-your-subscription"></a>重新激活订阅
 
-如果订阅过期，或被 Microsoft 禁用，或者在订阅中途取消了订阅，可在管理中心重新激活它。 
+如果订阅过期，或被 Microsoft 禁用，或者在订阅期内取消了订阅，可在管理中心重新激活它。 
 
 1. 在管理中心，转到“**账单” > “[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”** 页面。
 
