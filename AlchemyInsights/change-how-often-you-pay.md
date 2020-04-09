@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386891"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195008"
 ---
 # <a name="change-how-often-you-pay"></a>更改您的支付频率
 
- **想要更改付款频率？** 如果要更改为 Office 365 for business 订阅支付的频率 (从每年到每月或每月), 我们可以帮助你。 您需要购买具有新付款频率的相同订阅, 并取消旧订阅。 请使用 "我们称之为你的电话" 选项与支持工程师交谈。
+在购买订阅时，选择每月或每年的帐单。 若要更改订阅的计费频率，请按照以下步骤操作。
+
+1. 在 "管理中心" 中，转到 "**帐单>[产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)** " 页。
+
+2. 查找要更改的订阅。 在 "**帐单**" 部分中的 "**每月计费**" 或 "**每年**计费" 旁边，单击 "**编辑**"。
+
+3. 选择要向其计费的频率的选项，然后选择 "**更改**"。
