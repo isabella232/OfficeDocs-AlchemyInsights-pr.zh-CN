@@ -10,17 +10,19 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: d0eccaf7d953dd6ac9f80394314dbdd71a1bccf5
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: b1bccc3ccdcbccfdbc68bbfd4ed40560b45f1797
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953728"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105301"
 ---
 # <a name="service-numbers-in-teams"></a>Teams 中服务号码
 
 服务电话号码比用户或订户电话号码有更高的并发呼叫容量。 
 
-- [查看**获取服务号码**的不同方法](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)。 
+- [查看获取服务号码的不同方法](https://docs.microsoft.com/microsoftteams/getting-service-phone-numbers)。 
 
-- [查看如何**将用户号码转换为服务号码**](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)。
+- [查看如何将用户号码转换为服务号码](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/phone-number-management-for-the-u-s)。
+
+有关详细信息，请参阅[管理你的组织的电话号码](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)。
