@@ -7,26 +7,21 @@ ms.date: 2/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
-ms.translationtype: MT
+ms.openlocfilehash: 5bee71c66ae81fda95df152405dfd689055a10cf
+ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737071"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43183387"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="a6b4d-102">什么是管理员角色以及如何分配它们？</span><span class="sxs-lookup"><span data-stu-id="a6b4d-102">What are admin roles and how do you assign them?</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="ffbcd-102">管理员角色</span><span class="sxs-lookup"><span data-stu-id="ffbcd-102">Admin roles</span></span>
 
-<span data-ttu-id="a6b4d-103">看起来您有关于管理员角色的一些问题。</span><span class="sxs-lookup"><span data-stu-id="a6b4d-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="a6b4d-104">这些文章应回答你的所有问题。</span><span class="sxs-lookup"><span data-stu-id="a6b4d-104">These articles should answer all your questions.</span></span>
-  
-- [<span data-ttu-id="a6b4d-105">关于管理员角色</span><span class="sxs-lookup"><span data-stu-id="a6b4d-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- <span data-ttu-id="ffbcd-103">在管理中心中选择“[角色](https://admin.microsoft.com/Adminportal/Home#/roles)”以分配或了解有关管理员角色的更多信息。</span><span class="sxs-lookup"><span data-stu-id="ffbcd-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
 
-- [<span data-ttu-id="a6b4d-106">分配管理员角色</span><span class="sxs-lookup"><span data-stu-id="a6b4d-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
-
-<span data-ttu-id="a6b4d-107">未回答你的问题？</span><span class="sxs-lookup"><span data-stu-id="a6b4d-107">Didn't answer your question?</span></span> <span data-ttu-id="a6b4d-108">没问题！</span><span class="sxs-lookup"><span data-stu-id="a6b4d-108">No problem!</span></span> <span data-ttu-id="a6b4d-109">使用 "我们呼叫你" 选项与支持工程师交谈。</span><span class="sxs-lookup"><span data-stu-id="a6b4d-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- <span data-ttu-id="ffbcd-104">然后选择一个或多个角色名称，然后单击“**分配角色**”，或单击“**比较角色**”以了解更多信息。</span><span class="sxs-lookup"><span data-stu-id="ffbcd-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
