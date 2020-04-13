@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7a2f2ae8bc80e3d66ab3227b8c675efcb23bc1e6
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664382"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231481"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>如何更新信用卡信息？
 
@@ -28,9 +28,8 @@ ms.locfileid: "36664382"
 
 3. 要更改信用卡或银行帐户信息，请选择“**编辑付款详细信息**”。
 
-> [!NOTE]
-> 如果其他管理员购买了该订阅，则无法更新它的信用卡或银行帐户信息。如果该信用卡将要到期，而其他管理员无法更新它，则可以通过为订阅添加其他信用卡或新银行帐户来防止服务中断。
-
 4. 按需更新信用卡或银行帐户信息（信用卡或银行帐户上的姓名、账单邮寄地址、电话号码或到期日期），然后选择“**保存**” > “**完成**”。
 
 要了解详细信息，请参阅[在 Office 365 商业版中添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。
+
+**注意**：如果是其他管理员购买的订阅，你将无法更新该订阅的信用卡或银行帐户信息。 如果该信用卡将要到期，而其他管理员无法更新它，则可以通过为订阅添加其他信用卡或新银行帐户来防止服务中断。
