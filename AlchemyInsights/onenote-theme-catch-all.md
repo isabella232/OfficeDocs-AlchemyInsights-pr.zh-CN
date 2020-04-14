@@ -11,23 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 6a1b769f3560b2497a0010342015f027f2027120
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: cd3bb39b4a105a1391a373dfed7c2c247a980673
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026849"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286376"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>OneNote 的常见问题和解决方法
 
-有关 OneNote 问题的更具体的答案，请简述您的问题，并包含您所看到的任何错误或您正在使用的功能。
-
 以下是一些经常请求的 OneNote 主题：
 
-- [在 OneNote 中创建笔记本](https://support.office.com/article/create-a-notebook-in-onenote-6be33cf9-f7c3-4421-9d74-469a259952d3)
-- [OneNote 和 OneNote 2016 之间有何区别？](https://support.office.com/article/a624e692-b78b-4c09-b07f-46181958118f)
-- [安装 OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08)
-- [修复同步问题](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)
-- [将笔记本移动到云](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)
-- [将笔记本迁移到云的疑难解答](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)
-- [导出和导入 OneNote 笔记本](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)
+- [解决同步问题](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)-若要解决与 onenote 同步相关的最常见问题，请在[无法同步 Onenote 时使用修复问题](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)中的步骤。
+
+- [在团队中使用 onenote](https://support.microsoft.com/en-us/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **注意**：目前，团队中的 onenote 对于商业和教育租户是只读的。 若要编辑，请使用 OneNote 网页版或 OneNote 桌面应用。
+
+- [在团队中使用 OneNote 课堂笔记本](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440)解答有关在团队中设置课堂笔记本的问题。
+
+- [将笔记本移动到云](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)。
+
+- [将笔记本迁移到云的疑难解答](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)。
+
+- [安装 OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -在3月2020日开始安装 Office 365 或 office 2019 时，OneNote 桌面应用程序将随 Word、PowerPoint 和 Excel 桌面应用程序一起安装。
+
+- [导出和导入 OneNote 笔记本](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)。

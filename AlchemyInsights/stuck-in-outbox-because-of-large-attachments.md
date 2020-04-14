@@ -13,28 +13,28 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 35fe9ae76ca77faa43796b288af09be8525cb6df
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
+ms.openlocfilehash: 4f69de167dc51961fa7cf71b4d73ca7ee3ed4d55
+ms.sourcegitcommit: 57fb994ddd3854d06faa67680c971b003b06bf83
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232620"
+ms.lasthandoff: 04/13/2020
+ms.locfileid: "43241242"
 ---
 # <a name="fix-messages-that-are-stuck-in-the-outbox"></a>修复发件箱中卡住的邮件
 
-我们建议您从受影响的计算机上的[Microsoft 支持和恢复助手](https://diagnostics.office.com/#/)工具中运行["我遇到了问题，无法发送、接收或查找电子邮件"](https://aka.ms/SaRA-OutlookSendReceive)这一方案开始。
+我们建议您从[Microsoft 支持和恢复助手](https://diagnostics.office.com/#/)工具中运行["我遇到了问题发送、接收或查找电子邮件问题"](https://aka.ms/SaRA-OutlookSendReceive)这一方案开始。
 
 当邮件滞留在发件箱中时，最可能的原因是附件较大，或者 "连接后立即发送" 选项未启用。
 
 **删除大附件**
 
-1. 单击 "**发送/接收** > **脱机工作**"。 
-2. 在导航窗格中，单击 **"发件箱**"。 在此处，您可以执行以下操作： 
-    - 删除邮件。 只需选择它并单击 "**删除**"。
-    - 将邮件拖到 "**草稿" 文件夹**中，双击以打开该邮件，然后删除该附件（单击它并单击 "**删除**"）。
-3. 如果出现错误，则表明 Outlook 正在尝试传输邮件，请关闭 Outlook。 可能需要几分钟才能退出。 如果 Outlook 不关闭，请按**Ctrl + Alt + Delete** ，然后单击 "**启动任务管理器**"。 在任务管理器中，选择 "**进程**" 选项卡，向下滚动到 "setup.exe"，然后单击 "**结束进程**"。
-4. Outlook 关闭后，重新启动 Outlook 并重复步骤2-3。 
-5. 删除附件后，请单击 "脱机**发送/接收** > **工作**" 以取消选择该按钮，然后恢复联机工作。 
+1. 在 Outlook 中，选择 "**发送/接收** > **脱机工作**"。 
+2. 在导航窗格中，选择 **"发件箱"**。 在此处，您可以执行以下操作： 
+    - 删除邮件（选择它，然后选择 "**删除**"）。
+    - 将邮件拖到 "草稿" 文件夹中，双击以打开它，然后删除附件，选择它，然后选择 "**删除**"。
+3. 如果收到指示 Outlook 尝试传输邮件的错误，请关闭 Outlook。 可能需要几分钟才能退出。 如果 Outlook 未关闭，请按 Ctrl + Alt + Delete，然后选择 "**启动任务管理器**"。 在任务管理器中，选择 "**进程**" 选项卡，向下滚动到 "setup.exe"，然后选择 "**结束进程**"。
+4. Outlook 关闭后，重新启动它并重复步骤2和3。 
+5. 删除附件后，请单击 "脱机**发送/接收** > **工作**" 以恢复联机工作。 
 
 当您单击 "**发送**"，但未连接时，邮件也会陷入发件箱中。 单击 "**发送/接收**" 并查看 "**脱机工作**" 按钮。 如果是蓝色，则断开连接。 单击以进行连接（该按钮变为白色），然后单击 "**全部发送**"。
  
