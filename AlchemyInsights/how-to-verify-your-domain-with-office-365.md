@@ -13,16 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ade67097172464fdf213b8af7af6639a25d48315
+ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664058"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529594"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>如何使用 Office 365 验证你的域
 
-若要验证您的域, 您需要向域注册机构添加 TXT 记录以验证您是否拥有您的域。 首先, 按照 "[添加域向导](https://portal.office.com/adminportal/home#/Domains)" 操作, 选择 "**设置** \> " **Domaisn**, 然后**添加 "域**"。
+若要验证您的域，您需要向域注册机构添加 TXT 记录以验证您是否拥有您的域。 首先，请单击 "**设置** \> **域**"，然后单击 "**添加域**"，以执行 "[添加域向导](https://portal.office.com/adminportal/home#/Domains/Wizard)"。
   
 按照在[任何适用于 Office 365 的 dns 托管提供程序中创建 DNS 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)中的说明添加 TXT 记录以验证您的域。
-  
+
+对于其他域问题，请尝试[域 FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)。
