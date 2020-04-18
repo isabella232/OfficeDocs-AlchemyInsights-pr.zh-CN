@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 5ceae46c424222636367a4183740fdae353e92d1
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 82719a4764e081733ad3edf7336584b979c5fb86
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198742"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552765"
 ---
 # <a name="cancel-project-subscription"></a>取消项目订阅
 
@@ -30,3 +30,9 @@ ms.locfileid: "43198742"
 3. 找到要取消的项目计划。
 
 4. 单击 "**取消订阅**"。
+
+**退款：在下一个帐单周期内，任何按比例贷项都将返回给您。** 
+
+**注意**：如果看不到 "取消" 选项，请单击 "订阅" 查看详细信息，您应该会在 "设置" & "**操作**" 中看到 "**取消订阅**" 选项。 
+
+若要了解详细信息，请参阅[取消订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。 

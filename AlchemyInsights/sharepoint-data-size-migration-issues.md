@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958636"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552911"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>将数据迁移到 SharePoint Online 时出现的问题
-
-**重要说明**：在这些前所未有的时间内，我们将采取措施来确保 sharepoint Online 和 OneDrive 服务保持高可用性-有关详细信息，请参阅[Sharepoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)。
 
 **通过 100 TB 迁移数据**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958636"
     - 迁移的估计大小。
     - 估计启动和完成迁移的时间。
     - 描述从中迁移内容的位置，如 SharePoint Server、Box、GDrive、文件共享等。
-
-
-  
-
