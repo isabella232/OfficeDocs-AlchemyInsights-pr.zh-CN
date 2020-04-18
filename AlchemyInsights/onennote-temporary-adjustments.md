@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: 30c3b458610e5cc9f24b8d4e760b61256427da5b
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: e83ff4a0b3db9aabb3b258c17a848ed2b041bb87
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030514"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556938"
 ---
-# <a name="onenote-temporary-adjustments"></a><span data-ttu-id="213ab-102">OneNote 临时调整</span><span class="sxs-lookup"><span data-stu-id="213ab-102">OneNote temporary adjustments</span></span>
+# <a name="onenote-temporary-adjustments"></a><span data-ttu-id="2c38a-102">OneNote 临时调整</span><span class="sxs-lookup"><span data-stu-id="2c38a-102">OneNote temporary adjustments</span></span>
 
-<span data-ttu-id="213ab-103">**重要信息**：在这些空前时期，我们正在采取措施确保 OneNote 服务高度可用。</span><span class="sxs-lookup"><span data-stu-id="213ab-103">**Important**: During these unprecedented times, we are taking steps to ensure that OneNote services remain highly available.</span></span>
+<span data-ttu-id="2c38a-103">**重要信息**：在这些空前时期，我们正在采取措施确保 OneNote 服务高度可用。</span><span class="sxs-lookup"><span data-stu-id="2c38a-103">**Important**: During these unprecedented times, we are taking steps to ensure that OneNote services remain highly available.</span></span>
 
-- <span data-ttu-id="213ab-104">你可能会看到消息“我们在 Microsoft Teams 中使用 OneNote 时遇到问题。”</span><span class="sxs-lookup"><span data-stu-id="213ab-104">You may see the message "We're experiencing limitations with OneNote in Microsoft Teams."</span></span> <span data-ttu-id="213ab-105">对于商业版和教育版租户，OneNote 中的 OneNote 将为只读。</span><span class="sxs-lookup"><span data-stu-id="213ab-105">OneNote in Teams will be read-only for commercial and education tenants.</span></span> <span data-ttu-id="213ab-106">若要编辑，请使用 OneNote 网页版或 OneNote 桌面应用。</span><span class="sxs-lookup"><span data-stu-id="213ab-106">To edit, please use OneNote for the web or the OneNote desktop app.</span></span>
+- <span data-ttu-id="2c38a-104">对于商业版和教育版租户，OneNote 中的 OneNote 将为只读。</span><span class="sxs-lookup"><span data-stu-id="2c38a-104">OneNote in Teams will be read-only for commercial and education tenants.</span></span> <span data-ttu-id="2c38a-105">若要编辑，请使用 OneNote 网页版或 OneNote 桌面应用。</span><span class="sxs-lookup"><span data-stu-id="2c38a-105">To edit, please use OneNote for the web or the OneNote desktop app.</span></span>
 
-- <span data-ttu-id="213ab-107">文件附件的下载大小和同步频率已改变。</span><span class="sxs-lookup"><span data-stu-id="213ab-107">Download size and sync frequency of file attachments has been changed.</span></span>
+- <span data-ttu-id="2c38a-106">文件附件的下载大小和同步频率已改变。</span><span class="sxs-lookup"><span data-stu-id="2c38a-106">Download size and sync frequency of file attachments has been changed.</span></span>
 
-<span data-ttu-id="213ab-108">有关详细信息，请访问 [OneNote 临时调整](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100)。</span><span class="sxs-lookup"><span data-stu-id="213ab-108">Please visit [OneNote temporary adjustments](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100) for more information.</span></span>
+<span data-ttu-id="2c38a-107">有关详细信息，请访问 [OneNote 临时调整](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100)。</span><span class="sxs-lookup"><span data-stu-id="2c38a-107">Please visit [OneNote temporary adjustments](https://techcommunity.microsoft.com/t5/onenote-service-updates/awareness-of-temporary-adjustments-in-microsoft-onenote/m-p/1248100) for more information.</span></span>
