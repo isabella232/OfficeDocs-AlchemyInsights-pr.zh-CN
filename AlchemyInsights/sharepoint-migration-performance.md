@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958723"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537767"
 ---
 # <a name="sharepoint-migration-performance"></a>SharePoint 迁移性能
 
@@ -28,7 +28,7 @@ ms.locfileid: "42958723"
 
 有关详细信息，请访问以下链接。
 
-- [Sharepoint Online 和 ODB 迁移速度](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [通用迁移性能指南](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [避免在 SharePoint Online 中受限或遭屏蔽](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
