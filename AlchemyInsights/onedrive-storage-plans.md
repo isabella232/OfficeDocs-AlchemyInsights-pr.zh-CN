@@ -16,7 +16,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591478"
+ms.locfileid: "43599272"
 ---
 # <a name="onedrive-storage-plans"></a>OneDrive 存储空间套餐
 

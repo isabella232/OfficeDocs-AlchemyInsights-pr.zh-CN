@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: b6e9a14bc34fe351c757c34c59ace5ed27bb304d
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: aca228c2010b3e3497d75b46a231aa404e4dd324
+ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158496"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43599308"
 ---
 # <a name="purchase-visio-subscription"></a>购买 Visio 订阅
 
@@ -24,7 +24,7 @@ ms.locfileid: "43158496"
 
 1. 单击“**计费**”。
 
-2. 单击 **“[购买服务](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)”**，查看为你的组织购买的可用订阅。
+2. 单击 **“[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)”**，查看为你的组织购买的可用订阅。
 
 3. 通过搜索“Visio”找到 Visio 计划。
 
