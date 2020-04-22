@@ -1,5 +1,5 @@
 ---
-title: 切换到不同的 Office 365 for Business Plan
+title: 切换到其他 Microsoft 365 for Business 计划
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547988"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763783"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>切换到不同的 Office 365 for Business Plan
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>切换到其他 Microsoft 365 for business 订阅
 
-当您的业务发生变化，或者需要更多 Office 365 功能时，您可以升级到新计划。
+当您的业务发生变化，或者您需要更多功能时，您可以升级到新计划。
   
 1. 在 "管理中心" 中，转到 "**付费\> [产品" & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)**。
 

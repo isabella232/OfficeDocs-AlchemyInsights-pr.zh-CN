@@ -2,22 +2,22 @@
 title: SharePoint Online 或 OneDrive "设置"
 ms.author: pebaum
 author: pebaum
-ms.date: 9/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: b450eb76d438e027d2d6fa938f685fb65ac357ac
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f7f23a05260ff72fe2591ae56dec80e49c02d687
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051379"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758574"
 ---
 # <a name="change-display-language-settings-in-sharepoint-or-onedrive"></a>更改 SharePoint 或 OneDrive 中的显示语言设置 
 
-您无法更改 SharePoint 或 OneDrive 的默认语言设置，因为这些设置是在您创建 Office 365 订阅时定义的。 不过，您可以更改显示语言设置。
+您无法更改 SharePoint 或 OneDrive 的默认语言设置，因为这些设置是在创建 Microsoft 365 订阅时定义的。 不过，您可以更改显示语言设置。
 
 若要更改你的个人设置，请参阅[更改你的个人语言和区域设置](https://support.office.com/article/Change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)。
 

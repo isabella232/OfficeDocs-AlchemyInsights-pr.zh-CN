@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: 1e0df466fc8234af8e4de17201065a85594f5ed2
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: e631beacddb6829eb226e889b67439118ffb2a05
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218093"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764467"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>设置 Microsoft 365 商业版订阅
 
@@ -30,4 +30,4 @@ ms.locfileid: "43218093"
 
 - [安装 Office 应用程序](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications?view=o365-worldwide)
 
-有关其他培训，参见[适用于小型企业和 Microsoft 365 新用户的完整培训系列](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816?ui=en-US&rs=en-US&ad=US)。
+有关其他培训，参见[适用于小型企业和 Microsoft 365 新用户的完整培训系列](https://support.office.com/article/set-up-your-small-business-6ab4bbcd-79cf-4000-a0bd-d42ce4d12816)。

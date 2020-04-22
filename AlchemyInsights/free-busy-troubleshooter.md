@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664850"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765042"
 ---
 # <a name="issues-seeing-calendar-freebusy-information"></a>查看日历的忙/闲信息时出现的问题
 
-如果无法查看其他日历中的日历闲/忙信息，或者其他人无法查看你日历中的闲/忙信息，请使用 [Microsoft Office 365 支持和恢复助手](https://diagnostics.office.com/)。
+如果看不到其他日历中的日历忙/闲信息，或者其他人无法查看日历中的忙/闲信息，请使用[Microsoft 支持和恢复助理](https://diagnostics.office.com/)。
   

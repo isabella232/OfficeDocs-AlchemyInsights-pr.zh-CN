@@ -3,7 +3,7 @@ title: 还原已删除的 Office 365 组
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048822"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758744"
 ---
 # <a name="restore-a-deleted-office-365-group"></a>还原已删除的 Office 365 组
 

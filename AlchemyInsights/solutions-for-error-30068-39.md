@@ -3,7 +3,7 @@ title: 错误30068-39 的解决方案
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: cec6d874d4d06ba5a3b693447dca329c2d55d997
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36743335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756945"
 ---
 # <a name="solutions-for-error-30068-39"></a>错误30068-39 的解决方案
 
@@ -32,7 +32,7 @@ ms.locfileid: "36743335"
 
 1. 打开后，从 "**卸载 Office 产品**" 选择要卸载的版本，然后选择 "**下一步**"。
 
-2. 在出现提示时，继续执行屏幕并重新启动计算机。
+2. 继续浏览屏幕，在出现提示时重启计算机。
 
     重新启动后，支持和恢复助理将自动重新打开以完成卸载过程。
 

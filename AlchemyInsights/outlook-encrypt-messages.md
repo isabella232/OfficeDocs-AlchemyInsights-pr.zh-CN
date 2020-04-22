@@ -1,5 +1,5 @@
 ---
-title: Web 上的 Outlook 中的 S/MIME
+title: Outlook 网页版中的 S/MIME
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053215"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764862"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>在 Outlook 中加密电子邮件
 
-Office 365 邮件加密是基于 Microsoft Azure 权限管理（Azure RMS）构建的，这是 Azure 信息保护的一部分。 如果你的订阅包括 Azure 权限管理或 Azure 信息保护，**则无需执行任何操作来手动启用或激活**权限管理服务。
+Microsoft 365 邮件加密是基于 Microsoft Azure 权限管理（Azure RMS）构建的，这是 Azure 信息保护的一部分。 如果你的订阅包括 Azure 权限管理或 Azure 信息保护，**则无需执行任何操作来手动启用或激活**权限管理服务。
 
 根据客户反馈，我们将不再启用 Exchange 邮件流规则，以在默认情况下，在租户中自动对包含特定类型敏感信息的出站电子邮件进行加密。 相反，我们将提供有关如何进行此操作的详细说明。 有关如何创建传输规则以加密敏感信息的其他详细信息，请参阅[本文](https://aka.ms/OmeEtr)。
 
