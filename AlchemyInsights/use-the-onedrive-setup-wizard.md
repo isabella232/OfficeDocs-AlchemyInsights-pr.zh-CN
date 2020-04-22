@@ -3,7 +3,7 @@ title: 使用 OneDrive 设置向导
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b711af6-3d0e-4334-ae67-8b3cb76293de
-ms.openlocfilehash: 54d36f7b557ac948ff2746b77cc6c51220d50559
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe35f7788c5baa4f21ebc4c1593ca616c85a2ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049435"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710649"
 ---
-# <a name="set-up-onedrive"></a><span data-ttu-id="5e5d7-102">设置 OneDrive</span><span class="sxs-lookup"><span data-stu-id="5e5d7-102">Set up OneDrive</span></span>
+# <a name="set-up-onedrive"></a><span data-ttu-id="bd49e-102">设置 OneDrive</span><span class="sxs-lookup"><span data-stu-id="bd49e-102">Set up OneDrive</span></span>
 
-<span data-ttu-id="5e5d7-103">若要快速为你的组织设置 OneDrive，请[使用 OneDrive 设置向导](https://portal.office.com/onboarding/odfbquickstartguide)。</span><span class="sxs-lookup"><span data-stu-id="5e5d7-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
+<span data-ttu-id="bd49e-103">若要快速为你的组织设置 OneDrive，请[使用 OneDrive 设置向导](https://portal.office.com/onboarding/odfbquickstartguide)。</span><span class="sxs-lookup"><span data-stu-id="bd49e-103">To set up OneDrive quickly for your organization, [use the OneDrive setup wizard](https://portal.office.com/onboarding/odfbquickstartguide).</span></span>
   
 
