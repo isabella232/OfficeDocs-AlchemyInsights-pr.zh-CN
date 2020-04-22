@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053467"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713276"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>用于查找相关信息的内容搜索工具
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053467"
 
 通过查看[要求和限制](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search)，[研究部分索引项](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery)和要了解的其他结果，了解更多有关内容搜索的信息。
 
-检查内容搜索的配置设置和限制后，请参阅[使用内容搜索</a>在 Office 365 组织中搜索就地项目（如电子邮件、文档和即时消息对话](https://docs.microsoft.com/office365/securitycompliance/content-search)）。
+检查内容搜索的配置设置和限制后，请参阅[使用内容搜索</a>来搜索组织中的就地项目（如电子邮件、文档和即时消息对话](https://docs.microsoft.com/office365/securitycompliance/content-search)）。
 
 有关内容搜索的完整步骤，请参阅[在 Office 365 中搜索内容](https://docs.microsoft.com/office365/securitycompliance/search-for-content)，了解详细信息。

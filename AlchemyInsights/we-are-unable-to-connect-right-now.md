@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716162"
 ---
 # <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>修复 Office 应用程序 "现在无法连接" 消息
 
 如果您收到此消息，请尝试以下操作：
 
-1. 检查防火墙、防病毒软件和代理设置以确认他们不会阻止对 Office 应用程序的 Internet 访问。 请参阅[Office 365 url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+1. 检查防火墙、防病毒软件和代理设置以确认他们不会阻止对 Office 应用程序的 Internet 访问。 请参阅[Microsoft url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 
 2. 转到 "**开始** > " "**运行**"，然后键入**services.msc**。 确保以下服务全部运行：
     - 网络连接设备自动设置
@@ -36,4 +36,4 @@ ms.locfileid: "39628232"
 
 此命令完成后，重新启动计算机。
 
-有关详细信息，请参阅["很抱歉，我们无法连接到你的帐户。在从 Office 365 激活 Office 时，请稍后重试 "错误"](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)。
+有关详细信息，请参阅["很抱歉，我们无法连接到你的帐户。在从 Microsoft 365 激活 Office 时，请稍后重试 "错误"](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)。

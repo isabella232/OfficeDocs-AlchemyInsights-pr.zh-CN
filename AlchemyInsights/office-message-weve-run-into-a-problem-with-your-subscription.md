@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713240"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Office 应用消息 - 你的订阅遇到问题
 
@@ -26,7 +26,7 @@ ms.locfileid: "43182335"
 
 - 删除 [Office 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user)并将其重新分配给受影响的用户。 
 
-- 打开 Office 应用，转到“**文件 > 帐户**”并注销所有帐户。 使用具有有效许可证的用户账户再次登录。 有关详细信息，请参阅[Office 中的账户](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB)。
+- 打开 Office 应用，转到“**文件 > 帐户**”并注销所有帐户。 使用具有有效许可证的用户账户再次登录。 有关详细信息，请参阅[Office 中的账户](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
 - 运行“[激活 疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)”并重新启动计算机。
 

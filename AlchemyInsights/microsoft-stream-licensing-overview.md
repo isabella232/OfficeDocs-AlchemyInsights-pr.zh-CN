@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713924"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Microsoft Stream 许可概述
 
-Microsoft Stream 是基于每个用户订阅授权的云服务。 它可用作符合条件的 Office 365 订阅的一部分。 有关每种订阅类型的信息，请参阅 Office 365 定价。
+Microsoft Stream 是基于每个用户订阅授权的云服务。 它可用作符合条件的 Microsoft 365 订阅的一部分。 有关每种订阅类型的信息，请参阅 Microsoft 365 定价。
 
 - [Microsoft Stream 许可概述](https://docs.microsoft.com/stream/license-overview)

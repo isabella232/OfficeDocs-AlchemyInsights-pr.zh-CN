@@ -3,7 +3,7 @@ title: 1081日历-RBA 的捕获
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 6643a13ab0c001d882169d280e7b29e0410b288a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 9f91abfa512b67120d09c5c5a2903517fbae82b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769725"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711729"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>创建和管理会议室邮箱
 

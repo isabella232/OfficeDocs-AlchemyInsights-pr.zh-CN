@@ -3,7 +3,7 @@ title: 分配或删除用户的许可证
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9878d51cadd211668a150f2ba43c4aabe4a75620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736963"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712556"
 ---
 # <a name="assign-or-remove-users-licenses"></a>分配或删除用户的许可证
 
 作为管理员，您可以根据需要调整用户的许可证。 下面的文章将向您介绍如何管理用户的许可证，其中包括：
   
-- [在 Office 365 商业版中向用户分配许可证](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [在 Microsoft 365 for business 中向用户分配许可证](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [从 Office 365 for business 中的用户取消分配许可证](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [从 Microsoft 365 for business 中的用户取消分配许可证](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
 未回答你的问题？ 没问题！ 使用 "需要帮助" 按钮与支持工程师交谈。

@@ -1,9 +1,9 @@
 ---
-title: 将电子邮件从 G 套件迁移到 Office 365
+title: 将电子邮件从 G 套件迁移到 Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ac8d61e2e5e56fa2df93ebb4c993f7f13bff104e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666902"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713888"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a>将电子邮件从 G 套件迁移到 Office 365
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>将电子邮件从 G 套件迁移到 Microsoft 365
 
-若要将电子邮件从 G 套件迁移到 Office 365, 请使用迁移工具迁移电子邮件、日历和联系人:[执行 G 套件迁移](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。
+若要将电子邮件从 G 套件迁移到 Microsoft 365，请使用迁移工具迁移电子邮件、日历和联系人：[执行 G 套件迁移](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration)。
   

@@ -2,7 +2,7 @@
 title: 是否有正当邮件被标记为垃圾邮件？
 ms.author: pebaum
 author: pebaum
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: c70374055d650e5673c1110bcf7b8b8b9ceaff66
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 36fcf736aaba26a4762c724ff4037ac315e500b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36740383"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714940"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>是否有正当邮件被标记为垃圾邮件？
 
-尝试以上诊断或尝试此[分步指南，以解决在 Office 365 中将正当邮件标记为垃圾邮件的问题](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。
+尝试以上诊断或尝试此[分步指南，以解决将正当邮件标记为垃圾邮件的问题](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0)。
   
 报告这些类型问题的最佳方式是：
   

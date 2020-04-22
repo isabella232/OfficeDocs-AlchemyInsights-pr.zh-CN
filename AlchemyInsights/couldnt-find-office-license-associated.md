@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627908"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715622"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>修复 Office 应用程序 "找不到与 office 许可证关联的信息" 消息
 
 如果您收到此消息，请尝试以下操作：
 
-1. 检查防火墙、防病毒软件和代理设置以确认他们不会阻止对 Office 应用程序的 Internet 访问。 请参阅[Office 365 url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+1. 检查防火墙、防病毒软件和代理设置以确认他们不会阻止对 Office 应用程序的 Internet 访问。 请参阅[Microsoft 365 url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 2. 删除并重新分配受影响的用户[的 Office 许可证](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users)。 
 3. 打开 Office[应用并注销](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)任何现有的用户帐户。
 4. 转到 Windows 设置 >**帐户** > **电子邮件 & 帐户**，并删除除受影响帐户之外的所有工作帐户。

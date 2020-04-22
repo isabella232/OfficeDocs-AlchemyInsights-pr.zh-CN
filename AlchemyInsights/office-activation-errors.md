@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118406"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713312"
 ---
 # <a name="office-activation-errors"></a>Office 激活错误
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118406"
 
 3. 如果 Office 仍未经授权，请在受影响的计算机上下载并运行[激活疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)来修复激活问题。 
 
-4. 如果 Office 仍未经授权，[重置 Office 激活状态](https://docs.microsoft.com/zh-CN/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。 然后，如果出现提示，请重新启动Office并使用您的工作或学校帐户登录。  
+4. 如果 Office 仍未经授权，[重置 Office 激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。 然后，如果出现提示，请重新启动Office并使用您的工作或学校帐户登录。  
 
 5. 有关疑难解答操作的详细信息，请参阅 [Office 中未经授权产品和激活错误](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)。

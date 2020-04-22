@@ -12,18 +12,18 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068282"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714032"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>切换计划以增加邮箱大小
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>切换订阅以增加邮箱大小
 
-如果您的 Office 365 邮箱的大小已经是 100 GB，则无法增加它。
+如果您的邮箱大小已经为 100 GB，则无法增加邮箱的大小。
   
-如果邮箱大小为 50 GB，则可以通过切换到[office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software)或[Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)，将其增加到 100 gb。 以下是切换到不同 Office 365 计划的步骤：
+如果邮箱大小为 50 GB，则可以通过切换到[office 365 企业版 E3](https://products.office.com/business/office-365-enterprise-e3-business-software)或[Office 365 企业版 E5](https://products.office.com/business/office-365-enterprise-e5-business-software)，将其增加到 100 gb。 以下是切换到不同订阅的步骤：
   
 1. 在 Microsoft 365 管理中心，转到 "**帐单** \> [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面。
 
@@ -37,4 +37,4 @@ ms.locfileid: "40068282"
 
 有关更多详细信息，请参阅[升级到其他计划](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan)。
 
-如果您有[支持就地存档的 Office 365 计划](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)，则还可以通过启用存档邮箱获取其他电子邮件存储。 存档邮箱提供了额外的存储，并允许您移动、复制和搜索主邮箱和存档邮箱中的邮件。 有关如何启用存档邮箱的步骤，请参阅[启用存档邮箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)。
+如果你有[支持就地存档的订阅](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)，你也可以通过启用存档邮箱获取其他电子邮件存储。 存档邮箱提供了额外的存储，并允许您移动、复制和搜索主邮箱和存档邮箱中的邮件。 有关如何启用存档邮箱的步骤，请参阅[启用存档邮箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)。
