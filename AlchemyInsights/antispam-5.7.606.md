@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9a2a6eb8736c2fd9b4b3cdc548461d5b15feb4a4
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682039"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712628"
 ---
-# <a name="banned-sending-ip"></a><span data-ttu-id="28703-102">禁止发送 IP</span><span class="sxs-lookup"><span data-stu-id="28703-102">Banned sending IP</span></span>
+# <a name="banned-sending-ip"></a><span data-ttu-id="a2e5f-102">禁止发送 IP</span><span class="sxs-lookup"><span data-stu-id="a2e5f-102">Banned sending IP</span></span>
 
-<span data-ttu-id="28703-103">发送到 Office 365 时，发件人可能会遇到此错误。</span><span class="sxs-lookup"><span data-stu-id="28703-103">When sending to Office 365, a sender might experience this error.</span></span> <span data-ttu-id="28703-104">发件人需要访问https://sender.office.com并按照说明进行操作。</span><span class="sxs-lookup"><span data-stu-id="28703-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="28703-105">如果他们没有从门户收到验证电子邮件，请让他们检查垃圾邮件文件夹和/或尝试使用不同的电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="28703-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>
+<span data-ttu-id="a2e5f-103">将邮件发送到 Microsoft 365 时，发件人可能会遇到此错误。</span><span class="sxs-lookup"><span data-stu-id="a2e5f-103">When sending mail to Microsoft 365, a sender might experience this error.</span></span> <span data-ttu-id="a2e5f-104">发件人需要访问https://sender.office.com并按照说明进行操作。</span><span class="sxs-lookup"><span data-stu-id="a2e5f-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="a2e5f-105">如果他们没有从门户收到验证电子邮件，请让他们检查垃圾邮件文件夹和/或尝试使用不同的电子邮件地址。</span><span class="sxs-lookup"><span data-stu-id="a2e5f-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>

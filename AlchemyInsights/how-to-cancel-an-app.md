@@ -3,7 +3,7 @@ title: 如何取消应用程序
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2eb0e1f521baf1458530f8557f55fdda69d1a23f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36542086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711297"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="eb240-102">如何取消软件即服务应用程序</span><span class="sxs-lookup"><span data-stu-id="eb240-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="6a19c-102">如何取消软件即服务应用程序</span><span class="sxs-lookup"><span data-stu-id="6a19c-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="eb240-103">在 Microsoft 365 管理中心，到 "**帐单** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页上，选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="eb240-103">In the Microsoft 365 admin center, to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="6a19c-103">在 Microsoft 365 管理中心，到 "**帐单** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页上，选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="6a19c-103">In the Microsoft 365 admin center, to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="eb240-104">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="eb240-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="6a19c-104">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="6a19c-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="eb240-105">在 "**设置" & "操作**" 下，选择 "**取消订阅**"。</span><span class="sxs-lookup"><span data-stu-id="eb240-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="6a19c-105">在 "**设置" & "操作**" 下，选择 "**取消订阅**"。</span><span class="sxs-lookup"><span data-stu-id="6a19c-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
