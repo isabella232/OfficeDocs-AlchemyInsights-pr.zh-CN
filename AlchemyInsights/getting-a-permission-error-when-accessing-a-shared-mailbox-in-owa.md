@@ -3,7 +3,7 @@ title: 124在 OWA 中访问共享邮箱时获取权限错误？
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5d1478c4bcfa6ed9f4430cd00bd033a690fe3b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735747"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708929"
 ---
 # <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>在 web 上的 Outlook 中打开共享邮箱时是否获取权限错误？
 

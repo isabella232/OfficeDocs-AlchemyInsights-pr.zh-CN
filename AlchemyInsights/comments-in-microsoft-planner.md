@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 682a00364063d395ef9053fc7f6d99a299451c1b
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541641"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706227"
 ---
 # <a name="comments-in-microsoft-planner"></a>Microsoft Planner 中的评论
 
@@ -32,4 +32,4 @@ ms.locfileid: "43541641"
 
 - **已删除的用户收到电子邮件** -  如果用户被从计划中删除前对任务进行评论，则电子邮件会话将包括对此任务进行评论的人户。
 
-有关针对 Microsoft Planner 中的任务进行评论的详细信息，请参阅 [Microsoft Planner 的工作方式](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736)和[针对 Microsoft Planner 中的任务进行评论](https://support.microsoft.com/zh-CN/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)。
+有关针对 Microsoft Planner 中的任务进行评论的详细信息，请参阅 [Microsoft Planner 的工作方式](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736)和[针对 Microsoft Planner 中的任务进行评论](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1)。

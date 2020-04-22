@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769653"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706339"
 ---
 # <a name="changing-message-or-attachment-size"></a>更改邮件或附件大小
 
-作为 Office 365 管理员，您可以更改您的用户发送的邮件的最大/最小大小（包括附件）。 您可以为单个用户或所有用户执行此操作（组织默认值）。 更改此设置后，将需要大约30分钟才能生效。
+作为 Microsoft 365 管理员，您可以更改您的用户发送的邮件的最大/最小大小（包括附件）。 您可以为单个用户或所有用户执行此操作（组织默认值）。 更改此设置后，将需要大约30分钟才能生效。
   
 - 若要更改特定用户的邮件大小，请转到**管理中心** \> **Exchange** \> **收件人** \> **邮箱**。 选择用户的邮箱。 选择 "编辑" 图标，选择 "**邮箱功能**"，然后在 "**邮件大小限制**" 下，选择 "**查看详细信息**" 并指定新的最大邮件大小。
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100410"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706047"
 ---
 # <a name="conditional-access-policies"></a>条件访问策略
 
@@ -24,7 +24,7 @@ ms.locfileid: "43100410"
 
 了解有关 [Azure AD 条件访问](https://docs.microsoft.com/azure/active-directory/conditional-access/)的详细信息。  
 
-**注意**：如果你的租户在 2019 年 10 月 21 日后创建，并且意外收到了有关 MFA 的提示，则你的租户中可能启用了[安全性默认值](http://aka.ms/securitydefaults)。
+**注意**：如果你的租户在 2019 年 10 月 21 日后创建，并且意外收到了有关 MFA 的提示，则你的租户中可能启用了[安全性默认值](https://aka.ms/securitydefaults)。
 
 **管理安全性默认值**
 

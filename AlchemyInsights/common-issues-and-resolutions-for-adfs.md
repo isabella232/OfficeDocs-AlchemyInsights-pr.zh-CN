@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286440"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706191"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS 的常见问题和解决方法
 
@@ -28,4 +28,4 @@ ms.locfileid: "43286440"
 
 - [2647020](https://support.microsoft.com/help/2647020) 当联合用户试图登录 Office 365、Azure 或 Intune 时，发生“抱歉，登录时遇到问题”和“80041317”或“80043431”错误。
 
-有关详细信息，请参阅[更新或修复 Office 365、Azure 或 Intune 中联合域的设置](https://docs.microsoft.com/zh-CN/office365/troubleshoot/active-directory/update-federated-domain-office-365)。
+有关详细信息，请参阅[更新或修复 Office 365、Azure 或 Intune 中联合域的设置](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365)。

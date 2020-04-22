@@ -12,18 +12,18 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768214"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708201"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>允许外部发件人向通讯组发送邮件
 
 如果贵组织外部的用户在向您的通讯组发送邮件时收到错误，或者您想要验证您的通讯组是否配置为接收来自外部发件人的邮件，请按照下列步骤操作：
 
-1. 在 Office 365 管理中心，转到 "**组** > [组](https://portal.office.com/adminportal/home#/groups)" 页面。  
+1. 在 Microsoft 365 管理中心，转到 "**组** > [组](https://portal.office.com/adminportal/home#/groups)" 页面。  
 
 2. 选择通讯组，并在 "组属性" 窗格中选择 "**设置**" 选项卡。
 

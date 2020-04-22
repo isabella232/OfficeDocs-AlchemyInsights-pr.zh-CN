@@ -3,7 +3,7 @@ title: 更改帐单通知的备用电子邮件地址
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63cdc58d6c0474c66295cc5c4547dd04b0f50ad7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738727"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706515"
 ---
 # <a name="change-the-alternate-email-address-for-billing-notification"></a>更改帐单通知的备用电子邮件地址
 
@@ -32,5 +32,5 @@ ms.locfileid: "36738727"
 
 4. 选择 "**保存**" 完成操作！
 
-若要了解详细信息以及查看带屏幕截图的步骤，请参阅[更改 Office 365 的帐单地址](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)。
+有关屏幕截图的更多详细信息和步骤，请参阅[更改帐单地址](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses)。
   

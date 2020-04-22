@@ -3,7 +3,7 @@ title: 在 Intune 中使用自定义配置文件
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531745"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710469"
 ---
 # <a name="using-custom-policy-in-intune"></a>在 Intune 中使用自定义策略
 
-Intune 为 Android、iOS、macOS 和 Windows 设备内置了许多设置。 您还可以创建自定义配置文件, 然后使用 Intune 将这些自定义设置部署到你的设备。 自定义配置文件旨在将未内置于 Intune 中的设备设置和功能添加到 Intune 中。
+Intune 为 Android、iOS、macOS 和 Windows 设备内置了许多设置。 您还可以创建自定义配置文件，然后使用 Intune 将这些自定义设置部署到你的设备。 自定义配置文件旨在将未内置于 Intune 中的设备设置和功能添加到 Intune 中。
 
 [Intune 中 Android 设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-android)
 

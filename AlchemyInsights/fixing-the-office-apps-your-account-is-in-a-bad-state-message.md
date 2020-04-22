@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708677"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>修复 Office 应用程序 "你的帐户处于错误状态" 错误
 
@@ -27,5 +27,5 @@ ms.locfileid: "43547952"
   **注意：** Office 2016 的注册表路径已更改为16.0。 例如，\Software\Microsoft\Office\16.0\Common\Identity\
 - 如果使用 Office 2013 连接到 Office 365 时出现错误，请为 Office 客户端[启用新式验证](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)。
 
-有关详细信息，请参阅[如何排查无法登录到 Office 365、Azure 或 Intune 的非浏览器应用程序的问题](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)。
+有关详细信息，请参阅[如何排查无法登录到 Microsoft 365、Azure 或 Intune 的非浏览器应用程序的问题](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)。
 

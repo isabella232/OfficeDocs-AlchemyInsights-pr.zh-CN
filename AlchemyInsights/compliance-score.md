@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706083"
 ---
 # <a name="compliance-score"></a>合规性分数
 
@@ -33,7 +33,7 @@ Microsoft 合规性分数（预览版）是 Microsoft 365 中的一项功能，�
 
 **有关详细信息，** 请执行以下操作：
 
-- 若要设置合规性分数的访问权限，请参阅[向用户授予对 Office 365 安全性的访问权限 & 合规性中心](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)。
+- 若要设置合规性分数的访问权限，请参阅[向用户授予对 Microsoft 365 安全 & 合规中心的访问](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)权限。
 - 按照合规性分数使用改进措施，请参阅使用[合规性分数](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)。
 - 如何计算合规性分数，请参阅[合规性得分方法](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)。
 - 合规性分数与合规性管理器一起，请参阅[与合规性管理器的关系](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)。
