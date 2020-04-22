@@ -2,7 +2,7 @@
 title: 323电子邮件中出现延迟的问题
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "323"
 - "3100002"
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 49752f57f11d74fbd5ebde08661ff8334a72525d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 343c5d63f33bbb56cb0de67d0f2ecd56122cd638
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497829"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762919"
 ---
 # <a name="delays-in-email-message-delivery"></a>电子邮件传递中的延迟
 
-你似乎有邮件流问题。 我们有一些诊断功能, 可帮助确定许多常见的邮件流问题。 单击下面的 "**运行诊断**"。
+你似乎有邮件流问题。 我们有一些诊断功能，可帮助确定许多常见的邮件流问题。 单击下面的 "**运行诊断**"。

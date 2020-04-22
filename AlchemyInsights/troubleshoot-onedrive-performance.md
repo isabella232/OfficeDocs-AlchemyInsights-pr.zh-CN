@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054944"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733188"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>OneDrive 性能疑难解答
 
@@ -22,7 +22,7 @@ ms.locfileid: "40054944"
 
 - 使用 "[服务运行状况" 仪表板](https://portal.office.com/adminportal/home?ref=/servicehealth)确认是否存在已知问题。
 
-- [按需启用文件](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US)，以便您可以访问 OneDrive 中的所有文件，而无需下载所有文件并使用设备上的存储空间。
+- [按需启用文件](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)，以便您可以访问 OneDrive 中的所有文件，而无需下载所有文件并使用设备上的存储空间。
 
 - 查看网络规划和性能的[最佳实践](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance)。
 

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571189"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722800"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>在你单击 OneDrive 后重定向到 Delve
 
 请参阅我们的详细[故障排除指南](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)。
 
-若要解决此问题，Office 365 管理员必须向用户授予创建其 "我的网站" 网站的权限。 这是因为在 "我的网站" 上创建了 OneDrive for business 页面。
+若要解决此问题，管理员必须向用户授予创建其 "我的网站" 网站的权限。 这是因为在 "我的网站" 上创建了 OneDrive for business 页面。
 
 若要授予此权限，请执行以下步骤：
 

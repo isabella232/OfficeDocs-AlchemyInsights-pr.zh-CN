@@ -2,7 +2,7 @@
 title: 管理 Yammer 用户
 ms.author: pebaum
 author: pebaum
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734911"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762451"
 ---
 # <a name="managing-yammer-users"></a>管理 Yammer 用户
 
-1. 有关从 Office 365 管理 Yammer 用户的信息，请参阅[跨 office 365 的生命周期管理 yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 其中包括有关以下内容的详细信息：
+1. 有关从 Microsoft 365 管理 Yammer 用户的信息，请参阅[在其生命周期中管理 yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 其中包括有关以下内容的详细信息：
 
   - 创建用户
 
   - 删除用户
 
-  - 从 Office 365 管理 Yammer 用户
+  - 从 Microsoft 365 管理 Yammer 用户
 
-2. 有关从 Yammer 管理控制台管理用户的信息，请参阅[添加、阻止或删除 Yammer 用户](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)。 这包括：
+2. 有关从 Yammer 管理控制台管理用户的信息，请参阅[添加、阻止或删除 Yammer 用户](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)。 这包括：
 
   - 邀请或删除用户
 

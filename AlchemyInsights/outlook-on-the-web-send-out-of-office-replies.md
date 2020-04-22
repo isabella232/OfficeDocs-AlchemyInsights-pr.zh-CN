@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: bc848b88cb92dc8d747f5f2dce2cee69e04a23e7
-ms.sourcegitcommit: 23e5b94f1758bfe202008384e300b81816975375
+ms.openlocfilehash: 2122726c0503ee8ed8331cbbfd3bbe884e690a0e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43506436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743263"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook 网页版：发送外出答复
 
 **设置 Outlook 网页版中的自动答复**
 
-1. [登录 Outlook 网页版](https://support.office.com/zh-CN/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79)。
+1. [登录 Outlook 网页版](https://support.office.com/article/how-to-sign-in-to-outlook-on-the-web-763fab4d-0138-4814-b450-37fc286bcb79)。
 
 2. 在页面的顶部，选择 **“设置”>“查看所有 Outlook 设置>“邮件”>“自动答复”**。
 
