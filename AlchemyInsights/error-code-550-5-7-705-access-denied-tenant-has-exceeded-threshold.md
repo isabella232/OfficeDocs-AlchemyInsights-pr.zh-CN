@@ -1,8 +1,8 @@
 ---
-title: 错误代码 550 5.7.705 访问被拒绝, 租户已超出阈值
+title: 错误代码 550 5.7.705 访问被拒绝，租户已超出阈值
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527209"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702980"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="60082-102">550 5.7.705 访问被拒绝, 租户已超出阈值</span><span class="sxs-lookup"><span data-stu-id="60082-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="90e86-102">550 5.7.705 访问被拒绝，租户已超出阈值</span><span class="sxs-lookup"><span data-stu-id="90e86-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="60082-103">当您的组织发送太多垃圾邮件或批量邮件时, 将出现此消息, 并在传出邮件上放置一个阻止。</span><span class="sxs-lookup"><span data-stu-id="60082-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="60082-104">常见原因是本地服务器或已被用来创建连接器的受影响的管理员帐户的危害。</span><span class="sxs-lookup"><span data-stu-id="60082-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="60082-105">这两个条件都可以允许垃圾邮件通过您的组织。</span><span class="sxs-lookup"><span data-stu-id="60082-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="90e86-103">当您的组织发送太多垃圾邮件或批量邮件时，将出现此消息，并在传出邮件上放置一个阻止。</span><span class="sxs-lookup"><span data-stu-id="90e86-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="90e86-104">常见原因是本地服务器遭入侵或用于创建连接器的管理员帐户遭入侵。</span><span class="sxs-lookup"><span data-stu-id="90e86-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="90e86-105">任何一种情况均会导致垃圾邮件涌入你的组织。</span><span class="sxs-lookup"><span data-stu-id="90e86-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="60082-106">若要删除此块, 您需要了解并解释支持代理的原因, 并纠正基本问题。</span><span class="sxs-lookup"><span data-stu-id="60082-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="60082-107">准备就绪后, 单击 "**与我们联系**"。</span><span class="sxs-lookup"><span data-stu-id="60082-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="90e86-106">若要解除此阻止，你需要了解原因，并向支持代理解释，同时纠正潜在的问题。</span><span class="sxs-lookup"><span data-stu-id="90e86-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="90e86-107">准备就绪后，单击 "**与我们联系**"。</span><span class="sxs-lookup"><span data-stu-id="90e86-107">Click **Contact us** below once you're ready.</span></span>

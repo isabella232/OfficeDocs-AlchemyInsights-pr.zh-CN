@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 0f1e427801107109e31486a4d300f53084880caf
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054800"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702728"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a><span data-ttu-id="51566-102">问题疑难解答-在目录中找不到用户</span><span class="sxs-lookup"><span data-stu-id="51566-102">Troubleshoot issue - User not found in directory</span></span>
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a><span data-ttu-id="ee500-102">问题疑难解答-在目录中找不到用户</span><span class="sxs-lookup"><span data-stu-id="ee500-102">Troubleshoot issue - User not found in directory</span></span>
 
-<span data-ttu-id="51566-103">如果用户在目录中收到错误消息 "找不到用户"，请重试问题类型为 "用户不在目录中的用户"。</span><span class="sxs-lookup"><span data-stu-id="51566-103">If users are receiving error message "user can't be found" in the directory, please try again where the Issue Type is User not in directory.</span></span>
+<span data-ttu-id="ee500-103">如果用户在目录中收到错误消息 "找不到用户"，请重试问题类型为 "用户不在目录中的用户"。</span><span class="sxs-lookup"><span data-stu-id="ee500-103">If users are receiving error message "user can't be found" in the directory, please try again where the Issue Type is User not in directory.</span></span>
 
-<span data-ttu-id="51566-104">若要解决问题，可以完成以下步骤。</span><span class="sxs-lookup"><span data-stu-id="51566-104">The following steps can be completed to troubleshoot the issue.</span></span>
+<span data-ttu-id="ee500-104">若要解决问题，可以完成以下步骤。</span><span class="sxs-lookup"><span data-stu-id="ee500-104">The following steps can be completed to troubleshoot the issue.</span></span>
 
-- <span data-ttu-id="51566-105">确保接受电子邮件邀请的帐户是以后用于登录的帐户。</span><span class="sxs-lookup"><span data-stu-id="51566-105">Ensure the account that accepted the email invitation is the same account that is being used to sign in later.</span></span> <span data-ttu-id="51566-106">请确保用户使用相同的帐户接受邀请并登录网站。</span><span class="sxs-lookup"><span data-stu-id="51566-106">Make sure the user is using the same account to accept the invite and sign into the site.</span></span> 
+- <span data-ttu-id="ee500-105">确保接受电子邮件邀请的帐户是以后用于登录的帐户。</span><span class="sxs-lookup"><span data-stu-id="ee500-105">Ensure the account that accepted the email invitation is the same account that is being used to sign in later.</span></span> <span data-ttu-id="ee500-106">请确保用户使用相同的帐户接受邀请并登录网站。</span><span class="sxs-lookup"><span data-stu-id="ee500-106">Make sure the user is using the same account to accept the invite and sign into the site.</span></span> 
 
-<span data-ttu-id="51566-107">有关详细信息，请参阅[如何管理你的 Microsoft 帐户</a>的别名以管理 Office 365 登录名](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)。</span><span class="sxs-lookup"><span data-stu-id="51566-107">For more info, see [How to manage aliases for your Microsoft account</a> to manage the Office 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases).</span></span> 
+<span data-ttu-id="ee500-107">有关详细信息，请参阅[如何管理你的 microsoft 帐户</a>的别名以管理 microsoft 365 登录名](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases)。</span><span class="sxs-lookup"><span data-stu-id="ee500-107">For more info, see [How to manage aliases for your Microsoft account</a> to manage the Microsoft 365 login](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases).</span></span> 
 
-- <span data-ttu-id="51566-108">浏览到用户收到错误的每个站点。</span><span class="sxs-lookup"><span data-stu-id="51566-108">Browse to each site(s) in which the user is receiving the error.</span></span> 
+- <span data-ttu-id="ee500-108">浏览到用户收到错误的每个站点。</span><span class="sxs-lookup"><span data-stu-id="ee500-108">Browse to each site(s) in which the user is receiving the error.</span></span> 
 
-<span data-ttu-id="51566-109">将 "/_layouts/15/people.aspx/membershipgroupid = 0" （在双引号内）添加到网站 URL 的末尾。</span><span class="sxs-lookup"><span data-stu-id="51566-109">Add "/_layouts/15/people.aspx/membershipgroupid=0" (within the double-quotes) to the end of the site URL.</span></span> 
+<span data-ttu-id="ee500-109">将 "/_layouts/15/people.aspx/membershipgroupid = 0" （在双引号内）添加到网站 URL 的末尾。</span><span class="sxs-lookup"><span data-stu-id="ee500-109">Add "/_layouts/15/people.aspx/membershipgroupid=0" (within the double-quotes) to the end of the site URL.</span></span> 
 
-<span data-ttu-id="51566-110">示例： https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0。</span><span class="sxs-lookup"><span data-stu-id="51566-110">Example: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.</span></span>
+<span data-ttu-id="ee500-110">示例： https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0。</span><span class="sxs-lookup"><span data-stu-id="ee500-110">Example: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.</span></span>
 
-- <span data-ttu-id="51566-111">从列表中选择用户。</span><span class="sxs-lookup"><span data-stu-id="51566-111">Select the user from the list.</span></span>
+- <span data-ttu-id="ee500-111">从列表中选择用户。</span><span class="sxs-lookup"><span data-stu-id="ee500-111">Select the user from the list.</span></span>
 
-- <span data-ttu-id="51566-112">单击功能区中的 "**删除用户权限**"。</span><span class="sxs-lookup"><span data-stu-id="51566-112">Click **Remove User Permissions** from the Ribbon.</span></span> 
--  <span data-ttu-id="51566-113">重新添加用户并将邀请重新发送给用户。</span><span class="sxs-lookup"><span data-stu-id="51566-113">Add back the User and Resend the invite to the user.</span></span>
+- <span data-ttu-id="ee500-112">单击功能区中的 "**删除用户权限**"。</span><span class="sxs-lookup"><span data-stu-id="ee500-112">Click **Remove User Permissions** from the Ribbon.</span></span> 
+-  <span data-ttu-id="ee500-113">重新添加用户并将邀请重新发送给用户。</span><span class="sxs-lookup"><span data-stu-id="ee500-113">Add back the User and Resend the invite to the user.</span></span>
 
