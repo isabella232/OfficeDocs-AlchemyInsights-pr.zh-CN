@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661286"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687608"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 通知策略
+# <a name="alert-policies"></a>警报策略
 
-Office 365 Security & 合规性中心提供了[默认通知策略](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies)，这些策略将触发 Office 365 企业版或 OFFICE 365 美国政府 E1/G1、E3/G3 或 E5/G5 订阅的组织的警报。 因此，管理员可能会收到由 Office365Alerts@microsoft.com 发送的通知电子邮件通知，其中包含 "低严重性警报：*警报策略的名称*" 等主题行。 当常见活动触发警报时，将发送警报通知，例如当用户执行以下操作时：
+Microsoft 365 security & 合规性中心提供了[默认通知策略](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies)，这些策略将触发 Office 365 企业版或 OFFICE 365 美国政府 E1/G1、E3/G3 或 E5/G5 订阅的组织的警报。 因此，管理员可能会收到由 Office365Alerts@microsoft.com 发送的通知电子邮件通知，其中包含 "低严重性警报：*警报策略的名称*" 等主题行。 当常见活动触发警报时，将发送警报通知，例如当用户执行以下操作时：
 
 - 创建转发电子邮件的收件箱规则。
 - 为其邮箱分配权限。

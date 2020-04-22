@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770341"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642134"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>在 SharePoint 中创建组连接网站时出现的问题
 
@@ -26,7 +26,7 @@ ms.locfileid: "41770341"
    - 有关如何开始使用 Powershell 的详细信息，请参阅[SharePoint Online 命令行管理](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite)程序入门。
    - 使用[Remove-spodeletedsite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell Cmdlet 从已删除网站中删除网站。 需要 Powershell 以永久删除组网站。
 
-1. 如果要创建组连接的网站并收到警告：**已存在具有相同别名的另一个组**，请[从管理中心检查 Office 365](https://admin.microsoft.com/AdminPortal/Home#/groups)中的现有组。 若要解决此问题，请删除现有组（如果不再需要它）或创建具有分配了不同别名的网站。
+1. 如果您正在创建一个组连接的网站并收到警告：**另一个具有相同别名的组已存在**，请从[Microsoft 365 管理中心](https://admin.microsoft.com/AdminPortal/Home#/groups)检查现有组。 若要解决此问题，请删除现有组（如果不再需要它）或创建具有分配了不同别名的网站。
 
 1. 可以使用不同的方法来创建和使用 SharePoint 的新式组。
 

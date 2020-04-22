@@ -3,7 +3,7 @@ title: 文件以只读状态打开
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702764"
 ---
 # <a name="file-open-read-only"></a>文件以只读状态打开
 
@@ -37,7 +37,7 @@ ms.locfileid: "36822224"
   
  **OneDrive 是否已满？**
   
-如果文件存储在 OneDrive 上，且你的 OneDrive 存储空间已满，你将无法保存该文档，直到你已被分配空间所下。 您可以通过单击通知中心中的 OneDrive 图标并选择 "管理存储" 来检查 OneDrive 上的可用空间，也可以转[http://onedrive.live.com](http://onedrive.live.com)到 "登录"，并记下屏幕左下角的可用空间量。
+如果文件存储在 OneDrive 上，且你的 OneDrive 存储空间已满，你将无法保存该文档，直到你已被分配空间所下。 您可以通过单击通知中心中的 OneDrive 图标并选择 "管理存储" 来检查 OneDrive 上的可用空间，也可以转[https://onedrive.live.com](https://onedrive.live.com)到 "登录"，并记下屏幕左下角的可用空间量。
   
  **Office 是否已激活？**
   

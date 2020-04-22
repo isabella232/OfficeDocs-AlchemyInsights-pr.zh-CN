@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050479"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687248"
 ---
 # <a name="access-services-retirement"></a>访问服务退休
 
-正如我们最初在 MC97576 中宣布的那样，在2017年3月，并持续与过去一年的通信。将从 Office 365 中停用 Access 服务。 此过程的下一阶段将是删除使用 SharePoint 列表作为其基础数据存储的 Access Web 数据库。
+正如我们最初在 MC97576 中宣布的那样，在2017年3月，并持续与过去一年的通信。将停用 Access Services。 此过程的下一阶段将是删除使用 SharePoint 列表作为其基础数据存储的 Access Web 数据库。
 
 **这对我有何影响？**
 

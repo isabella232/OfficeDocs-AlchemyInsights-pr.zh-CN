@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977464"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704515"
 ---
 # <a name="information-about-dlp-issues"></a>有关 DLP 问题的信息
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977464"
 
 **有关 DLP 策略的信息**
 
-使用 DLP 策略，可以识别、监视和自动保护跨 Office 365 的敏感信息。
+使用 DLP 策略，您可以在 Microsoft 365 中识别、监视和自动保护敏感信息。
 
 有关详细信息，请访问以下链接：
 

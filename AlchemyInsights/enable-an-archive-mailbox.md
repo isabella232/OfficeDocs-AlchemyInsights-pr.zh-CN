@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703669"
 ---
 # <a name="enable-an-archive-mailbox"></a>启用存档邮箱
 
@@ -25,7 +25,7 @@ Office 365 中的存档邮箱（也称为*在线存档*或*就地存档*）为�
   
 1. 转到 [https://protection.office.com](https://protection.office.com)。
 
-2. 使用管理员帐户登录到 Office 365。
+2. 使用管理员帐户登录到 Microsoft 365。
 
 3. 在安全&amp;合规性中心的左侧窗格中，选择 "**信息治理** \> **存档**"。
 
@@ -51,6 +51,6 @@ Office 365 中的存档邮箱（也称为*在线存档*或*就地存档*）为�
 
 有关详细信息，请参阅：
   
-- [在 Office 365 中启用存档邮箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [启用存档邮箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [在 Office 365 中设置存档和删除策略](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [设置存档和删除策略](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

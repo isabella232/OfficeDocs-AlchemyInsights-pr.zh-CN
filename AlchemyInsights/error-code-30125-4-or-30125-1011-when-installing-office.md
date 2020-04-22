@@ -2,7 +2,7 @@
 title: 安装 Office 时出现错误代码30125-4 或30125-1011
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527034"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703052"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>安装 Office 时出现错误代码30125-4 或30125-1011
 
-如果你的防病毒软件、防火墙、代理设置或连接阻止你安装 Office, 则可能会看到此错误。 下面是您可以尝试修复此问题的一些事项:
+如果你的防病毒软件、防火墙、代理设置或连接阻止你安装 Office，则可能会看到此错误。 下面是您可以尝试修复此问题的一些事项：
   
 - 重新启动计算机并重新安装 Office
 
@@ -33,5 +33,5 @@ ms.locfileid: "36527034"
 
 - 临时关闭防火墙
 
-有关详细信息, 请参阅[安装 Office 时出现错误代码30125-4 或 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+有关详细信息，请参阅[安装 Office 时出现错误代码30125-4 或 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

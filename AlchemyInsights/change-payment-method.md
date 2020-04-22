@@ -12,12 +12,12 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 72a0ea867e8ea6bc5fff80b6a8497195c15f82e7
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068267"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655488"
 ---
 # <a name="change-payment-method"></a>更改付款方式
 
@@ -29,4 +29,4 @@ ms.locfileid: "40068267"
 
 3. 按照屏幕上的步骤完成更改。
 
-若要了解详细信息，请参阅[更改 Office 365 for business 的支付方式](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+若要了解详细信息，请参阅[更改 Microsoft 365 企业](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)版的付款方式

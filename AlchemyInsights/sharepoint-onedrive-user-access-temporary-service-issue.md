@@ -2,18 +2,18 @@
 title: 性能问题-SharePoint 或 OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2db0a9442b9fdf1752b654f7c188e641e0a274cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ec378981d4f24837b037e18214cbeba2f2b657c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053791"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692683"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint 或 OneDrive 速度慢、对多个用户不可访问或不可用
 
@@ -21,7 +21,7 @@ ms.locfileid: "40053791"
 
 **添加和许可用户**
 
-确保[将许可证分配给 Office 365 for business 中的用户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)。
+确保[将许可证分配给 Microsoft 365 for business 中的用户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)。
 
 
 **分配权限**

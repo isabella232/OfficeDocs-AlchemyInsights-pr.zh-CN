@@ -1,8 +1,8 @@
 ---
-title: 错误代码 550 5.7.705 访问被拒绝, 租户已超出阈值
+title: 错误代码 550 5.7.705 访问被拒绝，租户已超出阈值
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527209"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702980"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 访问被拒绝, 租户已超出阈值
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 访问被拒绝，租户已超出阈值
 
-当您的组织发送太多垃圾邮件或批量邮件时, 将出现此消息, 并在传出邮件上放置一个阻止。
-常见原因是本地服务器或已被用来创建连接器的受影响的管理员帐户的危害。 这两个条件都可以允许垃圾邮件通过您的组织。
+当您的组织发送太多垃圾邮件或批量邮件时，将出现此消息，并在传出邮件上放置一个阻止。
+常见原因是本地服务器遭入侵或用于创建连接器的管理员帐户遭入侵。 任何一种情况均会导致垃圾邮件涌入你的组织。
 
-若要删除此块, 您需要了解并解释支持代理的原因, 并纠正基本问题。
-准备就绪后, 单击 "**与我们联系**"。
+若要解除此阻止，你需要了解原因，并向支持代理解释，同时纠正潜在的问题。
+准备就绪后，单击 "**与我们联系**"。

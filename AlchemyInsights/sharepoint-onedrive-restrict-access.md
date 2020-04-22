@@ -2,18 +2,18 @@
 title: 在 SharePoint 或 OneDrive 中限制访问权限
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053755"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692755"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>在 SharePoint 或 OneDrive 中限制访问权限
 
@@ -29,13 +29,13 @@ ms.locfileid: "40053755"
 
 - [更改针对子文件夹的权限](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [通过非托管设备控制访问](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [控制非托管设备的访问](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-作为 Office 365 中的 SharePoint 或全局管理员，您可以阻止或限制对来自非托管设备（在 Intune 中未加入或合规性的混合式 AD）的 SharePoint 和 OneDrive 内容的访问权限。
+作为 SharePoint 或全局管理员，您可以阻止或限制对来自非托管设备（在 Intune 中未加入或合规性的混合广告）的 SharePoint 和 OneDrive 内容的访问权限。
 
 **网络位置限制**
 
-作为 IT 管理员，您可以根据您信任的已定义网络位置来控制对 SharePoint 和 OneDrive 资源的访问权限。 这也称为基于位置的策略。 有关详细信息，请参阅[基于网络位置控制对 SharePoint Online 和 OneDrive 数据的访问](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+作为 IT 管理员，您可以根据您信任的已定义网络位置来控制对 SharePoint 和 OneDrive 资源的访问权限。 这也称为“基于位置的策略”。 有关详细信息，请参阅[基于网络位置控制对 SharePoint Online 和 OneDrive 数据的访问](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 **网站锁定限制** 
 
@@ -43,5 +43,5 @@ ms.locfileid: "40053755"
 
 **限制用户创建网站或子网站**
 
-作为 SharePoint 管理员或 Office 365 全局管理员，你可以让你的用户创建和管理自己的 SharePoint 网站，确定可以创建的网站类型，并指定网站的位置。 有关详细信息，请参阅[在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)
+作为 SharePoint 管理员或全局管理员，你可以让你的用户创建和管理自己的 SharePoint 网站，确定可以创建的网站类型，并指定网站的位置。 有关详细信息，请参阅[在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
