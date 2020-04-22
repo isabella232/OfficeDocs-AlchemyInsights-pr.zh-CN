@@ -3,7 +3,7 @@ title: 错误30068-39 的解决方案
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 12/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: cec6d874d4d06ba5a3b693447dca329c2d55d997
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36743335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43756945"
 ---
-# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="64d94-102">错误30068-39 的解决方案</span><span class="sxs-lookup"><span data-stu-id="64d94-102">Solutions for error 30068-39</span></span>
+# <a name="solutions-for-error-30068-39"></a><span data-ttu-id="52cc7-102">错误30068-39 的解决方案</span><span class="sxs-lookup"><span data-stu-id="52cc7-102">Solutions for error 30068-39</span></span>
 
-<span data-ttu-id="64d94-103">请尝试以下解决方案以修复错误[30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)：</span><span class="sxs-lookup"><span data-stu-id="64d94-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="52cc7-103">请尝试以下解决方案以修复错误[30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)：</span><span class="sxs-lookup"><span data-stu-id="52cc7-103">Try these solutions to fix error [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="64d94-104">重新启动计算机，然后尝试[安装 Office](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="64d94-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="52cc7-104">重新启动计算机，然后尝试[安装 Office](https://portal.office.com/OLS/MySoftware.aspx)。</span><span class="sxs-lookup"><span data-stu-id="52cc7-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="64d94-105">检查是否已**禁用 Microsoft 即点**即用[服务](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)，如果已禁用，则将状态更改为 "**手动**" 或 "**自动**"。</span><span class="sxs-lookup"><span data-stu-id="64d94-105">Check if the **Microsoft Click-to-Run** [service is disabled](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
+- <span data-ttu-id="52cc7-105">检查是否已**禁用 Microsoft 即点**即用[服务](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)，如果已禁用，则将状态更改为 "**手动**" 或 "**自动**"。</span><span class="sxs-lookup"><span data-stu-id="52cc7-105">Check if the **Microsoft Click-to-Run** [service is disabled](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) and if it is disabled, change the status to **Manual** or **Automatic**.</span></span>
 
-- <span data-ttu-id="64d94-106">下载并安装[支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="64d94-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="52cc7-106">下载并安装[支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。</span><span class="sxs-lookup"><span data-stu-id="52cc7-106">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="64d94-107">打开后，从 "**卸载 Office 产品**" 选择要卸载的版本，然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="64d94-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="52cc7-107">打开后，从 "**卸载 Office 产品**" 选择要卸载的版本，然后选择 "**下一步**"。</span><span class="sxs-lookup"><span data-stu-id="52cc7-107">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="64d94-108">在出现提示时，继续执行屏幕并重新启动计算机。</span><span class="sxs-lookup"><span data-stu-id="64d94-108">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="52cc7-108">继续浏览屏幕，在出现提示时重启计算机。</span><span class="sxs-lookup"><span data-stu-id="52cc7-108">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="64d94-109">重新启动后，支持和恢复助理将自动重新打开以完成卸载过程。</span><span class="sxs-lookup"><span data-stu-id="64d94-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="52cc7-109">重新启动后，支持和恢复助理将自动重新打开以完成卸载过程。</span><span class="sxs-lookup"><span data-stu-id="52cc7-109">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="64d94-110">按照其余提示操作，然后[重新安装 Office](https://portal.office.com/OLS/MySoftware.aspx)或关闭助理。</span><span class="sxs-lookup"><span data-stu-id="64d94-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="52cc7-110">按照其余提示操作，然后[重新安装 Office](https://portal.office.com/OLS/MySoftware.aspx)或关闭助理。</span><span class="sxs-lookup"><span data-stu-id="52cc7-110">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
