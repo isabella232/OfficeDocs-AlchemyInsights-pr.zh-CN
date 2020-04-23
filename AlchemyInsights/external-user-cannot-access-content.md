@@ -11,22 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: f64a1fb03d951fea5de86a8dd91669f3aa0f7067
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1702dcbf833b5f320620f9f6cc2f84aa3ab4c1d3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049723"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788620"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="7ec71-102">外部用户无法访问 SharePoint 或 OneDrive 内容</span><span class="sxs-lookup"><span data-stu-id="7ec71-102">External user cannot access SharePoint or OneDrive content</span></span>
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="acb1e-102">外部用户无法访问 SharePoint 或 OneDrive 内容</span><span class="sxs-lookup"><span data-stu-id="acb1e-102">External user cannot access SharePoint or OneDrive content</span></span>
 
-<span data-ttu-id="7ec71-103">如果外部用户已被邀请且无法访问内容，请尝试访问以下链接：</span><span class="sxs-lookup"><span data-stu-id="7ec71-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="acb1e-103">如果外部用户已被邀请且无法访问内容，请尝试访问以下链接：</span><span class="sxs-lookup"><span data-stu-id="acb1e-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="7ec71-104">SharePoint Online 和 OneDrive for Business 中的 "访问被拒绝"、"你需要访问此网站的权限" 或 "在目录中找不到用户" 错误</span><span class="sxs-lookup"><span data-stu-id="7ec71-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="7ec71-105">"在 SharePoint Online 或 OneDrive for Business 中共享项目或网站时，您的组织的策略不允许与这些用户共享" 错误</span><span class="sxs-lookup"><span data-stu-id="7ec71-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="7ec71-106">从 SharePoint Online 或 OneDrive 共享时，共享选项将灰显</span><span class="sxs-lookup"><span data-stu-id="7ec71-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="7ec71-107">外部用户使用其他帐户接受 SharePoint Online 邀请时的错误消息</span><span class="sxs-lookup"><span data-stu-id="7ec71-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="7ec71-108">在 SharePoint 和 OneDrive 中发生 OSE 共享错误</span><span class="sxs-lookup"><span data-stu-id="7ec71-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
-
-
-
+- [<span data-ttu-id="acb1e-104">外部用户访问网站时收到权限错误</span><span class="sxs-lookup"><span data-stu-id="acb1e-104">External users receive permission errors when accessing a site</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="acb1e-105">"在 SharePoint Online 或 OneDrive for Business 中共享项目或网站时，您的组织的策略不允许与这些用户共享" 错误</span><span class="sxs-lookup"><span data-stu-id="acb1e-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="acb1e-106">从 SharePoint Online 或 OneDrive 共享时，共享选项将变灰</span><span class="sxs-lookup"><span data-stu-id="acb1e-106">Sharing options are grayed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
