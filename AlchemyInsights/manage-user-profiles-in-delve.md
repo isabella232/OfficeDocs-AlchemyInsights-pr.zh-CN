@@ -2,22 +2,22 @@
 title: 在 Delve 中管理用户配置文件
 ms.author: ponincev
 author: pebaum
-ms.date: 9/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720529"
 ---
 # <a name="manage-user-profiles-in-delve"></a>在 Delve 中管理用户配置文件
 
-通过 Office Delve，用户可以管理其 Office 365 用户配置文件。 用户可以：
+通过 Office Delve，用户可以管理其用户配置文件。 用户可以：
   
 - 查看和更新其信息
     

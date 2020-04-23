@@ -3,7 +3,7 @@ title: Outlook.com 垃圾邮件-西班牙语
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1137"
 - "8000065"
-ms.openlocfilehash: bb9d5b00c5466fdc334a84e5805744f102160ae1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4a2b6ab81901a7e674506352e893d5b220b25839
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536317"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715982"
 ---
 # <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga el correo 无 deseado fuera de Outlook.com
 
-Si ve 未 aumento de correo no deseado y correo electrónico 不 deseado, hay varias formas de reducir la cantidad de correo no deseado mail.que entre en la Bandeja de entrada。
+Si ve 未 aumento de correo no deseado y correo electrónico 不 deseado，hay varias formas de reducir la cantidad de correo no deseado mail.que entre en la Bandeja de entrada。
 
 段落 aprender más leer [Ayudar a mantener el correo 无 deseado y el correo 不 deseado](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)fuera de bandeja de entrada de Outlook.com。
