@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027904"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784789"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>删除 Teams 电话拨入式会议号码
 
@@ -24,7 +24,7 @@ ms.locfileid: "43027904"
 
 当与会者或组织者从会议中发出出站呼叫时，将使用定义了呼叫方 ID 的会议网桥默认电话号码。
 
-1. 使用你的工作帐户登录 Office 365。
+1. 使用你的工作帐户登录。
 
 2. 转到 **Microsoft 365 管理中心**。
 

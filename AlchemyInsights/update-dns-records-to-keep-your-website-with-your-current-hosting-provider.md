@@ -3,7 +3,7 @@ title: 更新 DNS 记录以便利用当前的托管提供商继续托管网站
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f9b0529d3200dd53afc70023c0b60d9d415a8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 8edebef125f23e880713237787bd00cc917258b0
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36742250"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789400"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>更新 DNS 记录以便利用当前的托管提供商继续托管网站
 
-作为将 Office 365 公共网站移至另一个托管提供商的过程的一部分，您可能需要对域记录进行更改。
+作为将 Microsoft 365 公共网站移至另一个托管提供商的过程的一部分，您可能需要对域记录进行更改。
   
 1. 在 "管理中心" 中，转到 "**安装程序** \> **域**"，然后选择要更改的域名。
 
