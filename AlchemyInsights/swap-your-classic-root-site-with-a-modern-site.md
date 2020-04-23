@@ -2,7 +2,7 @@
 title: 将经典根网站替换为新式网站
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042917"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741534"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>将经典根网站替换为新式网站
 
@@ -28,7 +28,7 @@ ms.locfileid: "40042917"
 
 - 将很快引入其他功能，从而使您能够继续使用网站上的内容，但将现有网站转换为通信网站。 
 >[!Important]
->这些功能将逐步推出。 继续检查 Office 365 消息中心是否有更新。 
+>这些功能将逐步推出。 继续检查消息中心是否有更新。 
 
 ## <a name="known-issues-with-swapping-sites"></a>交换网站的已知问题
 
@@ -37,8 +37,3 @@ ms.locfileid: "40042917"
 - 依赖于 "静态" 链接的任何内容（如文件同步和 OneNote 文件）都需要手动更正。
 - 如果源网站是组织的新闻网站，请更新该 URL。获取所有组织新闻网站的列表。
 - 可能需要验证 Project Server 网站，以确保它们仍正确关联。
-
-
-
-
-

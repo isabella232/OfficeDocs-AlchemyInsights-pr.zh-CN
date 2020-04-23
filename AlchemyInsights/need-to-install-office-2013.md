@@ -2,7 +2,7 @@
 title: 需要安装 Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538695"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761840"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 365 订阅不再支持 office 2013
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Microsoft 365 订阅不再支持 Office 2013
 
-自2017年2月28日起, office 365 订阅不再支持 Office 2013。
+自2017年2月28日起，Microsoft 365 订阅不再支持 Office 2013。
   
-若要确保 Office 套件的安全性并获取所有最新功能, 请在 Office 365 订阅中免费安装最新版本的 Office。 请参阅[将用户升级到最新的 Office 客户端](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)。
+若要确保 Office 套件的安全性并获取所有最新功能，请在 Microsoft 365 订阅中免费安装最新版本的 Office。 请参阅[将用户升级到最新的 Office 客户端](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client)。
   

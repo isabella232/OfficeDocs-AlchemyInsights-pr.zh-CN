@@ -3,18 +3,18 @@ title: Outlook.com 设置
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053251"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743551"
 ---
 # <a name="settings-in-outlookcom"></a>Outlook.com 中的设置
 
@@ -30,7 +30,7 @@ ms.locfileid: "40053251"
     
     - 将一次性密码发送到同一个电子邮件地址。 在浏览器窗口中输入代码，然后选择 "**继续**" 阅读邮件。
 
-- 如果无法从其他 Office 365 组织中加密邮件，请按照[本文](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)中指定的解决步骤操作。
+- 如果无法从其他组织中加密邮件，请按照[本文](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)中指定的解决步骤操作。
 
 - 如果收件人邮箱位于**Yahoo 或 Gmail**上，请按照[本文](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)中的</span>说明操作。
 

@@ -3,7 +3,7 @@ title: 1490-故障排除-电子数据展示-故障
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559363"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759574"
 ---
 # <a name="troubleshoot-content-search-errors"></a>内容搜索错误疑难解答
 
-您是否遇到 Office 365 中的内容搜索问题或在您导出搜索结果时是否收到故障？
+在您导出搜索结果时，您是否遇到内容搜索问题或获取故障？
 
-例如, 运行搜索时是否收到以下信息？
+例如，运行搜索时是否收到以下信息？
 
 - CS008 或 CS012 错误
 
@@ -32,6 +32,6 @@ ms.locfileid: "36559363"
 
 - 出现应用程序错误
 
-或者从大量邮箱中搜索或导出结果时 (超过100000个邮箱), 您是否收到了导出错误？
+或者从大量邮箱中搜索或导出结果时（超过100000个邮箱），您是否收到了导出错误？
 
-对于这些类型的错误, 请重试对失败的内容位置的搜索。 有关详细信息, 请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)。
+对于这些类型的错误，请重试对失败的内容位置的搜索。 有关详细信息，请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)。

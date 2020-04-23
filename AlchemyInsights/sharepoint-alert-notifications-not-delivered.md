@@ -3,7 +3,7 @@ title: 未传递 SharePoint 通知通知
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047057"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742037"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>未传递 SharePoint 通知通知
 
@@ -26,7 +26,7 @@ ms.locfileid: "40047057"
 
 确定是否**未传递所有警报**，或者是否未传递来自特定文件或库**的单个警报**。
 
-- **不传递单个警报**：如果未传递来自特定文件或库的单个通知，则可以尝试删除并重新创建它。 请参阅[管理、查看或删除 SharePoint 警报](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online)以重新创建警报。
+- **不传递单个警报**：如果未传递来自特定文件或库的单个通知，则可以尝试删除并重新创建它。 请参阅[管理、查看或删除 SharePoint 警报](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)以重新创建警报。
 - **未传递所有警报**：如果未传递来自多个文件或库的所有警报，请访问[服务运行状况仪表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)，以检查 SharePoint 或 Exchange 可能发生的任何咨询/事件。 问题可能与 SharePoint 通知功能或通过 Exchange 的电子邮件延迟有关。 此外，请务必注意是否正在传递其他电子邮件，如果没有，则可能是 Exchange 延迟问题。
 
 有关警报的常见问题解答：

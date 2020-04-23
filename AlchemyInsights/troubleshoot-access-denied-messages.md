@@ -2,18 +2,18 @@
 title: 访问被拒绝邮件疑难解答
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050695"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759790"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>访问被拒绝邮件疑难解答
 
@@ -29,6 +29,6 @@ ms.locfileid: "40050695"
   
 如果某个人在尝试查看访问请求时收到 "拒绝访问" 消息，则需要将该用户添加为网站集管理员或网站的 "所有者" 组的成员。 有关详细信息，请参阅访问[请求的访问被拒绝列表](https://go.microsoft.com/fwlink/?linkid=2004220)。
   
-如果用户从本地 Active Directory 中删除后，如果用户收到 "拒绝访问" 的消息，请参阅[在将用户帐户同步到 Office 365 时访问被拒绝](https://go.microsoft.com/fwlink/?linkid=2004318)。
+如果用户从本地 Active Directory 中删除后，如果用户收到 "拒绝访问" 消息，请参阅[在将用户帐户同步到 Microsoft 365 时，访问被拒绝](https://go.microsoft.com/fwlink/?linkid=2004318)。
   
 

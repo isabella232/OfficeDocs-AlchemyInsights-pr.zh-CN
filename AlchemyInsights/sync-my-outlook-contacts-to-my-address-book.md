@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286045"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767059"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>将我的 Outlook 联系人同步到我的通讯簿
 
@@ -30,7 +30,7 @@ Outlook 允许你将联系人导出到 Android 上的默认 "联系人" 应用�
 
 3. 在上切换 "**同步联系人**" 滑块。
  
-对于本地邮箱，Office 365、Outlook.com 和混合新式身份验证支持双向联系人导出。 双向支持可确保您添加的任何新联系人或您编辑的现有联系人将在您的设备和您的 Outlook 帐户之间同步。
+对于本地邮箱，Microsoft 365、Outlook.com 和混合新式身份验证支持双向联系人导出。 双向支持可确保您添加的任何新联系人或您编辑的现有联系人将在您的设备和您的 Outlook 帐户之间同步。
  
 对于旧版 Exchange 帐户，您可以将您的联系人导出为保存到设备。 启用**同步联系人**后，新添加的联系人和在 Outlook 中对联系人所做的编辑将保存到设备上的 "联系人" 应用中。 但是，直接在设备的 "联系人" 应用程序中进行的编辑不会保存到 Outlook。 请注意，我们不支持在 Outlook for Android 中为本地 exchange 帐户添加/编辑联系人，因此您需要从不同的 Outlook 客户端管理联系人。
  

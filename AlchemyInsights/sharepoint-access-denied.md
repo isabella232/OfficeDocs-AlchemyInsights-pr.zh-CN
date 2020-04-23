@@ -2,18 +2,18 @@
 title: 访问被拒绝邮件疑难解答
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 913324524e4b04ee7eb552bcc4efad1b493ab319
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742133"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>访问被拒绝邮件疑难解答
 
@@ -21,7 +21,7 @@ ms.locfileid: "40051811"
 
 **添加和许可用户**
 
-确保[将许可证分配给 Office 365 for business 中的用户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)。
+确保[将许可证分配给 Microsoft 365 for business 中的用户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)。
 
 **分配权限**
 
