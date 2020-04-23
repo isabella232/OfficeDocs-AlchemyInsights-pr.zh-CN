@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154191"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556940"
 ---
 # <a name="pstn-calling-plans"></a>PSTN 通话套餐
 
-向其他 Skype for Business 和 Microsoft Teams 用户拨打电话是免费的，但如果你想要用户能够拨打常规电话，且你没有服务提供商用以拨打语音电话，则需要购买通话套餐。 
+如果你想要用户能够拨打常规电话，且你没有服务提供商用以拨打语音电话，则需要购买通话套餐。
 
-- 要开始购买过程，请参阅[如何购买通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365)。 
+- 请参阅[如何购买通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365)，了解如何开始购买过程。
 
-- 有关详细信息，请参阅[电话系统和通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)。 
+- 设置[通信点数](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)以防止**通话时间不足**。 费率请参见[这里](https://products.office.com/microsoft-teams/voice-calling)。 
+
+- 有关更多信息，请参阅[电话系统和通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)或[什么是通信点数？](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
