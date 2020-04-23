@@ -3,7 +3,7 @@ title: 604故障排除类别
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 7b4aa5214b0e33bfd26cd9d95f050fc21b4088fc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732356"
 ---
-# <a name="outlook-categories"></a><span data-ttu-id="430e3-102">Outlook 类别</span><span class="sxs-lookup"><span data-stu-id="430e3-102">Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="ae298-102">Outlook 类别</span><span class="sxs-lookup"><span data-stu-id="ae298-102">Outlook categories</span></span>
 
-<span data-ttu-id="430e3-103">颜色类别使您可以轻松地识别和分组 Microsoft Outlook 中的关联项。</span><span class="sxs-lookup"><span data-stu-id="430e3-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="430e3-104">有关详细信息, 请参阅[创建和分配颜色类别](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)。</span><span class="sxs-lookup"><span data-stu-id="430e3-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
+<span data-ttu-id="ae298-103">颜色类别使您可以轻松地识别和分组 Microsoft Outlook 中的关联项。</span><span class="sxs-lookup"><span data-stu-id="ae298-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="ae298-104">有关详细信息，请参阅[创建和分配颜色类别](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)。</span><span class="sxs-lookup"><span data-stu-id="ae298-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
   
