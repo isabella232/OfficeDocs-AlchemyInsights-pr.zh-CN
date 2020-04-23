@@ -12,20 +12,20 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: cfe884a207490a19325ce059652de158c16dc801
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704075"
+ms.locfileid: "43788692"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>包含社会保险号的 DLP 问题
 
-**重要信息：** 在这段前所未有的时期，我们正在采取措施确保 SharePoint Online 和 OneDrive 服务高度可用，请访问 [SharePoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)，获取详细信息。
+**重要信息：** 在这些空前的时期，我们正在采取措施确保 SharePoint Online 和 OneDrive 服务高度可用，请访问 [SharePoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)获取详细信息。
 
 **Ssn 的 DLP 问题**
 
-在使用 Office 365 中的敏感信息类型时，您是否遇到**数据丢失防护（DLP）** 无法处理包含**社会保险号码（SSN）** 的内容的问题？ 如果是这样，请确保您的内容包含 DLP 策略所需的信息所需的信息。 
+在 Microsoft 365 中使用敏感信息类型时，您是否遇到**数据丢失防护（DLP）** 无法处理包含**社会保险号（SSN）** 的内容的问题？ 如果是这样，请确保您的内容包含 DLP 策略所需的信息所需的信息。 
   
 例如，对于配置为可信度为85% 的 SSN 策略，将对以下项进行评估，并且必须检测到规则才能触发：
   

@@ -2,7 +2,7 @@
 title: OneDrive 保留和删除
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053323"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761277"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive 保留和删除
 
@@ -25,7 +25,7 @@ ms.locfileid: "40053323"
 
 - 请参阅[本文](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)了解以下内容：
     - 如何向另一个用户授予对已删除用户的 OneDrive 的访问权限。
-    - 当您为组织删除用户的 Office 365 帐户时，用户的 OneDrive 会发生什么情况。
+    - 当您为您的组织删除用户的 Microsoft 365 帐户时，用户的 OneDrive 会发生什么情况。
     - 如何配置自动访问委派。
     - OneDrive 删除过程的工作原理。
 

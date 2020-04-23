@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758780"
 ---
 # <a name="products--services"></a>产品 & 服务
 
@@ -24,7 +24,7 @@ ms.locfileid: "42278811"
 
 1. 管理已为每个订阅购买的许可证数量以及使用的数量。  **注意**：未使用的许可证（未分配给用户）仍然收费。  若要不为未使用的许可证付费，请减少购买的许可证数量。 若要了解如何在订阅中添加或删除许可证，请参阅[如何添加或减少许可证](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
 
-2. 查看订阅的续订日期或到期日期。  您可以通过单击日期上的 "**续订/过期**" 旁边的 "**编辑**" 链接来管理续订。  有关如何管理定期计费的详细信息，请参阅[续订 Office 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) 。
+2. 查看订阅的续订日期或到期日期。  您可以通过单击日期上的 "**续订/过期**" 旁边的 "**编辑**" 链接来管理续订。  有关如何管理定期计费的详细信息，请参阅[续订 Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) 。
 
 3. [重新激活已过期或已禁用的订阅](https://go.microsoft.com/fwlink/?linkid=2117519)。
 
