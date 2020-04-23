@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 195c383d0b3f64eac9c2ef673971b1764d63b1f4
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
+ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722539"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Visio 常见问题和解决方法
 
@@ -44,6 +44,6 @@ ms.locfileid: "43231533"
 
 **图表、模板、形状和连接线**
 
-- [为什么无法在 Visio 网页版中打开图表进行编辑？](https://support.microsoft.com/zh-CN/office/why-can-t-i-open-a-diagram-for-editing-in-visio-for-the-web-ea4a23d3-21d3-4878-945e-cf1be4140357)
+- [为什么无法在 Visio 网页版中打开图表进行编辑？](https://support.microsoft.com/office/ea4a23d3-21d3-4878-945e-cf1be4140357)
 
 - [Visio 培训](https://support.office.com/article/visio-training-e058bcfa-1d90-4653-afc6-e84d54cf94a6)

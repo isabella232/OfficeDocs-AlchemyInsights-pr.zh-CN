@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599474"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737642"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>安装了 Office 更新的 Microsoft 团队
 
-Microsoft 团队作为 Office 365 专业增强版、Office 365 商业版和 Office for Mac 的***新安装***的一部分包括在内。 有关详细信息，请参阅[何时 Microsoft 团队何时开始将新安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft 团队作为 Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business 和 Office for Mac 的***全新安装***的一部分包括在内。 有关详细信息，请参阅[何时 Microsoft 团队何时开始将新安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-此外，从每月频道中的版本1906开始，当您将现有安装更新到最新版本时，团队将逐步添加到运行 Windows 的设备上的现有 Office 365 专业增强版（和 Office 365 商业）***安装***中。 有关详细信息，请参阅[现有安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+此外，从每月频道中的版本1906开始，在将现有安装更新到最新版本时，团队将逐步添加到运行 Windows 的 Microsoft 365 应用程序的***现有安装***（以及 Microsoft 365 应用程序）。 有关详细信息，请参阅[现有安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **注意：** 如果您不想等待此首展计划，可以按照[这些说明](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)将团队部署为独立用户，也可以让您的用户自行安装团队https://teams.microsoft.com/downloads。
 
