@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856776"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739426"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams 教育版客户常见问题
 
@@ -45,12 +45,12 @@ ms.locfileid: "42856776"
     6. 在“Skype for Business 管理中心”中，单击“**音频会议**”，然后单击“**用户**”。
     7. 选择有问题的用户，并验证用户是否有“默认收费号码”。
 
-    有关详细信息，请参阅[Office 365 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)或致电 Microsoft Commerce 计费团队来获取授权相关问题的帮助。
+    有关详细信息，请参阅[通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce 计费团队，让其帮助解决与许可相关的问题。
 
     其他资源
 
     - [Microsoft Teams 中的会议](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Office 365 中的音频会议](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [音频会议](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **会议策略**：会议策略用于控制组织中用户安排的会议的与会者可用的功能。 创建策略并进行更改后，即可以将用户分配到策略。
 
