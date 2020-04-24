@@ -2,7 +2,7 @@
 title: 423 组织安全性 - 泄露的电子邮件帐户
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: e141366c3130c529b1b4322813100002b220c9da
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6727557131c36d6cbd33f27d59a9f6bc1b1b0f61
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734479"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712988"
 ---
 # <a name="compromised-email-accounts"></a>被泄露的电子邮件帐户
 
-有多种方法可以用来增强 Office 365 组织的安全性：
+有多种方法可以用来增强组织的安全性：
 
 - **启用多重身份验证 (MFA)**：如果帐户遭到泄露，重置密码后启用 MFA 是确保此问题不再发生的好方法。 如果泄露的帐户曾用来发送垃圾邮件，则可能会被阻止发送电子邮件（即使是在采取措施保护以后）。 若要从阻止列表中移除用户，请参阅[本主题](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx)。
 
@@ -27,4 +27,4 @@ ms.locfileid: "36734479"
 
 - **启用邮箱审核日志记录**：邮箱审核日志记录能更轻松地跟踪用户帐户泄露时发生的事。
 
-有关详细信息，请参阅 [Office 365 安全路线图](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)。
+有关详细信息，请参阅 [Microsoft 365 安全路线图](https://docs.microsoft.com/office365/securitycompliance/security-roadmap)。

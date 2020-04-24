@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709929"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 音频会议
 
-在启用或设置 Microsoft Teams 中的音频会议方面需要帮助？ 此用户最近已创建？  如果是这样，则需要等待2–24小时，设置才会生效。    
+在启用或设置 Microsoft Teams 中的音频会议方面需要帮助？ 此用户最近已创建？  如果是这样，则需要等待2–24小时，设置才会生效。
 
 若要验证用户是否获得音频会议许可，是否拥有默认收费电话号码：
 
@@ -39,4 +39,4 @@ ms.locfileid: "42692385"
 
 7. 选择有问题的用户，并验证用户是否有“**默认收费号码**”。
 
-有关详细信息，请参阅[Office 365 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)或致电 Microsoft Commerce 计费团队来获取授权相关问题的帮助。
+有关详细信息，请参阅[通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce 计费团队，让其帮助解决与许可相关的问题。

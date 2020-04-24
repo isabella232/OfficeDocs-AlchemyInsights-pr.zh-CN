@@ -2,18 +2,18 @@
 title: 遇到电子邮件传递问题？
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1586cfd72430bd4af75dac1efbf5400fe8a0d9de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735739"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710217"
 ---
 # <a name="having-email-delivery-issues"></a>遇到电子邮件传递问题？
 
@@ -21,7 +21,7 @@ ms.locfileid: "36735739"
   
 {HealthCheckString}
   
-域 (DNS) 设置的 NS 或 MX 记录未正确配置，使得电子邮件无法传递到 Office 365 服务。 有关详细说明，可参阅[在任何 DNS 托管提供商处为 Office 365 创建 DNS 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。 
+域 (DNS) 设置的 NS 或 MX 记录没有正确配置为，将电子邮件传递到 Microsoft。 有关详细说明，可参阅[创建任何 DNS 托管提供者处的 DNS 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。 
   
 若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。 
 

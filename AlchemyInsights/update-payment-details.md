@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059870"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720055"
 ---
 # <a name="update-credit-card-information"></a>更新信用卡信息
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059870"
 
 如果遇到页面加载问题，请尝试在其他浏览器中打开网页，或者尝试打开页面的专用浏览器窗口，如 Microsoft Edge 中的 InPrivate 窗口或 Google Chrome 中的隐身窗口。 
 
-有关详细信息，请参阅“[在 Office 365 商业版中添加，更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)”和“[信用卡和银行帐户疑难解答](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)”。
+有关详细信息，请参阅[在 Microsoft 365 商业版中添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)，以及[排除信用卡和银行帐户故障](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts)。

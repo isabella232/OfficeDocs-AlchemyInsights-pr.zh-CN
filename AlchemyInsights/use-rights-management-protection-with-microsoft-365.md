@@ -12,16 +12,16 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: 149d349deed9dd698f94adb64fcc429f8e8d2afc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707362"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710685"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>使用权限管理保护和 Microsoft 365
 
-使用 Office 365 应用和服务的信息权限管理 (IRM)前，必须启用“[信息权限管理 (IRM)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)”。
+必须先启用[权限管理服务 (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)，然后才能使用 Microsoft 应用和服务的信息权限管理 (IRM)。
 
 1. 有关许可证要求和从“**Microsoft 365 管理中心**”启用的信息，请参阅“[如何从 Microsoft 365 管理中心启用权限管理保护](https://docs.microsoft.com/azure/information-protection/activate-office365)”。 **注意**：需要全局管理账户。
 
