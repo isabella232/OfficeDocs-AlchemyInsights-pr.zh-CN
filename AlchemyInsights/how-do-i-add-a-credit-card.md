@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 2d308a5ec0ed959c9c0794a94a8b8dc4855de7a5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 29864cd52c19a34887b52968a1a004473461dc84
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710037"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787936"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>如何添加信用卡？
 
@@ -30,4 +30,4 @@ ms.locfileid: "43710037"
 
 4. 输入新信用卡或新银行帐户的信息，然后单击“保存”****。
 
-要了解详细信息，请参阅[在 Office 365 商业版中添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。
+若要了解详细信息，请参阅[添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。

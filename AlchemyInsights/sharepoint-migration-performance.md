@@ -1,5 +1,5 @@
 ---
-title: SharePoint 迁移性能
+title: SharePoint 迁移性能指南
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537767"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789292"
 ---
-# <a name="sharepoint-migration-performance"></a>SharePoint 迁移性能
+# <a name="sharepoint-migration-performance-guidance"></a>SharePoint 迁移性能指南
 
-**重要信息：** 在这段前所未有的时期，我们正在采取措施确保 SharePoint Online 和 OneDrive 服务高度可用，请访问 [SharePoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)，获取详细信息。
+迁移性能可能会受到网络基础架构、文件大小、迁移时间和限制的影响。
 
-**迁移性能**
-
-迁移性能受网络基础结构、文件大小、迁移时间和限制的影响。了解这些有助于你规划和最大化迁移效率。
-
-有关详细信息，请访问以下链接。
+有关详细信息，另请访问：
 
 - [通用迁移性能指南](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [避免在 SharePoint Online 中受限或遭屏蔽](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [下载并安装 SharePoint 迁移工具](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

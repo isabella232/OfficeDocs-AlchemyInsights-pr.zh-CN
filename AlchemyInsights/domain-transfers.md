@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 4508c70331f8d83f9f3569c64d49e963af801eb9
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530016"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783961"
 ---
 # <a name="domain-transfers"></a>域转移
 
@@ -24,9 +24,9 @@ ms.locfileid: "43530016"
 
     - 虽然 Microsoft 购买的域不支持更改 NS 记录，但请考虑[为你的网站更新 DNS 记录](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)，而不是将域注册转移到 Web 主机托管。
 
-- 无法在 Office 365 租户之间转移 Microsoft 购买的域。 
+- 无法在 Microsoft 365 租户之间转移 Microsoft 购买的域。 
 
-    - 但是，你可以通过[从一个租户中删除域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)，然后在另一个租户中验证该域，从而在 Office 365 租户之间转移第三方域。
+    - 但是，你可以通过[从一个租户中删除域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)，然后在另一个租户中验证该域，从而在 Microsoft 365 租户之间转移第三方域。
 
 - 无法将第三方域注册或帐单转移到 Microsoft。
 

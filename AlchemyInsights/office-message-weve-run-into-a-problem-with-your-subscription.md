@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713240"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787720"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Office 应用消息 - 你的订阅遇到问题
 
-- 如果最近已切换到其他 Office 365 订阅/计划，按照[切换 Office 365 计划之后在 Office 中出现“帐户通知”](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)中的步骤，重新安装或更新 Office。
+- 如果最近已切换到其他订阅/计划，按照[切换计划之后在 Office 中出现“帐户通知”](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)中的步骤，重新安装或更新 Office。
 
-- 参见[Office 错误“帐户通知：你的 Office 365 订阅遇到问题”](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
+- 请参阅 [Office 错误“帐户通知：你的订阅遇到问题”](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)
 
 - 删除 [Office 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user)并将其重新分配给受影响的用户。 
 
@@ -34,6 +34,6 @@ ms.locfileid: "43713240"
 
 有关详细说明，请参阅： 
 
-[当我打开 Office 365 应用程序时显示订阅通知](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[当我打开 Microsoft 应用程序时显示订阅通知](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Office 激活问题疑难解答](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

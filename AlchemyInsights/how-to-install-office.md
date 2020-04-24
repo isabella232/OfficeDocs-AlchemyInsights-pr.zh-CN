@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735451"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759142"
 ---
 # <a name="how-to-install-office"></a>如何安装 Office
 
-要安装 Office 客户端应用，请确保具有商业版订阅，例如 Office 365 商业高级版、Office 365 商业版或 Office 365 教育版。
+若要安装 Office 客户端应用，请确保有商业版订阅，如 Microsoft 365 商业高级版（标准）、Microsoft 365 商业应用版或 Office 365 教育版。
   
 *注意：[Office 小型企业版](https://products.office.com/home-and-business)是一款 [Office 家庭版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)产品，不是企业订阅的一部分。有关 Visio 或 Project 的具体说明，请参阅[安装 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 或[安装 Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*。
 

@@ -1,5 +1,5 @@
 ---
-title: 在 Office 365 中购买域名
+title: 在 Microsoft 365 中购买域名
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: eee63e9c61d5cc9cd68b90c7c8771ca439b27d7e
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
+ms.openlocfilehash: cf44a922bc248975ba2fcdb08aef2c2fde2416c7
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946598"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788836"
 ---
-# <a name="buy-a-domain-name-in-office-365"></a>在 Office 365 中购买域名
+# <a name="buy-a-domain-name-in-microsoft-365"></a>在 Microsoft 365 中购买域名
 
 可在 Microsoft 此处的管理中心购买域名 - [获得域](https://admin.microsoft.com/Domains/Buy)。
 
@@ -27,6 +27,6 @@ ms.locfileid: "42946598"
 
 - 如果需要，可在域购买后 60 天内将域转移到其他注册机构。
 
-有关详细信息，请参阅[在 Office 365 中购买域名](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide)。
+有关详细信息，请参阅[在 Microsoft 365 中购买域名](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide)。
 
 另请参阅[更新 DNS 记录以便利用当前的托管提供商继续托管网站](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0)。

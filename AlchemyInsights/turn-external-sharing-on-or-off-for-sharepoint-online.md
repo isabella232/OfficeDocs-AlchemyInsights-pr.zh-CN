@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182296"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789472"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>为 SharePoint Online 启用或禁用外部共享
 
-若要了解 Office 365 中的全局管理员和 SharePoint 管理员如何更改 SharePoint 和OneDrive 的组织级共享设置，请参阅[启用或禁用外部共享](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)。
+若要了解全局管理员和 SharePoint 管理员如何更改 SharePoint 和 OneDrive 的组织级共享设置，请参阅[启用或禁用外部共享](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)。

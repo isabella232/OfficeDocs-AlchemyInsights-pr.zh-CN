@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784537"
 ---
 # <a name="set-up-insider-risk-management"></a>设置内部风险管理
 
@@ -26,13 +26,13 @@ ms.locfileid: "43059946"
 
 - 具有 Microsoft E5 合规加载项的 **Microsoft 365 E3** 订阅。
 
-如果你没有现有的 **Microsoft 365 E5** 套餐，并且想要尝试内部风险管理，可将 Microsoft 365 添加到现有 Office 365 订阅，或注册 Microsoft 365 Enterprise E5 的试用版。
+如果你没有现有的 **Microsoft 365 E5** 套餐，并且想要尝试内部风险管理，可将 Microsoft 365 添加到现有订阅，或注册 Microsoft 365 Enterprise E5 的试用版。
 
 使用内部风险管理的基本步骤包括：
 
 1. 启用内部风险管理的权限。
 
-2. 启用 Office 365 审核日志。
+2. 启用审核日志。
 
 3. 配置模板的先决条件（可选）。
 

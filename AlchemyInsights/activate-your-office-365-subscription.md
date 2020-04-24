@@ -1,5 +1,5 @@
 ---
-title: 激活 Office 365 订阅
+title: 激活你的 Microsoft 365 订阅
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191056"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43783997"
 ---
-# <a name="activate-your-office-365-subscription"></a>激活 Office 365 订阅
+# <a name="activate-your-subscription"></a>激活你的订阅
 
 **激活订阅**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191056"
 
 **重新激活订阅**
 
-如果订阅过期，或被 Microsoft 禁用，或者在订阅中途取消了订阅，可在 Office 365 管理中心重新激活它。
+如果订阅过期，或被 Microsoft 禁用，或者在订阅中途取消了订阅，可在 Microsoft 365 管理中心重新激活它。
 
-- 在 Office 365 管理中心内，转到“[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面（或者单击“**帐单”>“订阅**”）。
+- 在 Microsoft 365 管理中心内，转到“[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面（或者单击“帐单”>“订阅****”）。
 
 - 选择需要重新激活的订阅，然后单击“**重新激活**”。 如果可用操作中不包含“**重新激活**”，请[致电支持人员](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b)重新激活你的订阅。
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191056"
 
 **使用产品密钥激活新订阅**
 
-- 若要使用产品密钥激活新的 Office 365 订阅，请[点击此处](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)开始。
+- 若要使用产品密钥激活新的 Microsoft 365 订阅，请[点击此处](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)开始。
 
-- 输入你的 Office 365 产品密钥并按照提示激活你的订阅。 如果遇到激活问题，请查看此[常见产品密钥错误和解决方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)列表。
+- 输入你的 Microsoft 365 产品密钥并按照提示激活你的订阅。 如果遇到激活问题，请查看此[常见产品密钥错误和解决方案](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)列表。

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: e631beacddb6829eb226e889b67439118ffb2a05
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: df3a236ca99df07cb162d884bd718db6efcf6d65
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764467"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787756"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>设置 Microsoft 365 商业版订阅
 
-有关指导性教程，请参阅[设置 Office 365 商业版](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide)，帮助你设置商业版订阅。 
+有关指导性教程，请参阅[设置 Microsoft 365 商业版](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide)，帮助你设置商业版订阅。 
 
 **更出绝佳资源**
 

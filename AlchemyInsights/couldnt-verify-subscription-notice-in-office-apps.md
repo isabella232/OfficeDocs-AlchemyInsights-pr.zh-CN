@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 2a45873c328a6df47d2c18aaf107a05dec453bef
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182323"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788764"
 ---
 # <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Office 应用中的“无法验证订阅”通知
 
 - 验证[订阅状态](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)是否有效，受影响的用户是否[分配了有效的许可证](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)，是否连接到 Internet。
 
-- 查看“[Office 365 服务运行状况页面](https://docs.microsoft.com/office365/enterprise/view-service-health)”，检查是否存在任何已知的服务问题。
+- 查看 [Microsoft 365 服务运行状况页面](https://docs.microsoft.com/office365/enterprise/view-service-health)，检查是否存在任何已知的服务问题。
 
 - 检查受影响计算机上的[防火墙](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall)、[防病毒软件](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav)和[代理设置](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy)。
 
