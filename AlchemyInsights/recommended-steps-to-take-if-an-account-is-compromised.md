@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745423"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719294"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>帐户被盗用时建议采取的步骤
 
-[视频：修复被盗用的 Office 365 帐户](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[视频：修复被盗用的帐户](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. 立即[重置用户密码](https://docs.microsoft.com/office365/admin/add-users/reset-passwords)。 请勿通过电子邮件将新密码告知最终用户。
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745423"
 
 5. 从任何[管理角色组](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles)删除用户帐户，直到确定帐户不再被盗用。
 
-要最大程度减少将来数据泄露或帐户盗用的可能性，我们建议阅读 [Office 365 安全最佳做法](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)文章。
+为了最大限度地减少日后发生数据泄露或帐户盗用的可能性，建议阅读 [Microsoft 365 安全路线图](https://docs.microsoft.com//office365/securitycompliance/security-roadmap)。
   
