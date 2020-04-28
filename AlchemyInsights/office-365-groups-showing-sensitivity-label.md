@@ -1,5 +1,5 @@
 ---
-title: 显示敏感度标签的 Office 365 组
+title: 显示敏感度标签的 Microsoft 365 组
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: f0c8a8f07eda120b67a0adb34516d4f0203d6f7b
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218092"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911857"
 ---
-# <a name="office-365-groups-showing-sensitivity-label"></a>显示敏感度标签的 Office 365 组
+# <a name="microsoft-365-groups-showing-sensitivity-label"></a>显示敏感度标签的 Microsoft 365 组
 
-Office 365 组可能出现以下问题：
+Microsoft 365 组可能出现以下问题：
 
-- 无法通过 OWA 创建 Office 365 组，错误为“分类字段不能为空”。
+- 无法通过 OWA 创建 Microsoft 365 组，错误为“分类字段不能为空”。
 
-- 即使尚未启用该功能，也会看到 Office 365 组的敏感度标签。
+- 即使尚未启用该功能，也会看到 Microsoft 365 组的敏感度标签。
 
-此问题已确定并解决。 修补准备正在进行中，应在几个小时内完成。 同时，请使用 Office 管理门户或 Azure 管理门户创建 Office 365 组。  
+此问题已确定并解决。 修补准备正在进行中，应在几个小时内完成。 同时，请使用 Office 管理门户或 Azure 管理门户创建 Microsoft 365 组。  
