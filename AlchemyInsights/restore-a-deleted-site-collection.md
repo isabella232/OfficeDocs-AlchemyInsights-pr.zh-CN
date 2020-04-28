@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: edf851da951e163f30660d524049abe0798a8314
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d37fd903c91c8cd6ac6137e815cb253f7edb4494
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048786"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912665"
 ---
 # <a name="restore-a-deleted-site"></a>还原已删除的网站
 
@@ -27,6 +27,6 @@ ms.locfileid: "40048786"
     
 3. 单击 "**还原已删除的项目**"。
     
-若要还原已删除的通信网站，可以使用新的 SharePoint 管理中心。 否则，您需要使用 Microsoft PowerShell。 若要还原属于 Office 365 组的网站，需要在 Exchange 管理中心内还原该组。 组可以在删除后30天内还原。
+若要还原已删除的通信网站，可以使用新的 SharePoint 管理中心。 否则，您需要使用 Microsoft PowerShell。 若要还原属于 Microsoft 365 组的网站，需要在 Exchange 管理中心内还原该组。 组可以在删除后30天内还原。
   
 

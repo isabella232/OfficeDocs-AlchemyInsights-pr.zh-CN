@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764718"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911821"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何执行内容搜索和电子数据展示搜索
 
-使用安全 & 合规中心中的内容搜索工具在 Exchange 邮箱、SharePoint 网站和 OneDrive 帐户中的文档以及 Skype for Business 中的即时消息对话中快速查找电子邮件。 您还可以使用内容搜索工具在 Microsoft 团队和 Office 365 组等 Microsoft 365 协作工具中搜索电子邮件、文档和即时消息对话。
+使用安全 & 合规中心中的内容搜索工具在 Exchange 邮箱、SharePoint 网站和 OneDrive 帐户中的文档以及 Skype for Business 中的即时消息对话中快速查找电子邮件。 您还可以使用内容搜索工具在 Microsoft 团队和 Microsoft 365 组等 Microsoft 365 协作工具中搜索电子邮件、文档和即时消息对话。
 
 **执行内容搜索**
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053107"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908694"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>超过每日电子邮件限制。 工作流已挂起。
 
@@ -27,7 +27,7 @@ ms.locfileid: "40053107"
 - 运行工作流时，不会发送电子邮件，您会注意到以下行为：
     - 对于使用 SharePoint 2013 平台类型的工作流，请浏览到 "**工作流状态**" 页。 在 "工作流状态" 页上，"**内部状态**" 设置为 "**已启动**"，并且信息气球显示**无法发送给收件人**。
 
-若要解决此问题，请将工作流配置为在不超过[Exchange Online 发件人限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)的情况下发送电子邮件。 例如，在工作流中使用暂停，将电子邮件发送到 Office 365 组、通讯组或启用邮件的安全组，或一次将邮件发送给少于200个收件人。
+若要解决此问题，请将工作流配置为在不超过[Exchange Online 发件人限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits)的情况下发送电子邮件。 例如，在工作流中使用暂停，将电子邮件发送到 Microsoft 365 组、通讯组或启用邮件的安全组，或一次将邮件发送给少于200个收件人。
 
 
 有关详细信息，请参阅以下[文章](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)。

@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703633"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908406"
 ---
 # <a name="enable-and-search-the-audit-log"></a>启用和搜索审核日志
 
@@ -31,7 +31,7 @@ ms.locfileid: "43703633"
 
 - 默认情况下，在 Microsoft 365 中启用邮箱审核。 有关详细信息，请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing)。
 
-- Exchange Online 中的 Office 365 组邮箱和公用文件夹邮箱不支持审核日志记录。
+- Exchange Online 中的 Microsoft 365 组邮箱和公用文件夹邮箱不支持审核日志记录。
 
 **SharePoint 和 OneDrive**
 

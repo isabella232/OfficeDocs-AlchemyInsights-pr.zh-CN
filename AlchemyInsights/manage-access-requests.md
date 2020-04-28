@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 696cbf7524c4f866fd12d67699e828fce49341cb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66b00625190bddfc2b060895c9b864f6a839adb2
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721699"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912393"
 ---
 # <a name="manage-access-requests"></a>管理访问请求
 
@@ -26,7 +26,7 @@ ms.locfileid: "43721699"
     
 2. 在" **用户和权限**"下，单击" **访问请求和邀请**"。 （如果不显示，则不进行访问请求。）
     
-3. 若要单独授予用户权限，请单击 "**批准**" 或 "**拒绝**"。 若要选择特定的权限级别，请先单击人员姓名旁边的省略号（...）。 或者，将用户添加到对网站有权限的组中。 对于通信网站和经典团队网站，您可以在 "网站设置" 页上执行此操作。 对于属于 Office 365 组的网站，您可以将该用户添加到组中。
+3. 若要单独授予用户权限，请单击 "**批准**" 或 "**拒绝**"。 若要选择特定的权限级别，请先单击人员姓名旁边的省略号（...）。 或者，将用户添加到对网站有权限的组中。 对于通信网站和经典团队网站，您可以在 "网站设置" 页上执行此操作。 对于属于 Microsoft 365 组的网站，您可以将该用户添加到组中。
     
     [管理访问请求](https://go.microsoft.com/fwlink/?linkid=2008747)
     

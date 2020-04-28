@@ -14,14 +14,14 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 367bf18a5c59ca052141eba3a080145c007265f5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c44ab1409f6a0dcd7079cee68f61d6984bdc43f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704931"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911498"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>删除属于 Office 365 组的 SharePoint 网站
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-microsoft-365-group"></a>删除属于 Microsoft 365 组的 SharePoint 网站
 
 删除与组连接的网站将删除该组及其所有资源，包括 Outlook 邮箱和日历以及任何团队频道。
   

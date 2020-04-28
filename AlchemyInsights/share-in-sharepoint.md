@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742357"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911678"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>如何在 SharePoint Online 中共享
 
@@ -24,7 +24,7 @@ ms.locfileid: "43742357"
   
 1. 在 web 浏览器中打开网站。
     
-2. 如果网站属于 Office 365 组，请单击右上方的 "设置" 图标，然后单击 "**网站权限**"。 单击 "**邀请人员**"，然后选择将成员添加到 Office 365 组或仅共享网站。 
+2. 如果网站属于 Microsoft 365 组，请单击右上方的 "设置" 图标，然后单击 "**网站权限**"。 单击 "**邀请人员**"，然后选择将成员添加到 Microsoft 365 组或仅共享网站。 
     
     对于通信网站，单击右上角的 "**共享网站**"，输入人员的姓名，然后选择权限级别（"读取"、"编辑" 或 "完全控制"）。 
     

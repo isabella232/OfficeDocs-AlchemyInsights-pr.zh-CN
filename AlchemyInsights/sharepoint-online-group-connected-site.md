@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642134"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912956"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>在 SharePoint 中创建组连接网站时出现的问题
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642134"
 
 1. 可以使用不同的方法来创建和使用 SharePoint 的新式组。
 
-   - 您可以将现有网站连接到 Office 365 组。 有关详细信息，请参阅[使用 SharePoint 用户界面连接 Office 365 组](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)。
-   - 若要创建 Office 365 组连接的网站，需要创建[团队网站](https://admin.microsoft.com/sharepoint)。
+   - 您可以将现有网站连接到 Microsoft 365 组。 有关详细信息，请参阅[使用 SharePoint 用户界面连接 Microsoft 365 组](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)。
+   - 若要创建 Microsoft 365 组连接的网站，您需要创建一个[团队网站](https://admin.microsoft.com/sharepoint)。

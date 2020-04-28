@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767239"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912992"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>解决与外部用户共享 SharePoint 内容的问题
 
@@ -32,7 +32,7 @@ ms.locfileid: "43767239"
     
 2. 选择一个或一网站，然后在功能区上，单击 "**共享**"。
     
-对于属于 Office 365 组或通信网站的团队网站：
+对于属于 Microsoft 365 组或通信网站的团队网站：
   
 - 这些新网站类型的共享设置与组织范围的设置相同，除非组织范围设置允许使用不需要登录的链接共享文件。 在这种情况下，网站允许与登录的新的和现有的外部用户共享。 若要更改特定网站的设置，请使用新的 SharePoint 管理中心或 PowerShell。 [了解详细信息](https://go.microsoft.com/fwlink/?linkid=871863)。
     
