@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665678"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947741"
 ---
 # <a name="view-my-bill"></a>查看我的帐单
 
-1. 在 Microsoft 365 管理中心, 转到 "**计费** \> [帐单 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)" 页。
+1. 在 Microsoft 365 管理中心，转到 "**计费** \> [帐单 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)" 页。
 
-2. 从下拉列表中选择一个日期范围, 然后选择要查看的顺序。
+2. 从下拉列表中选择日期范围，随后选择想要查看的顺序。
 
-有关详细信息, 请参阅[查看你的帐单或发票](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。
+3. 若要打印帐单，请将 "付款人" 下载为 PDF 文件，然后单击 "**打印**"。
+
+有关详细信息，请参阅[查看账单或发票](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。

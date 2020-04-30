@@ -13,14 +13,14 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: def94c6645a609ba2b24593e0439bb7fce0d3beb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671411"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947646"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>在 Outlook 中设置 Exchange 电子邮件帐户时出现问题
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>在 Outlook 中设置电子邮件帐户时出现问题
 
 如果您在 Outlook 中设置 Exchange 帐户时遇到问题，则可以在受影响的计算机上运行[Outlook 帐户设置工具](https://aka.ms/SaRA-OutlookSetupProfile)。 它将执行各种检查并为您的帐户设置问题提供可能的解决方案。
   
