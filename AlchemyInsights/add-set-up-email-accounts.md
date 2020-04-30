@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: def94c6645a609ba2b24593e0439bb7fce0d3beb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671411"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947646"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a><span data-ttu-id="df3c0-102">在 Outlook 中设置 Exchange 电子邮件帐户时出现问题</span><span class="sxs-lookup"><span data-stu-id="df3c0-102">Problems setting up an Exchange email account in Outlook</span></span>
+# <a name="problems-setting-up-an-email-account-in-outlook"></a><span data-ttu-id="19c13-102">在 Outlook 中设置电子邮件帐户时出现问题</span><span class="sxs-lookup"><span data-stu-id="19c13-102">Problems setting up an email account in Outlook</span></span>
 
-<span data-ttu-id="df3c0-103">如果您在 Outlook 中设置 Exchange 帐户时遇到问题，则可以在受影响的计算机上运行[Outlook 帐户设置工具](https://aka.ms/SaRA-OutlookSetupProfile)。</span><span class="sxs-lookup"><span data-stu-id="df3c0-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="df3c0-104">它将执行各种检查并为您的帐户设置问题提供可能的解决方案。</span><span class="sxs-lookup"><span data-stu-id="df3c0-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
+<span data-ttu-id="19c13-103">如果您在 Outlook 中设置 Exchange 帐户时遇到问题，则可以在受影响的计算机上运行[Outlook 帐户设置工具](https://aka.ms/SaRA-OutlookSetupProfile)。</span><span class="sxs-lookup"><span data-stu-id="19c13-103">If you're having problems setting up an Exchange account in Outlook, you can run the [Outlook account Setup tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="19c13-104">它将执行各种检查并为您的帐户设置问题提供可能的解决方案。</span><span class="sxs-lookup"><span data-stu-id="19c13-104">It will perform various checks and provide possible solutions to your account setup issue.</span></span>
   
-<span data-ttu-id="df3c0-105">如果仍有问题，请参阅[Outlook 无法使用 Exchange Online 邮箱的 Exchange 自动发现设置新的配置文件](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)。</span><span class="sxs-lookup"><span data-stu-id="df3c0-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
+<span data-ttu-id="19c13-105">如果仍有问题，请参阅[Outlook 无法使用 Exchange Online 邮箱的 Exchange 自动发现设置新的配置文件](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)。</span><span class="sxs-lookup"><span data-stu-id="19c13-105">If you're still having issues, see [Outlook can't set up a new profile by using Exchange Autodiscover for an Exchange Online mailbox](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).</span></span>
   

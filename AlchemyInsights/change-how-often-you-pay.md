@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706817"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939645"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="29dc0-102">更改您的支付频率</span><span class="sxs-lookup"><span data-stu-id="29dc0-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="d1678-102">更改您的支付频率</span><span class="sxs-lookup"><span data-stu-id="d1678-102">Change how often you pay</span></span>
 
- <span data-ttu-id="29dc0-103">**想要更改付款频率？**</span><span class="sxs-lookup"><span data-stu-id="29dc0-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="29dc0-104">如果要更改为 Microsoft 365 for business 订阅付费的频率（从每年到每月或每月到每年），我们可以帮助你。</span><span class="sxs-lookup"><span data-stu-id="29dc0-104">If you want to change how frequently you pay for your Microsoft 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="29dc0-105">您需要购买具有新付款频率的相同订阅，并取消旧订阅。</span><span class="sxs-lookup"><span data-stu-id="29dc0-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="29dc0-106">请使用 "我们称之为你的电话" 选项与支持工程师交谈。</span><span class="sxs-lookup"><span data-stu-id="29dc0-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="d1678-103">若要更改你向订阅计费和付款的频率，请完成 Microsoft 365 管理中心中的以下步骤。</span><span class="sxs-lookup"><span data-stu-id="d1678-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
+1. <span data-ttu-id="d1678-104">转到“**计费”>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”**。</span><span class="sxs-lookup"><span data-stu-id="d1678-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+2. <span data-ttu-id="d1678-105">查找要更改的订阅。</span><span class="sxs-lookup"><span data-stu-id="d1678-105">Find the subscription you want to change.</span></span> <span data-ttu-id="d1678-106">在 "**帐单**" 部分中的 "**每月帐单**或**每年**计费" 旁边，单击 "**编辑**"。</span><span class="sxs-lookup"><span data-stu-id="d1678-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
+3. <span data-ttu-id="d1678-107">选择要向其计费的频率的选项，然后单击 "**更改**"。</span><span class="sxs-lookup"><span data-stu-id="d1678-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+
+<span data-ttu-id="d1678-108">**注意**：每月或每年帐单是唯一选项。</span><span class="sxs-lookup"><span data-stu-id="d1678-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="d1678-109">有关详细信息，请参阅[更改付款频率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="d1678-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
