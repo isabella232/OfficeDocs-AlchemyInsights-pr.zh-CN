@@ -1,5 +1,5 @@
 ---
-title: 如何将许可证分配给用户
+title: 向用户分配或取消分配许可证
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 21e039f381cf853b1b3879787d65a2f809fd1e65
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799149"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957860"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a>如何将许可证分配给用户
+# <a name="assign-or-unassign-licenses-to-users"></a>向用户分配或取消分配许可证
 
 用户需要许可证才能访问服务。 以下是**添加、更改或删除**用户许可证的步骤。
   
