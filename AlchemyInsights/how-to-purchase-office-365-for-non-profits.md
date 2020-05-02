@@ -1,5 +1,5 @@
 ---
-title: 如何购买 Office 365 以实现非盈利
+title: 适用于非营利组织的 Microsoft 365-正在审阅
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763531"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005212"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>如何购买 Office 365 以实现非盈利
+# <a name="microsoft-365-for-nonprofits---under-review"></a>适用于非营利组织的 Microsoft 365-正在审阅
 
-符合 Microsoft 限定的非赢利组织的资格正处于审阅中。 你可以在你的试用期到期之前，收到有关确定资格的通知。 你可以在[此处](https://eligibilityweb.azurewebsites.net/)跟踪应用程序的状态。
+符合 Microsoft 限定的非赢利组织的资格正处于**审阅**中。 你可能会收到通知，提示你在提交时确定资格**48 小时**。 在打开服务请求之前，请至少在**48 小时内**收到此通知。 
+
+有关详细信息，请参阅[适用于非营利组织的 Microsoft 365](https://www.microsoft.com/nonprofits/microsoft-365)。 
