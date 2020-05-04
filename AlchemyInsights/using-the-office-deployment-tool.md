@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726238"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010844"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>使用 Office 部署工具（ODT）
 
@@ -42,4 +42,4 @@ ms.locfileid: "43726238"
 
     **注意：** 必须在要安装 Office 的客户端计算机上运行此步骤，并且必须具有该计算机的本地管理员权限。
 
-若要详细了解如何使用适用于 Microsoft 365 应用程序的 Office 部署工具进行企业级部署方案，请参阅[Office 部署工具概述](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。 有关如何使用 Office 自定义工具的详细信息，请参阅[Office 自定义工具概述](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)。
+若要详细了解如何使用适用于 Microsoft 365 应用程序的 Office 部署工具进行企业级部署方案，请参阅[Office 部署工具概述](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)。 有关如何使用 Office 自定义工具的详细信息，请参阅[Office 自定义工具概述](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)。
