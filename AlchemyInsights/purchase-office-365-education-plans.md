@@ -1,5 +1,5 @@
 ---
-title: 购买 Microsoft 365 教育版计划
+title: Microsoft 365 教育版 - 已批准
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789364"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005392"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>购买 Microsoft 365 教育版计划
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 教育版 - 已批准
 
 你已获得使用 Microsoft 365 教育版的批准。  若要购买：
 
@@ -28,6 +28,8 @@ ms.locfileid: "43789364"
 2. 在“**教育版计划**”下的列表中进行选择。
 
 3. 将光标悬停在想要购买的订阅上，然后单击“**立即购买**”。
+
+4. [设置你的 Microsoft 365 教育版租户](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)。
 
 **开启 Teams**
 
