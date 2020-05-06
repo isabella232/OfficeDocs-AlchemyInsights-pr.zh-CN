@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "4577"
-ms.openlocfilehash: 5fed1e7c8e0f14cd18bede5ffd07b8be4b7f6f06
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 24d59860732b42e8d62da8c1a8c37f2018a0d126
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102553"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015679"
 ---
-# <a name="exchange-powershell-and-basic-authentication-deprecation"></a><span data-ttu-id="2778d-102">Exchange PowerShell 和基本身份验证弃用</span><span class="sxs-lookup"><span data-stu-id="2778d-102">Exchange PowerShell and basic authentication deprecation</span></span>
+# <a name="exchange-powershell-and-basic-authentication-deprecation"></a><span data-ttu-id="eab2a-102">Exchange PowerShell 和基本身份验证弃用</span><span class="sxs-lookup"><span data-stu-id="eab2a-102">Exchange PowerShell and basic authentication deprecation</span></span>
 
-<span data-ttu-id="2778d-103">有关如何在不使用基本身份验证的情况下连接到 Exchange Online PowerShell 的最新信息，[请转到此处](https://aka.ms/psbasicauth)。</span><span class="sxs-lookup"><span data-stu-id="2778d-103">For the latest information about how to connect to Exchange Online PowerShell without the use of Basic Authentication, [please go here](https://aka.ms/psbasicauth).</span></span>
+<span data-ttu-id="eab2a-103">有关如何在不使用基本身份验证的情况下连接到 Exchange Online PowerShell 的最新信息，[请转到此处](https://aka.ms/psbasicauth)。</span><span class="sxs-lookup"><span data-stu-id="eab2a-103">For the latest information about how to connect to Exchange Online PowerShell without the use of Basic Authentication, [please go here](https://aka.ms/psbasicauth).</span></span>
+
+<span data-ttu-id="eab2a-104">请注意，仍需在客户端计算机上启用基本身份验证。</span><span class="sxs-lookup"><span data-stu-id="eab2a-104">Please note that Basic Authentication still needs to be enabled on your client machine.</span></span>
+<span data-ttu-id="eab2a-105">新版 PowerShell V2 模块使用新式身份验证建立连接，以启用所有基于 REST 的 V2 Cmdlet。</span><span class="sxs-lookup"><span data-stu-id="eab2a-105">The new PowerShell V2 module uses Modern Auth to establish connection for enabling all of REST-based V2 Cmdlets.</span></span> <span data-ttu-id="eab2a-106">除了 V2 cmdlet 之外，还可访问需要建立远程 PowerShell 会话的旧版远程 PowerShell （RPS） Cmdlet。</span><span class="sxs-lookup"><span data-stu-id="eab2a-106">In addition to V2 cmdlets, it also allows you to access older Remote PowerShell (RPS) Cmdlets which requires a Remote PowerShell session to be established.</span></span> <span data-ttu-id="eab2a-107">在 Windows 计算机上建立 RPS 会话需要在客户端计算机上启用 WinRM 基本身份验证，即使该模块使用新式身份验证机制向该服务进行身份验证。</span><span class="sxs-lookup"><span data-stu-id="eab2a-107">Establishing an RPS session on Windows machine requires WinRM BasicAuth to be enabled on the client machine even though the module uses Modern Auth mechanism to authenticate to the service.</span></span> <span data-ttu-id="eab2a-108">WinRM 基本身份验证管道用于传输新式身份验证令牌。</span><span class="sxs-lookup"><span data-stu-id="eab2a-108">The WinRM Basic Auth pipeline is used for transporting Modern Auth tokens.</span></span> <span data-ttu-id="eab2a-109">如果客户端计算机上禁用了 WinRM 基本身份验证，新版 V2 cmdlet 将继续工作（但旧版 RPS cmdlet 不会）。</span><span class="sxs-lookup"><span data-stu-id="eab2a-109">If WinRM Basic Auth is disabled on the client machine, the new V2 cmdlets will continue to work (but the older RPS cmdlets will not).</span></span>
