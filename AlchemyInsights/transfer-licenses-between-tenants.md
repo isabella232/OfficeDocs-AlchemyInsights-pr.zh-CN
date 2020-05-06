@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: e3bbe36ff57038caa2541fe4456a1363c91995d7
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789436"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016894"
 ---
 # <a name="transfer-licenses-between-tenants"></a>租户之间转移许可证
 
-无法在两个组织（租户）之间转移许可证。 
+**无法**在两个组织（租户）之间转移许可证。 如果你是批量许可客户，请联系[批量许可服务中心](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)。 否则，请按照以下步骤进行操作： 
 
 - 如果不再打算使用要转移的租户，则可以[取消订阅](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions)，然后[新购](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2)（目标）租户。
 
