@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762307"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043027"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft 必应搜索和 Microsoft 365 企业应用版
 
-从 Microsoft 365 企业应用版的版本 2002 开始，将安装 Microsoft 必应搜索的扩展，该扩展仅在某些位置的设备上将必应设置为 Google Chrome Web 浏览器的默认搜索引擎。
+从版本 2005 开始，Microsoft 365 企业应用版（旧称 Office 365 专业增强版）在 Google Chrome 必应扩展中提供了一个***可选***的 Microsoft 搜索。 此扩展可用于运行 Windows 的加入域的设备的特定位置。 如果你决定部署此扩展，它会将必应设置为默认搜索引擎。
 
-**如果不希望安装该扩展，请[按照以下步骤操作](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed)。**
+要安装扩展，你需要通过在 Microsoft 365 管理中心的 Microsoft 搜索部分中配置设置来***选择加入***。
 
-即使安装了此扩展，用户也可以通过使用简单的“[打开/关闭](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)”切换来轻松停止将必应用作默认搜索引擎，你也可以[从组织内的多台设备中删除该扩展](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed)。
+从版本 2005 开始，此***可选***扩展的部署还依赖于 Microsoft 365 企业应用版随附的后台服务。 如果未安装后台服务，则不会安装该扩展。
 
-我们提供了详细的帮助文章，可帮助你在[此处](https://docs.microsoft.com/deployoffice/microsoft-search-bing)了解有关此更改的详细信息。
+即使安装了此扩展，用户也可以通过使用简单的“开/关”切换来轻松停止将必应用作默认搜索引擎。
+
+有关部署此***可选***扩展名的详细信息，请参阅 [Microsoft 必应搜索和 Microsoft 365 企业应用版](https://docs.microsoft.com/deployoffice/microsoft-search-bing)。

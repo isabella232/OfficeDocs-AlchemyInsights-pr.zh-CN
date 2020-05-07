@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47063bfbc455f008a1dedbe5b6d53d091c616801
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709649"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063607"
 ---
 # <a name="activating-windows-10-subscriptions"></a>激活 Windows 10 订阅
 
-Microsoft 365 商业高级版 Microsoft 365 教育版，Microsoft 365 和企业提供了适用于 Windows 10 的数字许可证作为订阅的一部分。 若要激活订阅，你的设备必须已激活 Windows 10 专业版（1703 或更高版本）。 若要查看激活 Windows 10 订阅的要求的完整列表，请参阅[Windows 10 订阅激活要求](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)。
+Microsoft 365 商业高级版、Office 365 教育版、Microsoft 365 和 Enterprise 提供了适用于 Windows 10 的数字许可证作为订阅的一部分。 若要激活订阅，你的设备必须已激活 Windows 10 专业版（1703 或更高版本）。 若要查看激活 Windows 10 订阅的要求的完整列表，请参阅[Windows 10 订阅激活要求](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)。

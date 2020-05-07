@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716126"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062454"
 ---
 # <a name="find-and-activate-my-product-key"></a>查找并激活我的产品密钥
 
@@ -32,7 +32,7 @@ ms.locfileid: "43716126"
 
 **注意**：若要使用产品密钥来扩展过期日期或将许可证添加到现有 Microsoft 365 商业高级标准订阅，您需要为同一 microsoft 365 订阅使用新的和未使用的密钥。  输入你的原始 Microsoft 365 产品密钥不起作用，因为无法再次使用已兑换的密钥。
 
-1. 在 "管理中心" 中，转到 "**帐单** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。
+1. 在管理中心中，转到 "**付费** > **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 查找要将到期日期扩展到的订阅或添加许可证。  单击 "[延长结束日期](https://go.microsoft.com/fwlink/p/?linkid=842054)" 或 "[添加更多许可证](https://go.microsoft.com/fwlink/p/?linkid=842054)"。
 
