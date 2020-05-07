@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417654"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061769"
 ---
 # <a name="billing-and-payment"></a>帐单和付款
 
@@ -34,13 +34,13 @@ ms.locfileid: "42417654"
 
 如果你已添加新卡，但仍收到有关旧信用卡的拒绝通知，则可能需要将该新卡与订阅关联。
 
-1. 转到 "**付费** > [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)"。
+1. 转到 "**付费** > **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**"。
 
-2. 选择要使用新的卡或银行帐户支付的订阅。 在 "**记帐**" 部分下，单击 "付款方法" 旁边的 "**编辑**"。
+2. 选择要使用新信用卡或银行帐户支付的订阅。 在“**计费**”部分中，单击“付款方式”旁边的“**编辑**”。
 
-3. 单击当前付款方法旁边的 "**更改**"。
+3. 单击“当前付款方式”旁边的“**更改**”。
 
-4. 从下拉菜单中，选择另一种付款方式，或添加新的支付方式。
+4. 从下拉菜单中，选择其他付款方式，或添加新的付款方式。
 
 请参阅[添加、更新或删除支付方式](https://go.microsoft.com/fwlink/?linkid=2118133)。
 

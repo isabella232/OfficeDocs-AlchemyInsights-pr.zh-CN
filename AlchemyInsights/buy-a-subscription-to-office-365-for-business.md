@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712197"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061733"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>从免费试用版购买 Microsoft 365 订阅
 
@@ -25,7 +25,7 @@ ms.locfileid: "43712197"
   
  **购买与试用版相同的计划**
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 查找要购买的订阅。 在 "**许可证**" 部分，选择 "**购买订阅**"，然后按照步骤进行检查。
 
