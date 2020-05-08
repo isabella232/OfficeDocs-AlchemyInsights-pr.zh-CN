@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763423"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064075"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期计费
 
 看起来你的订阅已过期。 如果要将其重新激活，请单击下面的操作方法。
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 选择想要重新激活的订阅。 在 "**记帐**" 部分，选择 "**重新激活**"。
 
@@ -36,7 +36,7 @@ ms.locfileid: "43763423"
 
 若要管理每月或每年的帐单，可以开启或关闭**定期记帐**。
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 选择想要为其管理定期计费的订阅。
 

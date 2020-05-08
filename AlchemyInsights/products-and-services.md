@@ -1,5 +1,5 @@
 ---
-title: 产品 & 服务
+title: 你的产品
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758780"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062851"
 ---
-# <a name="products--services"></a>产品 & 服务
+# <a name="your-products"></a>你的产品
 
-您可以在 "**计费** > [**产品 & 服务**](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页上找到您的组织拥有的订阅。 下面是此页面的一些突出显示部分，并提供了有关每个功能的详细信息的链接：
+你可以在 "**付费** > **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页上找到你的组织拥有的订阅。 下面是此页面的一些突出显示部分，并提供了有关每个功能的详细信息的链接：
 
 1. 管理已为每个订阅购买的许可证数量以及使用的数量。  **注意**：未使用的许可证（未分配给用户）仍然收费。  若要不为未使用的许可证付费，请减少购买的许可证数量。 若要了解如何在订阅中添加或删除许可证，请参阅[如何添加或减少许可证](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
 

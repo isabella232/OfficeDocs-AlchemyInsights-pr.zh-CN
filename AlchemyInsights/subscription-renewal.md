@@ -13,18 +13,18 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741817"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063247"
 ---
 # <a name="subscription-recurring-billing"></a>订阅定期计费
 
 如果想要了解每月或每年订阅的记帐时间（如果**定期记帐**已开启）或过期（如果关闭了**定期记帐**）：
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 若要了解有关详细信息，请在 "**帐单**" 下查看 "**续订**开始" 或 "**到期**日期"。
 

@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714140"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063463"
 ---
 # <a name="expired-subscription"></a>订阅过期
 
@@ -26,7 +26,7 @@ ms.locfileid: "43714140"
   
 **重新激活**
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 选择想要重新激活的订阅。 在“**计费**”部分选择“**重新激活**”。
 
@@ -38,7 +38,7 @@ ms.locfileid: "43714140"
 
 **进行新的购买**
   
-1. 在 "管理中心" 中，转到 "**付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页。
+1. 在 "管理中心" 中，转到 "**付费** \> **[购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)**" 页。
 
 2. 选择要购买的订阅，然后选择 "**购买**"。
 

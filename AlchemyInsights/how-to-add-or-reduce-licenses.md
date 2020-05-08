@@ -12,18 +12,18 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957824"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063787"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>为你的订阅添加或删除许可证
 
 下面介绍了如何添加/删除许可证。
   
-1. 导航到 "**付费 >[订阅](https://portal.office.com/adminportal/home#/subscriptions)**"。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 选择要为其添加/删除许可证的订阅。
 
@@ -37,7 +37,7 @@ ms.locfileid: "43957824"
 
 若要了解如何分配许可证，请参阅[向用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
- **资源**
+**资源**
   
 - [管理订阅许可证-购买或删除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 

@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712161"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061697"
 ---
 # <a name="buy-additional-licenses"></a>购买附加许可证
 
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 查找要向其添加许可证的订阅，然后选择 "**添加/删除许可证**"。
 

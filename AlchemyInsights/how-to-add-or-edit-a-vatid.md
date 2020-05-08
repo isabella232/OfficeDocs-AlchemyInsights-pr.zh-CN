@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709613"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063571"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>如何添加或编辑 VatID
 
-**注意**：如果你所在的国家/地区使用增值税（VAT）（如英国），Microsoft 开票将为你计算 VAT，并将金额应用到发票。 有关详细信息，请参阅欧洲委员会发布的[VIES 免责声明](https://go.microsoft.com/fwlink/?LinkID=841741)。
+**注意**：如果你所在的国家/地区使用增值税（VAT）（如英国），Microsoft 开票将为你计算 VAT，并将金额应用到发票。 有关详细信息，请参阅欧洲委员会发布的[VIES 免责声明](https://go.microsoft.com/fwlink/p/?LinkID=841741)。
 
 **添加或编辑 VatID**
 
-1. 在 Microsoft 365 管理中心，转到 "**帐单** \> [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面。
+1. 在 Microsoft 365 管理中心，转到 "**付费** \> [产品](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面。
 
 2. 查找要更新的订阅的订阅卡。
 

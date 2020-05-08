@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711405"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086664"
 ---
 # <a name="canceling-your-subscription"></a>取消订阅？
 
@@ -25,9 +25,9 @@ ms.locfileid: "43711405"
   
 - 如果你是试用客户，则没有要取消的内容。 试用订阅将自动过期，除非你提供了支付方式。
 
-- 如果分配的许可证数少于25个，则可以在线取消订阅。 转到 "**付费** \> [产品 & 服务](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页。 在 "**设置 & 操作**" 部分，选择 "**取消订阅**"。
+- 如果分配的许可证数少于25个，则可以在线取消订阅。 转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。 在 "**设置 & 操作**" 部分，选择 "**取消订阅**"。
 
-- 如果分配了25个以上的许可证，则可以删除用户，直到少于25个，或者使用 "我们呼叫你" 选项与支持工程师交谈。
+- 如果分配了25个以上的许可证，则可以删除用户，直到少于25个。
   
 **退款：在下一个帐单周期内，任何按比例贷项都将返回给您。** 
 

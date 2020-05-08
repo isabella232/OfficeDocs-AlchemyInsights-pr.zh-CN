@@ -13,19 +13,19 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710001"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062418"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>如何将信用卡付款更改为发票？
 
 > [!NOTE]
 > 仅当您的订阅成本超过一定金额（因服务位置而异）时，才可使用 "按发票付款" 选项。 较大数额的发票付款可能要求进行信用检查。 若要了解详细信息，请参阅[订阅的付费](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription)。
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 选择想要更改的订阅。 在 "**记帐**" 部分，选择当前付款方式对应的 "**编辑**" 选项。
 

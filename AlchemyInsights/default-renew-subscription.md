@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549636"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062238"
 ---
 # <a name="renewing-your-subscription"></a>续订订阅
 
@@ -26,6 +26,6 @@ ms.locfileid: "37549636"
 
 若要打开定期记帐： 
 
-1. 转到 "**付费** > **产品 & 服务**"。
+1. 转到 "**付费** > **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**"。
 2. 选择要为其管理定期计费的订阅。
 3. 在 "**帐单**" 下，选择 "**编辑**" 并在 "**定期记帐设置**" 窗口中进行更改。 

@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759898"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063967"
 ---
 # <a name="too-many-licenses"></a>许可证太多？
 
@@ -26,7 +26,7 @@ ms.locfileid: "43759898"
   
 **减少购买的许可证数量**
   
-1. 在管理中心，转到“**账单**”\>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 "**付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 查找要从中删除许可证的订阅，然后选择 "**添加/删除许可证**"。
 
