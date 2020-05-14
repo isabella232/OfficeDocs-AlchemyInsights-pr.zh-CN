@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062851"
 ---
 # <a name="your-products"></a>你的产品
 
-你可以在 "**付费** > **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页上找到你的组织拥有的订阅。 下面是此页面的一些突出显示部分，并提供了有关每个功能的详细信息的链接：
+你可以在 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页上找到你的组织拥有的订阅。 下面是此页面的一些突出显示部分，并提供了有关每个功能的详细信息的链接：
 
 1. 管理已为每个订阅购买的许可证数量以及使用的数量。  **注意**：未使用的许可证（未分配给用户）仍然收费。  若要不为未使用的许可证付费，请减少购买的许可证数量。 若要了解如何在订阅中添加或删除许可证，请参阅[如何添加或减少许可证](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
 
@@ -34,4 +34,4 @@ ms.locfileid: "44062851"
 
 6. [取消订阅](https://go.microsoft.com/fwlink/?linkid=2119113)。
 
-您可以从 "**付费** > [**购买服务**](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页面购买其他订阅。
+您可以从 "**付费**  >  [**购买服务**](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页面购买其他订阅。

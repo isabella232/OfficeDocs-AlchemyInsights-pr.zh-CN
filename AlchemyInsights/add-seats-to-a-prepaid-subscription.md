@@ -14,17 +14,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061950"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>将座位添加到预付订阅
 
 预付许可证以25个字符的字母数字代码颁发给您。 购买所需的许可证后，可以将其添加到订阅中。 
 
-1. 在管理中心中，转到 "**付费** > **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
+1. 在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
 2. 查找要向其添加许可证的订阅。 在 "**许可证**" 部分，选择 "**添加更多许可证**"。
 
