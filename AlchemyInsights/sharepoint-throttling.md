@@ -7,28 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 235a9adaaf4ce7b2946c2db268093ee8b4afae34
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: ea7ac4eb0998d173ed91a533dd0a6b798ad87be9
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958564"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331307"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="d3c61-102">SharePoint Online 限制</span><span class="sxs-lookup"><span data-stu-id="d3c61-102">SharePoint Online throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="4c7c9-102">SharePoint Online 限制</span><span class="sxs-lookup"><span data-stu-id="4c7c9-102">SharePoint Online throttling</span></span>
 
-<span data-ttu-id="d3c61-103">**重要说明**：在这些前所未有的时间内，我们将采取措施来确保 sharepoint Online 和 OneDrive 服务保持高可用性-有关详细信息，请参阅[Sharepoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)。</span><span class="sxs-lookup"><span data-stu-id="d3c61-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="4c7c9-103">SharePoint Online 使用限制来维护 SharePoint Online 服务的最佳性能和可靠性。</span><span class="sxs-lookup"><span data-stu-id="4c7c9-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="4c7c9-104">限制会限制用户操作或并发调用数量（通过脚本或代码），以防止资源的过度使用。</span><span class="sxs-lookup"><span data-stu-id="4c7c9-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="4c7c9-105">有关详细信息，请参阅：</span><span class="sxs-lookup"><span data-stu-id="4c7c9-105">For more information, see:</span></span>
 
-<span data-ttu-id="d3c61-104">**SharePoint Online 限制**</span><span class="sxs-lookup"><span data-stu-id="d3c61-104">**SharePoint Online throttling**</span></span>
-
-<span data-ttu-id="d3c61-105">SharePoint Online 使用限制来维护 SharePoint Online 服务的最佳性能和可靠性。</span><span class="sxs-lookup"><span data-stu-id="d3c61-105">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="d3c61-106">限制会限制用户操作或并发调用数量（通过脚本或代码），以防止资源的过度使用。</span><span class="sxs-lookup"><span data-stu-id="d3c61-106">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="d3c61-107">有关详细信息，请访问下面的链接。</span><span class="sxs-lookup"><span data-stu-id="d3c61-107">For more information, please visit the links below.</span></span>
-
-- [<span data-ttu-id="d3c61-108">避免在 SharePoint Online 中受限或遭屏蔽</span><span class="sxs-lookup"><span data-stu-id="d3c61-108">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="d3c61-109">数据迁移和 SPO 限制</span><span class="sxs-lookup"><span data-stu-id="d3c61-109">Data Migration and SPO Throttling </span></span>](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
-
-- [<span data-ttu-id="d3c61-110">SharePoint Online 和 OneDrive 迁移速度</span><span class="sxs-lookup"><span data-stu-id="d3c61-110">SharePoint Online and OneDrive Migration Speed</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
- - [<span data-ttu-id="d3c61-111">使用指数回退处理 SharePoint Online 限制</span><span class="sxs-lookup"><span data-stu-id="d3c61-111">Handle SharePoint Online throttling by using exponential back off</span></span>](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
-
-- [<span data-ttu-id="d3c61-112">容量规划和负载测试 SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="d3c61-112">Capacity planning and load testing SharePoint Online</span></span>](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
-
+- [<span data-ttu-id="4c7c9-106">避免在 SharePoint Online 中受限或遭屏蔽</span><span class="sxs-lookup"><span data-stu-id="4c7c9-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
