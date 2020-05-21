@@ -1,5 +1,5 @@
 ---
-title: 发件人因发送太多垃圾邮件而遭阻止
+title: 发件人因发送太多垃圾邮件而遭限制
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ff93b67a6a6b3eae9e94061d968c72064dd42afb
+ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709145"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44209869"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>帐户因发送太多垃圾邮件而遭阻止
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>账户因发送太多垃圾邮件而遭限制
 
 作为管理员，如果一个用户被限制发送邮件，可以[自行取消阻止账户](https://protection.office.com/?hash=/restrictedusers)，**无需打开支持案例**。 用户在解除限制后一小时内无法发送邮件。
 
