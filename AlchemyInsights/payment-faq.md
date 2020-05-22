@@ -11,21 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "5128"
-ms.openlocfilehash: 08125121083a3ddc7b84ea27a6262247c7ef3e0f
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 59698324fc21dcf49b96363d61145e17364f9e01
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991106"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263938"
 ---
 # <a name="payment-faq"></a>付款常见问题解答
 
 在 **Microsoft 365 管理中心**管理付款。 
 
-1. 转到“账单”>[“产品和服务”](https://go.microsoft.com/fwlink/p/?linkid=842054)**** 来指定或更改订阅付款方式。
-2. 转到“账单”>[“付款方式”](https://go.microsoft.com/fwlink/p/?linkid=2018806)**** 以添加/更新/删除付款方式。
-
-**常见问题和解决方法**
+- 转到 **“账单”>[“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)** 来指定或更改订阅付款方式。
+- 转到“账单”>[“付款方式”](https://go.microsoft.com/fwlink/p/?linkid=2018806)**** 以添加/更新/删除付款方式。
 
 - **付款方式** - 如果通过信用卡或银行帐户付款，则在创建账单后的几天内将向与订阅相关联的付款方式收取款项。 如果付款失败，请更新付款方式。 有关详细信息，请参阅[添加、更新或删除付款方式](https://go.microsoft.com/fwlink/?linkid=2118133)。
 
