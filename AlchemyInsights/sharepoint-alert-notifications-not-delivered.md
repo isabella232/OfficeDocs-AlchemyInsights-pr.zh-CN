@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742037"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343085"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>未传递 SharePoint 通知通知
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742037"
 
 - 无法向通讯组发送通知，仅支持安全和 O365 组。
 - 您不能自定义通知电子邮件模板;您需要使用 Microsoft FLOW 或 SharePoint Designer 工作流来实现这些。
-
-详细信息：
-
-- **通知设置**：有关设置通知的详细信息，请参阅[创建通知以在 SharePoint 中的文件或文件夹发生更改时收到通知](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918)。
-- **警报疑难解答**：有关排除警报的详细信息，请参阅[用户不接收 SharePoint Online 警报通知](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications)。
-- **高级 O365 合规性警报策略**：有关设置这些警报的详细信息，请参阅[合规性警报策略](https://docs.microsoft.com/office365/securitycompliance/alert-policies)。
-- **SharePoint 和 OneDrive 审核日志**：有关如何检索这些事件的详细信息，请参阅[Search the Audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)。
-- **高级威胁防护发送的警报**：请参阅[适用于 SharePoint 和 OneDrive 的 ATP](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)。
-- **数据丢失防护策略发送的警报**：请参阅[DLP 策略的电子邮件通知](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)。
 
 ## <a name="related-topics"></a>相关主题
 
