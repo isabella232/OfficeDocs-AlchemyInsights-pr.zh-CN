@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765259"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418062"
 ---
 # <a name="when-is-my-credit-card-charged"></a>我的信用卡何时收费？
 
@@ -26,4 +26,4 @@ ms.locfileid: "43765259"
   
 定期费用在创建发票的一天内发生。
   
-如果费用不成功，系统将继续尝试在接下来的几周内结算余额。 您可以随时对付款信息进行更新，以确保下一次费用尝试成功。 有关详细信息，请参阅[在 Microsoft 365 for business 中添加、更新或删除信用卡或银行帐户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)。
+如果费用不成功，系统将继续尝试在接下来的几周内结算余额。 您可以随时对付款信息进行更新，以确保下一次费用尝试成功。 有关详细信息，请参阅[管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
