@@ -1,5 +1,5 @@
 ---
-title: 将您的域名称服务器更新为指向 Microsoft
+title: 将域名称服务器更新为指向 Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9dd52c60b2d15d66c1c3f2a96c9db08ea2a010c6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719983"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510274"
 ---
-# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>将您的域名称服务器更新为指向 Microsoft
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>将域名称服务器更新为指向 Microsoft
 
 注意：名称服务器更改有时候需要长达 48 小时才能进行传播。
   
@@ -34,5 +34,5 @@ ms.locfileid: "43719983"
 
 3. 保存更改。
 
-您还可以在本文中查找详细说明：[更改名称服务器以使用任何域注册机构设置 Microsoft 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+您还可以在本文中查找详细说明：[更改名称服务器以使用任何域注册机构设置 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

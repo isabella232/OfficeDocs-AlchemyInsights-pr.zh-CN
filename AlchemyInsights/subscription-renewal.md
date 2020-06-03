@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 083e5298aba0ddd3b5d87cf482fdd949a2ee34da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b0e845a3426ec3b8594cb82730fe559d08126e0c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063247"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511462"
 ---
 # <a name="subscription-recurring-billing"></a>订阅定期计费
 
@@ -28,6 +28,6 @@ ms.locfileid: "44063247"
 
 2. 若要了解有关详细信息，请在 "**帐单**" 下查看 "**续订**开始" 或 "**到期**日期"。
 
-4. 若要进行更改，请选择 "**编辑**"，然后在 "**定期记帐**设置" 窗格中，选择 "**关闭**" 以关闭它。 如果定期付费已关闭，请选择 "**每月**" 或 "**一次**" 以将其打开。
+4. 若要进行更改，请选择 "**编辑**"，然后在 "**定期记帐**设置" 窗格中，选择 "**关闭**" 以关闭它。 如果“定期计费”已关闭，请选择“**每月**”或“**一次性**”将其启用。
 
-请参阅[打开或关闭定期计费](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)了解详细信息。
+请参阅[打开或关闭定期计费](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)了解详细信息。

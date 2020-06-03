@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571225"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511966"
 ---
 # <a name="unable-to-delete-items"></a>无法删除项目
 
-保留策略可以导致这种情况，您需要禁用或排除导致此问题的相应保留。 在删除保留策略或保留后，可能需要长达24小时才能使更改生效。 确保项目上没有[保留策略](https://docs.microsoft.com/office365/securitycompliance/retention-policies)设置。
+保留策略可以导致这种情况，您需要禁用或排除导致此问题的相应保留。 在删除保留策略或保留后，可能需要长达24小时才能使更改生效。 确保项目上没有[保留策略](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)设置。
 
 网站可能已超出存储限制，请增加[网站配额](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps)并删除该项。
 

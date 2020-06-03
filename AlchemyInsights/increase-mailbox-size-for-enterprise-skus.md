@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671231"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508762"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>如果您的邮箱大小已达到100GB，该怎么办
 
@@ -30,8 +30,8 @@ ms.locfileid: "43671231"
     
 3. 在 "**就地存档**" 下的 "详细信息" 窗格中，选择 "**启用**"。 
     
-4. 几分钟后，新文件夹将出现在用户的 Outlook 中名为 *"就地存档*" 的 web 上，或出现在名为 "*在线存档- \<名称\> * " 的 outlook 应用程序中。 您的用户可以将电子邮件拖放到存档中。 
+4. 几分钟后，新文件夹将出现在用户的 Outlook 网页上名为 *"就地存档*" 或 outlook 应用程序（称为* \<name\> 在线存档*）中。 您的用户可以将电子邮件拖放到存档中。 
     
-您可以访问用于存档的无限制的存储量。 若要了解详细信息，请参阅[启用无限制存档](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)。
+您可以访问用于存档的无限制的存储量。 若要了解详细信息，请参阅[启用无限制存档](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)。
   
 

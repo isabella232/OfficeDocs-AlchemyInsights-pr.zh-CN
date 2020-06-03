@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716378"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508906"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>在审核日志中标识 IP 地址和客户端
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716378"
 
 1. 登录到[Microsoft 365 安全 & 合规性中心](https://protection.office.com/)。
 
-2. 转到 "**搜索** > **审核日志搜索**" 页。
+2. 转到 "**搜索**  >  **审核日志搜索**" 页。
 
    如果你对特定活动感兴趣，请从 "**活动**" 列表中选择该活动。 如果不是，则将返回选定用户的所有活动（默认设置）。
 
@@ -35,4 +35,4 @@ ms.locfileid: "43716378"
 
 在结果中，可以在 "结果" 窗格中看到该活动的 IP 地址。 选择 "审核记录" 可查看 "**详细**信息" 浮出控件中的详细信息（例如，客户端、执行操作的用户等）。
 
-有关详细信息，请参阅[查找用于访问已损坏帐户的计算机的 IP 地址](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。
+有关详细信息，请参阅[查找用于访问已损坏帐户的计算机的 IP 地址](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。

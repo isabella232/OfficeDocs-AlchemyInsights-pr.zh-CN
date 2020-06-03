@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705903"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507756"
 ---
 # <a name="configure-supervision-policies"></a>配置监督策略
 
@@ -29,5 +29,5 @@ Microsoft 365 中的监督策略允许您监视 Exchange 电子邮件、Skype fo
 
 了解更多：
 
-- [监督策略概述](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [配置监督策略](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [监督策略概述](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [配置监督策略](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

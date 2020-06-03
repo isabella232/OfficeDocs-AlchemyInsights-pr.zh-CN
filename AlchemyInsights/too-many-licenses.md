@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063967"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510454"
 ---
 # <a name="too-many-licenses"></a>许可证太多？
 
@@ -32,4 +32,4 @@ ms.locfileid: "44063967"
 
 3. 在 "**许可证总数**" 框中，输入此订阅所需的许可证总数，然后选择 "**提交更改**"。 例如，如果你有 110 个许可证而要删除其中 5 个，请输入 105。
 
-若要了解详细信息，请参阅[从 Microsoft 365 for business 订阅中删除许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)。
+若要了解详细信息，请参阅[从 Microsoft 365 for business 订阅中删除许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

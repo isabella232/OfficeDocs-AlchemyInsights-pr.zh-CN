@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758888"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510130"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>电子数据展示搜索所需的权限
 
@@ -26,7 +26,7 @@ ms.locfileid: "43758888"
 
 有关电子数据展示权限的详细信息，请参阅： 
 
-- [在安全 & 合规中心中分配电子数据展示权限](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [在安全 & 合规中心中分配电子数据展示权限](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [在 Exchange 中分配电子数据展示权限](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 

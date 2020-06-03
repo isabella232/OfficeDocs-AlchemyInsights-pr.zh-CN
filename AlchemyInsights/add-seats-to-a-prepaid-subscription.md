@@ -13,12 +13,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 101a06af595c0911b6df9c93883c207d11c66a53
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061950"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506692"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>将座位添加到预付订阅
 
@@ -37,4 +37,4 @@ ms.locfileid: "44061950"
 
 5. 查看你的订单详细信息，然后选择 "**兑换**"。
 
-若要了解详细信息，请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)。
+若要了解详细信息，请参阅[将许可证添加到或扩展使用产品密钥支付的订阅](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)。

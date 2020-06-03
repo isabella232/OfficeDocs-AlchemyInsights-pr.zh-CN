@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714760"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507160"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>无法安装或运行电子数据展示导出工具？
 
@@ -41,9 +41,9 @@ ms.locfileid: "43714760"
 
     其他浏览器（如 Google Chrome 和 Mozilla Firefox）不受支持。
 
-- 您的组织可以连接到 Azure 中的终结点， ** \*即 blob.core.windows.net** （通配符代表导出作业的唯一标识符）。
+- 您的组织可以连接到 Azure 中的终结点，即** \* blob.core.windows.net** （通配符代表导出作业的唯一标识符）。
 
-- 你已在 Microsoft 365 安全&amp;合规中心中分配了导出角色。 默认情况下，此角色仅分配给电子数据展示管理器角色组。 请参阅[分配电子数据展示权限](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)。
+- 你已在 Microsoft 365 安全合规中心中分配了导出角色 &amp; 。 默认情况下，此角色仅分配给电子数据展示管理器角色组。 请参阅[分配电子数据展示权限](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)。
 
-有关详细信息，请参阅[导出内容搜索结果](https://docs.microsoft.com/office365/securitycompliance/export-search-results)。
+有关详细信息，请参阅[导出内容搜索结果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
   

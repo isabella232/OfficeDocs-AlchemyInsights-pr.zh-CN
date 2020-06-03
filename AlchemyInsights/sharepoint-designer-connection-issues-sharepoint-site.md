@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051703"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511534"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer 连接问题 
 
@@ -37,7 +37,7 @@ ms.locfileid: "40051703"
 
 3. 打开 SharePoint Designer 2013，然后再次输入帐户以查看它是否正常工作。
 
-步骤3：[为 Windows 设备上的 Office 2013 启用新式验证](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)。
+步骤3：[为 Windows 设备上的 Office 2013 启用新式验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)。
 
 步骤4：管理员将需要允许 sharepoint 管理中心设置中的**自定义脚本**，以允许 sharepoint Designer 连接。 有关详细信息，请参阅[允许或阻止自定义脚本](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)。
 

@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911138"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507088"
 ---
 # <a name="ediscovery-settings"></a>电子数据展示设置
 
@@ -28,4 +28,4 @@ ms.locfileid: "43911138"
 - 了解从[电子数据展示搜索所需的权限](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)执行电子数据展示搜索所需的权限。
 - 如果您的搜索未返回预期结果，请参阅[search not 返回预期结果](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)。
 
-有关电子数据展示的详细信息，请参阅[电子数据展示](https://docs.microsoft.com/office365/securitycompliance/ediscovery)。
+有关电子数据展示的详细信息，请参阅[电子数据展示](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)。

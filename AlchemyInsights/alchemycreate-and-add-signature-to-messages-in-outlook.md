@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737359"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506512"
 ---
 # <a name="creating-email-signatures"></a>创建电子邮件签名
 
@@ -29,7 +29,7 @@ ms.locfileid: "36737359"
 
 - 我想要使用 Outlook.com 创建电子邮件签名：[在 Outlook.com 中创建和添加电子邮件签名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- 我想要为从我的公司发送的所有电子邮件创建全局电子邮件签名：[创建组织范围的签名和免责声明](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
+- 我想要为从我的公司发送的所有电子邮件创建全局电子邮件签名：[创建组织范围的签名和免责声明](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
  **提示：** 组织范围内的签名称为 "免责声明"。
   

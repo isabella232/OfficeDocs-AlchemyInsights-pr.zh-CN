@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704367"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507432"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 策略提示问题
 
@@ -29,11 +29,11 @@ ms.locfileid: "43704367"
   
 若要在完全强制模式下的安全与合规中心中的 DLP 策略上配置策略提示，请执行以下操作：
   
-- 使用[此处](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)的步骤，确保已在 DLP 规则上**启用**策略提示。
+- 使用[此处](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)的步骤，确保已在 DLP 规则上**启用**策略提示。
 
-- 确保您的内容与在[此处](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)触发本文中所述规则**所需**的**内容相匹配**。
+- 确保您的内容与在[此处](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)触发本文中所述规则**所需**的**内容相匹配**。
 
-- 在 OWA 和 Outlook 中显示策略提示。 但是，使用**Outlook 2013 或更高版本**时，策略提示仅在特定条件下显示。 下面列出了这些条件：[适用于 Outlook 2013 或更高版本的支持条件，用于显示策略提示](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- 在 OWA 和 Outlook 中显示策略提示。 但是，使用**Outlook 2013 或更高版本**时，策略提示仅在特定条件下显示。 下面列出了这些条件：[适用于 Outlook 2013 或更高版本的支持条件，用于显示策略提示](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-有关 DLP 策略提示的详细信息，请参阅：[显示策略提示的 dlp](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)策略
+有关 DLP 策略提示的详细信息，请参阅：[显示策略提示的 dlp](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)策略
   

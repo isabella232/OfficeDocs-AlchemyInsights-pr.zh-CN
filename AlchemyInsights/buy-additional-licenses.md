@@ -12,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6950efae6aef72a3c8198fee97596f640f5968c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061697"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506217"
 ---
 # <a name="buy-additional-licenses"></a>购买附加许可证
 
@@ -25,15 +25,15 @@ ms.locfileid: "44061697"
 
 2. 查找要向其添加许可证的订阅，然后选择 "**添加/删除许可证**"。
 
-    [如果看不到 "添加/删除" 链接，该怎么办？](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [如果看不到 "添加/删除" 链接，该怎么办？](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 3. 在 "**许可证总数**" 框中，输入此订阅所需的许可证总数，然后选择 "**提交更改**"。 例如，如果有 100 个许可证并需要再添加 5 个，请输入 105。
 
     > [!NOTE]
     > 如果通过信用卡或银行账户为订阅付费，则你购买的任何新许可证都将在收到订单确认后立即提供给你。 如果通过发票支付，可能必须等待完成信用检查才能使用新许可证。
 
-若要了解详细信息，请参阅购买适用于[Microsoft 365 for business 订阅的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)。  
+若要了解详细信息，请参阅购买适用于[Microsoft 365 for business 订阅的许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。  
 
 **其他资源**
 
-- [在 Microsoft 365 for Business 中向用户分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [在 Microsoft 365 for business 中向用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)

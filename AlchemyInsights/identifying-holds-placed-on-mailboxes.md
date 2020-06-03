@@ -12,12 +12,12 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724766"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508870"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>确定放置在邮箱上的保留
 
@@ -37,4 +37,4 @@ ms.locfileid: "43724766"
 
 - Microsoft 365 标签
 
-若要确定将哪种保留类型应用于用户邮箱，请参阅[如何识别 Exchange Online 邮箱上的保留类型](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)。
+若要确定将哪种保留类型应用于用户邮箱，请参阅[如何识别 Exchange Online 邮箱上的保留类型](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)。

@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eda14c7e8e65a087c1ed9302b66f333ceddc4f9d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707105"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504901"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>使用产品密钥激活新订阅
 
-1. 若要使用你的产品密钥激活新订阅，请[https://office.com/setupkey](https://office.com/setupkey)转到。
+1. 若要使用你的产品密钥激活新订阅，请转到 [https://office.com/setupkey](https://office.com/setupkey) 。
 
-2. 输入你的产品密钥，并按照提示激活你的订阅。 如果你有激活问题，请查看此 [常见产品密钥错误和解决方案的列表](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions)。
+2. 输入你的产品密钥，并按照提示激活你的订阅。 如果你有激活问题，请查看此 [常见产品密钥错误和解决方案的列表](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)。

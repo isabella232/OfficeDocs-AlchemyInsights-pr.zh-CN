@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713456"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506728"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 中的攻击模拟器
 
 - 是否缺少攻击模拟器？ 攻击模拟器需要**Office 365 高级威胁防护计划2（ATP 计划2）** 或**Office 365 企业版 E5**。 "攻击模拟器"**不**包含在 Office 365 高级威胁防护计划1（ATP Plan 1）、Office 365 企业版 E3 或任何 Microsoft 365 Apps for business 订阅中。
 
-- 用于启动模拟攻击的帐户需要全局管理员或安全管理员权限以及多重身份验证（MFA）。 有关攻击模拟器要求的详细信息，请参阅[本主题](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin)。
+- 用于启动模拟攻击的帐户需要全局管理员或安全管理员权限以及多重身份验证（MFA）。 有关攻击模拟器要求的详细信息，请参阅[本主题](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)。
 
 - 有关**强力密码**攻击模拟的重要须知：
 

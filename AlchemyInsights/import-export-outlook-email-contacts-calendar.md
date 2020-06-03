@@ -13,12 +13,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 43e5b15b8c4de60d7f213b6145fa1be11954a42c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724654"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508834"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>导入和导出 Outlook 电子邮件、联系人和日历项目
 
@@ -30,4 +30,4 @@ ms.locfileid: "43724654"
 
 有关 Outlook 的一组完整的导入和导出说明，请参阅[本文](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)。
 
-如果你是管理员，并且想要将多个 PST 文件批量导入到 Microsoft 365 邮箱，请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)。
+如果你是管理员，并且想要将多个 PST 文件批量导入到 Microsoft 365 邮箱，请参阅[本文](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)。

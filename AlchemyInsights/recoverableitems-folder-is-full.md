@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720242"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510742"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>"可恢复的项目" 文件夹已满
 
@@ -33,12 +33,12 @@ ms.locfileid: "43720242"
 
 - 对于启用了邮箱审核日志记录的邮箱，不能将邮箱审核日志条目保存在 "可恢复的项目" 文件夹的 "审核" 子文件夹中。
 
-对于不处于保留状态的邮箱，管理员可以使用`Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell 中的命令删除 "可恢复的项目" 文件夹中的项目。 有关详细信息，请参阅下列主题：
+对于不处于保留状态的邮箱，管理员可以使用 `Search-Mailbox -SearchDumpsterOnly -DeleteContent` Exchange Online PowerShell 中的命令删除 "可恢复的项目" 文件夹中的项目。 有关详细信息，请参阅下列主题：
 
-- [搜索和删除邮件](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [搜索和删除邮件](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [搜索-邮箱](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-对于处于保留状态的邮箱，管理员必须先删除保留，然后才能从 "可恢复的项目" 文件夹中删除项目。 有关详细信息，请参阅[在保留时，删除基于云的邮箱的 "可恢复的项目" 文件夹中的项目](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)。
+对于处于保留状态的邮箱，管理员必须先删除保留，然后才能从 "可恢复的项目" 文件夹中删除项目。 有关详细信息，请参阅[在保留时，删除基于云的邮箱的 "可恢复的项目" 文件夹中的项目](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold)。
 
-为了帮助防止 "可恢复的项目" 文件夹变满，管理员可以增加保留邮箱的 "可恢复的项目" 文件夹的存储限制，并设置将项目从 "可恢复的项目" 文件夹移动到用户的存档邮箱的邮箱保留策略。 请参阅[增大保留邮箱的可恢复邮件配额](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。
+为了帮助防止 "可恢复的项目" 文件夹变满，管理员可以增加保留邮箱的 "可恢复的项目" 文件夹的存储限制，并设置将项目从 "可恢复的项目" 文件夹移动到用户的存档邮箱的邮箱保留策略。 请参阅[增大保留邮箱的可恢复邮件配额](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold)。

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: ab047d95a9c448900b3c4ae8ac7e7c5f30aed28e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: fa61fdec91e1375a72bc209ff4d0671d6b36d1c8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726057"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511066"
 ---
 # <a name="using-office-product-keys"></a>使用 Office 产品密钥
 
@@ -28,6 +28,6 @@ ms.locfileid: "43726057"
 - 有关 Office 365 家庭版或个人版产品密钥的帮助，请参阅将[产品密钥与 office 结合使用](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759)。
 
 **激活 Office 订阅** 
-- 如果你从零售商店购买了 Microsoft 365 订阅，请参阅[为 Microsoft 365 Apps for Business Premium 输入产品密钥](https://docs.microsoft.com/office365/admin/misc/enter-your-product-key?redirectSourcePath=%252farticle%252f0199dd39-7c46-4875-af9b-588df3a9afea&view=o365-worldwide)。
+- 如果你从零售商店购买了 Microsoft 365 订阅，请参阅[为 Microsoft 365 应用程序的商业版输入你的产品密钥](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)。
 
-- 如果在尝试兑换产品密钥时出现错误消息，请参阅[与 Microsoft 365 商业版产品密钥相关的问题？](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions?view=o365-worldwide)
+- 如果在尝试兑换产品密钥时出现错误消息，请参阅[与 Microsoft 365 商业版产品密钥相关的问题？](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a83936acf969926c113b28ceb22b006cdb96e2b4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 95bd46e8b7a6006f3735612d9a5602fb2b2a283b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692791"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511174"
 ---
 # <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>对 OneDrive for Business 网站的 "拒绝访问" 消息进行故障排除
 
 在使用相同的用户主体名称（UPN）对用户进行删除和重新创建时，通常会出现此问题。 使用不同的 PUID （Passport 唯一 ID）值创建新帐户。 当用户尝试访问网站集或其 OneDrive 时，用户的 PUID 不正确。 第二个方案涉及与 Active Directory 组织单位（OU）的目录同步。 如果用户已登录到 SharePoint，然后将移动到不同的 OU 并 resynced 使用 SharePoint，他们可能会遇到此问题。
 
-1. 若要解决此问题，您应使用本文中的步骤还原原始 UPN，在[Microsoft 365 中还原用户](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide)。
+1. 若要解决此问题，您应使用本文中的步骤还原原始 UPN，在[Microsoft 365 中还原用户](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)。
 2. 如果无法还原原始用户，则应使用这些步骤从 OneDrive 网站中删除旧用户，并[从 "用户信息" 列表中删除用户]()。 
 3. 完成此操作后，您可以通过按照为[用户的 Onedrive 添加管理员的](https://docs.microsoft.com/sharepoint/manage-user-profiles)步骤来验证用户是否具有对 onedrive 网站的管理员权限。
 

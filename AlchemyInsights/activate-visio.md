@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682282"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504865"
 ---
 # <a name="activate-visio"></a>激活 Visio
 
-在用户可以安装和激活 Visio Online 计划2附带的桌面 Visio 桌面应用程序之前，必须已为该用户分配了一个[visio 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)。
+在用户可以安装和激活 Visio Online 计划2附带的桌面 Visio 桌面应用程序之前，必须已为该用户分配了一个[visio 许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 **注释**Visio Online 计划1不包含 Visio 的桌面版本。
 
@@ -34,6 +34,6 @@ ms.locfileid: "43682282"
 
 有关详细信息，请参阅：<br>
 [在电脑上激活 Office](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[打开 Microsoft 应用程序时显示订阅通知](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office 错误 "无法将我们在你的帐户中找到的产品用于<app>激活"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office 中未经授权产品和激活错误](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+[当我打开 Microsoft 应用程序时显示订阅通知](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Office 错误 "无法将我们在你的帐户中找到的产品用于激活 <app> "](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Office 中未许可的产品和激活错误](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

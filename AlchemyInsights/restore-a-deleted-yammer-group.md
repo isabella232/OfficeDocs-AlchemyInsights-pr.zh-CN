@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 255629468a896ebf10917e4738e6aaf8c2d26826
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a4ab594effadf9a761b2f5849c3ba93ff3e7d080
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912609"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511390"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>还原已删除的 Yammer 组
 
-在删除后的30天内，可以通过遵循[还原已删除的 Microsoft 365 组](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group)的步骤，在[Yammer 中恢复已连接的 Office 365 组](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)。
+在删除后的30天内，可以通过遵循[还原已删除的 Microsoft 365 组](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)的步骤，在[Yammer 中恢复已连接的 Office 365 组](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)。
 在某些情况下，Yammer 组可能未连接到 Microsoft 365 组。 如果是这种情况，则无法自动还原组，但如果网络[数据保留策略](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance)设置为 "*软删除*"，则可以访问 Yammer[数据导出](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)中已删除的数据。 请与您的 Yammer 网络的[已验证管理员](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)联系，以检查数据保留策略或执行数据导出。

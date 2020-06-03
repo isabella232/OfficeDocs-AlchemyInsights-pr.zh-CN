@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e96904e2f0da2fe1fafb3f8722465eaf22681b71
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704403"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507468"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP 未按预期正常工作
 
@@ -36,18 +36,18 @@ DLP 策略允许你标识和保护组织中的敏感信息。 若要设置 DLP �
   
 - **内置的敏感信息类型**
 
-    有关内置敏感类型以及在检测敏感类型时 DLP 策略查找的内容的信息，请参阅：[敏感信息类型查找的内容](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)。
+    有关内置敏感类型以及在检测敏感类型时 DLP 策略查找的内容的信息，请参阅：[敏感信息类型查找的内容](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)。
 
 - **自定义敏感信息类型**
 
-    如果您尝试创建自定义敏感信息类型，请使用以下文章，了解有关如何创建自定义敏感信息类型的信息：[创建自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)。
+    如果您尝试创建自定义敏感信息类型，请使用以下文章，了解有关如何创建自定义敏感信息类型的信息：[创建自定义敏感信息类型](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)。
 
 **测试 DLP 策略**
 
-若要使用内置或自定义的敏感信息类型测试数据，请使用 "**分类** > **敏感信息类型**" 下的 "**测试类型**" 选项。 有关详细信息，请参阅[测试自定义敏感信息类型](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center)。
+若要使用内置或自定义的敏感信息类型测试数据，请使用 "**分类** **Test type**  >  **敏感信息类型**" 下的 "测试类型" 选项。 有关详细信息，请参阅[测试自定义敏感信息类型](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)。
 
  **报表**
   
-- 使用[DLP 报告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)获取敏感数据见解。
+- 使用[DLP 报告](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)获取敏感数据见解。
 
-- 有关事件[报告](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports)的详细信息，请参阅事件的具体详细信息。
+- 有关事件[报告](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)的详细信息，请参阅事件的具体详细信息。

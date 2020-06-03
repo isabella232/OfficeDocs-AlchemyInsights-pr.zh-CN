@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767779"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509338"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>设置 O365 业务重点订阅
 
@@ -23,11 +23,11 @@ ms.locfileid: "43767779"
     
 - 转到[Microsoft 365 管理中心](https://login.partner.microsoftonline.cn/)。
     
-- 若要启动向导，请选择" **转到设置**"。 若要了解详细信息，请参阅[将域添加到 Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain)。
+- 若要启动向导，请选择" **转到设置**"。 若要了解详细信息，请参阅[将域添加到 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)。
     
 导入电子邮件
   
-- 将现有电子邮件和联系人从其他电子邮件系统移到 Microsoft 365 邮箱，以便可以在一个位置查看它们。 对于迁移选项，请[将电子邮件和联系人迁移到 Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin)。
+- 将现有电子邮件和联系人从其他电子邮件系统移到 Microsoft 365 邮箱，以便可以在一个位置查看它们。 对于迁移选项，请[将电子邮件和联系人迁移到 Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)。
     
 - 连接电子邮件帐户
     
@@ -41,6 +41,6 @@ ms.locfileid: "43767779"
   
 - 若要了解哪些存储位置最适合您的企业，请参阅在[Microsoft 365 中存储文件的位置](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx)。 当你为其创建 Microsoft 365 帐户时，每个人都将自动获取**OneDrive**云存储位置。 借助 OneDrive，可以跨计算机、手机和平板电脑访问文件。 
     
-可在[本文](https://docs.microsoft.com/office365/admin/setup/setup)中找到有关安装程序的详细步骤。
+可在[本文](https://docs.microsoft.com/microsoft-365/admin/setup/setup)中找到有关安装程序的详细步骤。
   
 

@@ -12,12 +12,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051019"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512616"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>管理 SharePoint Online 存储
 
@@ -29,9 +29,9 @@ ms.locfileid: "40051019"
 
 了解如何[管理单个网站集存储限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)。
 
-如果您的网站空间不足或想要了解哪些库或列表正在使用该空间，请转到**网站设置** > **存储指标**（需要网站集管理员权限）。
+如果您的网站空间不足或想要了解哪些库或列表正在使用该空间，请转到**网站设置**  >  **存储指标**（需要网站集管理员权限）。
 
 了解如何[使用 PowerShell 监视网站存储限制](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)。
 
-了解如何[购买额外的存储空间](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space)。 
+了解如何[购买额外的存储空间](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)。 
   

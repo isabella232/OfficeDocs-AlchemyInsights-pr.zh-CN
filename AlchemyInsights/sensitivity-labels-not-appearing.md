@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758365"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511642"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>敏感度标签未显示
 
-敏感度标签允许您对敏感内容进行分类和帮助保护。 它们可以在 Microsoft 365 合规性中心、Microsoft 365 安全中心或 Microsoft 365 安全 & 合规性中心下的 "分类 > 敏感度标签" 下创建。 若要了解有关此功能的详细信息，请参阅[敏感度标签概述](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)。
+敏感度标签允许您对敏感内容进行分类和帮助保护。 它们可以在 Microsoft 365 合规性中心、Microsoft 365 安全中心或 Microsoft 365 安全 & 合规性中心下的 "分类 > 敏感度标签" 下创建。 若要了解有关此功能的详细信息，请参阅[敏感度标签概述](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)。
 
 如果您配置了灵敏度标签但它们未显示在 Office 应用中，请检查以下各项：
 
-- 确认是否已将敏感度标签[发布](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do)到所需的用户和组。
+- 确认是否已将敏感度标签[发布](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do)到所需的用户和组。
 
 - 确认用户正在使用支持敏感度标签的应用程序-请参阅[文档中的敏感度标签](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)。
 

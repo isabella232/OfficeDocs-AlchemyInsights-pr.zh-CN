@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 870b96cf04e69722690cbd50083899e32b6811b1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706961"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506109"
 ---
 # <a name="change-your-display-name"></a>更改您的显示名称
   
 若要在 Outlook 中更改显示名称，请执行以下步骤。
   
-1. 在 Outlook 中，选择 "**文件** \> **帐户设置** \> " "**帐户设置**"。
+1. 在 Outlook 中，选择 "**文件** \> **帐户设置**" " \> **帐户设置**"。
 
 2. 选择电子邮件帐户，然后选择 "**更改**"。
 
     > [!NOTE]
-    > 如果您没有看到更改您的显示名称的选项，则您可能使用的是 Microsoft Exchange 电子邮件帐户。 在这种情况下，你需要联系你的管理员来更改你的显示名称。 请参阅[更改用户名和电子邮件地址](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)。
+    > 如果您没有看到更改您的显示名称的选项，则您可能使用的是 Microsoft Exchange 电子邮件帐户。 在这种情况下，你需要联系你的管理员来更改你的显示名称。 请参阅[更改用户名和电子邮件地址](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)。
   
 3. 更改您的显示名称后，请单击 **"确定"** 保存所做的更改。 你的更改可能需要几个小时才能反映到你的整个组织中。
 

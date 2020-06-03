@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788656"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507016"
 ---
 # <a name="enable-an-archive-mailbox"></a>启用存档邮箱
 
@@ -27,7 +27,7 @@ Microsoft 365 中的存档邮箱（也称为*在线存档*或*就地存档*）�
 
 2. 使用管理员帐户登录到 Microsoft 365。
 
-3. 在安全&amp;合规性中心的左侧窗格中，选择 "**信息治理** \> **存档**"。
+3. 在安全合规性中心的左侧窗格中 &amp; ，选择 "**信息治理** \> **存档**"。
 
 4. 选择要启用其存档邮箱的用户。
 
@@ -43,7 +43,7 @@ Microsoft 365 中的存档邮箱（也称为*在线存档*或*就地存档*）�
 
 1. 转到[Exchange 管理中心](https://outlook.office365.com/ecp)，使用管理员帐户登录。
 
-2. 转到 "**共享**的**收件人** > "。
+2. 转到**Recipients**"  >  **共享**的收件人"。
 
 3. 选择共享邮箱。
 
@@ -51,6 +51,6 @@ Microsoft 365 中的存档邮箱（也称为*在线存档*或*就地存档*）�
 
 有关详细信息，请参阅：
   
-- [启用存档邮箱](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [启用存档邮箱](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [设置存档和删除策略](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

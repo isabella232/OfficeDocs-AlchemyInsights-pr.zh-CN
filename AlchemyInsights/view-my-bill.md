@@ -12,12 +12,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 37ab3aef2e6aeaef4a8b8d89ec4b9417b2067b69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005464"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510310"
 ---
 # <a name="view-my-bill-or-invoice"></a>查看帐单或发票
 
@@ -27,4 +27,4 @@ ms.locfileid: "44005464"
 
 3. 若要打印帐单，请将 "付款人" 下载为 PDF 文件，然后单击 "**打印**"。
 
-有关详细信息，请参阅[查看账单或发票](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice)。
+有关详细信息，请参阅[查看账单或发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。

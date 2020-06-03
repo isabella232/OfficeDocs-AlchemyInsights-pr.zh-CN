@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010244"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507576"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>在 RDS、终端服务器或 VDI 上部署适用于企业的 Microsoft 365 应用程序以供共享使用
 
@@ -38,9 +38,9 @@ ms.locfileid: "44010244"
 
 如果要从 Microsoft 365 管理中心（***使用默认安装设置***）在 RDS 上安装 Microsoft 365 应用程序，请执行以下步骤：
 
-1.    检查您拥有的订阅。 [了解如何](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)操作。
-2.    如有必要，请切换到其他订阅。 [了解如何](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)操作。
-3.    如果已使用任何其他 Microsoft 订阅在 RDS 服务器上安装了 Office，请将其卸载。 例如，转到 **"控制面板"** > **卸载程序**。 如果遇到问题，请使用[Microsoft 支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)卸载。
+1.    检查您拥有的订阅。 [了解如何](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)操作。
+2.    如有必要，请切换到其他订阅。 [了解如何](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)操作。
+3.    如果已使用任何其他 Microsoft 订阅在 RDS 服务器上安装了 Office，请将其卸载。 例如，转到 **"控制面板"**  >  **卸载程序**。 如果遇到问题，请使用[Microsoft 支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)卸载。
 4.    在 RDS 服务器上，使用管理员帐户登录 Microsoft 365 管理中心并[安装适用于企业的 microsoft 365 应用程序](https://portal.office.com/OLS/MySoftware.aspx)。
 5.    安装 Office 后，请***不要打开或登录***任何 Office 应用程序。
 6.    在 RDS 服务器上，通过执行以下步骤，通过编辑注册表来启用共享计算机激活：

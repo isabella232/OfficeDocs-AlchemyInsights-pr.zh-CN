@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761270"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510958"
 ---
 # <a name="more-info-about-retention-policies"></a>有关保留策略的详细信息
 
@@ -27,15 +27,15 @@ ms.locfileid: "43761270"
 ## <a name="a-from-security-and-compliance-center"></a>A）从安全与合规中心
 
 - 转到安全性和合规性 > 数据治理 > 保留
-  - 请[参阅本文](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+  - 请[参阅本文](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
 
 - 转到安全与合规 > 电子数据展示> 高级电子数据展示 
-  - 请[参阅本文](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+  - 请[参阅本文](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 - 转到安全性和合规性 > 分类 > 保留
   - 请参阅以下文章
-    - [敏感度标签](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [标签概述](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [敏感度标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [标签概述](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B）旧版电子数据展示策略
 

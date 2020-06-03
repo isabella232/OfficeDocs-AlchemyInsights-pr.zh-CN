@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692827"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511210"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>OneDrive 或 SharePoint 中缺少文件或文件夹疑难解答
 
@@ -35,7 +35,7 @@ ms.locfileid: "43692827"
 
 **使用审核日志记录或文件活动窗格检查文件的历史记录**
 
-[Check the audit reports](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)</a>通过[在此处](https://protection.office.com/#/unifiedauditlog)导航查看审核报告
+[检查审核报告](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a>通过导航到[此处](https://protection.office.com/#/unifiedauditlog)
 
 使用 "[文件活动](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0)" 窗格检查文件的历史记录。
 

@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086664"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508150"
 ---
 # <a name="canceling-your-subscription"></a>取消订阅？
 
@@ -33,4 +33,4 @@ ms.locfileid: "44086664"
 
 **注意**：如果看不到 "取消" 选项，请单击 "订阅" 查看详细信息，您应该会在 "设置" & "**操作**" 中看到 "**取消订阅**" 选项。 
 
-若要了解详细信息，请参阅[取消订阅](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)。
+若要了解详细信息，请参阅[取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

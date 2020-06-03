@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759574"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512544"
 ---
 # <a name="troubleshoot-content-search-errors"></a>内容搜索错误疑难解答
 
@@ -34,4 +34,4 @@ ms.locfileid: "43759574"
 
 或者从大量邮箱中搜索或导出结果时（超过100000个邮箱），您是否收到了导出错误？
 
-对于这些类型的错误，请重试对失败的内容位置的搜索。 有关详细信息，请参阅[本文](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search)。
+对于这些类型的错误，请重试对失败的内容位置的搜索。 有关详细信息，请参阅[本文](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search)。

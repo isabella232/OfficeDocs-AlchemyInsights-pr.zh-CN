@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: ed35c790dfb048aa6f33fa439b7636864a6e6e6c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c860b9db63e8d341cbe5e6d8d1d420b4c9d01c9f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759754"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505333"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>故障排除错误404，找不到文件
 
@@ -28,4 +28,4 @@ ms.locfileid: "43759754"
 
 转到 SharePoint 或 OneDrive 网站，并从网站内容中查看回收站。 请参阅[在 SharePoint 网站的回收站中还原项目](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)。
 
-如果仍无法找到该项目，则可以搜索审核日志（如果已启用日志记录）。若要了解，请[在 Microsoft 365 Security & 合规性中心中搜索审核日志](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c)。
+如果仍无法找到该项目，则可以搜索审核日志（如果已启用日志记录）。若要了解，请[在 Microsoft 365 Security & 合规性中心中搜索审核日志](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)。

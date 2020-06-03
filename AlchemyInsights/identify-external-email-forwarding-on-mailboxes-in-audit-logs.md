@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716450"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508942"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>确定何时在邮箱上配置了外部电子邮件转发
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716450"
 
 1. 登录到[Microsoft 365 安全 & 合规性中心](https://protection.office.com/)。
 
-2. 转到 "**搜索** > **审核日志搜索**" 页。
+2. 转到 "**搜索**  >  **审核日志搜索**" 页。
 
 3. 在 "**开始日期**" 和 "**结束日期**" 字段中选择日期范围。 无需指定用户名。 验证 "**活动**" 字段是否设置为**显示所有活动的结果**。
 
@@ -39,4 +39,4 @@ ms.locfileid: "43716450"
 
 - **UserId**：在**ObjectId**字段中的邮箱上配置电子邮件转发的用户。
 
-有关详细信息，请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox)。
+有关详细信息，请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)。

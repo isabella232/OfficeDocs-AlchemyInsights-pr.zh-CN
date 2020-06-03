@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761158"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511714"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>出站电子邮件至垃圾邮件文件夹
 
 如果要查看标记为垃圾邮件的出站邮件，请执行以下步骤：
 
-- 如果还未配置，请考虑[配置出站垃圾邮件策略通知](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy)。
+- 如果还未配置，请考虑[配置出站垃圾邮件策略通知](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy)。
 
-- 使用[邮件跟踪](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc)查看出站邮件是否具有其他详细信息的事件值**垃圾邮件**：**使用高风险传递池**。
+- 使用[邮件跟踪](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)查看出站邮件是否具有其他详细信息的事件值**垃圾邮件**：**使用高风险传递池**。
 
   对于这些邮件，请检查邮件内容以查看可能被视为垃圾邮件的内容。 例如，签名有时可能会导致许多用户出现问题。
 

@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: abc9b394fc54c95a77ca20645c8740bf4a04fc97
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ec9e154a02cc62bb6b8aaa6b510c71d13391ccad
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741771"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509842"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>解决 "未经许可的产品" 错误的建议
 
-确保您有一个允许客户端许可证（如 Microsoft 365 应用程序商业版或 Microsoft 365 商业高级版）的订阅，并[确保用户已分配许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。 [停用安装](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users)以检查是否已超过您的订阅支持的安装数。
+确保您有一个允许客户端许可证（如 Microsoft 365 应用程序商业版或 Microsoft 365 商业高级版）的订阅，并[确保用户已分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。 [停用安装](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)以检查是否已超过您的订阅支持的安装数。
   
 确保用户使用已分配许可证的同一帐户进行登录。
   
@@ -30,7 +30,7 @@ ms.locfileid: "43741771"
   
 检查您的订阅状态是否已过期
   
-检查 "[服务运行状况" 页](https://docs.microsoft.com/office365/enterprise/view-service-health)以查看该服务是否存在任何已知问题。
+查看[服务运行状况页面](https://docs.microsoft.com/office365/enterprise/view-service-health)，检查是否存在任何已知的服务问题。
   
 [执行 Office 的联机修复](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)。
   

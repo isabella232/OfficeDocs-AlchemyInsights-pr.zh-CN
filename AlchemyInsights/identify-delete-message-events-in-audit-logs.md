@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716486"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508978"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>已删除电子邮件的审核日志
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716486"
 
 在结果中，选择一个审核记录。 在 "详细信息" 浮出控件中，单击 "**详细信息**"。 在 " **AffectedItems** " 字段中显示有关已删除项目的其他信息（例如，在删除项目时的主题行和位置）。 **ClientInfoString**属性将显示在 Outlook、outlook 网页（以前称为 Outlook web App）或任何其他设备上是否发生了删除。
 
-有关详细信息，请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items)。
+有关详细信息，请参阅[确定为邮箱设置电子邮件转发](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)。
 
 **注意**：不能使用 "审核日志" 功能检索已删除的项目。 若要在 web 上的 Outlook 中检索已删除的邮件，请参阅[在 Outlook Web App 中恢复已删除的项目](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)。

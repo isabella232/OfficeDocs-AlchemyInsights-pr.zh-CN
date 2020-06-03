@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064075"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509086"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>如何重新激活和管理定期计费
 
@@ -32,7 +32,7 @@ ms.locfileid: "44064075"
 
 3. 确认付款详细信息。 可以在此处更新现有付款信息。 输入完付款方法后，选择 "**重新激活**"。
 
-要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription)。 
+要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription)。 
 
 若要管理每月或每年的帐单，可以开启或关闭**定期记帐**。
   
@@ -40,10 +40,10 @@ ms.locfileid: "44064075"
 
 2. 选择想要为其管理定期计费的订阅。
 
-3. 在 "**帐单**" 下的 "**续订打开**" 或 "**到期**日" 旁边，选择 "**编辑**"。
+3. 在“**计费**”下的“**续订日期**”或“**到期日期**”旁边，选择“**编辑**”。
 
-4. 在 "**定期记帐设置**" 窗格中，选择 "**关闭**" 以关闭它。 如果定期付费已关闭，请选择 "**每月**" 或 "**一次**" 以将其打开。
+4. 在“**定期计费设置**”窗格中，选择“**关闭**”以将其关闭。 如果“定期计费”已关闭，请选择“**每月**”或“**一次性**”将其启用。
 
-5. 选择 "**提交更改**"。
+5. 选择“**提交更改**”。
 
-请参阅[打开或关闭定期计费](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)了解详细信息。
+请参阅[打开或关闭定期计费](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)了解详细信息。
