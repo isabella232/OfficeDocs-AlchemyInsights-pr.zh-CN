@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742133"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510490"
 ---
-# <a name="troubleshoot-access-denied-messages"></a><span data-ttu-id="0fb0b-102">访问被拒绝邮件疑难解答</span><span class="sxs-lookup"><span data-stu-id="0fb0b-102">Troubleshoot Access Denied messages</span></span>
+# <a name="troubleshoot-access-denied-messages"></a><span data-ttu-id="ac59a-102">访问被拒绝邮件疑难解答</span><span class="sxs-lookup"><span data-stu-id="ac59a-102">Troubleshoot Access Denied messages</span></span>
 
-<span data-ttu-id="0fb0b-103">如果您在尝试浏览 Sharepoint Online 网站时收到 "拒绝访问" 消息，请参阅以下文章。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-103">If you are receiving an access denied message when attempting to browse a Sharepoint Online site, please see the below articles.</span></span>
+<span data-ttu-id="ac59a-103">如果您在尝试浏览 Sharepoint Online 网站时收到 "拒绝访问" 消息，请参阅以下文章。</span><span class="sxs-lookup"><span data-stu-id="ac59a-103">If you are receiving an access denied message when attempting to browse a Sharepoint Online site, please see the below articles.</span></span>
 
-<span data-ttu-id="0fb0b-104">**添加和许可用户**</span><span class="sxs-lookup"><span data-stu-id="0fb0b-104">**Add and License the user**</span></span>
+<span data-ttu-id="ac59a-104">**添加和许可用户**</span><span class="sxs-lookup"><span data-stu-id="ac59a-104">**Add and License the user**</span></span>
 
-<span data-ttu-id="0fb0b-105">确保[将许可证分配给 Microsoft 365 for business 中的用户](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One)。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-105">Ensure that you [Assign licenses to users in Microsoft 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span></span>
+<span data-ttu-id="ac59a-105">确保[将许可证分配给 Microsoft 365 for business 中的用户](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。</span><span class="sxs-lookup"><span data-stu-id="ac59a-105">Ensure that you [Assign licenses to users in Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
 
-<span data-ttu-id="0fb0b-106">**分配权限**</span><span class="sxs-lookup"><span data-stu-id="0fb0b-106">**Assign Permissions**</span></span>
+<span data-ttu-id="ac59a-106">**分配权限**</span><span class="sxs-lookup"><span data-stu-id="ac59a-106">**Assign Permissions**</span></span>
 
-<span data-ttu-id="0fb0b-107">如果已为用户分配了 Sharepoint 许可证，但仍收到 "拒绝访问" 消息，请确保已为其[分配了适当的权限级别](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-107">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level assigned](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span></span>
+<span data-ttu-id="ac59a-107">如果已为用户分配了 Sharepoint 许可证，但仍收到 "拒绝访问" 消息，请确保已为其[分配了适当的权限级别](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。</span><span class="sxs-lookup"><span data-stu-id="ac59a-107">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level assigned](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span></span>
 
-<span data-ttu-id="0fb0b-108">**考虑使用访问请求功能**</span><span class="sxs-lookup"><span data-stu-id="0fb0b-108">**Consider using the access request feature**</span></span>
+<span data-ttu-id="ac59a-108">**考虑使用访问请求功能**</span><span class="sxs-lookup"><span data-stu-id="ac59a-108">**Consider using the access request feature**</span></span>
 
-<span data-ttu-id="0fb0b-109">[访问请求](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)功能允许用户请求对他们当前无权查看的内容的访问权限。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-109">The [access request](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) feature allows people to request access to content that they do not currently have permission to see.</span></span> 
+<span data-ttu-id="ac59a-109">[访问请求](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3)功能允许用户请求对他们当前无权查看的内容的访问权限。</span><span class="sxs-lookup"><span data-stu-id="ac59a-109">The [access request](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) feature allows people to request access to content that they do not currently have permission to see.</span></span> 
 
-<span data-ttu-id="0fb0b-110">**允许自定义脚本可能导致访问被拒绝问题**</span><span class="sxs-lookup"><span data-stu-id="0fb0b-110">**Allow custom script may cause access denied issues**</span></span>
+<span data-ttu-id="ac59a-110">**允许自定义脚本可能导致访问被拒绝问题**</span><span class="sxs-lookup"><span data-stu-id="ac59a-110">**Allow custom script may cause access denied issues**</span></span>
 
-<span data-ttu-id="0fb0b-111">在某些情况下，"允许自定义脚本" 功能可能会导致访问被拒绝。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-111">There are certain scenarios where the "Allow custom script" feature may be presenting an access denied.</span></span> <span data-ttu-id="0fb0b-112">有关受影响的功能的列表、安全注意事项和禁用该功能的功能。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-112">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="0fb0b-113">请访问、[允许或阻止自定义脚本](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span><span class="sxs-lookup"><span data-stu-id="0fb0b-113">Please visit , [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span></span>
+<span data-ttu-id="ac59a-111">在某些情况下，"允许自定义脚本" 功能可能会导致访问被拒绝。</span><span class="sxs-lookup"><span data-stu-id="ac59a-111">There are certain scenarios where the "Allow custom script" feature may be presenting an access denied.</span></span> <span data-ttu-id="ac59a-112">有关受影响的功能的列表、安全注意事项和禁用该功能的功能。</span><span class="sxs-lookup"><span data-stu-id="ac59a-112">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="ac59a-113">请访问、[允许或阻止自定义脚本](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span><span class="sxs-lookup"><span data-stu-id="ac59a-113">Please visit , [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span></span>
 
-<span data-ttu-id="0fb0b-114">注意：如果 OneDrive 或 SharePoint 网站对之前有权访问的多个用户不可用，则可能存在暂时性的服务问题。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-114">Note: If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="0fb0b-115">[检查服务运行状况仪表板](https://portal.office.com/adminportal/home#/servicehealth)。</span><span class="sxs-lookup"><span data-stu-id="0fb0b-115">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+<span data-ttu-id="ac59a-114">注意：如果 OneDrive 或 SharePoint 网站对之前有权访问的多个用户不可用，则可能存在暂时性的服务问题。</span><span class="sxs-lookup"><span data-stu-id="ac59a-114">Note: If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="ac59a-115">[检查服务运行状况仪表板](https://portal.office.com/adminportal/home#/servicehealth)。</span><span class="sxs-lookup"><span data-stu-id="ac59a-115">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
 
 
   

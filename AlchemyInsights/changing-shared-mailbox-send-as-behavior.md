@@ -12,18 +12,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 712419d44253a08c2ffc7627d7767fd67d6b4a00
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5c5d38356713d1a34f4ae12436fe8a46348d8025
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769617"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507864"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="ad41b-102">更改共享邮箱 "代理发送" 行为</span><span class="sxs-lookup"><span data-stu-id="ad41b-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="54c69-102">更改共享邮箱 "代理发送" 行为</span><span class="sxs-lookup"><span data-stu-id="54c69-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="ad41b-p101">默认情况下，发送自共享邮箱的邮件不会保存到共享邮箱的"已发送邮件"文件夹中。相反，它们会保存到发件人的"已发送邮件"文件夹中。</span><span class="sxs-lookup"><span data-stu-id="ad41b-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="54c69-p101">默认情况下，发送自共享邮箱的邮件不会保存到共享邮箱的"已发送邮件"文件夹中。相反，它们会保存到发件人的"已发送邮件"文件夹中。</span><span class="sxs-lookup"><span data-stu-id="54c69-p101">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox. Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="ad41b-105">如果希望所有成员都能看到已发送的电子邮件，请在 Microsoft 365 管理中心中，编辑共享邮箱详细信息，然后选择 "**已发送邮件** \> " "**编辑**"。</span><span class="sxs-lookup"><span data-stu-id="ad41b-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="54c69-105">如果希望所有成员都能看到已发送的电子邮件，请在 Microsoft 365 管理中心中，编辑共享邮箱详细信息，然后选择 "**已发送邮件**" " \> **编辑**"。</span><span class="sxs-lookup"><span data-stu-id="54c69-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="ad41b-106">若要了解详细信息，请参阅[创建共享邮箱](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)。</span><span class="sxs-lookup"><span data-stu-id="ad41b-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="54c69-106">若要了解详细信息，请参阅[创建共享邮箱](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox)。</span><span class="sxs-lookup"><span data-stu-id="54c69-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span></span>
   

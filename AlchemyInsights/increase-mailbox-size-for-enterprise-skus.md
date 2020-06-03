@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671231"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508762"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a><span data-ttu-id="13948-102">如果您的邮箱大小已达到100GB，该怎么办</span><span class="sxs-lookup"><span data-stu-id="13948-102">What to do if your mailbox size is already 100GB</span></span>
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a><span data-ttu-id="46c36-102">如果您的邮箱大小已达到100GB，该怎么办</span><span class="sxs-lookup"><span data-stu-id="46c36-102">What to do if your mailbox size is already 100GB</span></span>
 
-<span data-ttu-id="13948-103">使用 E3 或 E5 计划，邮箱大小已经为 100 GB，无法增加邮箱的大小。</span><span class="sxs-lookup"><span data-stu-id="13948-103">With an E3 or E5 plan, your mailbox size is already 100 GB, and there's no way to increase it.</span></span> <span data-ttu-id="13948-104">而是删除旧电子邮件，或打开电子邮件存档以将其存储在云中。</span><span class="sxs-lookup"><span data-stu-id="13948-104">Instead, delete old email, or turn on email archiving to store it in the cloud.</span></span> 
+<span data-ttu-id="46c36-103">使用 E3 或 E5 计划，邮箱大小已经为 100 GB，无法增加邮箱的大小。</span><span class="sxs-lookup"><span data-stu-id="46c36-103">With an E3 or E5 plan, your mailbox size is already 100 GB, and there's no way to increase it.</span></span> <span data-ttu-id="46c36-104">而是删除旧电子邮件，或打开电子邮件存档以将其存储在云中。</span><span class="sxs-lookup"><span data-stu-id="46c36-104">Instead, delete old email, or turn on email archiving to store it in the cloud.</span></span> 
   
-<span data-ttu-id="13948-105">要启用电子邮件存档，请执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="13948-105">To enable email archiving:</span></span>
+<span data-ttu-id="46c36-105">要启用电子邮件存档，请执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="46c36-105">To enable email archiving:</span></span>
   
-1. <span data-ttu-id="13948-106">在 Microsoft 365 管理中心，转到 "**管理员中心** \> **Exchange**"。</span><span class="sxs-lookup"><span data-stu-id="13948-106">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span> 
+1. <span data-ttu-id="46c36-106">在 Microsoft 365 管理中心，转到 "**管理员中心** \> **Exchange**"。</span><span class="sxs-lookup"><span data-stu-id="46c36-106">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span> 
     
-2. <span data-ttu-id="13948-107">选择 "**收件人** \> **邮箱**"，然后选择一个邮箱。</span><span class="sxs-lookup"><span data-stu-id="13948-107">Choose **Recipients** \> **Mailboxes**, and select a mailbox.</span></span> 
+2. <span data-ttu-id="46c36-107">选择 "**收件人** \> **邮箱**"，然后选择一个邮箱。</span><span class="sxs-lookup"><span data-stu-id="46c36-107">Choose **Recipients** \> **Mailboxes**, and select a mailbox.</span></span> 
     
-3. <span data-ttu-id="13948-108">在 "**就地存档**" 下的 "详细信息" 窗格中，选择 "**启用**"。</span><span class="sxs-lookup"><span data-stu-id="13948-108">In the details pane under **In-Place Archive**, choose **Enable**.</span></span> 
+3. <span data-ttu-id="46c36-108">在 "**就地存档**" 下的 "详细信息" 窗格中，选择 "**启用**"。</span><span class="sxs-lookup"><span data-stu-id="46c36-108">In the details pane under **In-Place Archive**, choose **Enable**.</span></span> 
     
-4. <span data-ttu-id="13948-109">几分钟后，新文件夹将出现在用户的 Outlook 中名为 *"就地存档*" 的 web 上，或出现在名为 "\*在线存档- \<名称\> \* " 的 outlook 应用程序中。</span><span class="sxs-lookup"><span data-stu-id="13948-109">After a few minutes, a new folder will appear in your user's Outlook on the web called  *In-Place Archive*  , or in Outlook app called  *Online Archive - \<name\>*  .</span></span> <span data-ttu-id="13948-110">您的用户可以将电子邮件拖放到存档中。</span><span class="sxs-lookup"><span data-stu-id="13948-110">Your user can drag and drop email to the archive.</span></span> 
+4. <span data-ttu-id="46c36-109">几分钟后，新文件夹将出现在用户的 Outlook 网页上名为 *"就地存档*" 或 outlook 应用程序（称为\* \<name\> 在线存档\*）中。</span><span class="sxs-lookup"><span data-stu-id="46c36-109">After a few minutes, a new folder will appear in your user's Outlook on the web called  *In-Place Archive*  , or in Outlook app called  *Online Archive - \<name\>*  .</span></span> <span data-ttu-id="46c36-110">您的用户可以将电子邮件拖放到存档中。</span><span class="sxs-lookup"><span data-stu-id="46c36-110">Your user can drag and drop email to the archive.</span></span> 
     
-<span data-ttu-id="13948-111">您可以访问用于存档的无限制的存储量。</span><span class="sxs-lookup"><span data-stu-id="13948-111">You can access an unlimited amount of storage for archiving.</span></span> <span data-ttu-id="13948-112">若要了解详细信息，请参阅[启用无限制存档](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving)。</span><span class="sxs-lookup"><span data-stu-id="13948-112">To learn more, see [Enable unlimited archiving](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).</span></span>
+<span data-ttu-id="46c36-111">您可以访问用于存档的无限制的存储量。</span><span class="sxs-lookup"><span data-stu-id="46c36-111">You can access an unlimited amount of storage for archiving.</span></span> <span data-ttu-id="46c36-112">若要了解详细信息，请参阅[启用无限制存档](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)。</span><span class="sxs-lookup"><span data-stu-id="46c36-112">To learn more, see [Enable unlimited archiving](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).</span></span>
   
 
