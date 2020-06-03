@@ -12,18 +12,18 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265078"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496265"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>允许与 Skype for Business 之间的外部通信 
 
 您是否希望让 Skype for Business 用户能够联系组织外部的用户？ 请参阅[允许用户联系外部 Skype For business 用户](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)。
 
-您的 DNS 记录必须正确设置，才能使外部通信正常工作。 请查看[此处](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide)，查看有关如何使用提供程序设置 DNS 记录的特定说明。 
+您的 DNS 记录必须正确设置，才能使外部通信正常工作。 请查看[此处](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions)，查看有关如何使用提供程序设置 DNS 记录的特定说明。 
 
 您是否只希望让 Skype for Business 用户联系 Skype 消费者用户？ 请参阅：
 

@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742423"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502597"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 管理中心中的保留策略
 
@@ -61,4 +61,4 @@ ms.locfileid: "43742423"
 - [保留标记和保留策略](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 - [将保留策略应用于邮箱](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [添加或删除保留标记](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [如何识别为邮箱设置的保留类型](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [如何识别为邮箱设置的保留类型](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

@@ -12,10 +12,10 @@ ms.custom:
 - "9001499"
 - "3552"
 ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44061986"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>添加、删除或阻止用户更改个人资料照片

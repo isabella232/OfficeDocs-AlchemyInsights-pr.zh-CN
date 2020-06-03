@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 7ec68ef7e5852e37b219113e8e6a6341ffe8c256
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 16e16be8ded889347ae4be286edef239fb9283fa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710145"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44498997"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>在 Outlook 连接时遇到问题？
 
@@ -21,7 +21,7 @@ ms.locfileid: "43710145"
   
 {HealthCheckString}
   
-域的 NS 或 CNAME 记录（DNS）设置未正确设置。 您可以参考[在任何 DNS 托管提供程序中创建 dns 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)，以获取详细说明。 
+域的 NS 或 CNAME 记录（DNS）设置未正确设置。 有关详细说明，可参阅[创建任何 DNS 托管提供者处的 DNS 记录](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。 
   
 若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。 
 
