@@ -12,26 +12,26 @@ ms.custom:
 - "9000563"
 - "2422"
 ms.openlocfilehash: f75fe2a4d6ceb094dcf490b6c2a21b4c8254c4ce
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062130"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a><span data-ttu-id="fa63f-102">激活和分配软件即服务应用程序许可证</span><span class="sxs-lookup"><span data-stu-id="fa63f-102">Activate and assign software-as-a-service app licenses</span></span> 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a><span data-ttu-id="23372-102">激活和分配软件即服务应用程序许可证</span><span class="sxs-lookup"><span data-stu-id="23372-102">Activate and assign software-as-a-service app licenses</span></span> 
 
-## <a name="to-activate-apps"></a><span data-ttu-id="fa63f-103">激活应用程序</span><span class="sxs-lookup"><span data-stu-id="fa63f-103">To activate apps</span></span>
+## <a name="to-activate-apps"></a><span data-ttu-id="23372-103">激活应用程序</span><span class="sxs-lookup"><span data-stu-id="23372-103">To activate apps</span></span>
 
-1. <span data-ttu-id="fa63f-104">在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面，然后选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="fa63f-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="23372-104">在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面，然后选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="23372-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="fa63f-105">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="fa63f-105">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="23372-105">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="23372-105">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="fa63f-106">在 "**许可证**" 下，选择 "**设置帐户**"。</span><span class="sxs-lookup"><span data-stu-id="fa63f-106">Under **Licenses**, select **Set up account**.</span></span>  
+3. <span data-ttu-id="23372-106">在 "**许可证**" 下，选择 "**设置帐户**"。</span><span class="sxs-lookup"><span data-stu-id="23372-106">Under **Licenses**, select **Set up account**.</span></span>  
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="fa63f-107">分配应用程序许可证</span><span class="sxs-lookup"><span data-stu-id="fa63f-107">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="23372-107">分配应用程序许可证</span><span class="sxs-lookup"><span data-stu-id="23372-107">To assign app licenses</span></span>
 
-1. <span data-ttu-id="fa63f-108">在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面，然后选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="fa63f-108">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="23372-108">在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面，然后选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="23372-108">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="fa63f-109">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="fa63f-109">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="23372-109">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="23372-109">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="fa63f-110">在 "**设置" & "操作**" 下，选择要**在 publisher 的门户中管理**的链接。</span><span class="sxs-lookup"><span data-stu-id="fa63f-110">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+3. <span data-ttu-id="23372-110">在 "**设置" & "操作**" 下，选择要**在 publisher 的门户中管理**的链接。</span><span class="sxs-lookup"><span data-stu-id="23372-110">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
