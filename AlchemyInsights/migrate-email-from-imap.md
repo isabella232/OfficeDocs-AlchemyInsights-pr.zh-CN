@@ -11,12 +11,12 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 6d5a3ad2c3f8d3e1f294ddc641716e62fc0ada78
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 565337818ead3f38a7bb800ffd5b4d6bbe3de81b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713852"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510814"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>收到错误消息“不是接受的域”时
 
@@ -24,5 +24,5 @@ ms.locfileid: "43713852"
   
 在大多数情况下，此错误是由于尚未替贵公司完全设置好域名 *（如 contoso.com）* 导致的。
   
-请按照[向 Microsoft 365 添加域](https://docs.microsoft.com/office365/admin/setup/add-domain)中的说明操作，验证域是否已完全设置好。
+请按照[向 Microsoft 365 添加域](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)中的说明操作，验证域是否已完全设置好。
   

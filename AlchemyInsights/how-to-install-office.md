@@ -12,12 +12,12 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bee23ad0d8d6324937b2b0dd7bda08410ddbfa25
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759142"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509230"
 ---
 # <a name="how-to-install-office"></a>如何安装 Office
 
@@ -25,7 +25,7 @@ ms.locfileid: "43759142"
   
 *注意：[Office 小型企业版](https://products.office.com/home-and-business)是一款 [Office 家庭版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)产品，不是企业订阅的一部分。有关 Visio 或 Project 的具体说明，请参阅[安装 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 或[安装 Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*。
 
-创建用户帐户并添加域。 请确保用户其具有[分配的许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。
+创建用户帐户并添加域。 请确保用户其具有[分配的许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 让每位用户：
 

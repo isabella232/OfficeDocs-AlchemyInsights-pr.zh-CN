@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765835"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509482"
 ---
 # <a name="issue-with-skype-for-business"></a>Skype for Business 有问题？
 
@@ -23,7 +23,7 @@ ms.locfileid: "43765835"
   
 {HealthCheckString}
   
-域 (DNS) 设置的 NS、CNAME 或 SRV 记录未针对 Skype for Business 进行正确配置。 有关详细说明，可参阅[在任何 DNS 托管提供商处创建 DNS 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
+域 (DNS) 设置的 NS、CNAME 或 SRV 记录未针对 Skype for Business 进行正确配置。 有关详细说明，可参阅[在任何 DNS 托管提供商处创建 DNS 记录](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
   
 若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。
   

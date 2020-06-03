@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799041"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508582"
 ---
 # <a name="unlocking-an-account"></a>解除帐户锁定
 
@@ -40,4 +40,4 @@ ms.locfileid: "43799041"
 
 有关更多密码重置方案（包括自助式密码重置），请参阅[重置 Microsoft 365 multiple-attempts-to-charge-online-payment-instrumentsbusiness 密码](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)。
 
-此服务在检测到帐户被盗用和/或出站垃圾邮件的证据后，阻止用户发送电子邮件。 为预防起见，按照[响应 Microsoft 365 中遭到入侵的电子邮件帐户](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)的用户步骤执行操作。
+此服务在检测到帐户被盗用和/或出站垃圾邮件的证据后，阻止用户发送电子邮件。 为预防起见，按照[响应 Microsoft 365 中遭到入侵的电子邮件帐户](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)的用户步骤执行操作。

@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 1737c1f78da348cb09cbdd1ff110b0b766fcd505
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e95d25ad0d5d0c839692b1335173e8835d58bbc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710253"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499141"
 ---
 # <a name="having-email-delivery-issues"></a>遇到电子邮件传递问题？
 
@@ -26,7 +26,7 @@ ms.locfileid: "43710253"
   
 {HealthCheckString}
   
-域 (DNS) 设置的 NS 或 MX 记录没有正确配置为，将电子邮件传递到 Microsoft。 有关详细说明，可参阅[创建任何 DNS 托管提供者处的 DNS 记录](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
+域 (DNS) 设置的 NS 或 MX 记录没有正确配置为，将电子邮件传递到 Microsoft。 有关详细说明，可参阅[创建任何 DNS 托管提供者处的 DNS 记录](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
   
 若要修复此问题，请转到 Microsoft 365 管理中心的[域](https://admin.microsoft.com/adminportal/home#/Domains)页面，我们将提供相关帮助。
   
