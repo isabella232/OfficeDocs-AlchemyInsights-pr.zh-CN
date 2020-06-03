@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182339"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505081"
 ---
 # <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office 应用消息 - 不能找到关联的 Office 许可证
 
 若要修复此错误，请使用以下步骤：
 
-- 删除并[重新分配 Office 许可证](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide)给受影响的用户。
+- 删除并[重新分配 Office 许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)给受影响的用户。
 
 - 打开 Office 应用，然后[注销](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)任何现有用户帐户。
 
@@ -42,6 +42,6 @@ ms.locfileid: "43182339"
 
 有关其他故障排除解决方案，请参阅：
 
-[Office 中未经授权产品和激活错误](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
+[Office 中未许可的产品和激活错误](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Office 365 URL 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
