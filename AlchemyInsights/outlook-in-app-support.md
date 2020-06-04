@@ -3,7 +3,7 @@ title: 租户是对 Outlook 的应用程序支持试点
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720422"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542034"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a>你的租户是对 Outlook 的应用程序内支持的试点
+# <a name="in-app-support-in-outlook-for-windows"></a>Outlook for Windows 中的应用程序内支持
 
-您可能有资格直接在 Outlook 中获得支持。 如果您运行的是每月最新的频道生成，请打开 Outlook 并选择 "**帮助** > " "**联系支持**"。 键入您的问题，Outlook 支持团队的成员将与您联系。
-
-如果你不确定是否正在运行最新的月度频道生成，请参阅[我使用的是什么版本的 Office？](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)
+作为租户管理员，你可以在应用程序中接收适用于 Outlook for Windows 中的问题的应用程序支持。 在 Outlook 中，选择 "**帮助**" "  >  **联系支持**"。 输入你的问题，Outlook for Windows 支持团队的成员将回复你的消息。

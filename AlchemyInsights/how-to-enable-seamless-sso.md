@@ -13,19 +13,19 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663842"
 ---
 # <a name="how-to-enable-seamless-sso"></a>如何启用无缝 SSO
 
 通过[AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect)启用无缝 SSO。
   
-如果要执行 Azure AD Connect 的全新安装, 请选择 "[自定义安装路径](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)"。 在 "**用户登录**" 页上, 选择 "**启用单一登录"** 选项。
+如果要执行 Azure AD Connect 的全新安装，请选择 "[自定义安装路径](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom)"。 在 "**用户登录**" 页上，选择 "**启用单一登录"** 选项。
   
-若要验证是否正确启用了无缝 SSO, 请执行以下操作:
+若要验证是否正确启用了无缝 SSO，请执行以下操作：
   
 1. 以全局管理员身份登录到[Azure Active Directory 管理中心](https://aad.portal.azure.com)。
 
@@ -33,5 +33,5 @@ ms.locfileid: "36663842"
 
 3. 验证是否**启用了**无缝单一登录。
 
-若要了解详细信息, 请参阅[Azure Active Directory 无缝单一登录: 快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。
+若要了解详细信息，请参阅[Azure Active Directory 无缝单一登录：快速入门](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)。
   
