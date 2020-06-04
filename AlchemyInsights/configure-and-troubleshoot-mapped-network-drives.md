@@ -1,5 +1,5 @@
 ---
-title: 对映射网络驱动器进行配置和故障排除
+title: 对映射的网络驱动器进行配置和故障排除
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,8 +18,8 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 05/28/2020
 ms.locfileid: "44407415"
 ---
-# <a name="configure-and-troubleshoot-mapped-network-drives"></a>对映射网络驱动器进行配置和故障排除
+# <a name="configure-and-troubleshoot-mapped-network-drives"></a>对映射的网络驱动器进行配置和故障排除
 
-将库映射为网络驱动器是临时的，且仅通过 Internet Explorer 支持。 反之，[使用新版 OneDrive 同步客户端同步 SharePoint 文件](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)，它可提供[按需文件](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). 无需使用本地存储空间即可访问 OneDrive 中的所有文件。
+将库映射为网络驱动器是临时的，并且仅支持通过 Internet Explorer 实现。 反之，[使用新版 OneDrive 同步客户端同步 SharePoint 文件](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)，它可提供[按需文件](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). 无需本地存储空间即可访问所有 OneDrive 中的文件。
 
-- [连接到 SharePoint Online 的映射网络驱动器的故障排除](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+- [对连接到 SharePoint Online 的映射的网络驱动器进行故障排除](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
