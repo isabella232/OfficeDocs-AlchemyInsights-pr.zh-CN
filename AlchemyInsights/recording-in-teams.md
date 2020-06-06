@@ -11,17 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 5cc160eb3d78f92ffb82cab79db2685fa9aef88f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: c536c966daa054618a6b30fdc6f9ffdb993eba81
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553190"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563455"
 ---
 # <a name="recording-in-teams"></a>在 Teams 中录制
 
 如果无法在 Teams 中录制或需要了解如何在 Teams 中录制，请尝试以下文章之一。
 
-- 要了解如何在 Teams 中开始录制，或可以在 Teams 中开始或停止录制的用户类型，请参阅[在 Teams 中录制会议](https://support.office.com/client/34dfbe7f-b07d-4a27-b4c6-de62f1348c24)。
+Teams 会议录制功能依赖于 Stream 的国家和地区可用性。  如果无法录制会议，请确保 [Stream 在你所在的国家或地区可用](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)。  有关详细信息，请务必在管理门户中查看以下消息中心帖子：
 
-- 若要了解如何为组织在 Teams 中启用和配置录制功能，请查看[Teams 云会议录制](https://docs.microsoft.com/microsoftteams/cloud-recording)。
+- [更新功能：Microsoft Stream 云录制区域存储控制](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+
+Teams 中的会议录制[需要分配特定的许可证和策略](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)，包括用于将会议录制上载或下载到 Microsoft Stream 的 Stream 许可证。
+
+若要了解如何为组织在 Teams 中启用和配置录制功能，包括为特定用户启用或禁用会议录制的控件，请查看 [Teams 云会议录制](https://docs.microsoft.com/microsoftteams/cloud-recording)。
+
+确认满足所有要求（包括 Stream 的许可、策略和区域可用性）后，请查看[在 Teams 中录制会议](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24)。
