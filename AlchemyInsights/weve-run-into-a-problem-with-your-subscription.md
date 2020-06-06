@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3419"
 - "9001427"
-ms.openlocfilehash: 65737856d594f79d0510ea1acefbc7b0f293d333
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 2cc46168adf9cde46debcf8c0a24ee954ed75d52
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064147"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581829"
 ---
-# <a name="fixing-the-office-apps-weve-run-into-a-problem-with-your-subscription-message"></a>修复 Office 应用程序 "我们遇到了订阅问题" 消息
+# <a name="fixing-the-microsoft-365-apps-weve-run-into-a-problem-with-your-subscription-message"></a>修复 Microsoft 365 应用程序 "我们遇到了订阅问题" 中的消息
 
 如果您收到此消息，请尝试以下操作：
 
 - 如果你最近已切换到其他 Microsoft 365 订阅/计划，请按照在[切换 Microsoft 365 订阅后，office 中显示的 "帐户通知"](https://support.office.com/article/account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d)中的步骤来重新安装或更新 Office。
 - 请参阅[Office 错误 "帐户通知：我们在 Microsoft 365 订阅中遇到问题"](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1)。 
 - [删除](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)许可证并将其[重新分配](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)给受影响的用户。
-- 打开 Office 应用，选择 "**文件**  >  **帐户**"，然后注销所有帐户。 使用具有有效许可证的用户帐户重新登录。 有关详细信息，请参阅[Office 中的账户](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)。
+- 打开 Office 应用，选择 "**文件**  >  **帐户**"，然后注销所有帐户。 使用具有有效许可证的用户帐户再次登录。 有关详细信息，请参阅[Office 中的账户](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)。
 - 运行“[激活 疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)”并重新启动计算机。
 - 在受影响的计算机上，[重置 Office 激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 

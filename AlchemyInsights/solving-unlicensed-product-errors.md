@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512002"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582729"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>解决 "未经许可的产品" 错误的建议
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512002"
 - 确保您具有允许客户端许可证（如 Microsoft 365 应用程序商业版或商业高级版）的订阅，并[确保用户已分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。 
 - 确保用户使用与已分配许可证的相同帐户登录 Office。
 - 检查 "[服务运行状况" 页](https://docs.microsoft.com/office365/enterprise/view-service-health)以查看该服务是否存在任何已知问题。
-- 检查你的防火墙、防病毒软件和代理设置以确认他们没有阻止 Office 应用访问 Internet。 请参阅[url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+- 检查你的防火墙、防病毒软件和代理设置，以确认他们不会阻止 Microsoft 365 应用访问 Internet。 请参阅[url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 
 您也可以尝试以下故障排除操作： 
 

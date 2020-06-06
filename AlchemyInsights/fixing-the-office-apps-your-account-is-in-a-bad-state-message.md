@@ -1,5 +1,5 @@
 ---
-title: 修复 Office 应用你的帐户处于错误状态消息
+title: 修复 Microsoft 365 应用你的帐户处于错误状态消息
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 264307f23a349ef4ebf40f48ddbcddd3216a4927
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499213"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580107"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>修复 Office 应用程序 "你的帐户处于错误状态" 错误
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>修复 Microsoft 365 应用程序 "你的帐户处于错误状态" 错误
 
 若要修复此错误，请在受影响的计算机上尝试以下选项：
 

@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911570"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580287"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>删除属于 Microsoft 365 组的网站
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>删除属于 Microsoft 365 组的网站
 
 当用户从 SharePoint 主页创建新的工作组网站或从新的 SharePoint 管理中心创建新的团队网站时，将自动创建相应的 Microsoft 365 组。 当您在 Microsoft 团队中创建 Microsoft 365 组或团队时，也会创建 microsoft 365 组连接的工作组网站。 若要删除属于 Microsoft 365 组的 SharePoint 网站，您需要删除 Microsoft 365 组本身。 
   

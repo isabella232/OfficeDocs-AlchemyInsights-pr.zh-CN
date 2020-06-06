@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911642"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580359"
 ---
-# <a name="create-an-microsoft-365-group-connected-team-site"></a>创建与 Microsoft 365 组连接的团队网站
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>创建与 Microsoft 365 组连接的团队网站
 
 1. 单击左上角的应用启动器，然后选择 " **SharePoint**"。 如果看不到 SharePoint 磁贴，请单击 "**所有应用**"。
     

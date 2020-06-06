@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: d9ce4e7061ed01a5c1309367504e1a532f8f72e8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510094"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576946"
 ---
-# <a name="fixing-the-office-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>修复 Office 应用 "你的帐户不允许在 Mac 上编辑" 消息
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>修复 Microsoft 365 应用程序 "你的帐户不允许在 Mac 上编辑" 消息
 
 如果您收到此消息，请尝试以下操作：
 

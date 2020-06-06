@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716162"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581865"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>修复 Office 应用程序 "现在无法连接" 消息
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>修复 Microsoft 365 应用程序 "当前无法连接" 消息
 
 如果您收到此消息，请尝试以下操作：
 
-1. 检查防火墙、防病毒软件和代理设置以确认他们不会阻止对 Office 应用程序的 Internet 访问。 请参阅[Microsoft url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+1. 检查你的防火墙、防病毒软件和代理设置以确认他们没有阻止对 Microsoft 365 应用的 Internet 访问。 请参阅[Microsoft url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 
-2. 转到 "**开始** > " "**运行**"，然后键入**services.msc**。 确保以下服务全部运行：
+2. 转到 "**开始**  >  " "**运行**"，然后键入**services.msc**。 确保以下服务全部运行：
     - 网络连接设备自动设置
     - 网络列表服务
     - 网络位置感知

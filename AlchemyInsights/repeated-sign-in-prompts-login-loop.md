@@ -13,16 +13,16 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722728"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582405"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a>Office 应用程序中的重复登录提示
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Microsoft 365 应用中的重复登录提示
 
-若要解决 Office 应用中重复登录提示的问题，请参阅：
+若要对 Microsoft 365 应用中的重复登录提示进行故障排除，请参阅：
 
 - [如何对无法登录到 Microsoft 365、Azure 或 Intune 的非浏览器应用进行故障排除](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
 - ["访问被拒绝"，或在连接到 Microsoft 365 时反复提示用户输入凭据](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)

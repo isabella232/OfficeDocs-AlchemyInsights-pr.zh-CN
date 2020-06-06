@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912992"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582765"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>解决与外部用户共享 SharePoint 内容的问题
 
 确保为您的组织打开了外部共享：
   
-1. 转到[Microsoft 365 &amp;管理中心中的 "服务外接程序" 页](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，然后单击 "**网站**"。
+1. 转到[ &amp; Microsoft 365 管理中心中的 "服务外接程序" 页](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)，然后单击 "**网站**"。
     
 2. 确保设置为 "打开"。 如果选择 "仅现有的外部用户"，请确保外部用户在 Microsoft 365 管理中心中列出。
     

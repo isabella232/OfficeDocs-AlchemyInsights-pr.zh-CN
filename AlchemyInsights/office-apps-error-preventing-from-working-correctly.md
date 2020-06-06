@@ -1,5 +1,5 @@
 ---
-title: Office 应用程序错误：应用程序遇到了阻止其正常工作的错误
+title: Microsoft 365 应用程序错误：应用程序遇到了阻止其正常工作的错误
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886443"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576802"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office 应用程序错误：应用程序遇到了阻止其正常工作的错误
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 应用程序错误：应用程序遇到了阻止其正常工作的错误
 
 若要修复此错误，请尝试以下选项：
 
@@ -31,6 +31,6 @@ ms.locfileid: "40886443"
 
 有关详细信息，请参阅： 
 
-- [打开 Microsoft Office 应用时出错](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [打开 Microsoft Microsoft 365 应用时出错](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [在我的电脑上启动 Office 应用程序时，收到 "停止工作" 错误](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [解决启动或使用 Office 应用时出现的问题](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [解决启动或使用 Microsoft 365 应用时出现的问题](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

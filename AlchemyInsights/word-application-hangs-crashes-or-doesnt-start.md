@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628160"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582621"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word 崩溃或没有响应
 
 Word 中频繁出现的故障可能是由错误的加载项导致的。 您可以按照以下说明禁用 Word 外接程序：
 
-1. 转到 "**文件** > **选项** > "**外接程序**。
+1. 转到 "**文件**  >  **选项**"  >  **外接程序**。
 2. 在 "**管理**" 列表中，选择 " **COM 加载项**"，然后选择 "**转到**"。
 3. 在 "**可用外接程序**" 框中，清除要禁用的外接程序旁边的复选框，然后选择 **"确定"**。
 
@@ -31,7 +31,7 @@ Word 中频繁出现的故障可能是由错误的加载项导致的。 您可�
 1.   在 Windows 桌面上，关闭 Outlook，然后按 CTRL + ALT + DEL 打开任务管理器。 
 2. 在 "**进程**" 选项卡上，如果正在运行 Word 进程，请选择它们并选择 "**结束任务**"。 此外，还建议您重新启动以从内存中清除所有内容。
 
-    如果 Word 在启动过程中继续崩溃或挂起，请参阅在[WINDOWS 电脑上以安全模式打开 Office 应用](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)以在安全模式下启动。
+    如果 Word 在启动过程中继续崩溃或挂起，请参阅在[WINDOWS 电脑上以安全模式打开 Microsoft 365 应用](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72)以在安全模式下启动。
 
 如果仍有问题，请参阅以下文章： 
 - [在我的电脑上启动 Office 应用程序时，收到 "停止工作" 错误](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

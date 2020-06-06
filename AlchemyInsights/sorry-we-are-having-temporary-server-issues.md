@@ -1,5 +1,5 @@
 ---
-title: 修复 Office 应用程序抱歉，我们暂时出现服务器问题
+title: 正在修复 Microsoft 365 应用程序抱歉，我们暂时出现服务器问题
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764107"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582693"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>修复 Office 应用程序 "很抱歉，出现临时服务器问题" 消息
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>解决 Microsoft 365 应用程序 "很抱歉，出现临时服务器问题" 消息
 
 如果您收到此消息，请尝试以下操作：
 
-1. 检查防火墙、防病毒软件和代理设置以确认他们不会阻止对 Office 应用程序的 Internet 访问。 请参阅[url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
+1. 检查你的防火墙、防病毒软件和代理设置以确认他们没有阻止对 Microsoft 365 应用的 Internet 访问。 请参阅[url 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)。
 
-2. 转到 "**开始** > " "**运行**"，然后键入**services.msc**。 确保以下服务全部运行：
+2. 转到 "**开始**  >  " "**运行**"，然后键入**services.msc**。 确保以下服务全部运行：
     - 网络连接设备自动设置
     - 网络列表服务
     - 网络位置感知

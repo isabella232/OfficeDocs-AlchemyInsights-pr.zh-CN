@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
-ms.openlocfilehash: b40d216bce2f88c7ed48a470537c69e8589159f3
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 221f075669f5f0e35ae5df11a4a59845ea81b5cd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912573"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582369"
 ---
-# <a name="restore-an-microsoft-365-group-using-the-exchange-admin-center"></a>使用 Exchange 管理中心还原 Microsoft 365 组
+# <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>使用 Exchange 管理中心还原 Microsoft 365 组
 
 1. 在 Microsoft 365 管理中心的左侧导航中，展开 "**管理中心**"，然后选择 " **Exchange**"。
     
