@@ -13,20 +13,20 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010820"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617932"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>安装了 Office 更新的 Microsoft 团队
 
 Microsoft 团队作为 Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business 和 Office for Mac 的***全新安装***的一部分包括在内。 有关详细信息，请参阅[何时 Microsoft 团队何时开始将新安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-此外，从每月频道中的版本1906开始，在将现有安装更新到最新版本时，团队将逐步添加到运行 Windows 的 Microsoft 365 应用程序的***现有安装***（以及 Microsoft 365 应用程序）。 有关详细信息，请参阅[现有安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+此外，从当前通道中的版本1906开始，在将现有安装更新到最新版本时，团队将逐步添加到运行 Windows 的 Microsoft 365 应用程序（和 Microsoft 365 应用程序）的***现有安装***中。 有关详细信息，请参阅[现有安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**注意：** 如果您不想等待此首展计划，可以按照[这些说明](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)将团队部署为独立用户，也可以让您的用户自行安装团队https://teams.microsoft.com/downloads。
+**注意：** 如果您不想等待此首展计划，可以按照[这些说明](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)将团队部署为独立用户，也可以让您的用户自行安装团队 https://teams.microsoft.com/downloads 。
 
 如果你的组织未准备好部署团队，则可以从 Office 的[新](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)安装或[现有](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)安装中***排除团队***。 如果您希望安装团队，但不希望团队在安装后自动为用户启动，请参阅 "[阻止 Microsoft 团队在安装后自动](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)启动"。
 
