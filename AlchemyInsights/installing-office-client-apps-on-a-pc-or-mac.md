@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: bc7301a5538128fb1a3bab8e9c8bf1ee84e509c2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789567"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580035"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>在电脑或 MAC 上安装 Office 客户端应用
 
@@ -24,9 +24,9 @@ ms.locfileid: "43789567"
 
 **注意**：[Office 小型企业版](https://products.office.com/home-and-business)属于 [Office 家庭版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)，不属于商业版订阅。 Project Online 协作版不包括桌面版 Project，因此不需要安装。 Visio 计划 1 用户可以访问 Visio 网页版，因为该计划不包括 Visio 桌面应用。 Project 和 Visio 桌面应用在 Mac 上不可用。
 
-如果订阅包含 Office 应用程序，除非拥有[分配的许可证](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)，否则不会看到安装选项。 如果你是负责分配许可证的 Office 365 管理员，请参阅[向用户分配许可证](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。 此外，使用 [Office‎ 软件下载设置](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)，选择用户是否可以在自己的设备上安装 Office‎ 应用。
+如果订阅包含 Microsoft 365 应用程序，除非拥有[分配的许可证](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)，否则不会看到安装选项。 如果你是负责分配许可证的 Office 365 管理员，请参阅[向用户分配许可证](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。 此外，使用 [Office‎ 软件下载设置](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365)，选择用户是否可以在自己的设备上安装 Office‎ 应用。
 
-**注意**：[Office 激活报表](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide)将显示在至少一个设备上安装并激活了其 Office 应用的用户。
+**注意**：[Office 激活报表](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide)将显示在至少一个设备上安装并激活了其 Microsoft 365 应用的用户。
 
 然后，让每位用户：
 
