@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44617957"
+ms.locfileid: "44664236"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>错误：此计算机上的规则不匹配
 
@@ -28,3 +28,4 @@ Outlook 团队已在内部版本12928.10000 中实施了修补程序。 该修�
 **解决方法**：在最近的报告中，只有在 Outlook desktop 中创建了客户端规则的客户端才会出现此问题。 如果仍遇到问题，请考虑删除这些规则，然后仅在 OWA （Outlook Web App）中创建和编辑规则，直到问题得到解决。
 
 如果您无法手动删除规则，则可以在通过运行/cleanrules. 启动 outlook 时运行 Outlook 命令。 这将同时删除客户端和服务器规则。 它将删除 Outlook 配置文件中所有帐户的所有规则。 命令行开关一文中会进一步介绍此命令。
+

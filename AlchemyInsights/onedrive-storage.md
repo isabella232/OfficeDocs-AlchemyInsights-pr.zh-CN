@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049039"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667838"
 ---
 # <a name="manage-your-onedrive-storage"></a>管理你的 OneDrive 存储
 
-OneDrive 存储空间不计为租户总配额。 
+你可以管理 OneDrive for Business 以查看你使用的空间量并释放空间。  有关详细信息，请访问下面的链接。
 
-了解[如何为每个用户/计划分配 OneDrive 存储空间](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user)。
-
-了解[你在 OneDrive 中使用的存储空间](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68)。
-
-了解[如何使用 PowerShell 获取 OneDrive 存储空间配额](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614)。
-
-Microsoft 最初将为每个用户提供 1 TB 的容量，管理员可以将每个用户最高增加至 5 TB。 了解如何[设置 OneDrive 用户的默认存储空间](https://docs.microsoft.com/onedrive/set-default-storage-space)。
-
-了解[如何更改特定用户的 OneDrive 存储空间](https://docs.microsoft.com/onedrive/change-user-storage)。
-
-了解[全局管理员如何为使用 PowerShell 的所有用户设置 OneDrive 存储配额](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b)。
-  
+- [管理你的 OneDrive for Business 存储](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [更改特定用户的 OneDrive 存储空间](https://docs.microsoft.com/onedrive/change-user-storage)
+- [设置 OneDrive 用户的默认存储空间](https://docs.microsoft.com/onedrive/set-default-storage-space)
