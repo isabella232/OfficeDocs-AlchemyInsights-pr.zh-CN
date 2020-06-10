@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010136"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576982"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>无 Office、 Visio 或Project 安装选项
 
@@ -24,7 +24,7 @@ ms.locfileid: "44010136"
 
 **注意**：[Office 小型企业版](https://products.office.com/home-and-business)属于 [Office 家庭版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)，不属于商业版订阅。 Project Online 协作版不包括桌面版 Project，因此不需要安装。 Visio 计划 1 用户可以访问 Visio 网页版，因为该计划不包括 Visio 桌面应用。 Project 和 Visio 桌面应用在 Mac 上不可用
 
-如果订阅包含 Office 应用程序，除非拥有[分配的许可证](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)，否则不会看到安装选项。 如果你是负责分配许可证的 Office 365 管理员，请参阅[向用户分配许可证](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
+如果订阅包含 Microsoft 365 应用程序，除非拥有[分配的许可证](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home)，否则不会看到安装选项。 如果你是负责分配许可证的 Office 365 管理员，请参阅[向用户分配许可证](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home)。
 
 
 让每位用户：

@@ -1,5 +1,5 @@
 ---
-title: 激活 Office 应用
+title: 正在激活 Microsoft 365 应用
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682502"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581401"
 ---
-# <a name="activating-office-apps"></a>激活 Office 应用
+# <a name="activating-microsoft-365-apps"></a>正在激活 Microsoft 365 应用
 
 若要激活 Office，请参阅：
 
@@ -28,11 +28,12 @@ ms.locfileid: "43682502"
 
 若要修复 Office 激活问题，请参阅：
 
+- 运行“[激活 疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)”并重新启动计算机。
 - [Office 中未许可的产品和激活错误](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [如果无法安装或激活 Office for Mac，该怎么办](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-如果你最近切换了帐户或 Office 订阅，请按照以下步骤操作来修复激活问题：
+如果无法登录 Microsoft 365 应用，请按照以下步骤进行操作：
 
 1. 打开 Office 应用，然后[注销](https://go.microsoft.com/fwlink/?linkid=2114082)任何现有用户帐户。
 

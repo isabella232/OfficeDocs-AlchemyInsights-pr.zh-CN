@@ -1,5 +1,5 @@
 ---
-title: Office 应用消息 - 不能找到关联的 Office 许可证
+title: Microsoft 365 应用消息 - 不能找到关联的 Office 许可证
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505081"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581641"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Office 应用消息 - 不能找到关联的 Office 许可证
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 应用消息 - 不能找到关联的 Office 许可证
 
 若要修复此错误，请使用以下步骤：
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505081"
 
 - 重置 Office 激活状态。 参见[重置 Microsoft 365 企业版应用激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
-- 检查防火墙、防病毒软件和代理设置，确认它们不会阻止 Office 应用访问 Internet。 
+- 检查防火墙、防病毒软件和代理设置，确认它们不会阻止 Microsoft 365 应用访问 Internet。 
 
 有关其他故障排除解决方案，请参阅：
 

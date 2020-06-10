@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: 2568ce2eb911b75915fde69ca97ca1c09fb051aa
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: d03a9aa5eae0c6e8e7f279442e0dd53b3e9d2700
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534755"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563361"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>从 Teams 控制已读回执
 
@@ -28,4 +28,4 @@ ms.locfileid: "44534755"
 
 - 若你允许用户控制他们自己的已读回执设置，[单击此处可查看用户修改其设置的方法](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings)。 
 
-**注释**：管理员必须启用已读回执，用户才能够进行修改。
+**注释**：管理员必须启用已读回执，用户才能够进行修改。 若要查看或修改此设置，请转到 **Teams 管理中心**> **邮件策略** > **已读回执**

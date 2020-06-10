@@ -1,5 +1,5 @@
 ---
-title: Office 应用中的订阅通知消息
+title: Microsoft 365 应用中的订阅通知消息
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789184"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582297"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Office 应用中的订阅通知消息
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Microsoft 365 应用中的订阅通知消息
 
 - 如果 Office 已预先安装在新设备上，请参见[激活Office ](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e)以获得有关在新设备上激活 Office 的帮助信息。
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789184"
 
 - 运行“[激活 疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)”并重新启动计算机。
 
-- 在受影响的计算机上，“[重置 Office 激活状态](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632)”。
+- 在受影响的计算机上，“[重置 Office 激活状态](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)”。
 
 有关详细说明，请参阅： 
 
