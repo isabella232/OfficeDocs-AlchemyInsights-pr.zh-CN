@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021488"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702196"
 ---
 # <a name="teams-outlook-add-in"></a>工作组 Outlook 加载项
 
-有多种因素可能导致团队外接程序不显示，并在[此处](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)列出。
+若要对缺少的团队 Outlook 外接程序进行故障排除，请首先确保在管理门户中的此处运行服务诊断。  如果服务诊断指示不存在问题，请继续下载并运行[Microsoft 支持和恢复助手](https://aka.ms/SaRA-TeamsAddInScenario)团队在受影响的用户计算机上的**Outlook 外接程序方案**，以诊断和更正任何客户端问题。
 
-**建议您先检查外接程序是否未被禁用：**
-
-- 在 Outlook 中，单击 "**文件**"，然后单击 "**选项**"。
-- 选择 " **Outlook 选项**" 对话框的 "**外接程序**" 选项卡。
-- 确认 "**活动应用程序外接**程序" 列表中列出了 Microsoft Office 外接程序会议外接程序的 " **Microsoft 团队会议外**接程序"。
-- 如果**禁用的应用程序外接程序**列表中列出了 "团队会议外接程序"，请在 "**管理**" 中选择 " **COM 加载项**"，然后单击 "**开始 ...** "。
-- 设置**Microsoft Office 的 "Microsoft 团队会议外接程序**" 旁边的复选框。
-- 在所有对话框上单击 **"确定"** ，然后重新启动 Outlook。
+若要手动解决问题，请查看可能导致你的团队外接程序不显示在[此处](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)的潜在因素的列表。
