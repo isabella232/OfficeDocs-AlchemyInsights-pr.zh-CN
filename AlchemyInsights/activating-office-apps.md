@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581401"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735202"
 ---
 # <a name="activating-microsoft-365-apps"></a>正在激活 Microsoft 365 应用
 
@@ -25,6 +25,8 @@ ms.locfileid: "44581401"
 - [在电脑上激活 Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
 - [在 Mac 上激活 Office](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+
+**注意：** 请确保您具有 [ 包括 Office 客户端应用 ](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) 的 Office 365 或 Microsoft 365 订阅，例如 Microsoft 365 商业标准版、Microsoft 365 商业应用版或 Microsoft 365 企业应用版。 此外，请确保您用于登录 Office 应用程序的用户帐户[已分配了许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 若要修复 Office 激活问题，请参阅：
 
