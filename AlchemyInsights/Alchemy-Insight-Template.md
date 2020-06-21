@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676523"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750960"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>必需 Alchemy 标头 H1，H2's 不起作用。
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"必需的 Alchemy 标头 H1，H2's 不起作用。"
 用于 Alchemy 创作的最佳做法和指南：
 
 1. **不在文件夹中嵌套 Alchemy 见解**-这将断开 url 结构。 我们正在寻求解决此情况的情况。
