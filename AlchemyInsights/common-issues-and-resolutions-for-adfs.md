@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 583ea686ea119e4e8b9cc7201a92b84ce77fe30e
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580539"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797961"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>ADFS 的常见问题和解决方法
 
 可以按照以下 Microsoft 知识库文章中的说明更新联合域的配置。
+
+- [ADFS 联合证书即将到期](adfs-federation-certificate-expiring.md)
 
 - [2713898](https://support.microsoft.com/help/2713898) 当联合用户登录到 Microsoft 365、Azure 或 Intune 时，AD FS 出现“访问该网站时出现问题"错误。
 
