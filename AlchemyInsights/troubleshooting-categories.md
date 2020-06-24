@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732356"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850766"
 ---
 # <a name="outlook-categories"></a>Outlook 类别
 
-颜色类别使您可以轻松地识别和分组 Microsoft Outlook 中的关联项。 有关详细信息，请参阅[创建和分配颜色类别](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)。
-  
+类别仅适用于日历中的项目。 如果您将某个颜色类别应用于您从其他人处收到的会议请求或会议，该颜色类别将仅显示在您的日历中。  如果您在共享邮箱上应用颜色类别，则委派邮箱、组邮箱、会议室邮箱等。该颜色类别仅影响您的视图。
+
+详细信息：为[日历约会、会议或事件分配颜色类别](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
