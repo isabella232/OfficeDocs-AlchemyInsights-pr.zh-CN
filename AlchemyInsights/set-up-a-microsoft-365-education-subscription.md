@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915032"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840989"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>设置 Microsoft 365 教育版订阅
 
@@ -24,6 +24,5 @@ ms.locfileid: "43915032"
 
 **更多绝佳资源**
 
-- 有关概述，请参阅[设置 Office 365 教育版租户](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)。
-- 如需了解 IT 管理员、开发人员和合作伙伴，请参阅 [Microsoft 365 教育版入门](https://docs.microsoft.com/education/)。 
-- [将 Microsoft Store 帐户与 Intune 教育版相关联](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education)。 
+- 有关概述，请参阅[创建 Office 365 租户帐户](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)。
+- 如需了解 IT 管理员、开发人员和合作伙伴，请参阅 [Microsoft 365 教育版入门](https://docs.microsoft.com/education/)。
