@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 55fe9c39ddbd61d085c3dd1084e637bce7d8fe2e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 834b7585b41e60dc59dcc90bb5b6b4f55b47420b
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758349"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931462"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="53bba-102">设置混合环境</span><span class="sxs-lookup"><span data-stu-id="53bba-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="9dfc7-102">设置混合环境</span><span class="sxs-lookup"><span data-stu-id="9dfc7-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="53bba-103">若要让用户无缝地协同工作，无论其数据存储在本地服务器上还是存储在 Office 365 中，您可能都需要设置混合环境。</span><span class="sxs-lookup"><span data-stu-id="53bba-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="53bba-104">若要了解你的选项的概述，请查看[Office 365 与本地环境的集成](https://docs.microsoft.com/office365/enterprise/office-365-integration)。</span><span class="sxs-lookup"><span data-stu-id="53bba-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
+<span data-ttu-id="9dfc7-103">若要让用户无缝地协同工作，而不管其数据存储在本地服务器上还是 Microsoft 365 中，则可能需要设置混合环境。</span><span class="sxs-lookup"><span data-stu-id="9dfc7-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Microsoft 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="9dfc7-104">若要获取你的选项的概述，请查看[Microsoft 365 与本地环境的集成](https://docs.microsoft.com/office365/enterprise/office-365-integration)。</span><span class="sxs-lookup"><span data-stu-id="9dfc7-104">To get an overview of your options, check out [Microsoft 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
