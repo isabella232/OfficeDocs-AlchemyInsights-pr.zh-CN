@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 55fe9c39ddbd61d085c3dd1084e637bce7d8fe2e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 834b7585b41e60dc59dcc90bb5b6b4f55b47420b
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758349"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931462"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>设置混合环境
 
-若要让用户无缝地协同工作，无论其数据存储在本地服务器上还是存储在 Office 365 中，您可能都需要设置混合环境。 若要了解你的选项的概述，请查看[Office 365 与本地环境的集成](https://docs.microsoft.com/office365/enterprise/office-365-integration)。
+若要让用户无缝地协同工作，而不管其数据存储在本地服务器上还是 Microsoft 365 中，则可能需要设置混合环境。 若要获取你的选项的概述，请查看[Microsoft 365 与本地环境的集成](https://docs.microsoft.com/office365/enterprise/office-365-integration)。
   
