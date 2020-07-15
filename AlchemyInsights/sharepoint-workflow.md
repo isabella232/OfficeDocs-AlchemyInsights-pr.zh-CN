@@ -14,12 +14,12 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 16ca9e18db31ddc2418c629e34f47f4ea0784feb
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 1bf991112d05652bcb8a8b292374f7a5e2885103
+ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162966"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138961"
 ---
 # <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint 中的工作流疑难解答
 
@@ -27,6 +27,8 @@ ms.locfileid: "42162966"
 
 请参阅[sharepoint 工作流验证错误](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)和[调试 Sharepoint 工作流](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)疑难解答。
 
-**电源自动化**
+**Power Automate**
 
 如果只是开始使用工作流，请考虑使用[Power 自动执行](https://docs.microsoft.com/power-automate/modern-approvals)，而不是经典 SharePoint 工作流解决方案。
+
+有关详细信息，请参阅[SharePoint 工作流淘汰](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)。
