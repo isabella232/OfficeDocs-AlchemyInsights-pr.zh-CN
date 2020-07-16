@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563572"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44064039"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>OneNote 的常见问题和解决方法
 
@@ -24,7 +24,7 @@ ms.locfileid: "44563572"
 
 - [解决同步问题](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45)-若要解决与 onenote 同步相关的最常见问题，请在[无法同步 Onenote 时使用修复问题](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)中的步骤。
 
-- [在团队中使用 onenote](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **注意**：目前，团队中的 onenote 对于商业和教育租户是只读的。 若要编辑，请使用 OneNote 网页版或 OneNote 桌面应用。
+- [在团队中使用 onenote](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **注意**：目前，团队中的 onenote 对于商业和教育租户是只读的。 若要编辑，请使用 OneNote 网页版或 OneNote 桌面应用。
 
 - [在团队中使用 OneNote 课堂笔记本](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440)解答有关在团队中设置课堂笔记本的问题。
 
