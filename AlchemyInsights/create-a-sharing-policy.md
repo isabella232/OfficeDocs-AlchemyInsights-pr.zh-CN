@@ -28,7 +28,7 @@ ms.locfileid: "44853992"
 6. 在“共享规则”中，选择以下选项之一以指定要共享的域：
     - **与所有域共享**
     - **与特定域共享**
-8. If you select **Sharing with a specific domain**, type the name of the domain you want to share with. If you need to enter more than one domain for this sharing policy, save the settings for the first domain, then edit the sharing rules to add more domains.
+8. 如果选择了“与特定域共享”，请键入要与其共享的域的名称。如果需要为此共享策略输入多个域，请保存第一个域的设置，然后编辑共享规则，以添加更多的域。
 9. 若要指定可共享的信息，请选中“共享日历文件夹”复选框，然后选择以下选项之一：
     - **仅包含时间的日历忙/闲信息**
     - **包含时间、主题和位置的日历忙/闲信息**

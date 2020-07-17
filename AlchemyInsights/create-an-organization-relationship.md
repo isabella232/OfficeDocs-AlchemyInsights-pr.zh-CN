@@ -25,7 +25,7 @@ ms.locfileid: "44853982"
 3. 在“**组织共享**”下，单击“**新建**”。
 4. 在“**新建组织关系**”中的“**关系名称**”框中，为组织关系键入友好名称。
 5. 在“**要共享的域**”框中，为允许其查看日历的外部 Office 365 或 Exchange 本地组织键入域。 如果需要输入多个域，请用逗号将域名分隔开。 例如，contoso.com、service.contoso.com。
-6. Select the **Enable calendar free/busy information sharing** check box to turn on calendar sharing with the domains you listed. Set the sharing level for calendar free/busy information and set which users can share calendar free/busy information.  
+6. 选中“启用日历忙/闲信息共享”复选框，以开启与列出的域的日历共享。设置日历忙/闲信息的共享级别，并设置可以共享日历忙/闲信息的用户。  
 
 若要设置忙/闲访问级别，请选择以下项目之一：
 
