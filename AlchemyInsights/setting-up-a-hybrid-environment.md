@@ -19,7 +19,7 @@ ms.contentlocale: zh-CN
 ms.lasthandoff: 06/30/2020
 ms.locfileid: "44931462"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="9dfc7-102">设置混合环境</span><span class="sxs-lookup"><span data-stu-id="9dfc7-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="2d774-102">设置混合环境</span><span class="sxs-lookup"><span data-stu-id="2d774-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="9dfc7-103">若要让用户无缝地协同工作，而不管其数据存储在本地服务器上还是 Microsoft 365 中，则可能需要设置混合环境。</span><span class="sxs-lookup"><span data-stu-id="9dfc7-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Microsoft 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="9dfc7-104">若要获取你的选项的概述，请查看[Microsoft 365 与本地环境的集成](https://docs.microsoft.com/office365/enterprise/office-365-integration)。</span><span class="sxs-lookup"><span data-stu-id="9dfc7-104">To get an overview of your options, check out [Microsoft 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
+<span data-ttu-id="2d774-103">若要让用户无缝地协同工作，而不管其数据存储在本地服务器上还是 Microsoft 365 中，则可能需要设置混合环境。</span><span class="sxs-lookup"><span data-stu-id="2d774-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Microsoft 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="2d774-104">若要获取你的选项的概述，请查看[Microsoft 365 与本地环境的集成](https://docs.microsoft.com/office365/enterprise/office-365-integration)。</span><span class="sxs-lookup"><span data-stu-id="2d774-104">To get an overview of your options, check out [Microsoft 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   
