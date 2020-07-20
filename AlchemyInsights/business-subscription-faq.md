@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506289"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169698"
 ---
 # <a name="business-subscription-faq"></a>商业版订阅常见问题解答
-
-商业版订阅和许可证管理常见问题解答：
 
 - 若要查看 Microsoft 365 商业版选项，请参阅[比较商业版计划](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)。 有关详细信息，请联系销售人员：1-855-270-0615。
 - 若要**购买**一个计划，请转到 **“计费”>“[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=868433)”**。 选择计划和用户数。 有关详细信息，请参阅[购买订阅](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide)。
