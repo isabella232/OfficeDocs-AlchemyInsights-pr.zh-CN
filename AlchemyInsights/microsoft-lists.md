@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: 2485374a9cd7082698245af913d0e2463b03b809
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 682b437962b2192ef57cf48d4eae775bf2a4fcc7
+ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45139016"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46509002"
 ---
 # <a name="microsoft-lists"></a>Microsoft 列表
 
@@ -25,7 +25,7 @@ Microsoft 正在启动 Microsoft 列表的第一阶段，它是一个 Microsoft 
   
 **计时**  
 
-- 面向已启用组织的目标发布，定于 2020 年 7 月下旬。
+- 已开始向支持定向发布的组织推出。
 - 面向所有组织的发布，定于 2020 年 10 月中旬前。
 
 拥有有效 SharePoint 许可证的用户可获得列表图标，开始使用 Microsoft 列表。 管理员目前无法关闭该功能。
