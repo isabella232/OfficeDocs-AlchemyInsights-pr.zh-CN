@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511030"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522761"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>将电子邮件移动到存档邮箱
+
+如果您希望我们为下面提到的设置运行自动检查，请在此页面顶部选择 "上一步" 按钮 <--然后输入在将电子邮件移动到其存档邮箱时遇到问题的用户的电子邮件地址。
 
 1. 确认已启用**存档邮箱**。 如果不是，请使用[本文](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)中的步骤启用存档邮箱。
 

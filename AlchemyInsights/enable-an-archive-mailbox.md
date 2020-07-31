@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507016"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522725"
 ---
 # <a name="enable-an-archive-mailbox"></a>启用存档邮箱
+
+如果你希望我们运行自动检查以确保可以配置存档邮箱，请在此页面顶部选择 "上一步" 按钮 <--然后输入帐户的电子邮件地址。
 
 Microsoft 365 中的存档邮箱（也称为*在线存档*或*就地存档*）为用户提供额外的电子邮件存储。 用户可以将项目移动或复制到其存档邮箱，并且管理员可以创建自动将项目移动到存档邮箱的存档策略。
   

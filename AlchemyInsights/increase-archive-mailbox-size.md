@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508798"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522833"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>增加存档邮箱大小
+
+
+如果您希望我们为下面提到的设置运行自动检查，请选择此页面顶部的 "后退" 按钮 <--然后输入需要其存档邮箱大小增加的用户的电子邮件地址。
 
 Microsoft 365 根据分配给用户帐户的许可证[限制](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits)存档邮箱的大小。 当存档邮箱达到其允许大小的90% 时，用户将收到电子邮件通知。 当存档邮箱达到其大小限制时，用户将无法将更多项目移至存档邮箱。 一旦达到大小限制，Microsoft 365 将不会增加存档邮箱的大小。 相反，用户可以执行以下操作来释放存档邮箱中的空间：
 

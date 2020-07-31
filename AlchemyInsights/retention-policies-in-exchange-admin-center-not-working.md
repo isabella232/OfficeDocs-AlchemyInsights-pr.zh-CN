@@ -12,14 +12,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502597"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522797"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 管理中心中的保留策略
+
+如果您希望我们为下面提到的设置运行自动检查，请选择此页面顶部的 "后退" 按钮 <--，然后输入保留策略有问题的用户的电子邮件地址。
 
  **问题：** Exchange 管理中心中新创建或更新的保留策略不会应用于邮箱或项目不会移动到存档邮箱或将其删除。 
   
