@@ -13,15 +13,21 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebc5d8fd2725103b7cfd242a7f5deacb183e45bb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a5719e9e31be57eaa8fd76727796053827de084
+ms.sourcegitcommit: 68aef37cb0188f79fe3c530f2bb0a63e3e6faad8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708965"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46591453"
 ---
 # <a name="admin-roles"></a>管理员角色
 
-- 在管理中心中选择“[角色](https://admin.microsoft.com/Adminportal/Home#/roles)”以分配或了解有关管理员角色的更多信息。
+- 要分配或了解有关管理员角色的更多信息，请在“[管理中心](https://admin.microsoft.com/Adminportal/Home#/roles)”中选择“**角色**”。
 
-- 然后选择一个或多个角色名称，然后单击“**分配角色**”，或单击“**比较角色**”以了解更多信息。
+- 要了解更多信息，请在管理中心中选择角色名称，然后选择“**分配角色**”或“**比较角色**”。
+
+- 要分配角色，请在“[管理中心](https://admin.microsoft.com/Adminportal/Home#/users)”中选择“**活动用户**”，选择用户名，然后选择“**管理角色**”。
+
+- 有关角色的更多信息，请单击角色旁边的**i**，或参阅[关于管理员角色](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)。
+
+- 如果需要有关访问现有管理员帐户的帮助，请参阅[回重新登录帐户](https://passwordreset.microsoftonline.com/)或[重置我的管理员密码](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords#reset-my-admin-password)。
