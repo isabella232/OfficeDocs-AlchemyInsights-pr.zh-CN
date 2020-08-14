@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 4939682a6ca95c4f5475ee6aedea48c9ce83df7f
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: fb69bce40ab56b162c715af6a0647c8219c5564f
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431368"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665452"
 ---
 # <a name="change-update-channels-for-office-apps"></a>更改适用于 Office 的更新通道
 
@@ -30,9 +30,9 @@ ms.locfileid: "45431368"
 1. 从 [Microsoft下载中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下载最新版本的 Office 部署工具（setup.exe）。
 2. 标识要切换到的频道名称。 有关详细信息，请参阅 [Office 部署工具的配置选项](https://docs.microsoft.com/DeployOffice/configuration-options-for-the-office-2016-deployment-tool#channel-attribute-part-of-add-element)。
 3. 创建一个配置XML文件，指定适当的通道名称，例如 update.xml。  
-    a. <Configuration>  
-    b. <更新 **通道="每月"** />  
-    c. </Configuration>
+    `<Configuration> 
+    <Updates **Channel="Monthly"** />  
+    </Configuration>`
 4. 从提升的命令提示符处，切换到 setup.exe 所在的文件夹位置并运行以下命令：  
     a. setup.exe /configure update.xml
 5. 启动 Office 应用程序（例如 Excel ），然后选择“**文件**” > “**帐户**”。 在“产品信息”部分中，选择“**更新选项**” > “**立即更新**”。
