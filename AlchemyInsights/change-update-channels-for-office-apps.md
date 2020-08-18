@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1740"
 - "9000140"
-ms.openlocfilehash: 3e1042a38d2289b9ef2396e8300d32f20ddaa703
-ms.sourcegitcommit: b5e5f560bf6ef92b4475bd3d91b7df38b5a4b036
+ms.openlocfilehash: 43a3cdefe5a9bc1726984a3195dce7aaea08d892
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46739817"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786843"
 ---
 # <a name="change-update-channels-for-office-apps"></a>更改适用于 Office 的更新通道
 
@@ -32,7 +32,7 @@ ms.locfileid: "46739817"
 3. 创建一个配置XML文件，指定适当的通道名称，例如 update.xml。  
 
 `<Configuration>`<br>
-`<Updates Channel="Monthly"/>`<br>
+`<Updates Channel="Current"/>`<br>
 `</Configuration>`<br>
 
 4. 从提升的命令提示符处，切换到 setup.exe 所在的文件夹位置并运行以下命令：  
