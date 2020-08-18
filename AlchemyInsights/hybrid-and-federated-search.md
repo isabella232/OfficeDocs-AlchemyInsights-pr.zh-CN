@@ -1,7 +1,7 @@
 ---
 title: 混合和联合搜索
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1570ab156ec9d2d973c270dc216985e6e2b5b0af
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768969"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787167"
 ---
 # <a name="hybrid-and-federated-searches"></a>混合和联合搜索 
 
-有关 SharePoint Online 中的混合和联合搜索的信息，请参阅[sharepoint 中的混合搜索](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)。
+有关 SharePoint Online 中的混合和联合搜索的信息，请参阅 [sharepoint 中的混合搜索](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)。
 
-有关规划混合联合搜索的信息，请参阅[Plan 混合联合搜索 SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)。
+有关规划混合联合搜索的信息，请参阅 [Plan 混合联合搜索 SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)。
