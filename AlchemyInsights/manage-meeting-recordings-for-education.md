@@ -12,14 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 3ec340b6a2ee1a3671f72f64b17e46d991d8e0a1
+ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46545663"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46844550"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>管理教育版的会议录制
+
+从 **2020 年 8 月 20 日**开始，当拥有 A1（包括 A1+）许可证的用户启动 Teams 会议录制时，录制将在 21 天内可用。
+
+有关详细信息，包括如何将会议保存到其他位置，请参阅[将 Microsoft Teams 会议录制内容上载到 Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording)。
 
 我们建议教育版的组织管理员为学生和教师的安全，考虑使用策略包。 有关详细信息，请参阅：
 
