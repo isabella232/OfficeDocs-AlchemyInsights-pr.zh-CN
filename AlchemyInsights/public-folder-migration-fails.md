@@ -21,7 +21,7 @@ ms.locfileid: "46903522"
 ---
 # <a name="public-folder-migration-fails-at-95"></a>公用文件夹迁移失败，进度为 95%
 
-如果公用文件夹迁移失败，进度为 95% 且显示 FailedToMailEnablePublicFoldersException 错误：
+对于公用文件夹迁移失败，进度为 95% 且显示 FailedToMailEnablePublicFoldersException 错误的情况：
 
 1. 请在 Exchange 本地服务器上下载和运行 [ValidateMailEnabledPublicFolders](https://aka.ms/ValidateMEPF)。
 
