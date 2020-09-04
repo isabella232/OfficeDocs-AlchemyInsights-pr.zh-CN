@@ -35,4 +35,4 @@ ms.locfileid: "46903525"
 
 公用文件夹默认共享给其他所有用户。 公用文件夹的所有者可通过 Outlook 桌面客户端更改权限。 有关详细信息，请参阅 [Exchange Server 的公用文件夹权限](https://support.microsoft.com/help/2573274/public-folder-permissions-for-exchange-server)。
 
-**注意**：公用文件夹日历专为在组织内部使用而设计，无法在 Internet 上发布。 如果你打算在 Internet 上发布日历，请使用共享邮箱。
+**注意**：公用文件夹日历专门设计用于组织内部，无法在 Internet 上发布。 如果你打算在 Internet 上发布日历，请使用共享邮箱。

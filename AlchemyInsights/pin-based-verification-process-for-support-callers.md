@@ -25,7 +25,7 @@ ms.locfileid: "46903524"
 
 若要在管理门户中添加或验证管理员电话号码：  
 
-1. 转到[活动用户](https://admin.microsoft.com/AdminPortal/Home#/users)。
+1. 请转到[活动用户](https://admin.microsoft.com/AdminPortal/Home#/users)。
 2. 选择用户的显示名称。
 3. 验证电话号码，或者选择“**管理联系人信息**”，以更改电话号码或添加手机号码。     
 
