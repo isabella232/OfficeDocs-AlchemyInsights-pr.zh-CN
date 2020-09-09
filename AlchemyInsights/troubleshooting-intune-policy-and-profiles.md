@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766657"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406280"
 ---
 # <a name="troubleshooting-intune-policy-and-profiles"></a>Intune 策略和配置文件疑难解答
 
 若要查看现有策略、解决冲突、查看日志数据并查看常见问题和问题，以下指南可能会有所帮助。
 
-- [Intune 中的策略和配置文件疑难解答](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Intune 中的策略和配置文件疑难解答](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
 - [Intune 中的设备策略和配置文件的常见问题、问题和解决方法](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
@@ -35,4 +35,4 @@ ms.locfileid: "43766657"
 
 - [将 Intune 日志数据发送到 Azure 存储、事件中心或日志分析](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-请参阅[配置设备](https://docs.microsoft.com/intune/device-profiles)的概述或[使用合规性策略](https://docs.microsoft.com/intune/device-compliance-get-started)。
+请参阅 [配置设备](https://docs.microsoft.com/intune/device-profiles) 的概述或 [使用合规性策略](https://docs.microsoft.com/intune/device-compliance-get-started)。
