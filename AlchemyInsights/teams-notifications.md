@@ -11,17 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 994de03c6416f7f28592c05dd7da762e67567de7
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944033"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406460"
 ---
-# <a name="teams-notifications"></a>Teams 通知
+# <a name="teams-notifications-faq"></a>Teams 通知常见问题解答
 
-在 Teams 桌面应用程序中，可通过多种方式访问和管理通知。 若要进一步自定义通知设置，请在 Teams 的右上角选择个人资料图片，然后转到“设置”>“活动通知”****。 可从此处微调收到的通知及其显示位置。 
 
-在 iOS 和 Android 应用中，点击“更多”>“设置”>“通知”**** 来自定义通知。
+- 通知 [由用户设置](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)， 管理员不能代表用户更改通知设置。 在 Teams 桌面应用中，选择 Teams 右上角的个人资料图片，然后进入设置>活动通知。
 
-有关详细信息，请参阅[有关通知的 6 个须知事项](https://support.microsoft.com/zh-CN/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4)，以及 [在 Teams 中管理通知](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA)。
+- [移动设备故障排除通知](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+
+- 你可通过四种方法接收通知：通过活动源、聊天、横幅通知和电子邮件。 当你在Teams上有一段时间没有活动时，会发送错过的活动电子邮件。 查看 [有关通知的 6 个须知事项](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) 更多信息
+
+有关 Teams 通知的详细信息，请参阅[在 Teams 中管理通知](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA)。
