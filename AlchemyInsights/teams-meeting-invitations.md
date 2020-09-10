@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 374aee5f3cc152d3fb03619c1748f7cc19b4ac44
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553173"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406496"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="a94c1-102">Teams 会议邀请</span><span class="sxs-lookup"><span data-stu-id="a94c1-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="006a7-102">Teams 会议邀请</span><span class="sxs-lookup"><span data-stu-id="006a7-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="a94c1-103">需要了解如何[在 Teams 中创建会议邀请](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)？</span><span class="sxs-lookup"><span data-stu-id="a94c1-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="006a7-103">需要帮助为您的组织定制团队会议邀请函吗？</span><span class="sxs-lookup"><span data-stu-id="006a7-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="006a7-104">请务必查看 [自定义会议邀请函 ](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="006a7-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="a94c1-104">当前，Teams 会议邀请**无法自定义**。</span><span class="sxs-lookup"><span data-stu-id="a94c1-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="a94c1-105">请[对 Teams UserVoice 进行投票](https://microsoftteams.uservoice.com/)，以将此问题添加到路线图中。</span><span class="sxs-lookup"><span data-stu-id="a94c1-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="006a7-105">有关其他信息，请参见 [Microsoft Teams 中的管理会议设置](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="006a7-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
