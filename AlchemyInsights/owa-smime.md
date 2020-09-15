@@ -6,16 +6,17 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: c67a8343af7d0e91173248e797986831cfe203e9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 2351504b2fd3c24ee5c4d1c0442e6408444dc48c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768355"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666104"
 ---
 # <a name="encrypt-messages-using-smime"></a>使用 S/MIME 加密邮件
 
@@ -26,7 +27,7 @@ ms.locfileid: "43768355"
 若要更改 web 上 Outlook 中的 S/MIME 设置，请执行以下操作：
 
 1. 转到 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **"设置** > "**查看所有 Outlook 设置**。
-2. 选择 "**邮件** > **S/MIME**"。
+ **设置**  > **查看所有 Outlook 设置**。
+2. 选择 "**邮件**  >  **S/MIME**"。
 
-有关详细信息，请参阅[在 web 上的 Outlook 中使用 S/MIME 对邮件进行加密](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy)。
+有关详细信息，请参阅 [在 web 上的 Outlook 中使用 S/MIME 对邮件进行加密](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) 。
