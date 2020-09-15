@@ -5,22 +5,23 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 3d162003c34773f4764c12cc27554e451fec4c27
-ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.openlocfilehash: e1f40da41eddc56c8086881a426bddb363c92446
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44225222"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686020"
 ---
 # <a name="billing-and-payment"></a>帐单和付款
 
-可以在 "**计费**  >  [帐单 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)" 选项卡上找到你的帐单。 默认情况下，显示最近3个月的发票。  若要查看较旧的发票，请调整筛选器。  单击 "**下载发票 PDF** " 链接以查看发票。
+可以在 "**计费**  >  [帐单 & 付款](https://go.microsoft.com/fwlink/p/?linkid=848039)" 选项卡上找到你的帐单。 默认情况下，显示最近3个月的发票。  若要查看较旧的发票，请调整筛选器。  单击 " **下载发票 PDF** " 链接以查看发票。
 
 **通过电子邮件接收发票**
 
@@ -30,28 +31,28 @@ ms.locfileid: "44225222"
 
 **支票**
 
-如果通过信用卡或银行帐户付款，则在创建记帐后的几天内将对与你的订阅关联的付款方法进行收费。 如果付款失败，请更新或更改付款方式。
+如果通过信用卡或银行帐户付款，则在创建记帐后的几天内将收取与您的订阅关联的付款方式 (s) 。 如果付款失败，请更新或更改付款方式。
 
 如果你已添加新卡，但仍收到有关旧信用卡的拒绝通知，则可能需要将该新卡与订阅关联。
 
-1. 在 "管理中心" 中，转到 "**计费**  >  **帐单 & 付款**  >  [方法](https://go.microsoft.com/fwlink/p/?linkid=2018806)" 页。
+1. 在管理中心，转到“**账单**” > “**账单和付款**“ > “[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面。
 
-2. 选择要替换的付款方法的行。 右侧窗格列出了所有帐单配置文件和使用所选付款方式的各个订阅。
+2. 选择要替换的付款方式行。 右窗格列出了使用所选付款方式的所有计费对象信息和单个订阅。
 
-3. 在右侧窗格中，选择 "**替换所有项目的付款方式**"。
+3. 在右窗格中，选择“**所有商品的替换付款方式**”。
 
-4. 若要使用现有的付款方式，请从下拉列表中选择一个，然后选择 "**替换**"。
+4. 若要使用现有付款方式，请从下拉列表中选择一个，然后选择“**替换**”。
 
     > [!NOTE]
-    > 如果你有与帐单配置文件关联的订阅，则只能使用信用卡或借记卡支付。 如果您在 "**付款方式**" 页上列出了银行帐户，则不能在下拉列表中进行选择。
+    > 如果你有与计费对象信息相关联的订阅，则只能使用信用卡或借记卡支付。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
 
-5. 若要添加新的付款方式，请选择 "**添加支付方式**"。
+5. 若要添加新的付款方式，请选择“**添加付款方式**”。
 
-6. 在 "**添加付款方法**" 窗格中，输入帐户信息，然后选择 "**保存**"。 您必须使用与您的租户来自同一国家/地区的付款方式。
+6. 在“**添加付款方式**”窗格中，输入帐户信息，然后选择“**保存**”。 你必须使用租户所在国家/地区的付款方式。
 
 7. 已在下拉列表中选择新的付款方式。 选择“**替换**”。
 
-若要了解详细信息，请参阅[管理支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要了解详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **计费频率**
 
