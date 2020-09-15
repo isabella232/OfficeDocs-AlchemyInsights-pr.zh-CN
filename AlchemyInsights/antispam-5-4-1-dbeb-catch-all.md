@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707901"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717351"
 ---
 # <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>修复错误代码550的传递问题5.4.1 中继访问被拒绝
 
-当您在进入 Microsoft 网络时[检查电子邮件地址是否有效以防止 bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking)时，会出现此问题。 请尝试执行以下操作：
+当您在进入 Microsoft 网络时 [检查电子邮件地址是否有效以防止 bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) 时，会出现此问题。 请尝试执行以下操作：
 
 1. 确定问题是否特定于整个域或单个电子邮件地址：
-    - 整个域：有时域需要同步;尝试[将域设置为 "内部"，然后再设置为 "权威"](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)。
+    - 整个域：有时域需要同步;尝试 [将域设置为 "内部"，然后再设置为 "权威"](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)。
     - 单个电子邮件地址：有时需要同步地址;更改 smtp 代理地址，然后将其更改为 "可帮助"。
 2. 确定问题是否特定于组或公用文件夹。 对于某些对象类型，可能需要在 Azure Active Directory 中手动创建对象。
 
-如果需要更多帮助，请打开支持票证并指定问题的范围（包括您要发送到的对象的类型），以便我们可以为你提供更好的帮助。
+如果需要其他帮助，请打开支持票证并指定问题的范围 (包括要发送给) 的对象的类型，以便我们可以为你提供更好的帮助。
