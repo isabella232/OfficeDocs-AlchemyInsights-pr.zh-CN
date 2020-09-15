@@ -6,18 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507360"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679359"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>包含社会保险号的 DLP 问题
 
@@ -25,7 +26,7 @@ ms.locfileid: "44507360"
 
 **Ssn 的 DLP 问题**
 
-在 Microsoft 365 中使用敏感信息类型时，您是否遇到**数据丢失防护（DLP）** 无法处理包含**社会保险号（SSN）** 的内容的问题？ 如果是这样，请确保您的内容包含 DLP 策略所需的信息所需的信息。 
+您是否遇到 **数据丢失防护问题 (DLP) ** 在使用 Microsoft 365 中的敏感信息类型时，) 的包含 **社会保险号 (** 的内容不工作？ 如果是这样，请确保您的内容包含 DLP 策略所需的信息所需的信息。 
   
 例如，对于配置为可信度为85% 的 SSN 策略，将对以下项进行评估，并且必须检测到规则才能触发：
   
@@ -47,9 +48,9 @@ ms.locfileid: "44507360"
 
   - [函数 Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80)找到与该模式匹配的内容。
 
-  - 找到 [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) 中的一个关键字。 关键字的示例包括：*社会保险、社会 security #、Soc Sec、SSN* 。 例如，以下示例将触发 DLP SSN 策略： **SSN： 489-36-8350**
+  - 找到 [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) 中的一个关键字。 关键字的示例包括：  *社会保险、社会 security #、Soc Sec、SSN*  。 例如，以下示例将触发 DLP SSN 策略： **SSN： 489-36-8350**
   
-若要详细了解为您的内容检测 Ssn 所需的信息，请参阅本文中的以下部分：[敏感信息类型查找的内容 ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+若要详细了解为您的内容检测 Ssn 所需的信息，请参阅本文中的以下部分： [敏感信息类型查找的内容 ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-使用不同的内置敏感信息类型，请参阅以下文章，了解其他类型所需的信息：[敏感信息类型查找的内容](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+使用不同的内置敏感信息类型，请参阅以下文章，了解其他类型所需的信息： [敏感信息类型查找的内容](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
