@@ -5,28 +5,29 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062454"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708565"
 ---
 # <a name="find-and-activate-my-product-key"></a>查找并激活我的产品密钥
 
-如果你通过[Microsoft 开放式许可证计划](https://go.microsoft.com/fwlink/p/?LinkID=613298)购买了 microsoft 365 for business，请参阅如何查找和激活你的产品密钥。
+如果你通过 [Microsoft 开放式许可证计划](https://go.microsoft.com/fwlink/p/?LinkID=613298)购买了 microsoft 365 for business，请参阅如何查找和激活你的产品密钥。
 
 1. 从 Microsoft 365 合作伙伴购买密钥后，请在 "收件箱" 中查看来自 Microsoft 包含激活链接的电子邮件。  **注意**：将电子邮件发送给在批量许可协议中列为联机管理员的人员。  如果你不确定谁被指定为联机管理员，请咨询你的 Microsoft 365 合作伙伴。
 
-2. 按照电子邮件中的链接，使用你的工作或学校帐户登录，接受开放许可协议并续订订阅。  有关分步演练，请下载 PDF 指南，[激活联机服务： Microsoft 365 订阅](https://go.microsoft.com/fwlink/p/?LinkId=618100)。 
+2. 按照电子邮件中的链接，使用你的工作或学校帐户登录，接受开放许可协议并续订订阅。  有关分步演练，请下载 PDF 指南， [激活联机服务： Microsoft 365 订阅](https://go.microsoft.com/fwlink/p/?LinkId=618100)。 
 
-**注意**：批量许可客户还可以选择在[批量许可服务中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)中激活订阅。  若要了解如何操作，请下载 "[批量许可服务中心" 中](https://go.microsoft.com/fwlink/p/?LinkId=618096)的 "PDF 指南" 活动联机服务。
+**注意**：批量许可客户还可以选择在 [批量许可服务中心](https://go.microsoft.com/fwlink/p/?LinkID=282016)中激活订阅。  若要了解如何操作，请下载 " [批量许可服务中心" 中](https://go.microsoft.com/fwlink/p/?LinkId=618096)的 "PDF 指南" 活动联机服务。
 
 如果从零售商店购买了 Microsoft 365 商业高级版标准，请使用以下步骤来延长到期日期或向现有订阅添加许可证。
 
@@ -34,10 +35,10 @@ ms.locfileid: "44062454"
 
 1. 在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
-2. 查找要将到期日期扩展到的订阅或添加许可证。  单击 "[延长结束日期](https://go.microsoft.com/fwlink/p/?linkid=842054)" 或 "[添加更多许可证](https://go.microsoft.com/fwlink/p/?linkid=842054)"。
+2. 查找要将到期日期扩展到的订阅或添加许可证。  单击 " [延长结束日期](https://go.microsoft.com/fwlink/p/?linkid=842054) " 或 " [添加更多许可证](https://go.microsoft.com/fwlink/p/?linkid=842054)"。
 
-3. 单击 "**使用新的未使用的产品密钥**"，然后单击 "**下一步**"。
+3. 单击 " **使用新的未使用的产品密钥** "，然后单击 " **下一步**"。
 
-4. 输入产品密钥，然后单击 "**下一步**"。
+4. 输入产品密钥，然后单击 " **下一步**"。
 
-5. 查看你的订单详细信息。  如果一切看上去正确，请单击 "**兑换**"。
+5. 查看你的订单详细信息。  如果一切看上去正确，请单击 " **兑换**"。

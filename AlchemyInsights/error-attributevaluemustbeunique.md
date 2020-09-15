@@ -6,23 +6,24 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: fa1fdb35f1af250bc98aa61c0e5111f1f1b8aac4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703164"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709141"
 ---
 # <a name="error-attributevaluemustbeunique"></a>错误： AttributeValueMustBeUnique
 
-AttributeValueMustBeUnique 错误最常见的原因是具有不同的 SourceAnchor （immutableId）的两个对象具有相同的 ProxyAddresses 和/或 UserPrincipalName 属性值。 若要修复 AttributeValueMustBeUnique 错误，请执行以下操作：
+AttributeValueMustBeUnique 错误的最常见原因是两个对象具有不同的 SourceAnchor (immutableId) 具有相同的 ProxyAddresses 和/或 UserPrincipalName 属性值。 若要修复 AttributeValueMustBeUnique 错误，请执行以下操作：
   
-1. 标识复制的 proxyAddresses、userPrincipalName 或其他导致错误的属性值。 此外，还应确定冲突中涉及的两个或多个对象。 Azure AD Connect Health 生成的报告可帮助您识别这两个对象。
+1. 标识复制的 proxyAddresses、userPrincipalName 或其他导致错误的属性值。 此外，还应确定冲突中涉及的两个 (或多个) 对象。 Azure AD Connect Health 生成的报告可帮助您识别这两个对象。
     
 2. 确定哪个对象应继续具有重复的值以及哪个对象不应出现的情况。
     

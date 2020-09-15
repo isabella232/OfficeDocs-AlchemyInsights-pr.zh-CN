@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,27 +13,27 @@ ms.custom:
 - "9000191"
 - "1749"
 - "2389"
-ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b75daec0cf526be7b5073d0e90421ab207560f17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049759"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708493"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>SharePoint Online 中的外部共享
 
-如果您的组织执行涉及共享文档或与供应商、客户或客户直接合作的工作，则可以使用[SharePoint Online 的外部共享功能](https://docs.microsoft.com/sharepoint/external-sharing-overview)与组织外部的人员共享内容。
+如果您的组织执行涉及共享文档或与供应商、客户或客户直接合作的工作，则可以使用 [SharePoint Online 的外部共享功能](https://docs.microsoft.com/sharepoint/external-sharing-overview) 与组织外部的人员共享内容。
 
 有关外部共享的详细信息，请访问以下链接：
 
 - [对 SharePoint Online 启用或禁用外部共享](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 - [启用或禁用网站的外部共享](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 - [每个网站类型的默认共享设置](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [将 Sharepoint Online 用作企业到企业（B2B） extranet 解决方案](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [使用 Sharepoint Online 作为企业到企业 (B2B) extranet 解决方案](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 - [共享 SharePoint 文件或文件夹](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 - [停止共享 OneDrive 或 SharePoint 文件或文件夹，或更改权限](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Microsoft Teams 中的来宾访问](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft 来宾共享设置参考（Azure Active Directory、Microsoft 365 和 SharePoint Online）](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Microsoft 来宾共享设置参考 (Azure Active Directory、Microsoft 365 和 SharePoint Online) ](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
 是否收到外部用户的错误消息？检查以下链接：
 
