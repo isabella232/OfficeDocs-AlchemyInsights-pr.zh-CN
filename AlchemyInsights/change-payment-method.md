@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154508"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681800"
 ---
 # <a name="change-payment-method"></a>更改付款方式
 
-您可以从**Microsoft 365 管理中心**更改支付方式。
+您可以从 **Microsoft 365 管理中心**更改支付方式。
   
 1. 在管理中心，转到“**账单**” > “**账单和付款**“ > “[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面。
 2. 选择要替换的付款方式行。 右窗格列出了使用所选付款方式的所有计费对象信息和单个订阅。
@@ -36,4 +37,4 @@ ms.locfileid: "45154508"
 
 若要了解详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
-若要了解如何将信用卡支付方式更改为发票付款，请参阅[从信用卡或银行帐户更改为发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)。
+若要了解如何将信用卡支付方式更改为发票付款，请参阅 [从信用卡或银行帐户更改为发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice)。
