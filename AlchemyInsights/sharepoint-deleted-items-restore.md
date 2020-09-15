@@ -5,6 +5,7 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,16 +13,16 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 61016010133bf07fa321be1a5bdef1674bcc2550
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054115"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700733"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>从 SharePoint 还原已删除的项目
 
-从 SharePoint 中删除项目或网站时，不会立即将其删除。 已删除邮件在一段时间内进入回收站。 在这段时间内，您可以将删除的项目还原到其原始位置。 有关详细信息，请访问下面的链接。
+从 SharePoint 删除项目或网站时，不会立即将其删除。 删除的项目会在回收站保留一段时间。 在此期间，可以将已删除的项目还原到原始位置。 有关详细信息，请访问下面的链接。
 
 - [Restore items in the Recycle Bin of a SharePoint site](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) （还原 SharePoint 网站回收站中的项目）
 
@@ -29,7 +30,7 @@ ms.locfileid: "40054115"
 
 - [删除项目或清空回收站](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [还原已删除的网站集（包括组、通信和其他网站）](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection )。
+- [还原已删除的网站集， (包括组、通信和其他网站) ](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection )。
 
 - [还原已删除的 OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
