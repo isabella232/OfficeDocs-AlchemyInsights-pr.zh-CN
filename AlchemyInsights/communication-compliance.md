@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706155"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713841"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365 中的通信合规性
 
@@ -26,13 +27,13 @@ ms.locfileid: "43706155"
 - 灵活的补救工作流
 - 可操作的见解
 
-如果你当前使用[监督策略](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)，我们建议你现在使用新的通信合规性来满足法规需求。
+如果你当前使用 [监督策略](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)，我们建议你现在使用新的通信合规性来满足法规需求。
 
-若要设置通信合规性，请参阅[配置通信合规性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)。
+若要设置通信合规性，请参阅 [配置通信合规性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)。
 
-若要调查、查看和修正通信合规性，请参阅[调查和修正通信合规性警报](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)。
+若要调查、查看和修正通信合规性，请参阅 [调查和修正通信合规性警报](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)。
 
-有关通信合规性功能的概述，请参阅[Microsoft 365 中的通信合规性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)。
+有关通信合规性功能的概述，请参阅 [Microsoft 365 中的通信合规性](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)。
 
 许可证要求：通过通信策略监视的用户必须具有以下各项之一：
 
@@ -40,4 +41,4 @@ ms.locfileid: "43706155"
 - 具有 "高级合规性" 加载项的 Office 365 企业版 E3 许可证
 - Office 365 企业版 E5 订阅
 
-如果您没有以上任何一种情况，并且想要尝试进行通信合规性，请**[注册 Office 365 企业版 E5 的试用版](https://go.microsoft.com/fwlink/p/?LinkID=698279)**。
+如果您没有以上任何一种情况，并且想要尝试进行通信合规性，请 **[注册 Office 365 企业版 E5 的试用版](https://go.microsoft.com/fwlink/p/?LinkID=698279)**。
