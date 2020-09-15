@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 13dc77fd2a575fbd227a2a880438b78aaa2c3fb2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36665822"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658868"
 ---
 # <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>解决在 Microsoft Intune 中注册 Windows 设备时出现的问题
 
@@ -28,9 +29,9 @@ ms.locfileid: "36665822"
   
  **错误代码0x801c0003：** 在下列情况下可能会发生此错误：
   
--  用户已注册的设备超过设备限制。 查看这些文档以[删除设备](https://docs.microsoft.com/intune/devices-wipe)或[更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
+-  用户已注册的设备超过设备限制。 查看这些文档以 [删除设备](https://docs.microsoft.com/intune/devices-wipe) 或 [更改设备限制](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)。
 
--  "用户可以将设备加入 Azure AD" 设置为 "无"。 将其设置为 "所有用户" 或 "选择用户"。 有关详细信息，请参阅[本文档](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings)。
+-  "用户可以将设备加入 Azure AD" 设置为 "无"。 将其设置为 "所有用户" 或 "选择用户"。 有关详细信息，请参阅 [本文档](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) 。
 
 -  设备已由其他用户注册。 如果是这种情况，请从 Azure Intune 控制台中删除该设备，或手动取消注册该设备，然后重试。
 
@@ -38,7 +39,7 @@ ms.locfileid: "36665822"
 
 帮助解决你的问题的其他资源：
   
--  使用[Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)诊断和解决常见注册故障。 有关详细信息，请查看[此文档](https://docs.microsoft.com/intune/help-desk-operators)。
+-  使用 [Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 诊断和解决常见注册故障。 有关详细信息，请查看 [此文档](https://docs.microsoft.com/intune/help-desk-operators) 。
 
 -  有关阻止注册的一系列常见错误及其解决方案，请查看以下文档：[故障排除指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑难解答文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)。
 

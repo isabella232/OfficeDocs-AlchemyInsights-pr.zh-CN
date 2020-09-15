@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 02368d6a06df90d76ee1bd5448819e7ffe12c18c
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 1ad9ab294d46ca0fc88a454e3503ddcf80398896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579999"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662999"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>隐藏来自地址列表（GAL）的 Microsoft 365 组
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>将 Microsoft 365 组从地址列表中隐藏 (GAL) 
 
-若要从 Exchange 客户端（如 Outlook 或 OWA）的地址列表（GAL）中隐藏 Microsoft 365 组，请在 EXO 命令行管理程序中使用以下命令：
+若要将 Microsoft 365 组从地址列表中隐藏 (GAL) 的 Exchange 客户端 (如 Outlook 或 OWA) ，请在 EXO 命令行管理程序中使用以下命令：
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
