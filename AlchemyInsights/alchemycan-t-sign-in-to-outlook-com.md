@@ -6,28 +6,29 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
-ms.openlocfilehash: 6a83e8c1b4076a04492ffb708d485aeddf80da44
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c065bdee1ded7eaaa1851d6fc20007a3b7f20879
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710289"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718971"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="562b2-102">无法登录到 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="562b2-102">Can't sign in to Outlook.com</span></span>
+# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="e888d-102">无法登录到 Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e888d-102">Can't sign in to Outlook.com</span></span>
 
-<span data-ttu-id="562b2-103">如果你在登录帐户时遇到问题，请确保你的帐户未处于非活动状态超过365天。</span><span class="sxs-lookup"><span data-stu-id="562b2-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="562b2-104">在365天的非活动状态后，你的电子邮件将被删除，并且无法恢复。</span><span class="sxs-lookup"><span data-stu-id="562b2-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="e888d-103">如果你在登录帐户时遇到问题，请确保你的帐户未处于非活动状态超过365天。</span><span class="sxs-lookup"><span data-stu-id="e888d-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="e888d-104">在365天的非活动状态后，你的电子邮件将被删除，并且无法恢复。</span><span class="sxs-lookup"><span data-stu-id="e888d-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="562b2-105">由于我们注意到一些异常登录活动，你的帐户可能暂时被阻止。</span><span class="sxs-lookup"><span data-stu-id="562b2-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="562b2-106">如果你的帐户被阻止，请阅读如何[解锁我的 Outlook.com 帐户](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx)。</span><span class="sxs-lookup"><span data-stu-id="562b2-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span></span> 
+<span data-ttu-id="e888d-105">由于我们注意到一些异常登录活动，你的帐户可能暂时被阻止。</span><span class="sxs-lookup"><span data-stu-id="e888d-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="e888d-106">如果你的帐户被阻止，请阅读如何 [解锁我的 Outlook.com 帐户](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e888d-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span></span> 
   
-<span data-ttu-id="562b2-107">如果您怀疑您的 Outlook.com 帐户受到攻击，请参阅[我的 Outlook.com 帐户已受到攻击](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)。</span><span class="sxs-lookup"><span data-stu-id="562b2-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span></span>
+<span data-ttu-id="e888d-107">如果您怀疑您的 Outlook.com 帐户受到攻击，请参阅 [我的 Outlook.com 帐户已受到攻击](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx)。</span><span class="sxs-lookup"><span data-stu-id="e888d-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span></span>
   
-<span data-ttu-id="562b2-108">如果你忘记或丢失了密码，则可以[重置密码](https://go.microsoft.com/fwlink/p/?LinkID=242804)。</span><span class="sxs-lookup"><span data-stu-id="562b2-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
+<span data-ttu-id="e888d-108">如果你忘记或丢失了密码，则可以 [重置密码](https://go.microsoft.com/fwlink/p/?LinkID=242804)。</span><span class="sxs-lookup"><span data-stu-id="e888d-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
   
-<span data-ttu-id="562b2-109">阅读有关[何时无法登录你的 Microsoft 帐户](https://go.microsoft.com/fwlink/p/?linkid=837479)的详细信息。</span><span class="sxs-lookup"><span data-stu-id="562b2-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="e888d-109">阅读有关 [何时无法登录你的 Microsoft 帐户](https://go.microsoft.com/fwlink/p/?linkid=837479)的详细信息。</span><span class="sxs-lookup"><span data-stu-id="e888d-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
   
 
