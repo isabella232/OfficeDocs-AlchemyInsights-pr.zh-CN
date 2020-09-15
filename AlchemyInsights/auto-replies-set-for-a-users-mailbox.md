@@ -5,49 +5,50 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 03c530e7ce5f00fce2222cf9993930b97e5a2818
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788872"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715119"
 ---
-# <a name="set-auto-replies-for-a-users-mailbox"></a><span data-ttu-id="83f86-102">设置用户邮箱的自动答复</span><span class="sxs-lookup"><span data-stu-id="83f86-102">Set auto replies for a user's mailbox</span></span>
+# <a name="set-auto-replies-for-a-users-mailbox"></a><span data-ttu-id="a9299-102">设置用户邮箱的自动答复</span><span class="sxs-lookup"><span data-stu-id="a9299-102">Set auto replies for a user's mailbox</span></span>
 
-<span data-ttu-id="83f86-103">**方法 1**</span><span class="sxs-lookup"><span data-stu-id="83f86-103">**Method 1**</span></span>
+<span data-ttu-id="a9299-103">**方法 1**</span><span class="sxs-lookup"><span data-stu-id="a9299-103">**Method 1**</span></span>
 
-1. <span data-ttu-id="83f86-104">登录到 Microsoft 365 门户。</span><span class="sxs-lookup"><span data-stu-id="83f86-104">Sign in to the Microsoft 365 portal.</span></span>
+1. <span data-ttu-id="a9299-104">登录到 Microsoft 365 门户。</span><span class="sxs-lookup"><span data-stu-id="a9299-104">Sign in to the Microsoft 365 portal.</span></span>
 
-2. <span data-ttu-id="83f86-105">转到 **“用户”>“活动用户”**（或如果在共享邮箱上进行设置，则转到 **“组”>“共享邮箱”**）。</span><span class="sxs-lookup"><span data-stu-id="83f86-105">Go to **Users > Active users** (or **Groups > Shared mailboxes** if you set this on a shared mailbox).</span></span>
+2. <span data-ttu-id="a9299-105">转到 **“用户”>“活动用户”**（或如果在共享邮箱上进行设置，则转到 **“组”>“共享邮箱”**）。</span><span class="sxs-lookup"><span data-stu-id="a9299-105">Go to **Users > Active users** (or **Groups > Shared mailboxes** if you set this on a shared mailbox).</span></span>
 
-3. <span data-ttu-id="83f86-106">选择具有 Microsoft Exchange 邮箱的用户。</span><span class="sxs-lookup"><span data-stu-id="83f86-106">Select a user who has a Microsoft Exchange mailbox.</span></span>
+3. <span data-ttu-id="a9299-106">选择具有 Microsoft Exchange 邮箱的用户。</span><span class="sxs-lookup"><span data-stu-id="a9299-106">Select a user who has a Microsoft Exchange mailbox.</span></span>
 
-4. <span data-ttu-id="83f86-107">在右侧的弹出菜单上，转到 **“邮件设置”>“自动答复”**（如果是共享邮箱，只需在弹出菜单上单击“**自动答复**”）。</span><span class="sxs-lookup"><span data-stu-id="83f86-107">On the fly-out menu on the right, go to **Mail settings > Automatic replies** (if it's a shared mailbox, just click **Automatic replies** on the fly-out).</span></span>
+4. <span data-ttu-id="a9299-107">在右侧的弹出菜单上，转到 **“邮件设置”>“自动答复”**（如果是共享邮箱，只需在弹出菜单上单击“**自动答复**”）。</span><span class="sxs-lookup"><span data-stu-id="a9299-107">On the fly-out menu on the right, go to **Mail settings > Automatic replies** (if it's a shared mailbox, just click **Automatic replies** on the fly-out).</span></span>
 
-<span data-ttu-id="83f86-108">**方法 2**</span><span class="sxs-lookup"><span data-stu-id="83f86-108">**Method 2**</span></span>
+<span data-ttu-id="a9299-108">**方法 2**</span><span class="sxs-lookup"><span data-stu-id="a9299-108">**Method 2**</span></span>
 
-1. <span data-ttu-id="83f86-109">使用管理员凭据登录到 Microsoft 365 管理门户。</span><span class="sxs-lookup"><span data-stu-id="83f86-109">Sign in to the Microsoft 365 admin portal by using administrator credentials.</span></span>
+1. <span data-ttu-id="a9299-109">使用管理员凭据登录到 Microsoft 365 管理门户。</span><span class="sxs-lookup"><span data-stu-id="a9299-109">Sign in to the Microsoft 365 admin portal by using administrator credentials.</span></span>
 
-2. <span data-ttu-id="83f86-110">展开“**管理中心**”，然后单击“**Exchange**”。</span><span class="sxs-lookup"><span data-stu-id="83f86-110">Expand **Admin Centers**, and then click **Exchange**.</span></span>
+2. <span data-ttu-id="a9299-110">展开“**管理中心**”，然后单击“**Exchange**”。</span><span class="sxs-lookup"><span data-stu-id="a9299-110">Expand **Admin Centers**, and then click **Exchange**.</span></span>
 
-3. <span data-ttu-id="83f86-111">单击右上角的图片，单击“**其他用户**”，然后选择要更改的用户邮箱。</span><span class="sxs-lookup"><span data-stu-id="83f86-111">Click the picture in the upper-right corner, click **Another User**, and then select the user mailbox that you want to change.</span></span>
+3. <span data-ttu-id="a9299-111">单击右上角的图片，单击“**其他用户**”，然后选择要更改的用户邮箱。</span><span class="sxs-lookup"><span data-stu-id="a9299-111">Click the picture in the upper-right corner, click **Another User**, and then select the user mailbox that you want to change.</span></span>
 
-4. <span data-ttu-id="83f86-112">在左侧，选择“**选项**”，单击“**组织电子邮件**”，然后单击“**自动答复**”。</span><span class="sxs-lookup"><span data-stu-id="83f86-112">On the left side, select **Options**, click **Organize E-mail**, and then click **Automatic replies.**</span></span>
+4. <span data-ttu-id="a9299-112">在左侧，选择“**选项**”，单击“**组织电子邮件**”，然后单击“**自动答复**”。</span><span class="sxs-lookup"><span data-stu-id="a9299-112">On the left side, select **Options**, click **Organize E-mail**, and then click **Automatic replies.**</span></span>
 
-<span data-ttu-id="83f86-113">**方法 3**</span><span class="sxs-lookup"><span data-stu-id="83f86-113">**Method 3**</span></span>
+<span data-ttu-id="a9299-113">**方法 3**</span><span class="sxs-lookup"><span data-stu-id="a9299-113">**Method 3**</span></span>
 
-<span data-ttu-id="83f86-114">在 Exchange Online PowerShell 中运行以下 cmdlet：</span><span class="sxs-lookup"><span data-stu-id="83f86-114">Run the following cmdlet in Exchange Online PowerShell:</span></span>
+<span data-ttu-id="a9299-114">在 Exchange Online PowerShell 中运行以下 cmdlet：</span><span class="sxs-lookup"><span data-stu-id="a9299-114">Run the following cmdlet in Exchange Online PowerShell:</span></span>
 
-<span data-ttu-id="83f86-115">PowerShellCopy</span><span class="sxs-lookup"><span data-stu-id="83f86-115">PowerShellCopy</span></span>
+<span data-ttu-id="a9299-115">PowerShellCopy</span><span class="sxs-lookup"><span data-stu-id="a9299-115">PowerShellCopy</span></span>
 
 ```
     Set-MailboxAutoReplyConfiguration
 ```
 
-<span data-ttu-id="83f86-116">有关此 cmdlet 的详细信息，请参阅 [Set-MailboxAutoReplyConfiguration](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-mailboxautoreplyconfiguration)。</span><span class="sxs-lookup"><span data-stu-id="83f86-116">For more information about this cmdlet, see [Set-MailboxAutoReplyConfiguration](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-mailboxautoreplyconfiguration).</span></span>
+<span data-ttu-id="a9299-116">有关此 cmdlet 的详细信息，请参阅 [Set-MailboxAutoReplyConfiguration](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-mailboxautoreplyconfiguration)。</span><span class="sxs-lookup"><span data-stu-id="a9299-116">For more information about this cmdlet, see [Set-MailboxAutoReplyConfiguration](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-mailboxautoreplyconfiguration).</span></span>

@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5103"
-ms.openlocfilehash: 9816f1af0447587fa84c0430da15926c78bd93b1
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
+ms.openlocfilehash: 3d5526bfb3da1237cf4ffcdde791a56b30bed5a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947800"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715875"
 ---
-# <a name="assign-project-to-users"></a><span data-ttu-id="556db-102">向用户分配 Project</span><span class="sxs-lookup"><span data-stu-id="556db-102">Assign Project to users</span></span>
+# <a name="assign-project-to-users"></a><span data-ttu-id="baedf-102">向用户分配 Project</span><span class="sxs-lookup"><span data-stu-id="baedf-102">Assign Project to users</span></span>
 
-<span data-ttu-id="556db-103">可在 **Microsoft 365 管理中心**将 Project 分配给用户。</span><span class="sxs-lookup"><span data-stu-id="556db-103">Project can be assigned to users in the **Microsoft 365 Admin Center**.</span></span>
+<span data-ttu-id="baedf-103">可在 **Microsoft 365 管理中心**将 Project 分配给用户。</span><span class="sxs-lookup"><span data-stu-id="baedf-103">Project can be assigned to users in the **Microsoft 365 Admin Center**.</span></span>
 
-1. <span data-ttu-id="556db-104">转到 **“计费”>“[许可证](https://go.microsoft.com/fwlink/p/?linkid=842264)”**。</span><span class="sxs-lookup"><span data-stu-id="556db-104">Go to **Billing > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)**.</span></span>
-2. <span data-ttu-id="556db-105">选择要为其分配许可证的产品。</span><span class="sxs-lookup"><span data-stu-id="556db-105">Select a product for which you want to assign licenses.</span></span>
-3. <span data-ttu-id="556db-106">单击“**分配许可证**”。</span><span class="sxs-lookup"><span data-stu-id="556db-106">Click **Assign licenses**.</span></span>
-4. <span data-ttu-id="556db-107">在“**向用户分配许可证**”窗格中，开始键入用户名，然后从结果中选择该用户。</span><span class="sxs-lookup"><span data-stu-id="556db-107">In the **Assign licenses to users** pane, begin typing a user's name, and then choose it from the results.</span></span> <span data-ttu-id="556db-108">一次最多可添加 20 名用户。</span><span class="sxs-lookup"><span data-stu-id="556db-108">You can add up to 20 users at a time.</span></span>
-5. <span data-ttu-id="556db-109">选择“**打开或关闭应用和服务**”，进行分配或删除。</span><span class="sxs-lookup"><span data-stu-id="556db-109">Click **Turn apps and services on or off** to assign or remove.</span></span>
-6. <span data-ttu-id="556db-110">单击“**分配**”，然后“**关闭**”。</span><span class="sxs-lookup"><span data-stu-id="556db-110">Click **Assign**, and **Close**.</span></span>
+1. <span data-ttu-id="baedf-104">转到 **“计费”>“[许可证](https://go.microsoft.com/fwlink/p/?linkid=842264)”**。</span><span class="sxs-lookup"><span data-stu-id="baedf-104">Go to **Billing > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)**.</span></span>
+2. <span data-ttu-id="baedf-105">选择要为其分配许可证的产品。</span><span class="sxs-lookup"><span data-stu-id="baedf-105">Select a product for which you want to assign licenses.</span></span>
+3. <span data-ttu-id="baedf-106">单击“**分配许可证**”。</span><span class="sxs-lookup"><span data-stu-id="baedf-106">Click **Assign licenses**.</span></span>
+4. <span data-ttu-id="baedf-107">在“**向用户分配许可证**”窗格中，开始键入用户名，然后从结果中选择该用户。</span><span class="sxs-lookup"><span data-stu-id="baedf-107">In the **Assign licenses to users** pane, begin typing a user's name, and then choose it from the results.</span></span> <span data-ttu-id="baedf-108">一次最多可添加 20 名用户。</span><span class="sxs-lookup"><span data-stu-id="baedf-108">You can add up to 20 users at a time.</span></span>
+5. <span data-ttu-id="baedf-109">选择“**打开或关闭应用和服务**”，进行分配或删除。</span><span class="sxs-lookup"><span data-stu-id="baedf-109">Click **Turn apps and services on or off** to assign or remove.</span></span>
+6. <span data-ttu-id="baedf-110">单击“**分配**”，然后“**关闭**”。</span><span class="sxs-lookup"><span data-stu-id="baedf-110">Click **Assign**, and **Close**.</span></span>
 
-<span data-ttu-id="556db-111">若要购买更多许可证或删除许可证，请参阅[添加/删除订阅许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。</span><span class="sxs-lookup"><span data-stu-id="556db-111">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
+<span data-ttu-id="baedf-111">若要购买更多许可证或删除许可证，请参阅[添加/删除订阅许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)。</span><span class="sxs-lookup"><span data-stu-id="baedf-111">To buy more or remove licenses, see [Add/Remove Licenses for subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).</span></span>
