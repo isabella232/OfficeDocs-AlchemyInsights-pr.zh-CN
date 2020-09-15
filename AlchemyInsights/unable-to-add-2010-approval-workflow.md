@@ -5,40 +5,41 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582837"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699725"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>无法添加2010审批工作流
 
-在 Microsoft SharePoint 网站集中，无法将全局可重用工作流（如 "审批-SharePoint 2010"）添加到列表或库。
+在 Microsoft SharePoint 网站集中，无法将全局可重用工作流 (如 "审批-SharePoint 2010" ) 添加到列表或库中。
   
 若要解决此问题，请按照下列步骤操作： 
   
 1. 在 SharePoint Designer 2013 中打开网站集的根网站。
   
-2. 在 "**网站对象**" 下，选择 "**工作流**"。 
+2. 在 " **网站对象**" 下，选择 " **工作流**"。 
   
 3. 在 "**工作流**" 功能区的 "**新建**" 部分，选择 "**可重用工作流**"。 
   
-4. 在 "**创建可重用工作流**" 表单中，输入名称 * * *Repair2010* * *。 对于 "**平台类型**"，单击 " **SharePoint 2010 工作流**"，然后单击 **"确定"**。 
+4. 在 " **创建可重用工作流** " 表单中，输入名称 * * *Repair2010* * *。 对于 " **平台类型**"，单击 " **SharePoint 2010 工作流**"，然后单击 **"确定"**。 
   
 1. 在 "**工作流**" 功能区的 "**保存**" 部分，选择 "**发布**"。 
   
 2. 在 "**工作流**" 功能区的 "**管理**" 部分，选择 "**全局发布**"。 在出现的确认对话框中，选择 **"确定"**。 
   
-3. 在 web 浏览器中，找到网站集的根网站，然后访问 "**网站设置**" \> **网站集功能**。 切换**工作流**功能： 
+3. 在 web 浏览器中，找到网站集的根网站，然后访问 " **网站设置**" \> **网站集功能**。 切换 **工作流** 功能： 
   
-·如果功能已*激活*，请单击 "**停用"，** 然后单击 "**激活**"。 
+·如果功能已  *激活*  ，请单击 " **停用"，** 然后单击 " **激活**"。 
   
-·如果*禁用*该功能，请单击 "**激活**"。 
+·如果  *禁用*  该功能，请单击 " **激活**"。 
   
-有关详细信息，请参阅以下[文章](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)。
+有关详细信息，请参阅以下 [文章](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)。
   
 
