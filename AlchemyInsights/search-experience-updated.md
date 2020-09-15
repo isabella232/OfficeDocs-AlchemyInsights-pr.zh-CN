@@ -5,6 +5,7 @@ author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709289"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691853"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="5ae94-102">更新了搜索体验</span><span class="sxs-lookup"><span data-stu-id="5ae94-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="33024-102">更新了搜索体验</span><span class="sxs-lookup"><span data-stu-id="33024-102">Search experience updated</span></span>
 
-<span data-ttu-id="5ae94-103">搜索现在位于应用程序的底部。</span><span class="sxs-lookup"><span data-stu-id="5ae94-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="5ae94-104">点击此项可直接访问你的主要联系人、即将到来的旅行路线、包交付和最近的附件。</span><span class="sxs-lookup"><span data-stu-id="5ae94-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="5ae94-105">您可以从一个搜索框中搜索任何帐户中的电子邮件、文件和联系人，或使用我们的新筛选器来缩小搜索范围。</span><span class="sxs-lookup"><span data-stu-id="5ae94-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="33024-103">搜索现在位于应用程序的底部。</span><span class="sxs-lookup"><span data-stu-id="33024-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="33024-104">点击此项可直接访问你的主要联系人、即将到来的旅行路线、包交付和最近的附件。</span><span class="sxs-lookup"><span data-stu-id="33024-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="33024-105">您可以从一个搜索框中搜索任何帐户中的电子邮件、文件和联系人，或使用我们的新筛选器来缩小搜索范围。</span><span class="sxs-lookup"><span data-stu-id="33024-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
