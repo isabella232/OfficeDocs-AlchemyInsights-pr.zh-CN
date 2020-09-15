@@ -5,26 +5,27 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407268"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715731"
 ---
 # <a name="associate-existing-site-with-a-hub-site"></a>将现有网站与中心网站相关联
 
 若要将现有网站与中心网站相关联，请执行以下操作：
   
-1. 在您的网站上，选择 "**设置**" （右上角的齿轮图标），然后选择 "**网站信息**"。
+1. 在您的网站上，选择 " **设置** " (右上角) 的齿轮图标，然后选择 " **网站信息**"。
 
-2. 在 "**编辑网站信息**" 面板的 "**中心网站关联**" 菜单中，选择要与您的网站相关联的中心网站，然后单击 "**保存**"。 网站的外观将更改为与中心网站的外观相匹配，并且中心网站导航栏将显示在顶部。
+2. 在 " **编辑网站信息** " 面板的 " **中心网站关联** " 菜单中，选择要与您的网站相关联的中心网站，然后单击 " **保存**"。 网站的外观将更改为与中心网站的外观相匹配，并且中心网站导航栏将显示在顶部。
 
 >**注意**
 >
