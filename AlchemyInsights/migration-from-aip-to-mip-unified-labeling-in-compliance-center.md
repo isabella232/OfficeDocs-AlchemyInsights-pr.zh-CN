@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7ce9c387fc94f59674a922c5fe071fc0fb030344
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44236326"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674316"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>在合规中心从 AIP 迁移到 MIP/统一标签
 

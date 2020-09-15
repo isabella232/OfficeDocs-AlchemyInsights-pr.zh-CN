@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579819"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676944"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>登录到 Microsoft 365 应用程序的问题
 
-若要修复 Microsoft 365 应用的登录问题，请在受影响的计算机上尝试以下选项：  
+若要解决 Microsoft 365 应用的登录问题，请尝试在受影响的计算机上使用以下选项：  
 
-- 对于 Windows，请参阅[解决常见登录问题的建议](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- 对于 Mac，请参阅[无法登录到适用于 mac 的 Office 2016 应用程序](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- 对于 Windows，请参阅 [解决常见登录问题的建议](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- 对于 Mac，请参阅  [无法登录到适用于 mac 的 Office 2016 应用程序](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**注意：****建议不要**禁用新式验证（ADAL）或 Web 帐户管理（WAM），以修复登录或激活问题。 如果使用 Office 2013 连接到 Microsoft 365 时出现错误，请确保为 Office 客户端[启用新式验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)。
+**注意：** 禁用新式验证 (ADAL) 或 Web 帐户管理 (WAM)  **不建议使用**修复登录或激活问题。 如果使用 Office 2013 连接到 Microsoft 365 时出现错误，请确保为 Office 客户端 [启用新式验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  。
 
 有关具体的故障排除操作，请参阅：
 

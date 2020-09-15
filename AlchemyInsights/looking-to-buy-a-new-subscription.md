@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505533"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675156"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>想要购买新的订阅吗？
 
-如果你已拥有 Microsoft 365 for business 订阅，并且想要为你的组织购买其他订阅，请转到 "**付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433)" 页以查看适用于你的组织的订阅列表。
+如果你已拥有 Microsoft 365 for business 订阅，并且想要为你的组织购买其他订阅，请转到 " **付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433) " 页以查看适用于你的组织的订阅列表。
  
-1. 选择所需的订阅，然后选择 "**购买**"。
+1. 选择所需的订阅，然后选择 " **购买**"。
 
 2. 选择您要支付的方式，以及所需的用户许可证数。
 
@@ -36,4 +36,4 @@ ms.locfileid: "44505533"
     
 - [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- 如果你对切换订阅感兴趣，请参阅[切换到其他 Microsoft 365 for business plan。](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- 如果你对切换订阅感兴趣，请参阅 [切换到其他 Microsoft 365 for business plan。](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
