@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,23 +14,23 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: 7f0279b475bf875d38c189423ef74260cd801557
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+ms.openlocfilehash: 89d71126b5663ea11f7ca9166b2e72e854953dcf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991102"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664376"
 ---
-# <a name="yammer-communities-app-for-microsoft-teams"></a><span data-ttu-id="1e459-102">适用于 Microsoft Teams 的 Yammer 社区应用</span><span class="sxs-lookup"><span data-stu-id="1e459-102">Yammer Communities app for Microsoft Teams</span></span>
+# <a name="yammer-communities-app-for-microsoft-teams"></a><span data-ttu-id="02a6f-102">适用于 Microsoft Teams 的 Yammer 社区应用</span><span class="sxs-lookup"><span data-stu-id="02a6f-102">Yammer Communities app for Microsoft Teams</span></span>
 
-<span data-ttu-id="1e459-103">使用 Yammer 社区，能够在团队和整个组织中建立关系并共享知识，在 Microsoft Teams 中工作时，可将它与应用配合使用。</span><span class="sxs-lookup"><span data-stu-id="1e459-103">Yammer Communities, which enables you to build relationships and share knowledge across teams and the entire organization, are now available in an app while working in Microsoft Teams.</span></span> <span data-ttu-id="1e459-104">可以将应用固定到 Teams 左侧。</span><span class="sxs-lookup"><span data-stu-id="1e459-104">You can pin the app to the left side of Teams.</span></span> 
+<span data-ttu-id="02a6f-103">使用 Yammer 社区，能够在团队和整个组织中建立关系并共享知识，在 Microsoft Teams 中工作时，可将它与应用配合使用。</span><span class="sxs-lookup"><span data-stu-id="02a6f-103">Yammer Communities, which enables you to build relationships and share knowledge across teams and the entire organization, are now available in an app while working in Microsoft Teams.</span></span> <span data-ttu-id="02a6f-104">可以将应用固定到 Teams 左侧。</span><span class="sxs-lookup"><span data-stu-id="02a6f-104">You can pin the app to the left side of Teams.</span></span> 
 
-- <span data-ttu-id="1e459-105">有关详细信息，请参阅[适用于 Microsoft Teams 的 Yammer 社区应用](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="1e459-105">Please see [Yammer Communities app for Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409) for more information.</span></span>
+- <span data-ttu-id="02a6f-105">有关详细信息，请参阅[适用于 Microsoft Teams 的 Yammer 社区应用](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409)。</span><span class="sxs-lookup"><span data-stu-id="02a6f-105">Please see [Yammer Communities app for Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409) for more information.</span></span>
 
-<span data-ttu-id="1e459-106">**直接链接到 Yammer 社区应用**</span><span class="sxs-lookup"><span data-stu-id="1e459-106">**Direct link to Yammer Communities app**</span></span>
+<span data-ttu-id="02a6f-106">**直接链接到 Yammer 社区应用**</span><span class="sxs-lookup"><span data-stu-id="02a6f-106">**Direct link to Yammer Communities app**</span></span>
 
-- <span data-ttu-id="1e459-107">可以将 [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) 与用户共享，以便在 Teams 中直接链接到 Yammer 社区应用并**添加**此应用。</span><span class="sxs-lookup"><span data-stu-id="1e459-107">You can share [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) with users to directly link to and **add** the Yammer Communities app within Teams.</span></span>
+- <span data-ttu-id="02a6f-107">可以将 [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) 与用户共享，以便在 Teams 中直接链接到 Yammer 社区应用并**添加**此应用。</span><span class="sxs-lookup"><span data-stu-id="02a6f-107">You can share [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) with users to directly link to and **add** the Yammer Communities app within Teams.</span></span>
 
-<span data-ttu-id="1e459-108">**在公司范围内推出**</span><span class="sxs-lookup"><span data-stu-id="1e459-108">**Company-wide rollout**</span></span>
+<span data-ttu-id="02a6f-108">**在公司范围内推出**</span><span class="sxs-lookup"><span data-stu-id="02a6f-108">**Company-wide rollout**</span></span>
 
-- <span data-ttu-id="1e459-109">如果你想要在组织中安装适用于 Microsoft Teams 的 Yammer 社区应用，管理员可以选择通过[自定义策略](https://docs.microsoft.com/microsoftteams/manage-apps)为所有用户或特定部门部署并固定应用。</span><span class="sxs-lookup"><span data-stu-id="1e459-109">If you'd like to install the Yammer Communities app for Microsoft Teams across your organization, Admins can choose to deploy and pin the app for all users or particular departments through [custom policies](https://docs.microsoft.com/microsoftteams/manage-apps).</span></span> <span data-ttu-id="1e459-110">请注意，策略可能至少需要 2 小时才能传播到所有客户端。</span><span class="sxs-lookup"><span data-stu-id="1e459-110">Please note it may take at least 2 hours for a policy to propagate to all clients.</span></span>
+- <span data-ttu-id="02a6f-109">如果你想要在组织中安装适用于 Microsoft Teams 的 Yammer 社区应用，管理员可以选择通过[自定义策略](https://docs.microsoft.com/microsoftteams/manage-apps)为所有用户或特定部门部署并固定应用。</span><span class="sxs-lookup"><span data-stu-id="02a6f-109">If you'd like to install the Yammer Communities app for Microsoft Teams across your organization, Admins can choose to deploy and pin the app for all users or particular departments through [custom policies](https://docs.microsoft.com/microsoftteams/manage-apps).</span></span> <span data-ttu-id="02a6f-110">请注意，策略可能至少需要 2 小时才能传播到所有客户端。</span><span class="sxs-lookup"><span data-stu-id="02a6f-110">Please note it may take at least 2 hours for a policy to propagate to all clients.</span></span>
