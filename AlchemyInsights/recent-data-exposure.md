@@ -6,21 +6,22 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724904"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693221"
 ---
 # <a name="recent-data-exposure"></a>最近数据暴露
 
 Microsoft 由第三方研究者认识到托管编辑 Microsoft 支持数据的数据库无需进行身份验证即可访问。 在2019年12月31日，Microsoft 对数据库进行了保护。
 
-我们将致力于我们的客户的隐私和安全，并采取措施防止以后发生此问题。 我们已开始向此编辑数据库中存在数据的客户发送通知。 有关详细信息，请转到[与最新信息暴露相关的客户意识信息](https://aka.ms/privacyinfo)。
+我们将致力于我们的客户的隐私和安全，并采取措施防止以后发生此问题。 我们已开始向此编辑数据库中存在数据的客户发送通知。 有关详细信息，请转到 [与最新信息暴露相关的客户意识信息](https://aka.ms/privacyinfo)。
