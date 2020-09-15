@@ -4,17 +4,18 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528541"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711265"
 ---
 # <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dynamics 365 统一接口中显示错误的仪表板
 
@@ -22,7 +23,7 @@ ms.locfileid: "36528541"
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>用户已设置用户默认仪表板 
 
-通常，如果 "**设置为默认**值" 按钮未显示在仪表板命令栏中，则可以标识用户默认仪表板。 用户默认仪表板将覆盖所有其他默认仪表板，即使用户的默认仪表板不在当前应用中也是如此。
+通常，如果 " **设置为默认** 值" 按钮未显示在仪表板命令栏中，则可以标识用户默认仪表板。 用户默认仪表板将覆盖所有其他默认仪表板，即使用户的默认仪表板不在当前应用中也是如此。
 
 使用以下解决方法取消设置其默认仪表板。
 

@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c2059808987efd668f8bd8d31095907b8e318f76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062526"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711013"
 ---
 # <a name="edit-billing-profile-for-apps"></a>编辑应用程序的记帐配置文件
 
@@ -27,7 +28,7 @@ ms.locfileid: "44062526"
 
 2. 查找并选择要管理的应用程序。  
 
-3. 在 "**计费配置文件**" 旁边，选择 "**编辑**"，然后选择要与应用程序关联的记帐配置文件。
+3. 在 " **计费配置文件**" 旁边，选择 " **编辑** "，然后选择要与应用程序关联的记帐配置文件。
 
 ## <a name="edit-billing-profiles"></a>编辑帐单配置文件
 
