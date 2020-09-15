@@ -4,29 +4,30 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: cf44a922bc248975ba2fcdb08aef2c2fde2416c7
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 342c700d40a119a0103893a6e51cfa61ece41ff9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788836"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685012"
 ---
-# <a name="buy-a-domain-name-in-microsoft-365"></a><span data-ttu-id="1f36b-102">在 Microsoft 365 中购买域名</span><span class="sxs-lookup"><span data-stu-id="1f36b-102">Buy a domain name in Microsoft 365</span></span>
+# <a name="buy-a-domain-name-in-microsoft-365"></a><span data-ttu-id="a8533-102">在 Microsoft 365 中购买域名</span><span class="sxs-lookup"><span data-stu-id="a8533-102">Buy a domain name in Microsoft 365</span></span>
 
-<span data-ttu-id="1f36b-103">可在 Microsoft 此处的管理中心购买域名 - [获得域](https://admin.microsoft.com/Domains/Buy)。</span><span class="sxs-lookup"><span data-stu-id="1f36b-103">You can buy a domain name from Microsoft in the admin center here - [Get a domain](https://admin.microsoft.com/Domains/Buy).</span></span>
+<span data-ttu-id="a8533-103">可在 Microsoft 此处的管理中心购买域名 - [获得域](https://admin.microsoft.com/Domains/Buy)。</span><span class="sxs-lookup"><span data-stu-id="a8533-103">You can buy a domain name from Microsoft in the admin center here - [Get a domain](https://admin.microsoft.com/Domains/Buy).</span></span>
 
-- <span data-ttu-id="1f36b-104">将在包含由 Microsoft 管理的 DNS 记录的帐户中自动添加和配置域（无法更改 NS 记录）。</span><span class="sxs-lookup"><span data-stu-id="1f36b-104">The domain will be automatically added and configured in your account with DNS records managed by Microsoft (NS records cannot be changed).</span></span>
+- <span data-ttu-id="a8533-104">将在包含由 Microsoft 管理的 DNS 记录的帐户中自动添加和配置域（无法更改 NS 记录）。</span><span class="sxs-lookup"><span data-stu-id="a8533-104">The domain will be automatically added and configured in your account with DNS records managed by Microsoft (NS records cannot be changed).</span></span>
 
-- <span data-ttu-id="1f36b-105">可添加其他 DNS 记录来支持你的网站。</span><span class="sxs-lookup"><span data-stu-id="1f36b-105">Additional DNS records can be added to support your website.</span></span>  <span data-ttu-id="1f36b-106">从[域](https://admin.microsoft.com/AdminPortal/Home#/Domains)中单击你的域，然后单击“DNS 管理”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="1f36b-106">From [Domains](https://admin.microsoft.com/AdminPortal/Home#/Domains), click your domain, then click **DNS Management**.</span></span>
+- <span data-ttu-id="a8533-105">可添加其他 DNS 记录来支持你的网站。</span><span class="sxs-lookup"><span data-stu-id="a8533-105">Additional DNS records can be added to support your website.</span></span>  <span data-ttu-id="a8533-106">从[域](https://admin.microsoft.com/AdminPortal/Home#/Domains)中单击你的域，然后单击“DNS 管理”\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="a8533-106">From [Domains](https://admin.microsoft.com/AdminPortal/Home#/Domains), click your domain, then click **DNS Management**.</span></span>
 
-- <span data-ttu-id="1f36b-107">如果需要，可在域购买后 60 天内将域转移到其他注册机构。</span><span class="sxs-lookup"><span data-stu-id="1f36b-107">If needed, Domain transfers to another registrar are permitted 60 days after domain purchase.</span></span>
+- <span data-ttu-id="a8533-107">如果需要，可在域购买后 60 天内将域转移到其他注册机构。</span><span class="sxs-lookup"><span data-stu-id="a8533-107">If needed, Domain transfers to another registrar are permitted 60 days after domain purchase.</span></span>
 
-<span data-ttu-id="1f36b-108">有关详细信息，请参阅[在 Microsoft 365 中购买域名](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="1f36b-108">For more information, see [Buy a domain name in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).</span></span>
+<span data-ttu-id="a8533-108">有关详细信息，请参阅[在 Microsoft 365 中购买域名](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide)。</span><span class="sxs-lookup"><span data-stu-id="a8533-108">For more information, see [Buy a domain name in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="1f36b-109">另请参阅[更新 DNS 记录以便利用当前的托管提供商继续托管网站](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0)。</span><span class="sxs-lookup"><span data-stu-id="1f36b-109">Also see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0).</span></span>
+<span data-ttu-id="a8533-109">另请参阅[更新 DNS 记录以便利用当前的托管提供商继续托管网站](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0)。</span><span class="sxs-lookup"><span data-stu-id="a8533-109">Also see [Update DNS records to keep your website with your current hosting provider](https://docs.microsoft.com/alchemyinsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider-0).</span></span>

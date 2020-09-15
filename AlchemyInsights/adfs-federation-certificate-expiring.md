@@ -1,11 +1,12 @@
 ---
-title: ADFS 联合身份验证证书即将过期
+title: ADFS 联合证书即将到期
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 14e7da6220dfa96edca5d9ec5c32e003480a9eaf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3172bc402a22999a3bf963233cc26db1ddf2a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710397"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686704"
 ---
-# <a name="adfs-federation-certificate-expiring"></a><span data-ttu-id="3e058-102">ADFS 联合身份验证证书即将过期</span><span class="sxs-lookup"><span data-stu-id="3e058-102">ADFS Federation Certificate Expiring</span></span>
+# <a name="adfs-federation-certificate-expiring"></a><span data-ttu-id="52435-102">ADFS 联合证书即将到期</span><span class="sxs-lookup"><span data-stu-id="52435-102">ADFS Federation Certificate Expiring</span></span>
 
-<span data-ttu-id="3e058-103">若要解决此问题，请按照下列步骤操作：</span><span class="sxs-lookup"><span data-stu-id="3e058-103">To resolve this issue, follow these steps:</span></span>
+<span data-ttu-id="52435-103">若要解决此问题，请按照下列步骤操作：</span><span class="sxs-lookup"><span data-stu-id="52435-103">To resolve this issue, follow these steps:</span></span>
   
-1. <span data-ttu-id="3e058-104">在计算机上安装适用于 Windows PowerShell 的 Microsoft Azure Active Directory 模块（如果尚未安装该模块）。</span><span class="sxs-lookup"><span data-stu-id="3e058-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="3e058-105">若要执行此操作，请转到[使用 Windows PowerShell 管理 AZURE AD](https://aka.ms/aadposh)。</span><span class="sxs-lookup"><span data-stu-id="3e058-105">To do this, go to [Manage Azure AD using Windows PowerShell](https://aka.ms/aadposh).</span></span>
+1. <span data-ttu-id="52435-104">在计算机上安装适用于 Windows PowerShell 的 Microsoft Azure Active Directory 模块 (如果尚未安装该模块) 。</span><span class="sxs-lookup"><span data-stu-id="52435-104">Install the Microsoft Azure Active Directory Module for Windows PowerShell on the computer (if the module isn't already installed).</span></span> <span data-ttu-id="52435-105">若要执行此操作，请转到 [使用 Windows PowerShell 管理 AZURE AD](https://aka.ms/aadposh)。</span><span class="sxs-lookup"><span data-stu-id="52435-105">To do this, go to [Manage Azure AD using Windows PowerShell](https://aka.ms/aadposh).</span></span>
 
-2. <span data-ttu-id="3e058-106">按照[联合用户登录 Microsoft 365、Azure 或 Intune 时](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)的 "应用场景1： ad fs 令牌签名证书已过期" 一节中的步骤操作，请按照 ad fs 中的 "应用程序访问站点时遇到问题" 错误中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="3e058-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
+2. <span data-ttu-id="52435-106">按照 [联合用户登录 Microsoft 365、Azure 或 Intune 时](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)的 "应用场景1： ad fs 令牌签名证书已过期" 一节中的步骤操作，请按照 ad fs 中的 "应用程序访问站点时遇到问题" 错误中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="52435-106">Follow the steps in the "Scenario 1: The AD FS token-signing certificate expired" section of ["There was a problem accessing the site" error from AD FS when a federated user signs in to Microsoft 365, Azure, or Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).</span></span>
 
-3. <span data-ttu-id="3e058-107">按照[更新或修复 Microsoft、Azure 或 Intune 中的联盟域的设置](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="3e058-107">Follow the steps in [Update or repair the settings of a federated domain in Microsoft, Azure, or Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).</span></span>
+3. <span data-ttu-id="52435-107">按照 [更新或修复 Microsoft、Azure 或 Intune 中的联盟域的设置](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="52435-107">Follow the steps in [Update or repair the settings of a federated domain in Microsoft, Azure, or Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).</span></span>
 
-    <span data-ttu-id="3e058-108">若要了解有关续订联合身份验证证书的详细信息，请参阅[续订 Microsoft 365 和 Azure Active Directory 的联合身份验证证书](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)。</span><span class="sxs-lookup"><span data-stu-id="3e058-108">To learn more about renewing Federation certificates, see [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
+    <span data-ttu-id="52435-108">若要了解有关续订联合身份验证证书的详细信息，请参阅 [续订 Microsoft 365 和 Azure Active Directory 的联合身份验证证书](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)。</span><span class="sxs-lookup"><span data-stu-id="52435-108">To learn more about renewing Federation certificates, see [Renew federation certificates for Microsoft 365 and Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).</span></span>
