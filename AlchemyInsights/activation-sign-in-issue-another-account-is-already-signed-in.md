@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3407"
 - "9001422"
-ms.openlocfilehash: d2388acce0d110280fff7aeddfa700ce3faa09ca
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 28cab94af5c3e57bce5a41d36c20a57ebfa825ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697727"
 ---
 # <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>修复 Microsoft 365 应用程序 "抱歉，你的组织中的另一个帐户已登录" 消息
 
@@ -29,6 +30,6 @@ ms.locfileid: "44581365"
 )操作。
 5. 使用受影响的用户帐户[登录](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9)。 
 
-有关详细信息，请参阅[Office 2013 中的 "抱歉，你的组织中的另一个帐户已在此计算机上登录"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)。
+有关详细信息，请参阅 [Office 2013 中的 "抱歉，你的组织中的另一个帐户已在此计算机上登录"](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)。
 
 对于 Mac，参见[无法登录至 Office 2016 for Mac 应用](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)。

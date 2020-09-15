@@ -6,17 +6,18 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: d4cc404023ab0c5d2fec8731599e06c2d1954c65
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1cb86975327c76ffa184c0652c97ff2463a840f2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698444"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694916"
 ---
 # <a name="problems-opening-files-from-sharepoint-or-onedrive"></a>从 Sharepoint 或 OneDrive 打开文件时出现的问题 
 
@@ -31,5 +32,5 @@ ms.locfileid: "43698444"
 
 - [在 Office 上运行修复](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-有关详细信息或详细信息，请查看文章[修复问题在 SharePoint 库中打开文档](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+有关详细信息或详细信息，请查看文章 [修复问题在 SharePoint 库中打开文档](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
