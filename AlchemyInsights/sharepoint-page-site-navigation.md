@@ -5,21 +5,22 @@ author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044193"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670678"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>SharePoint 网站中的网站和页面导航
 
-网站和页面导航的基本原则和良好做法对经典和新式 SharePoint 体系结构具有同等的适用性。 但是，实现导航的选项会因网站和 Intranet 的框架而有所不同。 例如，在经典 SharePoint 网站层次结构（包含子网站的网站）中可用的继承导航体验在新式体验中不可用，但[中心网站](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f)提供了一种很好的方式来实现以前在经典 SharePoint 中的托管导航和网站层次结构中提供的跨网站导航功能。
+网站和页面导航的基本原则和良好做法对经典和新式 SharePoint 体系结构具有同等的适用性。 但是，实现导航的选项会因网站和 Intranet 的框架而有所不同。 例如，在经典 SharePoint 网站层次结构中提供的继承导航体验 (在新式的体验中不提供子网站) 的网站，但 [中心网站](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) 提供了在经典 SharePoint 中的托管导航和网站层次结构中获取的跨网站导航功能的绝佳方式。
 
  有关导航选项的详细信息，请访问下面的链接。
 

@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 25140869694e48d79ed3f29f159c8114c244c34d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723438"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672442"
 ---
 # <a name="empty-the-deleted-items-folder"></a>清空 "已删除邮件" 文件夹
 
-1. 打开 "已删除邮件" 文件夹并选择 "**空文件夹**"。
-2. 在页面顶部选择 "**可恢复的项目**"，然后再次选择 "**空文件夹**"。
+1. 打开 "已删除邮件" 文件夹并选择 " **空文件夹**"。
+2. 在页面顶部选择 " **可恢复的项目** "，然后再次选择 " **空文件夹** "。
 
 **无法清空 "已删除邮件" 文件夹**
 
