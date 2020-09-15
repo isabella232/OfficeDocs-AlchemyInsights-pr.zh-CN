@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418026"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698339"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>激活或重新激活订阅
 
@@ -27,7 +28,7 @@ ms.locfileid: "44418026"
 
 - 如果已分配许可证，可从[我的帐户页面](https://portal.office.com/account/#installs)上找到可以下载的应用程序。 此页面提供了可供您根据已分配的许可证进行下载的应用程序的列表。
 
-- 如果已下载 Office 应用程序，则可能需要使用工作或学校帐户登录到应用程序。 可在任何 Office 应用程序（Word、Excel 等）中单击“**文件”>“帐户**”（靠近底部）进行此操作。 在“用户信息”下，单击“**切换帐户**”。 有关详细信息，请参阅[安装 Office 应用程序](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。
+- 如果已下载 Office 应用程序，则可能需要使用工作或学校帐户登录到应用程序。 可在任何 Office 应用程序（Word、Excel 等）中单击“**文件”>“帐户**”（靠近底部）进行此操作。 在“用户信息”下，单击“**切换帐户**”。 有关详细信息，请参阅 [安装 Office 应用程序](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。
 
 **重新激活订阅**
 
@@ -35,7 +36,7 @@ ms.locfileid: "44418026"
   
 1. 在 Microsoft 365 管理中心，转到 "**付费**  >  [产品](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面。
 
-2. 选择要重新激活的订阅，然后选择 "**重新激活**"。 如果可用操作中不包含“**重新激活**”，请[致电支持人员](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)重新激活你的订阅。
+2. 选择要重新激活的订阅，然后选择 " **重新激活**"。 如果可用操作中不包含“**重新激活**”，请[致电支持人员](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)重新激活你的订阅。
 
 3. 输入付款详细信息。 还可以在此处[更新现有付款信息](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
