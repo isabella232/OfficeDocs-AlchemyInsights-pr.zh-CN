@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 273edf85c9beec35d3b9cace03b809dde0db01c3
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599366"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750513"
 ---
 # <a name="teams-supported-web-browsers"></a>工作组-支持的 web 浏览器
 
-团队完全支持 Microsoft 团队的文章、[限制和规范](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)中列出的 Internet 浏览器，并注明通话和会议的例外情况。
+团队完全支持 Microsoft 团队的文章、 [限制和规范](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)中列出的 Internet 浏览器，并注明通话和会议的例外情况。
