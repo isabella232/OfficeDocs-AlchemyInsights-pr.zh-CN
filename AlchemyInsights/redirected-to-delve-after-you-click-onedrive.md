@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722800"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776369"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>在你单击 OneDrive 后重定向到 Delve
 
-请参阅我们的详细[故障排除指南](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)。
+请参阅我们的详细 [故障排除指南](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)。
 
 若要解决此问题，管理员必须向用户授予创建其 "我的网站" 网站的权限。 这是因为在 "我的网站" 上创建了 OneDrive for business 页面。
 
 若要授予此权限，请执行以下步骤：
 
-1. 在 SharePoint 管理中心中，单击 "**用户配置文件**"。
+1. 在 SharePoint 管理中心中，单击 " **用户配置文件**"。
 
-2. 在 "**人员**" 部分，单击 "**管理用户权限**"。
+2. 在 " **人员** " 部分，单击 " **管理用户权限**"。
 
-3. 添加需要权限才能创建 "我的网站" 网站的用户。 默认情况下，此设置设置为 "**除外部用户之外的所有人**"。
+3. 添加需要权限才能创建 "我的网站" 网站的用户。 默认情况下，此设置设置为 " **除外部用户之外的所有人**"。
 
-4. 在添加用户、用户或组后，请确保已选中 "已添加用户"、"用户" 或 "组"，滚动到 "**权限**" 部分，然后选中 "**创建个人网站（个人存储、新闻源和关注的内容需要）**" 旁边的复选框。
+4. 添加用户、用户或组后，请确保已选中 "已添加用户"、"用户" 或 "组"，滚动到 " **权限** " 部分，然后选中 " **创建个人网站 (需要的个人存储、新闻源和关注的内容") **旁边的复选框。
 
 5. 单击 **"确定**"，然后让用户浏览到 OneDrive 页面以创建网站。

@@ -5,22 +5,23 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 1a7d3aa3512732dd245856c3746aff7487080cab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5aaca1ca3095616606da2e36c1f992af6366ac47
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762451"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812717"
 ---
 # <a name="managing-yammer-users"></a>管理 Yammer 用户
 
-1. 有关从 Microsoft 365 管理 Yammer 用户的信息，请参阅[在其生命周期中管理 yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 其中包括有关以下内容的详细信息：
+1. 有关从 Microsoft 365 管理 Yammer 用户的信息，请参阅 [在其生命周期中管理 yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 其中包括有关以下内容的详细信息：
 
   - 创建用户
 
@@ -28,7 +29,7 @@ ms.locfileid: "43762451"
 
   - 从 Microsoft 365 管理 Yammer 用户
 
-2. 有关从 Yammer 管理控制台管理用户的信息，请参阅[添加、阻止或删除 Yammer 用户](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365)。 这包括：
+2. 有关从 Yammer 管理控制台管理用户的信息，请参阅 [添加、阻止或删除 Yammer 用户](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) 。 这包括：
 
   - 邀请或删除用户
 
@@ -36,4 +37,4 @@ ms.locfileid: "43762451"
 
   - 导出用户列表
 
-3. 有关添加、删除和管理外部用户的信息，请参阅[将外部邮件参与者添加到 Yammer 网络](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)。
+3. 有关添加、删除和管理外部用户的信息，请参阅 [将外部邮件参与者添加到 Yammer 网络](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)。
