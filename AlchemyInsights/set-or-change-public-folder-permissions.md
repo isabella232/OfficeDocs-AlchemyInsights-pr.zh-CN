@@ -6,28 +6,29 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: cf891a4db05b8a2bdb223cc86693f5072faca494
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c035d56ffade45cc4360a1d0dfca4c63bf110a38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681094"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771162"
 ---
-# <a name="permissions-and-public-folders"></a><span data-ttu-id="0ccb4-102">权限和公用文件夹</span><span class="sxs-lookup"><span data-stu-id="0ccb4-102">Permissions and Public Folders</span></span>
+# <a name="permissions-and-public-folders"></a><span data-ttu-id="8adc5-102">权限和公用文件夹</span><span class="sxs-lookup"><span data-stu-id="8adc5-102">Permissions and Public Folders</span></span>
 
-<span data-ttu-id="0ccb4-103">您可以使用 Outlook、Exchange 管理中心（EAC）或 PowerShell 更改对公用文件夹的权限：</span><span class="sxs-lookup"><span data-stu-id="0ccb4-103">You can change the permissions on your Public Folders using Outlook, the Exchange admin center (EAC), or PowerShell:</span></span>
+<span data-ttu-id="8adc5-103">您可以使用 Outlook、Exchange 管理中心 (EAC) 或 PowerShell 更改对公用文件夹的权限：</span><span class="sxs-lookup"><span data-stu-id="8adc5-103">You can change the permissions on your Public Folders using Outlook, the Exchange admin center (EAC), or PowerShell:</span></span>
   
-- <span data-ttu-id="0ccb4-104">有关 Outlook 说明，请[单击此处](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx)。</span><span class="sxs-lookup"><span data-stu-id="0ccb4-104">For Outlook instructions, [click here](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span></span>
+- <span data-ttu-id="8adc5-104">有关 Outlook 说明，请 [单击此处](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx)。</span><span class="sxs-lookup"><span data-stu-id="8adc5-104">For Outlook instructions, [click here](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).</span></span>
     
-- <span data-ttu-id="0ccb4-105">对于 EAC，请参阅[本文](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1)获取相关说明。</span><span class="sxs-lookup"><span data-stu-id="0ccb4-105">For EAC, refer to [this article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) for instructions.</span></span> 
+- <span data-ttu-id="8adc5-105">对于 EAC，请参阅 [本文](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) 获取相关说明。</span><span class="sxs-lookup"><span data-stu-id="8adc5-105">For EAC, refer to [this article](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) for instructions.</span></span> 
     
-- <span data-ttu-id="0ccb4-106">对于 Powershell，请参阅[本文](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx)，了解有关使用外接程序 add-publicfolderclientpermission commandlet 的说明。</span><span class="sxs-lookup"><span data-stu-id="0ccb4-106">For Powershell, refer to [this article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) for instructions on using the Add-PublicFolderClientPermission commandlet.</span></span> <span data-ttu-id="0ccb4-107">如果你需要有关连接到 Exchange Powershell 的说明，请单击[此处](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)。</span><span class="sxs-lookup"><span data-stu-id="0ccb4-107">If you need instructions to connect to Exchange Powershell, click [here](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span></span>
+- <span data-ttu-id="8adc5-106">对于 Powershell，请参阅 [本文](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) ，了解有关使用外接程序 add-publicfolderclientpermission commandlet 的说明。</span><span class="sxs-lookup"><span data-stu-id="8adc5-106">For Powershell, refer to [this article](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) for instructions on using the Add-PublicFolderClientPermission commandlet.</span></span> <span data-ttu-id="8adc5-107">如果你需要有关连接到 Exchange Powershell 的说明，请单击 [此处](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx)。</span><span class="sxs-lookup"><span data-stu-id="8adc5-107">If you need instructions to connect to Exchange Powershell, click [here](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).</span></span>
     
-<span data-ttu-id="0ccb4-108">如果**外部用户无法将电子邮件发送到已启用邮件的公用文件夹**，则原因可能是公用文件夹缺少外部电子邮件传递所需的权限。</span><span class="sxs-lookup"><span data-stu-id="0ccb4-108">If **external users can't send emails to a mail-enabled Public Folder**, the reason might be that the public folder is missing permissions required for external email delivery.</span></span> <span data-ttu-id="0ccb4-109">您可以使用 Outlook 中[的说明或 PowerShell 说明来](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)解决此问题[。](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)</span><span class="sxs-lookup"><span data-stu-id="0ccb4-109">You can fix this using the Outlook instructions [here](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), or the PowerShell instructions [here](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span></span>
+<span data-ttu-id="8adc5-108">如果 **外部用户无法将电子邮件发送到已启用邮件的公用文件夹**，则原因可能是公用文件夹缺少外部电子邮件传递所需的权限。</span><span class="sxs-lookup"><span data-stu-id="8adc5-108">If **external users can't send emails to a mail-enabled Public Folder**, the reason might be that the public folder is missing permissions required for external email delivery.</span></span> <span data-ttu-id="8adc5-109">您可以使用 Outlook 中[的说明或 PowerShell 说明来](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)解决此问题[。](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx)</span><span class="sxs-lookup"><span data-stu-id="8adc5-109">You can fix this using the Outlook instructions [here](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), or the PowerShell instructions [here](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).</span></span>
   
 
