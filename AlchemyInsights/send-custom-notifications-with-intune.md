@@ -5,18 +5,19 @@ author: brenduns
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 969649084a2ac536ee1b41f225c3be5415a27c4b
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886847"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720636"
 ---
 # <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>如何向托管的 iOS 和 Android 设备的用户发送自定义通知
 
@@ -32,4 +33,4 @@ ms.locfileid: "40886847"
 
 - 必须使用 Intune 注册设备。
 
-有关详细信息，包括如何发送邮件，请参阅[功能文档](https://docs.microsoft.com/intune/custom-notifications)。
+有关详细信息，包括如何发送邮件，请参阅 [功能文档](https://docs.microsoft.com/intune/custom-notifications)。
