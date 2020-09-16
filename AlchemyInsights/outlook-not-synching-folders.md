@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768679"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771855"
 ---
 # <a name="outlook-not-synching-folders"></a>Outlook 未同步文件夹
 
@@ -28,4 +29,4 @@ ms.locfileid: "43768679"
 2. 禁用对所有共享文件夹的缓存。
 3. 将辅助 Exchange 邮箱的配置更改为配置文件中的第二个 Exchange 帐户。
 
-有关详细信息，请参阅在[Outlook 中处理辅助邮箱中的文件夹时的性能和同步问题](https://support.microsoft.com/help/3115602)。
+有关详细信息，请参阅在 [Outlook 中处理辅助邮箱中的文件夹时的性能和同步问题](https://support.microsoft.com/help/3115602)。
