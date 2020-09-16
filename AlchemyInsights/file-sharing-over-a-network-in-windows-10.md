@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 5f0cd0d2b7271a60aa390c8ee2d6ffbcefe78d94
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584365"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745381"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>通过网络在 Windows 10 中共享文件
 
-**注意**：如果你以前使用过家庭组进行文件共享，请注意，已从 Windows 10 中删除了家庭组（版本1803）。 您现在可以使用 Windows 10 中的内置功能共享打印机和文件。
+**注意**：如果你以前使用过家庭组进行文件共享，请注意，已从 Windows 10 (版本 1803) 中删除了家庭组。 您现在可以使用 Windows 10 中的内置功能共享打印机和文件。
 
 **通过网络共享文件或文件夹**
 
@@ -32,9 +33,9 @@ ms.locfileid: "42584365"
 
 **查看网络上共享文件的设备**
 
-- 在**文件资源管理器**中，转到 "**网络**"。 如果未启用网络发现，您将看到一条错误消息 "网络发现功能已关闭 ..."
+- 在 **文件资源管理器**中，转到 " **网络**"。 如果未启用网络发现，您将看到一条错误消息 "网络发现功能已关闭 ..."
 
-- 单击 "**网络发现" 已关闭**标题，然后单击 "**启用网络发现和文件共享**"。
+- 单击 " **网络发现" 已关闭** 标题，然后单击 " **启用网络发现和文件共享**"。
 
     ![启用网络发现和文件共享。](media/turn-on-network-discovery.png)
 

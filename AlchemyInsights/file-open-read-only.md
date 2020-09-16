@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702764"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745563"
 ---
 # <a name="file-open-read-only"></a>文件以只读状态打开
 
@@ -25,7 +26,7 @@ ms.locfileid: "43702764"
   
  **我的防病毒导致其以只读方式打开**
   
-某些防病毒程序可能会通过以只读方式打开这些文件来保护其免受潜在的安全。 您可能需要与防病毒提供商确认，以了解如何调整这些设置。 例如，BitDefender 包含以下内容：在此处添加应用程序排除：[如何在 BitDefender 控制中心添加应用程序或进程排除项](https://aka.ms/AA6098i)。
+某些防病毒程序可能会通过以只读方式打开这些文件来保护其免受潜在的安全。 您可能需要与防病毒提供商确认，以了解如何调整这些设置。 例如，BitDefender 包含以下内容：在此处添加应用程序排除： [如何在 BitDefender 控制中心添加应用程序或进程排除项](https://aka.ms/AA6098i)。
   
  **文件属性是否设置为只读？**
   
@@ -33,11 +34,11 @@ ms.locfileid: "43702764"
   
  **内容位于受保护的视图中**
   
-来自 Internet 和来自其他潜在不安全位置的文件可能包含病毒、蠕虫或可能损害计算机的其他类型的恶意软件。 通常情况下，您下载的电子邮件附件或文件也是如此。 为了帮助保护你的计算机，可以在受保护的视图中打开来自这些潜在不安全位置的文件。 通过使用受保护的视图，可以读取文件并在降低风险的同时查看其内容。 有关受保护的视图和更改设置的详细信息，请参阅本文：[什么是受保护的视图？](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+来自 Internet 和来自其他潜在不安全位置的文件可能包含病毒、蠕虫或可能损害计算机的其他类型的恶意软件。 通常情况下，您下载的电子邮件附件或文件也是如此。 为了帮助保护你的计算机，可以在受保护的视图中打开来自这些潜在不安全位置的文件。 通过使用受保护的视图，可以读取文件并在降低风险的同时查看其内容。 有关受保护的视图和更改设置的详细信息，请参阅本文： [什么是受保护的视图？](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **OneDrive 是否已满？**
   
-如果文件存储在 OneDrive 上，且你的 OneDrive 存储空间已满，你将无法保存该文档，直到你已被分配空间所下。 您可以通过单击通知中心中的 OneDrive 图标并选择 "管理存储" 来检查 OneDrive 上的可用空间，也可以转[https://onedrive.live.com](https://onedrive.live.com)到 "登录"，并记下屏幕左下角的可用空间量。
+如果文件存储在 OneDrive 上，且你的 OneDrive 存储空间已满，你将无法保存该文档，直到你已被分配空间所下。 您可以通过单击通知中心中的 OneDrive 图标并选择 "管理存储" 来检查 OneDrive 上的可用空间，也可以转到 [https://onedrive.live.com](https://onedrive.live.com) "登录"，并记下屏幕左下角的可用空间量。
   
  **Office 是否已激活？**
   
