@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522797"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740500"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Exchange 管理中心中的保留策略
 
@@ -27,7 +28,7 @@ ms.locfileid: "46522797"
   
  **根本原因：**
   
-- 这可能是因为**托管文件夹助理**尚未处理用户的邮箱。 托管文件夹助理每七天尝试处理一次基于云的组织中的每个邮箱。 如果您更改保留标记或向邮箱应用不同的保留策略，则可以等待托管文件夹帮助处理邮箱，也可以运行 Start-managedfolderassistant cmdlet 以启动托管文件夹助理来处理特定邮箱。 运行此 cmdlet 对于测试或排除保留策略或保留标记设置的故障很有用。 有关详细信息，请参阅[运行托管文件夹助理](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)。
+- 这可能是因为 **托管文件夹助理** 尚未处理用户的邮箱。 托管文件夹助理每七天尝试处理一次基于云的组织中的每个邮箱。 如果您更改保留标记或向邮箱应用不同的保留策略，则可以等待托管文件夹帮助处理邮箱，也可以运行 Start-managedfolderassistant cmdlet 以启动托管文件夹助理来处理特定邮箱。 运行此 cmdlet 对于测试或排除保留策略或保留标记设置的故障很有用。 有关详细信息，请参阅 [运行托管文件夹助理](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist)。
     
   - **解决方案：** 运行以下命令以启动特定邮箱的托管文件夹助理：
     
@@ -35,17 +36,17 @@ ms.locfileid: "46522797"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- 如果已在邮箱上启用**RetentionHold** ，也**enabled**可能出现此情况。 如果已将邮箱放在 RetentionHold 中，则邮箱中的保留策略将不会在该时间进行处理。 有关 RetentionHold 设置的详细 informaton，请参阅：[邮箱保留挂起](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)。
+- 如果已在邮箱上启用**RetentionHold** ，也**enabled**可能出现此情况。 如果已将邮箱放在 RetentionHold 中，则邮箱中的保留策略将不会在该时间进行处理。 有关 RetentionHold 设置的详细 informaton，请参阅： [邮箱保留挂起](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)。
     
     **办法**
     
-  - 检查[EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)中特定邮箱上的 RetentionHold 设置的状态：
+  - 检查 [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)中特定邮箱上的 RetentionHold 设置的状态：
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - 运行以下命令，在特定邮箱上**禁用**RetentionHold：
+  - 运行以下命令，在特定邮箱上 **禁用** RetentionHold：
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false

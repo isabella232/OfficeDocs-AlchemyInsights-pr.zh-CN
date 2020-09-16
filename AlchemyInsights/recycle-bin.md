@@ -1,32 +1,33 @@
 ---
 title: 回收站
-ms.author: stevhord
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 417f1e343b94bf0397fa7fce067317f9ccc24bab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740969"
 ---
 # <a name="restore-items-in-sharepoint-online"></a>在 SharePoint Online 中还原项目
 
 当您在 SharePoint Online 中删除项目时，将保留总共93天的项目。 它们将始终保留在整个网站回收站中，除非您清空该回收站或从中删除这些项目。 在这种情况下，这些项将转到网站集的回收站，这些项将在剩余的93天内保留。 在结束时，项目将被永久删除。 若要从网站回收站还原已删除的项目，请执行以下操作：
   
-1. 转到该网站，然后单击左窗格中的 "**回收站**"。 
+1. 转到该网站，然后单击左窗格中的 " **回收站** "。 
     
-    如果在左窗格中看不到**回收站**，请单击右上角的 "设置" 图标，然后单击 "**网站内容**"。 回收站位于命令栏顶部的最右侧。
+    如果在左窗格中看不到 **回收站** ，请单击右上角的 "设置" 图标，然后单击 " **网站内容**"。 回收站位于命令栏顶部的最右侧。
     
-2. 在 "**回收站**" 页上，选择要还原的项目，方法是指向它们并单击出现的复选标记图标。 
+2. 在 " **回收站** " 页上，选择要还原的项目，方法是指向它们并单击出现的复选标记图标。 
     
 3. 单击" **还原**"。
     
