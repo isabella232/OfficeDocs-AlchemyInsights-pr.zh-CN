@@ -6,15 +6,16 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010884"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738447"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>关于在终端服务器上安装 office 的问题的解决方案
 
@@ -33,4 +34,4 @@ ms.locfileid: "44010884"
 - 检查用户是否使用其用户帐户登录。
 - 确认共享计算机和 Internet 之间具有可靠连接。
 
-有关其他故障排除提示，请参阅：[排查共享计算机激活的问题](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+有关其他故障排除提示，请参阅： [排查共享计算机激活的问题](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
