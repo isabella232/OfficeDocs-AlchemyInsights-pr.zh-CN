@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021630"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670354"
 ---
 # <a name="teams-admin-center"></a>Teams 管理中心
 
@@ -30,4 +31,6 @@ ms.locfileid: "44021630"
 如果用户未出现在埃 Teams 管理中心，请检查以下项：
 
 - 是否在最近 24 小时内创建了用户或分配了许可证？ 请确保在打开支持票证前等待至少 24 小时。
-- 验证是否分配了适当的许可证？ 
+- 验证是否分配了适当的许可证？
+- 如果你有一个本地 Active Directory，请确认[本地 Active Directory 中 ProxyAddresses 字段中的 msRTCSIP-PrimaryUserAddress 或 SIP 地址的值是唯一的，并且格式匹配](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) sip：来自 [Microsoft 365 管理中心](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)中用户的**用户名**。
+- 如果你打算保留 Skype for Business Server 部署，并且让用户驻留在本地和联机：请按照 Skype for Business Server 控制面板中的“**使用 Teams 和 Skype for Business Online 设置混合**” ，并联机移动用户。

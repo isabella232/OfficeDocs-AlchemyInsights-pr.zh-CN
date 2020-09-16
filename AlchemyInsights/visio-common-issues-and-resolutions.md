@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722539"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699257"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Visio 常见问题和解决方法
 
@@ -30,7 +31,7 @@ ms.locfileid: "43722539"
 
 **下载、安装和激活 Visio**
 
-- 若要使用 Visio Online 计划 2 安装和激活 Visio 桌面应用，必须先向用户分配 [Visio 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)。
+- 若要使用 Visio Online 计划 2 安装和激活 Visio 桌面应用，必须先向用户分配 [Visio 许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 
 - 从“我的帐户”门户安装 Visio（如果尚未安装）。 有关帮助，请参阅[安装 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710)。
 
@@ -40,7 +41,7 @@ ms.locfileid: "43722539"
 
 **Mac 上的 Visio**
 
-没有适用于 Mac 的 Visio 桌面应用程序。 但是，拥有有效 [Visio Online 许可证](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)的用户可以在 Web 浏览器上的 Visio Online 中[查看、创建和编辑图表](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc)。
+没有适用于 Mac 的 Visio 桌面应用程序。 但是，拥有有效 [Visio Online 许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)的用户可以在 Web 浏览器上的 Visio Online 中[查看、创建和编辑图表](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc)。
 
 **图表、模板、形状和连接线**
 

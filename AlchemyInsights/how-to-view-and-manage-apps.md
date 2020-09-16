@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 7ee232ccd037b64c7591b7332ab58931b86ba349
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: e931d1a7762f27c889ae115b9be8f591ba51b3c0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743821"
 ---
 # <a name="how-to-view-and-manage-apps"></a>如何查看和管理应用程序
 
@@ -25,4 +26,4 @@ ms.locfileid: "44063715"
 
 1. 在管理中心中，转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面。
 
-2. 在 "**[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页上，选择 "**应用**" 选项卡。
+2. 在 " **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)** " 页上，选择 " **应用** " 选项卡。
