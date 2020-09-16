@@ -5,32 +5,37 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944079"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714894"
 ---
-# <a name="azure-information-protection-aip-client-installation"></a><span data-ttu-id="c37b2-102">Azure 信息保护：安装 AIP 客户端</span><span class="sxs-lookup"><span data-stu-id="c37b2-102">Azure Information Protection: AIP client installation</span></span>
+# <a name="azure-information-protection-aip-client-installation"></a><span data-ttu-id="ff82f-102">Azure 信息保护：安装 AIP 客户端</span><span class="sxs-lookup"><span data-stu-id="ff82f-102">Azure Information Protection: AIP client installation</span></span>
 
-<span data-ttu-id="c37b2-103">如果要安装 AIP 客户端，请使用以下推荐步骤：</span><span class="sxs-lookup"><span data-stu-id="c37b2-103">If you are installing the AIP client, use the following recommended steps:</span></span>
+<span data-ttu-id="ff82f-103">如果要安装 AIP 客户端，请使用以下推荐步骤：</span><span class="sxs-lookup"><span data-stu-id="ff82f-103">If you are installing the AIP client, use the following recommended steps:</span></span>
 
-1. <span data-ttu-id="c37b2-104">从 [Microsoft 下载中心](https://www.microsoft.com/download/details.aspx?id=53018)下载 Azure 信息保护客户端。</span><span class="sxs-lookup"><span data-stu-id="c37b2-104">Download the Azure Information Protection client from the [Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=53018).</span></span>
+1. <span data-ttu-id="ff82f-104">从 [Microsoft 下载中心](https://www.microsoft.com/download/details.aspx?id=53018)下载 Azure 信息保护客户端。</span><span class="sxs-lookup"><span data-stu-id="ff82f-104">Download the Azure Information Protection client from the [Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=53018).</span></span>
 
-2. <span data-ttu-id="c37b2-105">有关安装说明，请查看以下文档：</span><span class="sxs-lookup"><span data-stu-id="c37b2-105">Review the following documentation for installation instructions:</span></span>
+2. <span data-ttu-id="ff82f-105">有关安装说明，请查看以下文档：</span><span class="sxs-lookup"><span data-stu-id="ff82f-105">Review the following documentation for installation instructions:</span></span>
 
-    - <span data-ttu-id="c37b2-106">对于最终用户：[下载并安装 Azure 信息保护客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-client-app)。</span><span class="sxs-lookup"><span data-stu-id="c37b2-106">For end users: [Download and install the Azure Information Protection client](https://docs.microsoft.com/azure/information-protection/rms-client/install-client-app).</span></span>
-    - <span data-ttu-id="c37b2-107">对于管理员：[为用户安装 Azure 信息保护客户端](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install)。</span><span class="sxs-lookup"><span data-stu-id="c37b2-107">For administrators: [Install the Azure Information Protection client for users](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install).</span></span>
+    - <span data-ttu-id="ff82f-106">对于最终用户：[下载并安装 Azure 信息保护客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-client-app)。</span><span class="sxs-lookup"><span data-stu-id="ff82f-106">For end users: [Download and install the Azure Information Protection client](https://docs.microsoft.com/azure/information-protection/rms-client/install-client-app).</span></span>
+    - <span data-ttu-id="ff82f-107">对于管理员：[为用户安装 Azure 信息保护客户端](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install)。</span><span class="sxs-lookup"><span data-stu-id="ff82f-107">For administrators: [Install the Azure Information Protection client for users](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-install).</span></span>
 
-3. <span data-ttu-id="c37b2-108">如果在安装过程中遇到错误，请按照[修复阻止程序安装或删除问题](https://support.microsoft.com/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed)指南进行操作。</span><span class="sxs-lookup"><span data-stu-id="c37b2-108">If you have encountered an error during the installation process, follow the guidelines of [Fix problems that block programs from being installed or removed](https://support.microsoft.com/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed).</span></span>
+3. <span data-ttu-id="ff82f-108">如果在安装过程中遇到错误，请按照[修复阻止程序安装或删除问题](https://support.microsoft.com/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed)指南进行操作。</span><span class="sxs-lookup"><span data-stu-id="ff82f-108">If you have encountered an error during the installation process, follow the guidelines of [Fix problems that block programs from being installed or removed](https://support.microsoft.com/help/17588/windows-fix-problems-that-block-programs-being-installed-or-removed).</span></span>
 
-4. <span data-ttu-id="c37b2-109">如果运行上述工具后安装客户端时仍遇到问题，请找到 **%temp%** 文件夹，并提供以 Microsoft_Azure_Information_Protection_XXXXXXXXXX.log 开头的客户端安装日志文件。</span><span class="sxs-lookup"><span data-stu-id="c37b2-109">If you still encounter problems installing the client itself after running the above tool, locate the **%temp%** folder and provide the client installation log files that start with Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.</span></span>
+4. <span data-ttu-id="ff82f-109">如果运行上述工具后安装客户端时仍遇到问题，请找到 **%temp%** 文件夹，并提供以 Microsoft_Azure_Information_Protection_XXXXXXXXXX.log 开头的客户端安装日志文件。</span><span class="sxs-lookup"><span data-stu-id="ff82f-109">If you still encounter problems installing the client itself after running the above tool, locate the **%temp%** folder and provide the client installation log files that start with Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.</span></span>
 
-5. <span data-ttu-id="c37b2-110">如果安装成功，而使用 AIP 仍遇到问题，请选择相应支持主题以获取相关解决方案。</span><span class="sxs-lookup"><span data-stu-id="c37b2-110">If the installation succeeded and you still experience issues using AIP, please select the appropriate Support Topic for relevant solutions.</span></span>
+<span data-ttu-id="ff82f-110">有关详细信息，请：</span><span class="sxs-lookup"><span data-stu-id="ff82f-110">For more info:</span></span>
+
+- <span data-ttu-id="ff82f-111">查看 [Azure 信息保护（AIP）文档](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)、设置[要求](https://docs.microsoft.com/azure/information-protection/get-started/requirements)和位置，以[下载 AIP 客户端](https://www.microsoft.com/download/details.aspx?id=53018)。</span><span class="sxs-lookup"><span data-stu-id="ff82f-111">Review [Azure Information Protection(AIP) documentation](https://docs.microsoft.com/azure/information-protection/what-is-information-protection), setup [requirements](https://docs.microsoft.com/azure/information-protection/get-started/requirements) and location to [download AIP client](https://www.microsoft.com/download/details.aspx?id=53018).</span></span>
+
+- <span data-ttu-id="ff82f-112">有关 Azure 订阅信息，请参阅[Azure 信息保护订阅和功能](https://azure.microsoft.com/pricing/details/information-protection)。</span><span class="sxs-lookup"><span data-stu-id="ff82f-112">For Azure subscription information, see [Azure Information Protection subscriptions and features](https://azure.microsoft.com/pricing/details/information-protection).</span></span>
