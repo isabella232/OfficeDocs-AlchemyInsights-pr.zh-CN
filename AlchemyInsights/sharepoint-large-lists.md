@@ -6,6 +6,7 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,33 +14,33 @@ ms.custom:
 - "407"
 - "530001"
 ms.assetid: ee07bf74-7aeb-4c47-8f5d-f496d6c09d79
-ms.openlocfilehash: e85686788c60d365a00970e9ffe58e97512894a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1bc891a912c6753ea6c85d7d4b2a5d802080bd5c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767275"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720123"
 ---
-# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a><span data-ttu-id="2cc00-102">在 SharePoint 中处理大型列表和库</span><span class="sxs-lookup"><span data-stu-id="2cc00-102">Work with large lists and libraries in SharePoint</span></span>
+# <a name="work-with-large-lists-and-libraries-in-sharepoint"></a><span data-ttu-id="777a1-102">在 SharePoint 中处理大型列表和库</span><span class="sxs-lookup"><span data-stu-id="777a1-102">Work with large lists and libraries in SharePoint</span></span>
 
-<span data-ttu-id="2cc00-103">SharePoint 列表和库最多可包含30000000个项目，但当它们的项目数超过5000时，您可能会在尝试使用它们时看到列表视图阈值错误。</span><span class="sxs-lookup"><span data-stu-id="2cc00-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a List View Threshold error when you try to work with them.</span></span> <span data-ttu-id="2cc00-104">此阈值是为了维持服务的性能。</span><span class="sxs-lookup"><span data-stu-id="2cc00-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="2cc00-105">不能更改。</span><span class="sxs-lookup"><span data-stu-id="2cc00-105">It can't be changed.</span></span> <span data-ttu-id="2cc00-106">若要避免出现此阈值，请执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="2cc00-106">To avoid hitting this threshold:</span></span>
+<span data-ttu-id="777a1-103">SharePoint 列表和库最多可包含30000000个项目，但当它们的项目数超过5000时，您可能会在尝试使用它们时看到列表视图阈值错误。</span><span class="sxs-lookup"><span data-stu-id="777a1-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a List View Threshold error when you try to work with them.</span></span> <span data-ttu-id="777a1-104">此阈值是为了维持服务的性能。</span><span class="sxs-lookup"><span data-stu-id="777a1-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="777a1-105">不能更改。</span><span class="sxs-lookup"><span data-stu-id="777a1-105">It can't be changed.</span></span> <span data-ttu-id="777a1-106">若要避免出现此阈值，请执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="777a1-106">To avoid hitting this threshold:</span></span>
 
-<span data-ttu-id="2cc00-107">**使用新式**</span><span class="sxs-lookup"><span data-stu-id="2cc00-107">**Use modern**</span></span>
+<span data-ttu-id="777a1-107">**使用新式**</span><span class="sxs-lookup"><span data-stu-id="777a1-107">**Use modern**</span></span>
 
-<span data-ttu-id="2cc00-108">显示许多项目最适用于新式体验的视图。</span><span class="sxs-lookup"><span data-stu-id="2cc00-108">Views showing many items work best in the modern experience.</span></span> <span data-ttu-id="2cc00-109">[使用新式体验](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9)避免在经典体验中可能会看到的错误。</span><span class="sxs-lookup"><span data-stu-id="2cc00-109">[Use the modern experience](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) to avoid errors you might see in the classic experience.</span></span>
+<span data-ttu-id="777a1-108">显示许多项目最适用于新式体验的视图。</span><span class="sxs-lookup"><span data-stu-id="777a1-108">Views showing many items work best in the modern experience.</span></span> <span data-ttu-id="777a1-109">[使用新式体验](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) 避免在经典体验中可能会看到的错误。</span><span class="sxs-lookup"><span data-stu-id="777a1-109">[Use the modern experience](https://support.office.com/article/66dac24b-4177-4775-bf50-3d267318caa9) to avoid errors you might see in the classic experience.</span></span>
 
-<span data-ttu-id="2cc00-110">**添加索引**</span><span class="sxs-lookup"><span data-stu-id="2cc00-110">**Add indexes**</span></span>
+<span data-ttu-id="777a1-110">**添加索引**</span><span class="sxs-lookup"><span data-stu-id="777a1-110">**Add indexes**</span></span>
 
-<span data-ttu-id="2cc00-111">当按不包含索引的列进行筛选或排序时，您可能会看到一条错误消息。</span><span class="sxs-lookup"><span data-stu-id="2cc00-111">When you filter or sort by a column that doesn't have an index, you might see an error message.</span></span> <span data-ttu-id="2cc00-112">从 "设置" 菜单中的 "**列表设置**" 手动[添加索引](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)，然后添加索引**列**。</span><span class="sxs-lookup"><span data-stu-id="2cc00-112">[Add an index](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) manually from **List Settings** in the settings menu, then **Indexed Columns**.</span></span>
+<span data-ttu-id="777a1-111">当按不包含索引的列进行筛选或排序时，您可能会看到一条错误消息。</span><span class="sxs-lookup"><span data-stu-id="777a1-111">When you filter or sort by a column that doesn't have an index, you might see an error message.</span></span> <span data-ttu-id="777a1-112">从 "设置" 菜单中的 "**列表设置**" 手动[添加索引](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0)，然后添加索引**列**。</span><span class="sxs-lookup"><span data-stu-id="777a1-112">[Add an index](https://support.office.com/article/f3f00554-b7dc-44d1-a2ed-d477eac463b0) manually from **List Settings** in the settings menu, then **Indexed Columns**.</span></span>
 
-<span data-ttu-id="2cc00-113">**编辑列表视图**</span><span class="sxs-lookup"><span data-stu-id="2cc00-113">**Edit the list view**</span></span>
+<span data-ttu-id="777a1-113">**编辑列表视图**</span><span class="sxs-lookup"><span data-stu-id="777a1-113">**Edit the list view**</span></span>
 
-<span data-ttu-id="2cc00-114">如果在使用大型列表时出现错误，请[编辑列表视图](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372)。</span><span class="sxs-lookup"><span data-stu-id="2cc00-114">If an error occurs when working with a large list, [edit your list view](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).</span></span>
+<span data-ttu-id="777a1-114">如果在使用大型列表时出现错误，请 [编辑列表视图](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372)。</span><span class="sxs-lookup"><span data-stu-id="777a1-114">If an error occurs when working with a large list, [edit your list view](https://support.office.com/article/15916903-e79a-423f-b4e2-02d37e1ff372).</span></span>
 
-<span data-ttu-id="2cc00-115">下面的四个更改将删除列表视图阈值错误。</span><span class="sxs-lookup"><span data-stu-id="2cc00-115">The following four changes will remove list view threshold errors.</span></span> <span data-ttu-id="2cc00-116">做出全部四个更改以删除所有错误。</span><span class="sxs-lookup"><span data-stu-id="2cc00-116">Make all four changes to remove all errors.</span></span> <span data-ttu-id="2cc00-117">如果仍收到错误，请检查 "[管理大型列表和库](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)"。</span><span class="sxs-lookup"><span data-stu-id="2cc00-117">If you are still getting errors, check [Manage large lists and libraries](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).</span></span>
+<span data-ttu-id="777a1-115">下面的四个更改将删除列表视图阈值错误。</span><span class="sxs-lookup"><span data-stu-id="777a1-115">The following four changes will remove list view threshold errors.</span></span> <span data-ttu-id="777a1-116">做出全部四个更改以删除所有错误。</span><span class="sxs-lookup"><span data-stu-id="777a1-116">Make all four changes to remove all errors.</span></span> <span data-ttu-id="777a1-117">如果仍收到错误，请检查 " [管理大型列表和库](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59)"。</span><span class="sxs-lookup"><span data-stu-id="777a1-117">If you are still getting errors, check [Manage large lists and libraries](https://support.office.com/article/B8588DAE-9387-48C2-9248-C24122F07C59).</span></span>
 
-1. <span data-ttu-id="2cc00-118">从**第一个排序**中选择 "**无**"，**再按列进行排序**。</span><span class="sxs-lookup"><span data-stu-id="2cc00-118">Select **None** from both **First sort by the column** and **Then sort by the column**.</span></span>
-2. <span data-ttu-id="2cc00-119">从**第一个 group 的列**中选择 "**无**"，**然后按列进行分组**。</span><span class="sxs-lookup"><span data-stu-id="2cc00-119">Select **None** from both **First group by the column** and **Then group by the column**.</span></span>
-3. <span data-ttu-id="2cc00-120">对 "**总计**" 部分中的所有列选择 "**无**"。</span><span class="sxs-lookup"><span data-stu-id="2cc00-120">Select **None** for all columns in the **Totals** section.</span></span>
-4. <span data-ttu-id="2cc00-121">取消选择除一列之外的所有列以显示从 "**列**" 部分。</span><span class="sxs-lookup"><span data-stu-id="2cc00-121">Deselect all but one column for display from the **Columns** section.</span></span>
+1. <span data-ttu-id="777a1-118">从**第一个排序**中选择 "**无**"，**再按列进行排序**。</span><span class="sxs-lookup"><span data-stu-id="777a1-118">Select **None** from both **First sort by the column** and **Then sort by the column**.</span></span>
+2. <span data-ttu-id="777a1-119">从**第一个 group 的列**中选择 "**无**"，**然后按列进行分组**。</span><span class="sxs-lookup"><span data-stu-id="777a1-119">Select **None** from both **First group by the column** and **Then group by the column**.</span></span>
+3. <span data-ttu-id="777a1-120">对 "**总计**" 部分中的所有列选择 "**无**"。</span><span class="sxs-lookup"><span data-stu-id="777a1-120">Select **None** for all columns in the **Totals** section.</span></span>
+4. <span data-ttu-id="777a1-121">取消选择除一列之外的所有列以显示从 " **列** " 部分。</span><span class="sxs-lookup"><span data-stu-id="777a1-121">Deselect all but one column for display from the **Columns** section.</span></span>
 
