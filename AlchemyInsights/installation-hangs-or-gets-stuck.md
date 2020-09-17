@@ -5,35 +5,35 @@ author: janellem
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 272f4d7ccaeb09b241ba1647996d456f6f159576
-ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.openlocfilehash: 613b1f9ec8462d88804dd93f1ad73f649216c39a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300685"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794360"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="e8338-102">Office 安装挂起或停滞</span><span class="sxs-lookup"><span data-stu-id="e8338-102">Office installation hangs or gets stuck</span></span>
+# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="e6ccf-102">Office 安装挂起或停滞</span><span class="sxs-lookup"><span data-stu-id="e6ccf-102">Office installation hangs or gets stuck</span></span>
 
-<span data-ttu-id="e8338-103">你可能会看到此行为是由于你的计算机上的网络连接、防病毒软件或 Windows 更新设置所致。</span><span class="sxs-lookup"><span data-stu-id="e8338-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="e8338-104">Here are some things you can try to fix the problem.</span><span class="sxs-lookup"><span data-stu-id="e8338-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="e6ccf-103">你可能会看到此行为是由于你的计算机上的网络连接、防病毒软件或 Windows 更新设置所致。</span><span class="sxs-lookup"><span data-stu-id="e6ccf-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="e6ccf-104">Here are some things you can try to fix the problem.</span><span class="sxs-lookup"><span data-stu-id="e6ccf-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="e8338-105">重新启动计算机并检查是否已安装 Office</span><span class="sxs-lookup"><span data-stu-id="e8338-105">Restart your computer and check if Office Installed</span></span>
+- <span data-ttu-id="e6ccf-105">重新启动计算机并检查是否已安装 Office</span><span class="sxs-lookup"><span data-stu-id="e6ccf-105">Restart your computer and check if Office Installed</span></span>
 
-- <span data-ttu-id="e8338-106">使用有线连接</span><span class="sxs-lookup"><span data-stu-id="e8338-106">Use a wired connection</span></span>
+- <span data-ttu-id="e6ccf-106">使用有线连接</span><span class="sxs-lookup"><span data-stu-id="e6ccf-106">Use a wired connection</span></span>
 
-- <span data-ttu-id="e8338-107">如果您使用的是低速 internet 连接，请[使用 office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 office</span><span class="sxs-lookup"><span data-stu-id="e8338-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="e6ccf-107">如果您使用的是低速 internet 连接，请[使用 office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 office</span><span class="sxs-lookup"><span data-stu-id="e6ccf-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="e8338-108">暂时关闭防病毒软件</span><span class="sxs-lookup"><span data-stu-id="e8338-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="e6ccf-108">暂时关闭防病毒软件</span><span class="sxs-lookup"><span data-stu-id="e6ccf-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="e8338-109">从 "控制面板" 中运行 "联机修复"</span><span class="sxs-lookup"><span data-stu-id="e8338-109">Run online repair from Control Panel</span></span>
+- <span data-ttu-id="e6ccf-109">从 "控制面板" 中运行 "联机修复"</span><span class="sxs-lookup"><span data-stu-id="e6ccf-109">Run online repair from Control Panel</span></span>
 
-- <span data-ttu-id="e8338-110">删除并重新安装 Office</span><span class="sxs-lookup"><span data-stu-id="e8338-110">Remove and reinstall Office</span></span>
+- <span data-ttu-id="e6ccf-110">删除并重新安装 Office</span><span class="sxs-lookup"><span data-stu-id="e6ccf-110">Remove and reinstall Office</span></span>
 
-[<span data-ttu-id="e8338-111">Office 花费了很长时间才能安装</span><span class="sxs-lookup"><span data-stu-id="e8338-111">Office is taking a long time to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="e6ccf-111">Office 花费了很长时间才能安装</span><span class="sxs-lookup"><span data-stu-id="e6ccf-111">Office is taking a long time to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
