@@ -6,18 +6,19 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063859"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778141"
 ---
 # <a name="manage-app-licenses"></a>管理应用许可证
 
@@ -27,9 +28,9 @@ ms.locfileid: "44063859"
 
 2. 查找并选择要管理的应用程序。  
 
-3. 选择 "**添加/删除许可证**"。
+3. 选择 " **添加/删除许可证**"。
 
-4. 输入所需的新数量的许可证。 例如，如果您当前有5个许可证并且只需要4个，请在 "**许可证总数**" 框中输入 "4"。 如果你当前有5个许可证，并且需要10个总许可证，请在 "**许可证总数**" 框中输入10。
+4. 输入所需的新数量的许可证。 例如，如果您当前有5个许可证并且只需要4个，请在 " **许可证总数** " 框中输入 "4"。 如果你当前有5个许可证，并且需要10个总许可证，请在 " **许可证总数** " 框中输入10。
 
 ## <a name="to-assign-app-licenses"></a>分配应用程序许可证
 
@@ -37,4 +38,4 @@ ms.locfileid: "44063859"
 
 2. 查找并选择要管理的应用程序。  
 
-3. 在 "**设置" & "操作**" 下，选择要**在 publisher 的门户中管理**的链接。
+3. 在 " **设置" & "操作**" 下，选择要 **在 publisher 的门户中管理**的链接。
