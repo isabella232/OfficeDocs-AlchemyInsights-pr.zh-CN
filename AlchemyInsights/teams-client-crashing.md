@@ -5,51 +5,46 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030515"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691097"
 ---
-# <a name="teams-client-crashing"></a><span data-ttu-id="c5347-102">Teams 客户端发生了故障？</span><span class="sxs-lookup"><span data-stu-id="c5347-102">Teams client crashing?</span></span>
+# <a name="teams-client-crashing"></a><span data-ttu-id="922d5-102">Teams 客户端发生了故障？</span><span class="sxs-lookup"><span data-stu-id="922d5-102">Teams client crashing?</span></span>
 
-<span data-ttu-id="c5347-103">如果 Teams 客户端发生了故障，请尝试执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="c5347-103">If your Teams client is crashing, try the following:</span></span>
+<span data-ttu-id="922d5-103">如果 Teams 客户端发生了故障，请尝试执行以下操作：</span><span class="sxs-lookup"><span data-stu-id="922d5-103">If your Teams client is crashing, try the following:</span></span>
 
-- <span data-ttu-id="c5347-104">如果使用的是 Teams 桌面应用，请[确保应用已完全更新](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)。</span><span class="sxs-lookup"><span data-stu-id="c5347-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
+- <span data-ttu-id="922d5-104">如果使用的是 Teams 桌面应用，请[确保应用已完全更新](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1)。</span><span class="sxs-lookup"><span data-stu-id="922d5-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
 
-- <span data-ttu-id="c5347-105">确保所有 [Office 365 URL 和地址范围](https://docs.microsoft.com/microsoftteams/connectivity-issues)都可访问。</span><span class="sxs-lookup"><span data-stu-id="c5347-105">Make sure all the [Office 365 URL's and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
+- <span data-ttu-id="922d5-105">确保所有 [Microsoft 365 URL 和地址范围](https://docs.microsoft.com/microsoftteams/connectivity-issues)均可访问。</span><span class="sxs-lookup"><span data-stu-id="922d5-105">Make sure all the [Microsoft 365 URLs and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
 
-- <span data-ttu-id="c5347-106">使用管理员帐户登录，然后检查[服务运行状况仪表板](https://docs.microsoft.com/office365/enterprise/view-service-health)，以确认是否没有任何故障或服务降级。</span><span class="sxs-lookup"><span data-stu-id="c5347-106">Log in with your admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
+- <span data-ttu-id="922d5-106">使用租户管理员帐户登录，然后检查[服务运行状况仪表板](https://docs.microsoft.com/office365/enterprise/view-service-health)，以确认没有任何故障或服务降级。</span><span class="sxs-lookup"><span data-stu-id="922d5-106">Log in with your tenant admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
 
- - <span data-ttu-id="c5347-107">最后，可以尝试清除 Teams 客户端缓存：</span><span class="sxs-lookup"><span data-stu-id="c5347-107">As a last step, you can attempt to clear your Teams client cache:</span></span>
+- <span data-ttu-id="922d5-107">卸载并重新安装 Teams 应用程序（链接）</span><span class="sxs-lookup"><span data-stu-id="922d5-107">Uninstall and reinstall the Teams Application (link)</span></span>
+    - <span data-ttu-id="922d5-108">浏览到计算机上的 %appdata%\Microsoft\teams\ 文件夹，然后删除该目录中的所有文件。</span><span class="sxs-lookup"><span data-stu-id="922d5-108">Browse to the %appdata%\Microsoft\teams\ folder on your computer and delete all files in that directory.</span></span>
+    - <span data-ttu-id="922d5-109">[下载并安装 Teams 应用](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)，如有可能，请以管理员身份安装 Teams（右键单击 Teams 安装程序，然后选择“以管理员身份运行”(如果有)）。</span><span class="sxs-lookup"><span data-stu-id="922d5-109">[Download and install the Teams App](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), and if possible, install Teams as an administrator (right click the Teams installer and select "Run as administrator" if available).</span></span>
 
-    1.  <span data-ttu-id="c5347-108">完全退出 Microsoft Teams 桌面客户端。</span><span class="sxs-lookup"><span data-stu-id="c5347-108">Fully exit the Microsoft Teams desktop client.</span></span> <span data-ttu-id="c5347-109">可以右键单击图标托盘中的“Teams”\*\*\*\*，然后单击“退出”\*\*\*\*，也可以运行“任务管理器”，并完全终止进程。</span><span class="sxs-lookup"><span data-stu-id="c5347-109">You can right-click **Teams** from the Icon Tray and click **Quit**, or run Task Manager and fully kill the process.</span></span>
+<span data-ttu-id="922d5-110">如果 Teams 客户端仍出现崩溃，是否可以重现问题？</span><span class="sxs-lookup"><span data-stu-id="922d5-110">If your Teams client is still crashing, can you reproduce the issue?</span></span> <span data-ttu-id="922d5-111">如果是这样：</span><span class="sxs-lookup"><span data-stu-id="922d5-111">If so:</span></span>
 
-    2.  <span data-ttu-id="c5347-110">转到“文件资源管理器”，然后键入“%appdata%\Microsoft\teams”。</span><span class="sxs-lookup"><span data-stu-id="c5347-110">Go to File Explorer, and type in %appdata%\Microsoft\teams.</span></span>
+1. <span data-ttu-id="922d5-112">请使用步骤记录器捕获步骤。</span><span class="sxs-lookup"><span data-stu-id="922d5-112">Use the Steps Recorder to capture your steps.</span></span>
+    - <span data-ttu-id="922d5-113">关闭所有不必要的或机密的应用程序。</span><span class="sxs-lookup"><span data-stu-id="922d5-113">Close ALL unnecessary or confidential applications.</span></span>
+    - <span data-ttu-id="922d5-114">启动步骤记录器并在使用受影响的用户帐户登录时重现该问题。</span><span class="sxs-lookup"><span data-stu-id="922d5-114">Launch the Steps Recorder and reproduce the issue while logged in with the affected user account.</span></span>
+    - <span data-ttu-id="922d5-115">[收集捕获记录的重现步骤的 Teams 日志](https://docs.microsoft.com/microsoftteams/log-files)。</span><span class="sxs-lookup"><span data-stu-id="922d5-115">[Collect the teams logs that capture the recorded repro steps](https://docs.microsoft.com/microsoftteams/log-files).</span></span> <span data-ttu-id="922d5-116">**注意**：请确保捕获受影响用户的登录地址。</span><span class="sxs-lookup"><span data-stu-id="922d5-116">**Note**: Make sure you capture the sign-in address of the impacted user.</span></span>
+    - <span data-ttu-id="922d5-117">收集转储和/或故障存储桶信息(Windows)。</span><span class="sxs-lookup"><span data-stu-id="922d5-117">Collect the dump and/or Fault bucket info (Windows).</span></span> <span data-ttu-id="922d5-118">在发生崩溃的计算机上启动 Windows Powershell，然后运行以下命令：</span><span class="sxs-lookup"><span data-stu-id="922d5-118">Launch Windows Powershell on the machine where the crash is occurring and run the following commands:</span></span>
 
-    3.  <span data-ttu-id="c5347-111">进入目录后，便会看到以下几个文件夹：</span><span class="sxs-lookup"><span data-stu-id="c5347-111">Once in the directory, you'll see a few of the following folders:</span></span>
-
-         - <span data-ttu-id="c5347-112">在“应用程序缓存”\*\*\*\* 中，转到“缓存”，然后删除“缓存”位置 (%appdata%\Microsoft\teams\application cache\cache) 中的任何文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-112">From within **Application Cache**, go to Cache and delete any of the files in the Cache location:  %appdata%\Microsoft\teams\application cache\cache.</span></span>
-
-        - <span data-ttu-id="c5347-113">在“Blob_storage”\*\*\*\*(%appdata%\Microsoft\teams\blob_storage) 中，删除所有文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-113">From within **Blob_storage**, delete all files: %appdata%\Microsoft\teams\blob_storage.</span></span>
-
-        - <span data-ttu-id="c5347-114">在“缓存”\*\*\*\*(%appdata%\Microsoft\teams\Cache) 中，删除所有文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-114">From within **Cache**, delete all files: %appdata%\Microsoft\teams\Cache.</span></span>
-
-        - <span data-ttu-id="c5347-115">在“数据库”\*\*\*\*(%appdata%\Microsoft\teams\databases) 中，删除所有文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-115">From within **databases**, delete all files: %appdata%\Microsoft\teams\databases.</span></span>
-
-        - <span data-ttu-id="c5347-116">在“GPUCache”\*\*\*\*(%appdata%\Microsoft\teams\GPUcache) 中，删除所有文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-116">From within **GPUCache**, delete all files: %appdata%\Microsoft\teams\GPUcache.</span></span>
-
-        - <span data-ttu-id="c5347-117">在“IndexedDB”\*\*\*\*(%appdata%\Microsoft\teams\IndexedDB) 中，删除 .db 文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-117">From within **IndexedDB**, delete the .db file: %appdata%\Microsoft\teams\IndexedDB.</span></span>
-
-        - <span data-ttu-id="c5347-118">在“本地存储”\*\*\*\*(%appdata%\Microsoft\teams\Local Storage) 中，删除所有文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-118">From within **Local Storage**, delete all files: %appdata%\Microsoft\teams\Local Storage.</span></span>
-
-        - <span data-ttu-id="c5347-119">最后，在“tmp”\*\*\*\*(%appdata%\Microsoft\teams\tmp) 中，删除所有文件。</span><span class="sxs-lookup"><span data-stu-id="c5347-119">Lastly, from within **tmp**, delete any file: %appdata%\Microsoft\teams\tmp.</span></span>
-
-    4. <span data-ttu-id="c5347-120">重启 Teams 客户端。</span><span class="sxs-lookup"><span data-stu-id="c5347-120">Restart your Teams client.</span></span>
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. <span data-ttu-id="922d5-119">将文件附加到你的支持用例。</span><span class="sxs-lookup"><span data-stu-id="922d5-119">Attach the file to your support case.</span></span>
