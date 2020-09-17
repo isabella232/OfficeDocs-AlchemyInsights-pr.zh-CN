@@ -5,19 +5,20 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b0a8f86c8ec419fb5b63e47b7d7528b5c83a96e4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7db5e4c84f16e58b69be88f93e01aa57c75c52e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767599"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795378"
 ---
 # <a name="user-permissions-in-sharepoint"></a>SharePoint 中的用户权限
 
-创建 SharePoint 站点后，可能需要提供或限制用户对该站点或其内容的访问权限。 处理权限的最简单方法是使用所提供的[默认组](https://docs.microsoft.com/sharepoint/default-sharepoint-groups)和权限级别，这涵盖了最常见的方案。 但是，如果需要，可以设置优于默认级别的更细化权限。 有关详细信息，请参阅[了解 SharePoint 中的权限级别](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
+创建 SharePoint 站点后，可能需要提供或限制用户对该站点或其内容的访问权限。 处理权限的最简单方法是使用所提供的 [默认组](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) 和权限级别，这涵盖了最常见的方案。 但是，如果需要，可以设置优于默认级别的更细化权限。 有关详细信息，请参阅 [了解 SharePoint 中的权限级别](https://docs.microsoft.com/sharepoint/understanding-permission-levels)。
 
 有关管理特定权限级别的详细信息，请访问以下链接：
 
