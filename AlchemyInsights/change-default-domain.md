@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083936"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815667"
 ---
 # <a name="change-default-domain"></a>更改默认域
 
-使用“[添加域向导](https://portal.office.com/adminportal/home#/Domains/Wizard)”添加一个自定义域后，该自定义域将成为新用户的默认域，但对现有用户没有影响。
+使用“[添加域向导](https://admin.microsoft.com/Adminportal#/Domains/Wizard)”添加一个自定义域后，该自定义域将成为新用户的默认域，但对现有用户没有影响。
 
 - 若要将默认域更改为现有域，请在“[域](https://admin.microsoft.com/Adminportal/Home#/Domains)”页面上选择相应域，然后选择“**设为默认值**”。
 

@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 2f2d4f7c093d62267bb859e96493ec6d09452c7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d8654bc2dfb9063d0203992d624285eb646027d
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699509"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815775"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>更新 DNS 记录以便利用当前的托管提供商继续托管网站
 
-1. 在 Microsoft 365 管理中心，转到 "**安装**  >  [域](https://portal.office.com/adminportal/home#/Domains)" 页，并在域列表中，选择要用于您的网站的域。
+1. 在 Microsoft 365 管理中心，转到 "**安装**  >  [域](https://admin.microsoft.com/Adminportal#/Domains)" 页，并在域列表中，选择要用于您的网站的域。
 
 2. 选择" **+ 新增自定义记录** "，然后输入以下信息：
 

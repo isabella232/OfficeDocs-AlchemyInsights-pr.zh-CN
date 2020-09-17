@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
-ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
+ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47341393"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812537"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook 无法连接到公用文件夹
 
@@ -38,9 +39,9 @@ Set-邮箱 ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
 1.  使用 Set-casmailbox <mailboxname> -PublicFolderClientAccess $true 或 $false  
       
-    $true：允许用户访问 Outlook 中的公用文件夹  
+    $true：允许用户在 Outlook 中访问公用文件夹  
       
-    $false：阻止用户访问 Outlook 中的公用文件夹。 此值为默认值。  
+    $false：防止用户在Outlook 中访问公用文件夹。 此值为默认值。  
         
 2.  Set-organizationconfig-PublicFolderShowClientControl $true   
       
