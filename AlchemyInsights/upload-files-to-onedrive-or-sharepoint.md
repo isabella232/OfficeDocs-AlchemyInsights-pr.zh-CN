@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: abe05ec2b0529d36114542d828403bf08df0afb2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766411"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805921"
 ---
 # <a name="upload-files-to-onedrive-or-sharepoint"></a>将文件上传到 OneDrive 或 SharePoint
 
@@ -28,7 +29,7 @@ ms.locfileid: "43766411"
     
 **注意：**
 - 最大可上载 15 GB 的文件。 
-- 文件的完整路径（包括文件名）的长度不能超过400个字符。 
-- 如果需要上传超过100个文件，请[使用 OneDrive 同步客户端](https://go.microsoft.com/fwlink/?linkid=866427)。 
+-  (包括文件名) 的文件的完整路径的长度不能超过400个字符。 
+- 如果需要上传超过100个文件，请 [使用 OneDrive 同步客户端](https://go.microsoft.com/fwlink/?linkid=866427)。 
   
 

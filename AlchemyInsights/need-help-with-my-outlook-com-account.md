@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288148"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803271"
 ---
 # <a name="need-help-with-my-outlookcom-account"></a>需要有关我的 Outlook.com 帐户的帮助
 
@@ -24,6 +25,6 @@ ms.locfileid: "42288148"
 
 1. 单击 "？" 屏幕右上部的图标。 
 
-2. 在弹出面板上显示的 "帮助" 框中键入需要帮助的内容，然后单击 "**提交**"。 
+2. 在弹出面板上显示的 "帮助" 框中键入需要帮助的内容，然后单击 " **提交**"。 
 
-3. 如果未显示解决方案，请向下滚动侧面板，然后单击 "**与我们联系**"。
+3. 如果未显示解决方案，请向下滚动侧面板，然后单击 " **与我们联系**"。

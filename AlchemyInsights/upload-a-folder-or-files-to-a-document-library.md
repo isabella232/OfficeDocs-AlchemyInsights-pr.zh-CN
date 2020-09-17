@@ -6,17 +6,18 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 62c21ba16892102c5597d8cee1f22cd5cf2b2753
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766447"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47805813"
 ---
 # <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>将文件夹或文件上传到 SharePoint 文档库
 
@@ -28,6 +29,6 @@ ms.locfileid: "43766447"
     
 3. 将文件夹或文件拖到文档库。 如果您未看到上载的项目出现在库中，请刷新页面。 
     
-如果不想通过在 windows 之间拖动项目上传，则还可以使用文档库中的 "**上载**" 按钮来选择要上载的一个或一些文件。 
+如果不想通过在 windows 之间拖动项目上传，则还可以使用文档库中的 " **上载** " 按钮来选择要上载的一个或一些文件。 
   
 
