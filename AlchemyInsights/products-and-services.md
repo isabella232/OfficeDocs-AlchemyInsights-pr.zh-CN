@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062851"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799230"
 ---
 # <a name="your-products"></a>你的产品
 
 你可以在 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页上找到你的组织拥有的订阅。 下面是此页面的一些突出显示部分，并提供了有关每个功能的详细信息的链接：
 
-1. 管理已为每个订阅购买的许可证数量以及使用的数量。  **注意**：未使用的许可证（未分配给用户）仍然收费。  若要不为未使用的许可证付费，请减少购买的许可证数量。 若要了解如何在订阅中添加或删除许可证，请参阅[如何添加或减少许可证](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
+1. 管理已为每个订阅购买的许可证数量以及使用的数量。  **注意**：未使用的许可证 (未分配给用户) 仍将收取费用。  若要不为未使用的许可证付费，请减少购买的许可证数量。 若要了解如何在订阅中添加或删除许可证，请参阅 [如何添加或减少许可证](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
 
-2. 查看订阅的续订日期或到期日期。  您可以通过单击日期上的 "**续订/过期**" 旁边的 "**编辑**" 链接来管理续订。  有关如何管理定期计费的详细信息，请参阅[续订 Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) 。
+2. 查看订阅的续订日期或到期日期。  您可以通过单击日期上的 "**续订/过期**" 旁边的 "**编辑**" 链接来管理续订。  有关如何管理定期计费的详细信息，请参阅 [续订 Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) 。
 
 3. [重新激活已过期或已禁用的订阅](https://go.microsoft.com/fwlink/?linkid=2117519)。
 
