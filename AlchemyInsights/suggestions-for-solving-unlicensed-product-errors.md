@@ -6,27 +6,27 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: ec9e154a02cc62bb6b8aaa6b510c71d13391ccad
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b1a1ebe313cc90d49633522546b7757fc2d93543
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509842"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808409"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>解决 "未经许可的产品" 错误的建议
 
-确保您有一个允许客户端许可证（如 Microsoft 365 应用程序商业版或 Microsoft 365 商业高级版）的订阅，并[确保用户已分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。 [停用安装](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user)以检查是否已超过您的订阅支持的安装数。
+确保您有一个允许客户端许可证（如 Microsoft 365 应用程序商业版或 Microsoft 365 商业高级版）的订阅，并 [确保用户已分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。 [停用安装](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) 以检查是否已超过您的订阅支持的安装数。
   
 确保用户使用已分配许可证的同一帐户进行登录。
   
-运行[激活疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)。
+运行 [激活疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)。
   
 检查您的订阅状态是否已过期
   
