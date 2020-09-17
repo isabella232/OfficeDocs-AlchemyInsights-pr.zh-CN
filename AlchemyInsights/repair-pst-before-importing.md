@@ -6,18 +6,19 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720127"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799086"
 ---
 # <a name="repair-pst-file-before-importing"></a>导入前修复 .pst 文件
 
@@ -25,14 +26,14 @@ ms.locfileid: "43720127"
 
 1. 退出 Outlook。
 
-2. 在 Office 程序`Scanpst.exe`文件夹中查找和运行（C:\Program Files （x86） \Microsoft Office\root\Office\<version\> or C:\Program Files\Microsoft Office\root\Office\<version\>）。
+2. `Scanpst.exe`在 Office 程序文件夹中查找和运行 (C:\Program 文件 (x86) \Microsoft Office\root\Office \<Version\> 或 C:\Program Files\Microsoft Office\root\Office \<Version\>) 。
 
-3. 在**Microsoft Outlook 收件箱修复工具**中，单击 "**浏览**" 查找 .pst 文件（例如，在 C:\Users\\<username\>\AppData\Local\Microsoft\Outlook）。 选择 .pst 文件，然后单击 "**打开**"。
+3. 在 **Microsoft Outlook 收件箱修复工具**中，单击 " **浏览** " 查找 .pst 文件 (例如，在 C:\Users \\<username \> \AppData\Local\Microsoft\Outlook) 。 选择 .pst 文件，然后单击 " **打开**"。
 
-4. 单击 "**启动**" 开始扫描。
+4. 单击 " **启动** " 开始扫描。
 
-5. 如果在文件中发现错误，请单击 "**修复**"，然后在修复完成后单击 **"确定"** 。
+5. 如果在文件中发现错误，请单击 " **修复**"，然后在修复完成后单击 **"确定"** 。
 
 6. 尝试重新导入 Outlook 中的 .pst 文件。
 
-有关详细信息，请参阅[修复 outlook 数据文件](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253)和[修复导入 Outlook .pst 文件中的问题](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)。
+有关详细信息，请参阅 [修复 outlook 数据文件](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) 和 [修复导入 Outlook .pst 文件中的问题](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)。
