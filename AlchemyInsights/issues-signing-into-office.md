@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676944"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236115"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>登录到 Microsoft 365 应用程序的问题
 
@@ -25,6 +25,8 @@ ms.locfileid: "47676944"
 
 - 对于 Windows，请参阅 [解决常见登录问题的建议](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - 对于 Mac，请参阅  [无法登录到适用于 mac 的 Office 2016 应用程序](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**提示** 在 Windows 计算机上，我们可以为你诊断并自动解决几个常见的 Office 登录问题。 下载并运行  **[Microsoft 支持和恢复助理](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我们的自动工具。
 
 **注意：** 禁用新式验证 (ADAL) 或 Web 帐户管理 (WAM)  **不建议使用**修复登录或激活问题。 如果使用 Office 2013 连接到 Microsoft 365 时出现错误，请确保为 Office 客户端 [启用新式验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  。
 
