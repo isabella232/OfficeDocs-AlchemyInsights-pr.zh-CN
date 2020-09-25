@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744616"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236079"
 ---
 # <a name="unable-to-activate-office"></a>无法激活 Office
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744616"
 - 确保用户使用分配有许可证的同一帐户登录到 Office。
 - 查看 [Office 365 服务运行状况页面](https://docs.microsoft.com/office365/enterprise/view-service-health)，检查是否存在任何已知的服务问题。
 - 检查防火墙、防病毒软件和代理设置，确认它们不会阻止 Microsoft 365 应用访问 Internet。 请参阅 [Office 365 URL 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL 和 IP 地址范围")。
+
+**提示** 在 Windows 计算机上，我们可以为你诊断并自动修复若干常见的 Office 登录问题。 下载并运行 **[Microsoft 支持和恢复助手](https://aka.ms/SaRA-OfficeSignInScenario)** 以使用我们的自动化工具。
 
 采取下列故障排除操作：
 
