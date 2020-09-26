@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711085"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277921"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>无法安装或运行电子数据展示导出工具？
 
@@ -47,4 +47,5 @@ ms.locfileid: "47711085"
 - 你已在 Microsoft 365 安全合规中心中分配了导出角色 &amp; 。 默认情况下，此角色仅分配给电子数据展示管理器角色组。 请参阅 [分配电子数据展示权限](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)。
 
 有关详细信息，请参阅 [导出内容搜索结果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
-  
+
+如果要导出超过10万个以上的邮箱，则需要使用以下 Powershell 下载导出结果：  [导出超过10个邮箱的结果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)。
