@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795558"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295596"
 ---
 # <a name="set-passwords-to-never-expire"></a>将密码设置为永不过期
 
-若要将所有密码设置为永不过期，请在 Microsoft 365 管理中心中，转到 "**设置**  >  [安全 &amp; 隐私](https://portal.office.com/adminportal/home#/settings/security)" 页。 选择 "**密码策略**" 旁边的 "**编辑**"，然后**将滑块打开。**
+若要将所有密码设置为永不过期，请在 Microsoft 365 管理中心中，转到 "**设置**  >  **组织设置" >[安全和隐私](https://portal.office.com/adminportal/home#/settings/security)  >  [密码过期策略](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** ，并取消选中 "设置用户密码在经过数天后过期"。
   
-有关更多详细信息，请参阅： 
+有关更多详细信息，请参阅：
 
 - [为您的组织设置密码过期策略。](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
