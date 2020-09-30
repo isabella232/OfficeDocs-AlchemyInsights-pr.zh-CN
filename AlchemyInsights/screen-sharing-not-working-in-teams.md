@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: 36adee4afbb8139a66538f8dcaf07757619a6396
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6412791dbd2c9a4c604c114574a00c9b80dfd332
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727485"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277879"
 ---
 # <a name="screen-sharing-not-working-in-teams"></a>屏幕共享在 Teams 中无法正常工作
 
 屏幕共享在以下情况下无法正常工作：
 
 - 用户在 Microsoft Teams 网页版上。 用户应切换到 Teams 的已安装版本。
-- 已在 Mac 设备上禁用屏幕共享。 若要启用屏幕共享，请参阅[在 Mac 上共享内容](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8#bkmk_sharecontentonmac)。
-- Teams 管理员阻止了屏幕共享。 咨询你的 Teams 管理员。  
-    
-有关详细信息，请参阅[在 Teams 的会议中共享内容](https://support.microsoft.com/office/share-content-in-a-meeting-in-teams-fcc2bf59-aecd-4481-8f99-ce55dd836ce8)。
+- 已在 Mac 设备上禁用屏幕共享。 若要启用屏幕共享，请参阅[在 Mac 上共享内容](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8#bkmk_sharecontentonmac)。
+- Teams 管理员阻止了屏幕共享。 如果可能，请与你的团队管理员联系。  
+
+如需和与会者共享音频，请在靠近窗口顶部的共享控件中选择 **“包含计算机声音”**。
+
+有关详细信息，请参阅[在 Teams 的会议中共享内容](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8)。
