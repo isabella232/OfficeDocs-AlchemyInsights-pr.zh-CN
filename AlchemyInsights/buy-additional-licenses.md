@@ -2,7 +2,7 @@
 title: 购买附加许可证
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725541"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307122"
 ---
 # <a name="buy-additional-licenses"></a>购买附加许可证
 
-1. 在管理中心中，转到 " **付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)** " 页面。
+1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+2. 在 " **产品** " 选项卡上，找到要为其购买或删除许可证的订阅。  (三个点) 选择 " **更多操作** "，然后选择 " **购买许可证**"。
+3. 如果要减少许可证数量，请在 " **购买许可证** " 窗格的顶部，选择 " **删除许可证**"。
+4. 若要购买或删除许可证，请在 "**许可证总数**" 框中的 "**新数量**" 下，输入此订阅所需的许可证总数。 例如，如果您有100个许可证，并且想要增加25个，请输入125。 如果要删除25个许可证，请输入75。
+5. 选择“**保存**”。
 
-2. 查找要向其添加许可证的订阅，然后选择 " **添加/删除许可证**"。
-
-    [如果看不到 "添加/删除" 链接，该怎么办？](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. 在 " **许可证总数** " 框中，输入此订阅所需的许可证总数，然后选择 " **提交更改**"。 例如，如果有 100 个许可证并需要再添加 5 个，请输入 105。
-
-    > [!NOTE]
-    > 如果通过信用卡或银行账户为订阅付费，则你购买的任何新许可证都将在收到订单确认后立即提供给你。 如果通过发票支付，可能必须等待完成信用检查才能使用新许可证。
-
-若要了解详细信息，请参阅购买适用于 [Microsoft 365 for business 订阅的许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。  
+若要了解详细信息，请参阅购买适用于 [Microsoft 365 for business 订阅的许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **其他资源**
 
-- [在 Microsoft 365 for business 中向用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [在 Microsoft 365 for business 中向用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
