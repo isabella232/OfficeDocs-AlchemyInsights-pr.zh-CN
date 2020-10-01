@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 406bc40fbe8a6306a2f74506ef1daf70b37283d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0363d6bdecdb266a5f4a3a14bd496ede6bb9931
+ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812105"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48305433"
 ---
 # <a name="configure-endpoint-dlp"></a>配置终结点 DLP
 
@@ -32,3 +32,13 @@ Microsoft Endpoint DLP 允许你将 DLP 保护和监视功能扩展至 Windows 1
 - 创建 DLP 策略来保护你的敏感项目。 有关信息，请参阅[终结点 DLP 策略方案](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)。
 
 有关 Microsoft 终结点 DLP 的更多详细信息，请参阅 [了解 Microsoft 365 终结点数据丢失防护（预览版）](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about)。
+
+**如需要支持，请采取以下重要数据收集步骤：**
+
+1. 从 [http://aka.ms/betamdatpanalyzer](http://aka.ms/betamdatpanalyzer "http://aka.ms/betamdatpanalyzer") 下载 MDATP 客户端分析器预览版
+2. 以管理员身份从 cmd 窗口运行该工具：
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. 当提示“请输入收集跟踪的分钟数”时：输入运行此场景所需的分钟数
+5. 运行场景
+
+收集要提供给支持代理的 Zip 文件输出。
