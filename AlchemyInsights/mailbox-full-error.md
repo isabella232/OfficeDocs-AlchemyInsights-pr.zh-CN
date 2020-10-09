@@ -4,7 +4,7 @@
 - 3500007
 ---
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR，错误代码为 "554 5.2.2 邮箱已满"
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR，错误代码 554 5.2.2 邮箱已满
 
 如果您在向已启用邮件的公用文件夹发送电子邮件时遇到错误代码为 "554 5.2.2 邮箱已满" 的 NDR：  
 
