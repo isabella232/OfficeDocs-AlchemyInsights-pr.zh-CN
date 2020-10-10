@@ -1,8 +1,8 @@
 ---
 title: 取消高级威胁防护
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683680"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416256"
 ---
 # <a name="cancel-advanced-threat-protection"></a>取消高级威胁防护
 
-可以在 **Microsoft 365 管理中心**取消高级威胁防护。
+管理员可以在 Microsoft 365 管理中心中为其组织取消高级威胁防护订阅。
 
 1. 转到 "**付费**  >  [产品](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面。
-2. 找到要取消的高级威胁防护计划。
-3. 单击 " **取消订阅**"。
+2. 在 " **产品** " 选项卡上，找到要取消的高级威胁防护计划。 选择 " **更多操作** (三个点) ，然后选择" **取消订阅**"。
+3. 在 " **取消订阅** " 窗格中，选择您要取消的原因。 （可选）提供任何反馈。
+4. 选择“**保存**”。
 
-退款：在下一个帐单周期内，任何按比例贷项都将返回给您。
-
-**注意**：如果看不到 "取消" 选项，请单击 "订阅" 查看详细信息，您应该会在 "设置" & "**操作**" 中看到 "**取消订阅**" 选项。
+**退款：** 任何按比例贷项都将在下一个帐单周期内返回给您。
 
 若要了解详细信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

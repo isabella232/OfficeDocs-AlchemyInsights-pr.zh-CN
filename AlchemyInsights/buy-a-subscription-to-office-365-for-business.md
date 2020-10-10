@@ -2,7 +2,7 @@
 title: 从免费试用版购买 Microsoft 365 for business 订阅
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684976"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416212"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>从免费试用版购买 Microsoft 365 订阅
 
@@ -26,17 +26,16 @@ ms.locfileid: "47684976"
   
  **购买与试用版相同的计划**
   
-1. 在管理中心中，转到 " **付费** \> **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)** " 页面。
-
-2. 查找要购买的订阅。 在 " **许可证** " 部分，选择 " **购买订阅**"，然后按照步骤进行检查。
-
+1. 在管理中心中，转到“**计费**”\>“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+2. 在 " **产品** " 选项卡上，选择要购买的订阅。
+3. 在 "订阅详细信息" 页上的 " **许可证** " 部分，选择 " **立即购买付费订阅**"，然后按照步骤进行检查。
+ 
 **购买其他订阅**
   
 1. 在 "管理中心" 中，转到 " **付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433) " 页。
+2. 找到要购买的订阅，选择 " **购买**"，然后按照步骤进行检查。
 
-3. 找到要购买的订阅，选择 " **购买**"，然后按照步骤进行检查。
-
-若要了解详细信息，请参阅 [从免费试用版购买 Microsoft 365 for business 订阅](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial)。
+若要了解详细信息，请参阅 [从免费试用版购买订阅](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)。
 
 **疑难解答**
 
