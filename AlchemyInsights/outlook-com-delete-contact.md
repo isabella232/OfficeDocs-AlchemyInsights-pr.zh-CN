@@ -14,12 +14,12 @@ ms.custom:
 - "262"
 - "8000012"
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: d2e663de4d7860320be7df64d5c465482de14706
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84d0476de1fe7f79d2850d7295c5a4b533980d32
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752097"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452182"
 ---
 # <a name="delete-a-contact-in-outlookcom"></a>删除 Outlook.com 中的联系人
 
@@ -28,3 +28,4 @@ ms.locfileid: "47752097"
 2. 选择要删除的联系人，然后选择 " **删除**"。
 
 如果不能选择 " **删除**"，则可能是联系人来自 Skype 或已连接的社交网络帐户。 若要删除联系人，请转到 Skype 或联系人所在的帐户。
+
