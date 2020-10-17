@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: c5c66a4ed0891a7127bcf0730aedf6d8d125fdb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb72faa902a18f14d408ccabb8fc346f3bd3085d
+ms.sourcegitcommit: abb1acc29fadfaa6927f73af4452ba2cfc452fa2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724569"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48465994"
 ---
 # <a name="microsoft-lists"></a>Microsoft 列表
 
@@ -26,11 +26,15 @@ Microsoft 正在启动 Microsoft 列表的第一阶段，它是一个 Microsoft 
   
 **计时**  
 
-- 已开始向支持定向发布的组织推出。
-- 面向所有组织的发布，定于 2020 年 10 月中旬前。
+- 对于支持目标发布的组织，已完成推出。
+- 标准发布组织的推出已经开始，并将于 2020 年 11 月底完成。
 
-拥有有效 SharePoint 许可证的用户可获得列表图标，开始使用 Microsoft 列表。 管理员目前无法关闭该功能。
- 
-选择 Microsoft 365 应用启动器中的列表图标。 从头开始创建列表或使用预建模版。 此外，可从现有列表中新建列表，或导入 Excel 数据创建列表。 查看收藏和最近列表，包括你个人所有或与你共享的列表。 可创建个人列表和团队列表。  
+拥有有效 SharePoint 许可证的用户可获得列表图标，开始使用 Microsoft 列表。
+
+作为 Microsoft 365 中的全局管理员或 SharePoint 管理员，您可以控制 Microsoft 列表的设置。 可执行下列操作：
+
+禁止创建个人列表（禁止用户将新列表保存到“我的列表”）。
+禁用与组织无关的内置列表模板。
+请参阅 [控制列表](https://docs.microsoft.com/sharepoint/control-lists)
 
 有关详细信息，请参阅[Microsoft 列表](https://aka.ms/microsoftlists)。
