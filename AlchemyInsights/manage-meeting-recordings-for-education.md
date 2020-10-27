@@ -13,29 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
+ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695061"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "48753661"
 ---
 # <a name="manage-meeting-recordings-for-education"></a>管理教育版的会议录制
 
-从 **2020 年 8 月 20 日**开始，当拥有 A1（包括 A1+）许可证的用户启动 Teams 会议录制时，录制将在 21 天内可用。
+从 **2020 年 8 月 20 日** 开始，当拥有 A1（包括 A1+）许可证的用户启动 Teams 会议录制时，录制将在 21 天内可用。
 
 有关详细信息，包括如何将会议保存到其他位置，请参阅[将 Microsoft Teams 会议录制内容上载到 Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording)。
 
-我们建议教育版的组织管理员为学生和教师的安全，考虑使用策略包。 有关详细信息，请参阅：
+Microsoft Teams 会议记录现在可以存储在 OneDrive SharePoint 中，有关详细信息并选择加入，请参阅以下消息中心帖子：
 
-- [Microsoft Teams 中的策略包](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)。  
-    
-- [应为学生安全分配的策略](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)。
+[（更新）Microsoft Teams：会议录制保存到 OneDrive 和 SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-- [应为教师分配的策略](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)。
+将存储位置移动到 OneDrive 和 SharePoint 消除了以前对 Stream 在你所在地区可用的要求。
 
-如果你想要仅仅管理录制会议的功能，请参阅 [打开或关闭云录制](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)。  
+如果你正在寻找如何 **阻止或启用** 学生在 Teams 中记录会议，我们建议使用学生和教育者安全的策略包。 有关详细信息，请参阅：
 
-**注意**Teams 会议录制功能依赖于 Stream 的国家和地区可用性。 如果无法录制会议，请参阅 [Microsoft Stream 将我的数据托管在哪些区域？](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)。 
+[Microsoft Teams 中的策略包](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)。
+
+[应为学生安全分配的策略](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)。
+
+[应为教师分配的策略](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)。
+
+如果你想要仅仅管理录制会议的功能，请参阅 [打开或关闭云录制](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)。
+
+**注意** 除非你为 Teams 会议记录选择了OneDrive SharePoint 存储，否则这些功能依赖于 Stream 国家/地区的可用性。 如果无法录制会议，请参阅 [Microsoft Stream 将我的数据托管在哪些区域？](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)。
 
 有关详细信息，请参阅[更新功能：Microsoft Stream 云录制区域存储控制](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)。
