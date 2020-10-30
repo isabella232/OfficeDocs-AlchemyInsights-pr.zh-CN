@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c84458622ae86bcf0f9f541a3a209b4f0ff2fc3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709897"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801037"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>为 SharePoint Online、OneDrive 和 Microsoft 团队启用 Office 365 高级威胁防护
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>为 SharePoint Online、OneDrive 和 Microsoft 团队启用 Microsoft Defender for Office 365
 
 1. 转到 https://protection.office.com 并登录。
-2. 选择**威胁管理**  >  **策略**  >  **安全附件**。
-3. 选择 " **启用 SharePoint、OneDrive 和 Microsoft 团队的 ATP**"，然后单击 " **保存**"。
-4.  (推荐) 为全局管理员或 SharePoint Online 管理员，请运行 [set-spotenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet，并将 **DisallowInfectedFileDownload** 参数设置为 *true*。
+2. 选择 **威胁管理**  >  **策略**  >  **安全附件** 。
+3. 选择 " **启用 SharePoint、OneDrive 和 Microsoft 团队的 ATP** "，然后单击 " **保存** "。
+4.  (推荐) 为全局管理员或 SharePoint Online 管理员，请运行 [set-spotenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet，并将 **DisallowInfectedFileDownload** 参数设置为 *true* 。
 5.  (建议的) 为检测到的文件 [设置通知](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 。
 
 > [!NOTE]

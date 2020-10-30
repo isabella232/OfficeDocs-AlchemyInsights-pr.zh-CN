@@ -1,5 +1,5 @@
 ---
-title: Office 365 高级威胁防护
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696611"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801217"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 高级威胁防护
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- 安全附件、安全链接和反网络钓鱼是 Office 365 高级威胁防护 (ATP) 的一部分。 企业版 E5、教育版 A5 和 Microsoft 365 商业高级版包括 ATP。 所有其他计划都需要附加的 ATP 订阅。
+- 安全附件、安全链接和反网络钓鱼是 Microsoft Defender for Office 365 (ATP) 的一部分。 企业版 E5、教育版 A5 和 Microsoft 365 商业高级版包括 ATP。 所有其他计划都需要附加的 ATP 订阅。
 
 - 您需要分配适当的许可证，以保护您的用户的 Office 365 ATP。 请参阅 [本主题](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ，了解有关如何将许可证批量应用到您的用户的说明。
 
-- 全局管理员或安全管理员可以在**威胁 Managmeent**策略中访问安全 & 合规中心中的 Office 365 ATP 功能 \> **Policy**。
+- 全局管理员或安全管理员可以在 **威胁 Managmeent** 策略中访问安全 & 合规中心中的 Office 365 ATP 功能 \> **Policy** 。
 
 - 可以将安全附件和安全链接策略的范围限定为您的整个组织、特定域或较小的用户组。
 

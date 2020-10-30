@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287343"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801505"
 ---
 # <a name="advanced-hunting-custom-detections"></a>高级搜寻自定义检测
 
@@ -30,6 +30,6 @@ ms.locfileid: "48287343"
 - [创建自定义检测规则](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [查看和管理自定义检测规则](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-如果使用的是 Microsoft 威胁防护，请参阅以下主题获取详细信息： 
+如果使用的是 Microsoft 365 Defender，请参阅以下主题获取详细信息： 
 - [自定义检测概述](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [创建和管理自定义检测规则](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

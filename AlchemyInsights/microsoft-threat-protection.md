@@ -1,5 +1,5 @@
 ---
-title: Microsoft 威胁防护
+title: Microsoft 365 Defender
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 1fa5464a4e7b065ef2b1321d23d331195cd0896a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772721"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801469"
 ---
-# <a name="microsoft-threat-protection"></a>Microsoft 威胁防护
+# <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
 - [MTP 概述](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [先决条件](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
@@ -25,4 +25,4 @@ ms.locfileid: "47772721"
 - [如何启用 MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
 - [MTP 故障排除](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-如何检查许可：你需要在 Azure AD 中为帐单管理员或全局读取者角色分配，以查看你的许可证。 转到 "[管理中心](https://admin.microsoft.com/)" 并导航到 "**计费**  >  **许可证**" 以查看现有许可证。
+如何检查许可：你需要在 Azure AD 中为帐单管理员或全局读取者角色分配，以查看你的许可证。 转到 " [管理中心](https://admin.microsoft.com/)" 并导航到 " **计费**  >  **许可证** " 以查看现有许可证。

@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759209"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801538"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Microsoft 365 中的攻击模拟器
 
-- 是否缺少攻击模拟器？ 攻击模拟器需要 **Office 365 高级威胁防护计划 2 (ATP Plan 2) ** 或 **Office 365 企业版 E5**。 "攻击模拟器" **不** 包含在 Office 365 高级威胁防护计划 1 (ATP Plan 1) 、Office 365 企业版 E3 或任何 Microsoft 365 应用程序的商业版订阅。
+- 是否缺少攻击模拟器？ 攻击模拟器需要 **Microsoft Defender For Office 365 Plan 2 (ATP Plan 2)** 或 **Office 365 企业版 E5** 。 Microsoft Defender for Office 365 计划 1 (ATP Plan 1) 、Office 365 企业版 E3 或任何 Microsoft 365 应用程序的商业版订阅中 **不** 包含攻击模拟器。
 
 - 您用于启动模拟攻击的帐户需要全局管理员或安全管理员权限，且多重身份验证 (MFA) 。 有关攻击模拟器要求的详细信息，请参阅 [本主题](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)。
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759209"
 
 - 了解有关 **Spear 的网络钓鱼** 附加模拟的重要事项：
 
-  - 根据设计，不能为 **网络钓鱼登录服务器 URL**提供自定义值。
+  - 根据设计，不能为 **网络钓鱼登录服务器 URL** 提供自定义值。
 
   - 如果收件人使用 " [启用报告邮件" 加载项](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) 将邮件报告为网络钓鱼，则您可能不会收到邮件 (的通知，因为这是模拟的攻击) 。
 
