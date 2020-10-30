@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "6432"
 - "9003530"
-ms.openlocfilehash: e0ba83778179abefe3ac4fe3e8ab0303d65ad929
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e3da81ee048c6257e05b998c0f457fa433738fd
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745298"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791284"
 ---
 # <a name="configure-files-on-demand"></a>配置文件随选
+
+“文件随选”需要 [Windows 10 Fall Creators Update](https://go.microsoft.com/fwlink/p/?linkid=859040)（版本 1709 或更高版本）或 WIndows Server 2019 和 OneDrive 内部版本 17.3.7064.1005 或更高版本。
 
 OneDrive 文件随选可帮助访问 OneDrive 中的所有文件，而无需下载所有这些文件和使用设备上的存储空间。
 
 要在电脑上配置文件随选，请执行以下操作：
 
-1. 选择Windows任务栏通知区域中的白色或蓝色**OneDrive**云图标。 选择 ** 帮助 & "设置 ** 齿轮图标 > **设置s**。
-2. 在“**设置**”选项卡上，选中“**节省空间并在需要使用时下载文件**”复选框。  
+1. 选择Windows任务栏通知区域中的白色或蓝色 **OneDrive** 云图标。 选择 **帮助 & "设置** 齿轮图标 > **设置s** 。
+2. 在“ **设置** ”选项卡上，选中“ **节省空间并在需要使用时下载文件** ”复选框。  
 
 还可以使用注册表配置文件随选。
 
