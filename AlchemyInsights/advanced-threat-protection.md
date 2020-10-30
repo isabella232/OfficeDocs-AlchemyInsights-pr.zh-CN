@@ -1,5 +1,5 @@
 ---
-title: Office 365 高级威胁防护
+title: Microsoft Defender for Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696611"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801217"
 ---
-# <a name="office-365-advanced-threat-protection"></a><span data-ttu-id="a518a-102">Office 365 高级威胁防护</span><span class="sxs-lookup"><span data-stu-id="a518a-102">Office 365 Advanced Threat Protection</span></span>
+# <a name="microsoft-defender-for-office-365"></a><span data-ttu-id="e1bbb-102">Microsoft Defender for Office 365</span><span class="sxs-lookup"><span data-stu-id="e1bbb-102">Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="a518a-103">安全附件、安全链接和反网络钓鱼是 Office 365 高级威胁防护 (ATP) 的一部分。</span><span class="sxs-lookup"><span data-stu-id="a518a-103">Safe Attachments, Safe Links, and anti-phishing are part of Office 365 Advanced Threat Protection (ATP).</span></span> <span data-ttu-id="a518a-104">企业版 E5、教育版 A5 和 Microsoft 365 商业高级版包括 ATP。</span><span class="sxs-lookup"><span data-stu-id="a518a-104">Enterprise E5, Education A5, and Microsoft 365 Business Premium include ATP.</span></span> <span data-ttu-id="a518a-105">所有其他计划都需要附加的 ATP 订阅。</span><span class="sxs-lookup"><span data-stu-id="a518a-105">All other plans require an add-on ATP subscription.</span></span>
+- <span data-ttu-id="e1bbb-103">安全附件、安全链接和反网络钓鱼是 Microsoft Defender for Office 365 (ATP) 的一部分。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-103">Safe Attachments, Safe Links, and anti-phishing are part of Microsoft Defender for Office 365 (ATP).</span></span> <span data-ttu-id="e1bbb-104">企业版 E5、教育版 A5 和 Microsoft 365 商业高级版包括 ATP。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-104">Enterprise E5, Education A5, and Microsoft 365 Business Premium include ATP.</span></span> <span data-ttu-id="e1bbb-105">所有其他计划都需要附加的 ATP 订阅。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-105">All other plans require an add-on ATP subscription.</span></span>
 
-- <span data-ttu-id="a518a-106">您需要分配适当的许可证，以保护您的用户的 Office 365 ATP。</span><span class="sxs-lookup"><span data-stu-id="a518a-106">You need to assign the appropriate licenses to protect your users by Office 365 ATP.</span></span> <span data-ttu-id="a518a-107">请参阅 [本主题](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ，了解有关如何将许可证批量应用到您的用户的说明。</span><span class="sxs-lookup"><span data-stu-id="a518a-107">See [this topic](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) for instructions on how to bulk apply licenses to your users.</span></span>
+- <span data-ttu-id="e1bbb-106">您需要分配适当的许可证，以保护您的用户的 Office 365 ATP。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-106">You need to assign the appropriate licenses to protect your users by Office 365 ATP.</span></span> <span data-ttu-id="e1bbb-107">请参阅 [本主题](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ，了解有关如何将许可证批量应用到您的用户的说明。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-107">See [this topic](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) for instructions on how to bulk apply licenses to your users.</span></span>
 
-- <span data-ttu-id="a518a-108">全局管理员或安全管理员可以在**威胁 Managmeent**策略中访问安全 & 合规中心中的 Office 365 ATP 功能 \> **Policy**。</span><span class="sxs-lookup"><span data-stu-id="a518a-108">Global administrators or security administrators can access Office 365 ATP features in the Security & Compliance Center at **Threat Managmeent** \> **Policy**.</span></span>
+- <span data-ttu-id="e1bbb-108">全局管理员或安全管理员可以在 **威胁 Managmeent** 策略中访问安全 & 合规中心中的 Office 365 ATP 功能 \> **Policy** 。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-108">Global administrators or security administrators can access Office 365 ATP features in the Security & Compliance Center at **Threat Managmeent** \> **Policy** .</span></span>
 
-- <span data-ttu-id="a518a-109">可以将安全附件和安全链接策略的范围限定为您的整个组织、特定域或较小的用户组。</span><span class="sxs-lookup"><span data-stu-id="a518a-109">Safe Attachments and Safe Link policies can be scoped you your entire organization, specific domains, or smaller groups of users.</span></span>
+- <span data-ttu-id="e1bbb-109">可以将安全附件和安全链接策略的范围限定为您的整个组织、特定域或较小的用户组。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-109">Safe Attachments and Safe Link policies can be scoped you your entire organization, specific domains, or smaller groups of users.</span></span>
 
-- <span data-ttu-id="a518a-110">没有默认的 ATP 安全附件策略。</span><span class="sxs-lookup"><span data-stu-id="a518a-110">There is no default ATP Safe Attachment policy.</span></span> <span data-ttu-id="a518a-111">您需要 [创建一个策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) 并将其应用到您的用户。</span><span class="sxs-lookup"><span data-stu-id="a518a-111">You need to [create a policy](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) and apply it to your users.</span></span>
+- <span data-ttu-id="e1bbb-110">没有默认的 ATP 安全附件策略。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-110">There is no default ATP Safe Attachment policy.</span></span> <span data-ttu-id="e1bbb-111">您需要 [创建一个策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) 并将其应用到您的用户。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-111">You need to [create a policy](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) and apply it to your users.</span></span>
 
-- <span data-ttu-id="a518a-112">有一个适用于组织中每个人的默认 ATP 安全链接策略。</span><span class="sxs-lookup"><span data-stu-id="a518a-112">There is a default ATP Safe Links policy that applies to everyone in your organization.</span></span> <span data-ttu-id="a518a-113">若要编辑此策略或创建自定义策略，请参阅 [本主题](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。</span><span class="sxs-lookup"><span data-stu-id="a518a-113">To edit this policy or to create custom policies, see [this topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).</span></span>
+- <span data-ttu-id="e1bbb-112">有一个适用于组织中每个人的默认 ATP 安全链接策略。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-112">There is a default ATP Safe Links policy that applies to everyone in your organization.</span></span> <span data-ttu-id="e1bbb-113">若要编辑此策略或创建自定义策略，请参阅 [本主题](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。</span><span class="sxs-lookup"><span data-stu-id="e1bbb-113">To edit this policy or to create custom policies, see [this topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).</span></span>
