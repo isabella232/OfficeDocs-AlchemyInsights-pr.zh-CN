@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800346"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949807"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>缺少内容编辑器或脚本编辑器 web 部件
 
-如果缺少可用于查看的 web 部件（例如 **内容编辑器或脚本编辑器 web 部件**），则可能会尝试 [在新式页面上添加经典 web 部件](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64)。 请务必注意，新式页面只能使用新式 web 部件，而经典页面只能使用经典 web 部件。 许多新式 web 部件的用途与经典 web 部件相同，但您将看到外观和功能方面的差异。
+SharePoint for Microsoft 365 新式页面中不可用的两个 web 部件是 **脚本编辑器 web 部件** 和 **内容编辑器 web 部件** 。 但是，有一些 [新式的现成 web 部件](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) 可以实现一些相同的用途。 或者，您可以创建 [自定义 web 部件或将现有脚本编辑器 web 部件迁移](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) 到 SharePoint 框架。  
 
-由于 [自定义脚本设置](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)（在新式网站上默认禁用），有许多 web 部件不显示。 
-
-有关不可用的 web 部件的列表，请参阅 [在阻止自定义脚本时受影响的功能](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked)。
-
-有关自定义脚本的安全隐患的详细信息，请参阅 [允许自定义脚本的安全注意事项](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script)。
+有关详细信息，请参阅 [SharePoint 中的 "内容编辑器" 和 "脚本编辑器" web 部件在什么位置？](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
