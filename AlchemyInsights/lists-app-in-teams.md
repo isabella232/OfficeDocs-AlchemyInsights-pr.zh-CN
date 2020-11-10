@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 0c8663cd6b6e6e344282abadfc80e6a40127f463
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
+ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675576"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48947402"
 ---
 # <a name="lists-app-in-teams"></a>Teams 中的列表应用
 
-Microsoft Teams 中的“列表”应用可将团队 SharePoint 网站中的列表引入到频道的协作和团队合作画布中。 通过此应用，最终用户可以在 Teams 中处理自己喜欢的列表。  
+Microsoft Teams 中的“列表”应用可将团队 SharePoint 网站中的列表引入到频道的协作和团队合作画布中。 通过此应用，最终用户可以在 Teams 中处理自己喜欢的列表。
 
-此功能出厂时默认设置为“开”。 列表已针对所有 Teams 用户预安装，并且可以直接在每个团队和频道的标签库中使用。  
+列表已针对所有 Teams 用户预安装，并且可以直接在每个团队和频道的标签库中使用。
 
 Teams 管理员可以使用 Microsoft Teams 权限策略控制应用的可用性。 有关更多信息，请参阅[在 Microsoft Teams 中管理应用权限策略](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)。
 
@@ -36,7 +36,7 @@ Teams 管理员可以使用 Microsoft Teams 权限策略控制应用的可用性
 
 **操作：** 审查和评估
 
-有关详细信息，请参阅： 
+有关详细信息，请参阅：
 
 - [发布 Microsoft 列表 - Microsoft 365 中的智能信息跟踪应用](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
 - [Teams 列表最终用户文档](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
