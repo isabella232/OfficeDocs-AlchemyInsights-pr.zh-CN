@@ -1,5 +1,5 @@
 ---
-title: 使用通信网站发布基础结构
+title: SharePoint 发布基础结构
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,27 +8,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: ada85fec66a00c1fa4416ec25ef8c675fad39e53
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms-custom:
+- "1846"
+- "9000253"
+ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758667"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002655"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint 发布基础结构
 
+> [!IMPORTANT]
+> 新式通信网站不支持称为 "SharePoint Server 发布基础结构" 的经典发布功能。 尝试激活新式通信网站的功能时，您将收到错误。 默认情况下，新式通信网站提供了较新的替代项。
 
-SharePoint 包括一组经典功能，使您能够为 intranet 创作和发布丰富的网页。 在网站集级别激活 SharePoint 发布基础结构以将其打开。
+对于经典网站，SharePoint 包含一组经典功能，使您能够为 intranet 创作和发布丰富的网页。 在网站集级别激活 SharePoint 发布基础结构以将其打开。
 
-有关详细信息，请访问下面的链接。
-
-[启用发布功能](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
-
-[发布功能](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
-
-注意：
-
-- 默认情况下，经典发布网站模板包含发布功能。
-
-- 经典发布功能在新式网站上不可用。 默认情况下，新式网站提供了较新的替代项。
-
+有关详细信息，请参阅 [启用发布功能](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) 和 [发布功能](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
