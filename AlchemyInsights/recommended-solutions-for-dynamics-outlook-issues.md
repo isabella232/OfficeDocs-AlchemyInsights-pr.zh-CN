@@ -14,12 +14,12 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: c1abfd5a5f52e1a4ec77f319375dfe2cf53f76a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f8d318c6c1f07342241bf71aab8fd8148e3a9d4
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801462"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086110"
 ---
 # <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>针对 Dynamics 365 存储问题的建议解决方案
 
@@ -39,6 +39,6 @@ ms.locfileid: "47801462"
 
 * [应用程序：针对 Outlook 的 D365 应用程序进行故障排除](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [应用：如何部署](https://go.microsoft.com/fwlink/p/?linkid=857071)
+* [应用：如何部署](https://go.microsoft.com/fwlink/p/?linkid=85)
 
 * [应用：用户指南](https://go.microsoft.com/fwlink/p/?linkid=857091)
