@@ -10,25 +10,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "6462"
+- "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: ba9f11da5c35c3681e9bd5ceaf13233fe8b80fc9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea93bb6f3cbbc3424f5e006ffac482a7445c8164
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737295"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086038"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>解答 SharePoint Online 中的“使用资源管理器打开”问题
 
-我们建议[使用新版 OneDrive 同步客户端同步 SharePoint 文件](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)，该客户端提供[文件随选](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)，因为它提供了对文件的本地访问，并提供了最佳性能。
+请按照以下文章中的步骤和最佳做法进行操作：
 
-若要解决 "使用资源管理器打开" 问题，请按照以下文章中的步骤和最佳做法进行操作：
+- [如何使用“使用资源管理器打开”命令解决 SharePoint Online 中的问题](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
 
-- [如何使用“使用资源管理器打开”命令对 SharePoint Online 中的问题进行故障排除](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer)
-- [通过“使用资源管理器打开”命令来复制或移动库文件](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
+- [通过“使用资源管理器打开”命令来复制或移动库文件](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 
-> **注意：**
->- 仅在 Internet Explorer 10 或11中支持 "使用资源管理器打开"。 “使用资源管理器打开”在使用 Microsoft Edge、Google Chrome、Mozilla Firefox 浏览器的 Windows 中或在 Mac 平台上不起作用。 由于这一原因, 资源管理器视图选项可能灰显。
->
->- 新的库体验中未显示“使用资源管理器打开”按钮。 选择右上角的“**查看**”下拉菜单（下拉菜单的名称随当前视图的更改而变化），然后选择“**在文件资源管理器中查看**”。
+> [!NOTE]
+- 我们建议[使用新版 OneDrive 同步客户端同步 SharePoint 文件](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us)，该客户端提供[文件随选](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us)，因为同步授予了对文件的本地访问权限，并提供了最佳性能。
+
+- 仅在 Internet Explorer 11 中支持“**使用资源管理器打开**”。 有关详细信息，请参阅 [终止对使用 Microsoft 365 应用版的 IE11 的支持](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)。 “**使用资源管理器打开**”在使用 Microsoft Edge、Google Chrome、Mozilla Firefox 浏览器的 Windows 中或在 Mac 平台上不起作用。 由于这一原因, “**资源管理器视图**”选项可能灰显。 
+
+- 新的库体验中未显示“**使用资源管理器打开**”按钮。 选择右上角的“**查看**”下拉菜单（下拉菜单的名称随当前视图的更改而变化），然后选择“**在文件资源管理器中查看**”。
+
