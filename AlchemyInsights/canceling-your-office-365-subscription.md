@@ -13,20 +13,20 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: f019c60dca18a5b241bf445252463035e9841d64
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286444"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348655"
 ---
 # <a name="canceling-your-subscription"></a>取消订阅？
 
-如果你想要取消你的订阅，我们很遗憾，但如果你想要取消你的订阅，你可以选择以下选项：
+很遗憾看到你，但如果要取消你的订阅，你的选项如下：
   
-- 如果你是试用客户，则没有要取消的内容。 试用订阅将自动过期，除非你提供了支付方式。
-- 如果分配的许可证数少于25个，则可以在线取消订阅。 转到 " **付费** \> [产品](https://go.microsoft.com/fwlink/p/?linkid=842054) " 页面，并找到要取消的订阅。 选择 " **更多操作** (三个点) ，然后选择" **取消订阅**"。
-- 如果分配了25个以上的许可证，则可以删除用户，直到少于25个。
+- 如果你是试用客户，没有任何内容可取消。 试用订阅将自动过期，除非你提供了支付方式。
+- 如果分配的许可证数少于25个，则可以在线取消订阅。 转到 " **付费** \> [产品](https://go.microsoft.com/fwlink/p/?linkid=842054) " 页面，并找到要取消的订阅。 选择“**更多操作**”（三个点），然后选择“**取消订阅**”。
+- 如果为用户分配了25个以上的许可证，请 [致电支持部门以取消订阅](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)。
   
 **退款：在下一个帐单周期内，任何按比例贷项都将返回给您。**
 
