@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799194"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353496"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>在 Microsoft 365 中撤回或替换电子邮件
 
 - 您 **只能撤回发送给组织中的人员的邮件**。 例如，如果邮件发送到 Gmail 地址，则无法撤回它。
-- 您 **只能撤回从 Outlook 2016 为电脑发送的邮件**。 如果用户使用 Outlook for Mac 或 web 上的 Outlook 发送邮件，则无法撤回它。
-- 如果您是管理员，则可以 **使用 PowerShell 代表用户撤回邮件**。 无法从管理中心撤回邮件。 向下滚动到 "搜索组织中的电子邮件并删除电子邮件"，了解详细信息。
+- 您 **只能撤回从 Outlook 为电脑发送的邮件**。 如果用户使用 Outlook for Mac 或 web 上的 Outlook 发送邮件，则无法撤回它。
+- 作为租户管理员，你可以 **使用 PowerShell (代表用户撤回邮件** 。有关详细信息，请参阅： [Search For and delete email messages](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)) 。
+- 无法从管理中心撤回邮件。 向下滚动到 "搜索组织中的电子邮件并删除电子邮件"，了解详细信息。
 
 **撤回或替换您发送的电子邮件**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799194"
 
 有关详细信息，包括如何检查撤回，请参阅 [撤回或 replace 您发送的电子](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)邮件。
 
-***在组织中搜索和删除电子邮件*** 若要在组织中搜索和删除电子邮件，您是全局管理员的最简单方法。如果您不是全局管理员，则必须将您的帐户添加到电子数据展示管理器角色组或合规性搜索管理角色。 若要删除邮件，您需要加入组织管理角色组或搜索和清除管理角色。 对这些角色的权限是在 [安全 & 合规中心](https://protection.office.com/)中分配的。
+**_若要在组织中搜索和删除电子邮件_**，您是全局管理员的最简单方法。如果您不是全局管理员，则必须将您的帐户添加到电子数据展示管理器角色组或合规性搜索管理角色。 若要删除邮件，您需要加入组织管理角色组或搜索和清除管理角色。 对这些角色的权限是在 [安全 & 合规中心](https://protection.office.com/)中分配的。
 
 1. [创建内容搜索](https://docs.microsoft.com/microsoft-365/compliance/content-search) 以查找要删除的邮件。
-2. [连接到安全与合规中心 PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)。 
+2. [连接到安全与合规中心 PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell)。
 
-如果使用的是 MFA，请参阅 [使用多重身份验证连接到 Microsoft 365 security & 合规性中心 PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)。 
+如果你正在使用 MFA (多重身份验证) ，请参阅 [使用多重身份验证连接到 Microsoft 365 Security & 合规性中心 PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)。
