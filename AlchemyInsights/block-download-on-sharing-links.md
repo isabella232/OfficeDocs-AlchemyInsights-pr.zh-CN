@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 5837013a71648d5d53cd215c3e3489f3de5528d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685732"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353460"
 ---
 # <a name="block-download-on-sharing-links"></a>阻止共享链接上的下载
 
-**阻止下载**适用于指向 Office 文档的**仅查看链接**。 选择此选项后，通过你创建的链接访问文件的用户将不会看到下载、打印或复制文件的选项。
+当你与 OneDrive 或 SharePoint 中的其他人共享项目时，你可以向他们授予查看权限，但他们无法下载。
 
-管理员可以通过更改 [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) 或 [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell cmdlet 中的 `BlockDownloadLinksFileType` 设置来控制是否仅对 Office 文件显示“阻止下载”设置。
+有关详细信息，请参阅[启用 SharePoint 和 OneDrive 中 Office 文件的敏感度标签](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)。
