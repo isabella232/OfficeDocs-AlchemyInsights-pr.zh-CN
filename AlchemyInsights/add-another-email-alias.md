@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688468"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571655"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>为用户创建或添加电子邮件别名
 
 需要为用户创建电子邮件别名，还是添加其他电子邮件地址？ 只需按照以下步骤操作即可！
   
-1. 在 Microsoft 365 管理中心，转到 " [用户](https://go.microsoft.com/fwlink/p/?linkid=834822) " 页面，或选择 " **用户** \> **活动用户**"。
+1. 在 Microsoft 365 管理中心，转到 "[用户](https://go.microsoft.com/fwlink/p/?linkid=834822)" 页面，或选择 "**用户**  >  **活动用户**"。
     
 2. 在" **活动用户**"页面上，选择要编辑的用户名。 
     
