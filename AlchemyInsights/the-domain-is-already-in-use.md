@@ -11,12 +11,12 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 9499b7c52396ccdd9cdb04bd2245b09036e10669
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb743e8414100ef660f270ff82c22e9d8ff5af14
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773441"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571691"
 ---
 # <a name="the-domain-is-already-in-use"></a>域已在使用中
 
@@ -25,3 +25,5 @@ ms.locfileid: "47773441"
 - [删除域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
 
 - [添加域并创建 DNS 记录](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+
+- 如果你忘记了管理员密码，可以使用[自助重置密码服务](https://passwordreset.microsoftonline.com/) (SSPR) 重置你的管理员密码。
