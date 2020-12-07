@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 9dbb88492a3906f6780a345cf880327d411dcc66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
+ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709717"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "49560430"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>启用 Azure AD Connect 中的密码写回
 
@@ -26,7 +26,7 @@ ms.locfileid: "47709717"
 1. 登录 Azure AD Connect 服务器，然后启动 **Azure AD Connect** 配置向导。
 2. 在“**欢迎**”页上，单击“**配置**”。
 3. 在“**其他任务**”页上，选择“**自定义同步选项**”，然后单击“**下一步**”。
-4. 在“**连接到 Azure AD**”页面上，输入全局管理员凭据，然后单击“下一步”。
+4. 在“连接到 Azure AD”页面上，输入全局管理员凭据，然后单击“下一步”。
 5. 在“**连接到目录**”和“**域/OU**”筛选页上，单击“**下一步**”。
 6. 在“**可选功能**”页上，选中“**密码写回**”旁边的框，然后单击“**下一步**”。
 7. 在“**准备配置**”页上，单击“**配置**”并等待该过程完成。
@@ -41,3 +41,6 @@ ms.locfileid: "47709717"
 5. 准备好后，单击“**保存**”。
 
 有关详细信息，请参阅“[对本地环境启用 Azure Active Directory 自助服务密码重置写回](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)”。
+
+> [!NOTE]
+>  当管理员在 Azure 门户中重置用户密码时，如果该用户是联盟用户或其密码哈希已同步，则该密码将回写到本地。 Office 管理门户当前不支持此功能。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947402"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477437"
 ---
 # <a name="lists-app-in-teams"></a>Teams 中的列表应用
 
@@ -27,10 +27,6 @@ Microsoft Teams 中的“列表”应用可将团队 SharePoint 网站中的列�
 列表已针对所有 Teams 用户预安装，并且可以直接在每个团队和频道的标签库中使用。
 
 Teams 管理员可以使用 Microsoft Teams 权限策略控制应用的可用性。 有关更多信息，请参阅[在 Microsoft Teams 中管理应用权限策略](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)。
-
-**时间：** 9 月初，在 2020 年 10 月中旬前完成  
-
-**推出：** 组织级别  
 
 **控制类型：** Teams 管理员控制  
 
