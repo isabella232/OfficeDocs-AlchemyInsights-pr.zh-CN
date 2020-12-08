@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733281"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529008"
 ---
 # <a name="contact-the-sales-team"></a>联系销售团队
 
-使用 Microsoft Graph 连接器，你的组织可以将第三方数据编入索引，以显示在 Microsoft 搜索结果中。
+可通过多种方法联系 Microsoft 365 销售团队。
 
-- [由 Microsoft 提供的连接器](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [由合作伙伴提供的连接器](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-有关详细信息，请参阅 [Microsoft Graph 连接器概述](https://docs.microsoft.com/microsoftsearch/connectors-overview)。
+- 使用[联系我们](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)表单，让 Microsoft 365 销售专家联系你。
+- 若要联系企业协议批量许可专家，请从[批量许可服务中心](https://go.microsoft.com/fwlink/p/?LinkId=329762)门户开始。
