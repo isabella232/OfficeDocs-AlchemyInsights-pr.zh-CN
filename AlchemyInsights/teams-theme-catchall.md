@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams 新手
+title: 设置 Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750405"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576212"
 ---
-# <a name="new-to-microsoft-teams"></a>Microsoft Teams 新手
+# <a name="set-up-microsoft-teams"></a>设置 Microsoft Teams
 
-请参阅  [Microsoft Teams 入门指南](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)。 请务必查看 Microsoft Teams IT 管理员培训视频和幻灯片等信息。
+[Microsoft Teams 设置指南](https://aka.ms/teamsguidance)为您的组织提供了设置团队工作区的指导，这些工作区通过消息传递、呼叫和音频或视频会议来主持团队和私人通信的实时对话。 您将收到有关使用“网络规划器”工具和“Teams 管理中心”中的“Teams 顾问”来确定组织的网络需求的说明。 部署完成后，该指南将包含一些有用的资源，以帮助您开始使用 Teams。
 
-如果因为新型冠状病毒肺炎（COVID-19）需要帮助部署 Teams 以支持远程工作者，请参阅“[使用 Microsoft Teams 支持远程工作者](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)”。 此外，还有资格获得 Microsoft 365 FastTrack 程序的部署帮助，具体请访问 [FastTrack 中心](https://www.microsoft.com/fasttrack)提交请求。
-
-**重要信息**：由于最近 Teams 使用量增加，当向用户分配 Teams 许可证时，可能需要大约 24 小时才能完全设置。 在此之前，将无法为他们分配团队策略，并且可能无法访问某些团队功能，例如呼叫和音频会议。
+有关其他信息，请查看“[Microsoft Teams 入门](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start)”。
