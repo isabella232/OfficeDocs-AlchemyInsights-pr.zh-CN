@@ -1,0 +1,28 @@
+---
+title: 使用 Microsoft Intune 为 Windows 10 配置 Microsoft Edge 策略设置
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003843"
+- "7096"
+ms.openlocfilehash: e526d25aeb70ca7d89225c7f8db87f465afc903b
+ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49617529"
+---
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a><span data-ttu-id="5d182-102">使用 Microsoft Intune 为 Windows 10 配置 Microsoft Edge 策略设置</span><span class="sxs-lookup"><span data-stu-id="5d182-102">Use Microsoft Intune to configure Microsoft Edge policy settings for Windows 10</span></span>
+
+<span data-ttu-id="5d182-103">可以通过将设备配置文件添加到 Microsoft Intune 来配置 Microsoft Edge 策略和设置。</span><span class="sxs-lookup"><span data-stu-id="5d182-103">You can configure Microsoft Edge policies and settings by adding a device configuration profile to Microsoft Intune.</span></span> <span data-ttu-id="5d182-104">这相当于在用户设备上配置 Microsoft Azure Active Directory 组策略或本地组策略 (GPO) 设置。</span><span class="sxs-lookup"><span data-stu-id="5d182-104">This is equivalent to configuring Microsoft Azure Active Directory group policies or local Group Policy Object (GPO) settings on user devices.</span></span>
+
+<span data-ttu-id="5d182-105">若要了解有关详细信息，请参阅["创建配置文件以管理适用于 Windows 10 的 Microsoft Edge 中的设置"。](https://go.microsoft.com/fwlink/?linkid=2133700)</span><span class="sxs-lookup"><span data-stu-id="5d182-105">To learn more, see [Create a profile to manage settings in Microsoft Edge for Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).</span></span>
+
+<span data-ttu-id="5d182-106">本文适用于 Microsoft Edge 版本 77 及更高版本。</span><span class="sxs-lookup"><span data-stu-id="5d182-106">This article applies to Microsoft Edge versions 77 and later.</span></span>
