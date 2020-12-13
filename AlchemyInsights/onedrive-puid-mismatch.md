@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605699"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653250"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive PUID 不匹配
 
-您似乎在 OneDrive for Business 中遇到 [ID 不匹配](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) 问题。 若要使我们能够尽早为你提供帮助，请执行以下步骤：
+似乎你在 OneDrive for Business 中遇到 [ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) 不匹配。 若要允许我们尽早为您提供帮助，请执行以下步骤：
 
-1. 单击 "  **联系人支持**"，然后单击 "  **新建服务请求**"。
+1. 单击 **"联系支持** 人员"，然后单击 **"新建服务请求"。**
 2. 将标题和说明保留为  **OneDrive 网站用户 ID 不匹配**。
-3. 提交票证后，请使用以下信息对其进行更新：
+3. 提交票证后，使用以下信息更新它：
     - 受影响的 OneDrive 网站 URL。
-    - 受影响的用户 (UPN) 的用户主体名称。
+    - 受影响用户 (UPN) 名称。
