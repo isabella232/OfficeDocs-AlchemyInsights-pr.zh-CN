@@ -23,7 +23,7 @@ ms.locfileid: "48416690"
 
 可使用管理中心更改 Microsoft 365 组的电子邮件地址。 只需选择组，然后选择 @edit 电子邮件地址。
 
-还可使用以下 EXO PowerShell 命令来更改 Microsoft 365 组的主 SMTP 地址：
+你还可以使用以下 LOP-EXO PowerShell 命令来更改 Microsoft 365 组的主 SMTP 地址：
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
