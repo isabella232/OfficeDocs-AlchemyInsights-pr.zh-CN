@@ -1,5 +1,5 @@
 ---
-title: 在 SharePoint 和 OneDrive 中发生 OSE 共享错误
+title: SharePoint 和 OneDrive 中的 OSE 共享错误
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: ff3b802c91afd762e33c488258fe365fb8584882
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd053bbff803caaa35a56ed49cecef37b9ac7f17
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769281"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668468"
 ---
-# <a name="ose-sharing-errors"></a><span data-ttu-id="5e01a-102">OSE 共享错误</span><span class="sxs-lookup"><span data-stu-id="5e01a-102">OSE Sharing errors</span></span>
+# <a name="ose-sharing-errors"></a><span data-ttu-id="02999-102">OSE 共享错误</span><span class="sxs-lookup"><span data-stu-id="02999-102">OSE Sharing errors</span></span>
 
-<span data-ttu-id="5e01a-103">本文介绍了在 Microsoft 365 中的 SharePoint Online 或 OneDrive for Business 中共享文件或文件夹时可能会遇到的不同错误。</span><span class="sxs-lookup"><span data-stu-id="5e01a-103">The article covers the different errors that you might encounter when sharing files or folders from SharePoint Online or OneDrive for Business in Microsoft 365.</span></span> <span data-ttu-id="5e01a-104">你需要成为贵公司的全局或 SharePoint 管理员才能修复这些错误。</span><span class="sxs-lookup"><span data-stu-id="5e01a-104">You need to be a global or SharePoint admin in your organization to fix these errors.</span></span> <span data-ttu-id="5e01a-105">如果你不是管理员，请联系帮助中心并向其提供错误代码。</span><span class="sxs-lookup"><span data-stu-id="5e01a-105">If you are not an administrator, contact your help desk and give them your error code.</span></span>
-
-<span data-ttu-id="5e01a-106">有关 OSE 错误代码的详细信息，请参阅 [在 SharePoint 和 OneDrive 中共享错误](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)。</span><span class="sxs-lookup"><span data-stu-id="5e01a-106">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>
+<span data-ttu-id="02999-103">有关 OSE 错误代码的详细信息，请参阅 [SharePoint 和 OneDrive 中的共享错误](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)。</span><span class="sxs-lookup"><span data-stu-id="02999-103">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>
