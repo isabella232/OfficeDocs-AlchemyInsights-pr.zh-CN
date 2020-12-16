@@ -1,5 +1,5 @@
 ---
-title: 更改名称和电子邮件地址
+title: 更改用户名和电子邮件地址
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
-- "17"
+- "7601"
 - "4"
-ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.openlocfilehash: dec26ee6c3266feedc39a1c1a6af0b3f1a7a2413
 ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683892"
+ms.locfileid: "49683943"
 ---
-# <a name="change-a-name-and-email-address"></a>更改名称和电子邮件地址
+# <a name="change-a-users-name-and-email-address"></a>更改用户名和电子邮件地址
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SJuc?autoplay=false]
 
 在 Microsoft 365 中更改用户名和电子邮件地址非常简单。 转到" **用户** \> [活动用户"](https://go.microsoft.com/fwlink/p/?linkid=834822) 页，然后选择用户以编辑其信息。 您还可以将本文用于分步说明：
   

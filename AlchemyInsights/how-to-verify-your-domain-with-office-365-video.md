@@ -1,5 +1,5 @@
 ---
-title: '如何验证域 '
+title: Verify your domain
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.custom:
-- "44"
-- "46"
-- "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+- "7593"
+ms.openlocfilehash: b220f7a1b900582ba700f0e7cb5ec2a17ba0a325
 ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683856"
+ms.locfileid: "49683931"
 ---
-# <a name="how-to-verify-your-domain"></a>如何验证域
+# <a name="verify-your-domain"></a>Verify your domain
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOfN?autoplay=false]
 
 若要验证域，请按照"添加域"[向导](https://admin.microsoft.com/Adminportal#/Domains/Wizard)操作，或手动转到"**设置**  >  **域**  >  **添加域"。**
 
