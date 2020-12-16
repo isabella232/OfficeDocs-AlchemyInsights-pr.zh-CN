@@ -12,23 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
+ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740176"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49676332"
 ---
 # <a name="self-service-password-reset-sspr"></a>自助服务密码重置 (SSPR)
 
-- 点击这里以[允许用户重置自己的密码](https://admin.microsoft.com/Adminportal/Home#/featureexplorer/security/Sspr)。  SSPR 默认为管理员启用。
+- [计划自助服务密码重置部署](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-- 单击此处[注册 SSPR 联系信息](https://go.microsoft.com/fwlink/?linkid=849451)。
+    或者
+- [注册 SSPR 联系人信息](https://go.microsoft.com/fwlink/?linkid=849451)（默认情况下管理员启用 SSPR）
 
-有关详细信息：
+    有关详细信息，请参阅：
 
-基本 SSPR 设置 - [允许用户重置自己的密码](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords?view=o365-worldwide)
+    基本 SSPR 设置 - [允许用户重置自己的密码](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords)
 
-[SSPR 常见问题解答](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
+    [SSPR 常见问题解答](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq)
 
-[SSPR 故障排除程序](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
+    [SSPR 故障排除程序](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot)
