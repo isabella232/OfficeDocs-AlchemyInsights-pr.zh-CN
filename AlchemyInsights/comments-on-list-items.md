@@ -12,32 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947478"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724144"
 ---
 # <a name="comments-on-list-items"></a>对列表项的注释
 
-用户将很快能够在列表项上添加和删除注释。 用户可以查看列表项上的所有注释，并在显示与项目相关的注释或活动的视图之间进行筛选。
+用户可以查看列表项上的所有注释，并筛选显示与项目相关的注释或活动的视图。
 
-**计时** ：
+用户需要先注意以下事项，然后才能添加和删除注释：
 
-**目标版本** ：在2006年10月的中期逐步推出，并预期于11月中旬完成
+- 注释遵循 SharePoint 中固有的权限设置。
+- 尚未构建以在新式用户界面（如任务列表）中显示经典列表将没有此注释功能。
+- 此版本对 Teams 中的列表进行评论不可用。
+- 搜索不会对注释编制索引。
 
-**Standard release** ：在12月中旬前逐步推出并预期完成
+管理员可以在组织级别禁用此功能，方法为更改 **Set-SPOTenant** PowerShell cmdlet 中的 **CommentsOnListItemsDisabled** 参数。
 
-**部署** ：针对整个组织的目标发布
-
-在添加和删除注释之前，用户需要注意以下事项：
-
-- 注释遵循 SharePoint 中的固有权限设置。
-- 尚未构建以在新式用户界面中显示的经典列表（如任务列表）将不会有此注释功能。
-- 对团队中的列表的注释在此版本中不可用。
-- "搜索" 不会对注释编制索引。
-
-通过在 **Set-spotenant** PowerShell cmdlet 中更改 **CommentsOnListItemsDisabled** 参数，管理员可以在组织级别禁用此功能。
-
-当前不能禁用网站或列表级别的注释。 我们希望在后续更新中使用这些控件，可能在第一季度2021中。
+当前无法禁用站点或列表级别的注释。 我们希望在稍后的更新（可能在 2021 年第一季度）中提供这些控件。
