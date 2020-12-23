@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666638"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727213"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>内容搜索/导出期间未返回任何结果
 
@@ -26,7 +26,7 @@ ms.locfileid: "49666638"
 - 内容搜索/导出不会返回任何数据或意外数据
 - 电子数据展示搜索或导出失败
 
-这可能是由特定管理员设置且未传达给所有管理员的某些合规性安全筛选器导致的。
+这可能是由于某些合规性安全筛选器由特定管理员设置，未传达给所有管理员。
 
 若要解决此问题，请检查是否有可能导致这些问题的合规性安全筛选器：
 

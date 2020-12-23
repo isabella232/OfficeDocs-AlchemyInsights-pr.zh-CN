@@ -1,5 +1,5 @@
 ---
-title: 如何还原已删除的 eeam 或频道
+title: 如何还原已删除的团队或频道
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705001"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726396"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>如何还原已删除的团队或频道
 
-有关详细信息，请参阅 [在 Microsoft 团队中还原已删除的团队](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)。
-
-在删除频道后，可将团队中的已删除频道最长可恢复21天。
+团队中的已删除频道可在频道删除后的最多 21 天内还原。
 
 若要恢复已删除的频道，团队所有者可以执行以下操作：
 
-1. 通过选择团队名称右侧的3个点来打开 "团队设置"。
-2. 选择 "**管理团队**  >  **频道**  >  **已删除**"，然后在右侧选择 "**还原**"。
+1. 通过选择团队名称右边的 3 个点打开团队设置。
+2. 选择 **"管理团队**  >  **频道**  >  **已删除"，** 然后在右侧选择"还原"。
 
-有关详细信息，请参阅 [在 Microsoft 团队中还原已删除的团队](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams)。
+有关还原团队的信息，请参阅 Microsoft Teams 中的存档或删除团队 [- Microsoft Teams |Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)。

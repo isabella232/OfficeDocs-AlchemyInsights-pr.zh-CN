@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: c6a9943aae9ba345b78cc3a91977b984fc8b4cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
+ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682078"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49726378"
 ---
 # <a name="change-organization-profile"></a>更改组织配置文件
 
-在 "**设置**  >  [组织配置文件](https://go.microsoft.com/fwlink/p/?linkid=2067339)" 页上的管理中心更改公司名称、地址、技术联系信息等。
+在管理中心的"设置组织设置组织配置文件"选项卡上更改公司名称、地址、技术  >    >  [联系信息等](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)。
 
-请务必填写标有 * 的所有必填字段，以启用保存更改。
+请务必填写标有 * 的所有必填字段，以便保存更改。
 
-有关[地址或帐单地址更改的详细信息，请参阅](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)。
+[有关地址或帐单地址更改，请参阅详细信息](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)。

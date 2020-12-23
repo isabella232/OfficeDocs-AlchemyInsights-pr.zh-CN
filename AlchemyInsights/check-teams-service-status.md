@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: c5d94eeec628758e6e779c269221d093cf39723e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812321"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724180"
 ---
 # <a name="check-teams-service-status"></a>检查 Teams 服务状态
 
-若要查看 Microsoft Teams 服务的当前状态，请转到 Microsoft 365 管理中心的“服务运行状况仪表板”。
+若要查看 Microsoft Teams 服务的当前状态，请转到 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/p/?linkid=2024339)中的“**服务运行状况**”页面。 有关详细信息，请参阅[如何检查 Microsoft 365 服务的运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。
 
-有关详细信息，请参阅[如何检查 Microsoft 365 服务的运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。
+如果问题与 Microsoft Teams 服务无关，我们将需要更多详细信息，以便查找正确的资源。 请重述你的问题，添加具体的产品名称、功能或错误，并再次提交搜索查询。
