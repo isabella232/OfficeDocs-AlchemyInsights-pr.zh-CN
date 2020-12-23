@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: c5d94eeec628758e6e779c269221d093cf39723e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812321"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724180"
 ---
-# <a name="check-teams-service-status"></a><span data-ttu-id="e193f-102">检查 Teams 服务状态</span><span class="sxs-lookup"><span data-stu-id="e193f-102">Check Teams Service Status</span></span>
+# <a name="check-teams-service-status"></a><span data-ttu-id="cabc2-102">检查 Teams 服务状态</span><span class="sxs-lookup"><span data-stu-id="cabc2-102">Check Teams Service Status</span></span>
 
-<span data-ttu-id="e193f-103">若要查看 Microsoft Teams 服务的当前状态，请转到 Microsoft 365 管理中心的“服务运行状况仪表板”。</span><span class="sxs-lookup"><span data-stu-id="e193f-103">To check the current status of the Microsoft Teams service, go to the Microsoft 365 admin center Service Health Dashboard.</span></span>
+<span data-ttu-id="cabc2-103">若要查看 Microsoft Teams 服务的当前状态，请转到 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/p/?linkid=2024339)中的“**服务运行状况**”页面。</span><span class="sxs-lookup"><span data-stu-id="cabc2-103">To check the current status of the Microsoft Teams service, go to the **Service Health** page in the [Microsoft 365 admin center](https://go.microsoft.com/fwlink/p/?linkid=2024339).</span></span> <span data-ttu-id="cabc2-104">有关详细信息，请参阅[如何检查 Microsoft 365 服务的运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。</span><span class="sxs-lookup"><span data-stu-id="cabc2-104">For more information, see [How to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health).</span></span>
 
-<span data-ttu-id="e193f-104">有关详细信息，请参阅[如何检查 Microsoft 365 服务的运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。</span><span class="sxs-lookup"><span data-stu-id="e193f-104">For more information, see [How to check Microsoft 365 service health](https://docs.microsoft.com/office365/enterprise/view-service-health).</span></span>
+<span data-ttu-id="cabc2-105">如果问题与 Microsoft Teams 服务无关，我们将需要更多详细信息，以便查找正确的资源。</span><span class="sxs-lookup"><span data-stu-id="cabc2-105">If the issue is not related to the Microsoft Teams service, we will need more detailed information in order to find the right resources.</span></span> <span data-ttu-id="cabc2-106">请重述你的问题，添加具体的产品名称、功能或错误，并再次提交搜索查询。</span><span class="sxs-lookup"><span data-stu-id="cabc2-106">Restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
