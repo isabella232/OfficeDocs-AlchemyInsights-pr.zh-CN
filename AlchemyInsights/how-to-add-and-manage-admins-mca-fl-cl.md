@@ -1,5 +1,5 @@
 ---
-title: 如何添加和管理管理员 - MCA FL/CL
+title: 如何添加和管理管理员
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683946"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755429"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>如何添加和管理管理员 - MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>如何添加和管理管理员
+
+根据您的问题描述，我们提供了一个解决方案。 大多数客户在遵循我们的文档后能够自行解决问题。
 
 若要管理 MCA (Microsoft 客户协议) 帐户，可以使用具有所需访问权限级别的不同角色。 这些角色是内置 Azure 服务角色之外，可帮助你控制资源。
 
@@ -32,7 +34,7 @@ ms.locfileid: "49683946"
 5. 若要向用户授予访问权限 **，请从** 页面顶部选择"添加"。 在 *"角色* "下拉列表中，选择一个角色。 输入要授予其访问权限的用户的电子邮件地址。 选择 **"保存** "以分配角色。
 6. 若要删除用户的访问权限，请选择具有要删除角色分配的用户。 选择 **"删除"。**
 
-**建议的文档**
+**推荐文档**
 
 - [计费角色定义](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [计费帐户角色和任务](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)

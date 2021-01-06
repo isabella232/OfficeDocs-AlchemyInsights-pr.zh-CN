@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709802"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755609"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Azure 门户中的付款发票 - 建议的步骤
+
+根据您的问题描述，我们提供了一个解决方案。 大多数客户在遵循我们的文档后能够自行解决问题。
 
 你必须是帐单帐户管理员才能在 Azure 门户中支付发票。 计费帐户管理员是最初注册 Microsoft 客户协议帐户的用户。 
 
 若要在 Azure 门户中支付发票，请执行以下操作： 
 
 1. 登录 [Azure 门户](https://portal.azure.com/)。
-1. 搜索 **成本管理 + 计费**。
+1. 在 **成本管理 + 帐单** 上搜索。
 1. 在左窗格中的"计费 **"** 下，单击 **"发票"。**
 1. 如果你的任何发票到期或到期，你将看到该发票的蓝色"现在付款"链接。 单击 **"立即支付"。**
 1. 在"新建边栏选项卡" **中** ，单击"选择付款方式"以选择现有信用卡或添加新信用卡。

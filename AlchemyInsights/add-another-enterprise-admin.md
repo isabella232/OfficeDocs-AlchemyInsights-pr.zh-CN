@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: 436914e63e7fe28af371d1d50ff22a5e1b9d8b82
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709801"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755445"
 ---
 # <a name="add-another-enterprise-administrator---recommended-steps"></a>添加另一个企业管理员 - 建议的步骤
 
+根据您的问题描述，我们提供了一个解决方案。 大多数客户在按照我们的文档操作后能够自行解决问题。
+
 企业注册中可以有多个企业管理员。
 
-**若要添加另一个企业管理员，请执行：**
+**添加另一个企业管理员：**
 
 1. 登录到 Azure [企业门户](https://ea.azure.com/)。
 1. 导航到 **"管理**  >  **注册详细信息"。**

@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49707857"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755789"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>立即付款 - 建议的步骤
 
-若要立即付款，请确保解决过去的到期余额。 如果未收到你的付款，或者如果我们无法处理你的付款，你可能会收到一封电子邮件，或在帐户中心或 Azure 门户中看到"过去到期余额通知"警报。 
+根据您的问题描述，我们提供了一个解决方案。 大多数客户在按照我们的文档操作后能够自行解决问题。
+
+若要立即付款，请确保解决过去的到期余额。 如果未收到你的付款，或者如果我们无法处理你的付款，你可能会收到一封电子邮件，或在帐户中心或 Azure 门户中看到"过去到期余额通知通知"警报。 
 
 如果文件上的信用卡已过期或银行拒收费用，则付款可能无法处理。 帐户管理员可以在帐户中心中查看和更新信用卡。 
 

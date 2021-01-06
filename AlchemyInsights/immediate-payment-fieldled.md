@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7285"
-ms.openlocfilehash: 0c5cc07399a97d27f77e761556376785d51ed9f7
-ms.sourcegitcommit: 04bc9ed287c1f90874c51f05c0d8647d6395c881
+ms.openlocfilehash: 4a4f258a7a13f02ba8fe49dd50392a4dc766b222
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49722718"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755645"
 ---
 # <a name="make-an-immediate-payment"></a>立即付款
+
+根据您的问题描述，我们提供了一个解决方案。 大多数客户在遵循我们的文档后能够自行解决问题。
 
 借助 Microsoft 客户协议 (MCA) ，付款方式与计费 [配置文件相关联](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)。
 
@@ -36,7 +38,7 @@ ms.locfileid: "49722718"
 
 发票的状态将更新为在发票边栏选项卡中支付。
 
-**建议的文档**
+**推荐文档**
 
 - [更改付款方式 - 常见问题解答](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
 - [更改计费配置文件的付款方式](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
