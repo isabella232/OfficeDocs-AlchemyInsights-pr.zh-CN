@@ -1,5 +1,5 @@
 ---
-title: 更改 Microsoft 365 组的电子邮件地址
+title: 更改 Microsoft 365 组或 Microsoft Teams 的电子邮件地址
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416690"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756547"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>更改 Microsoft 365 组的电子邮件地址
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>更改 Microsoft 365 组或 Microsoft Teams 的电子邮件地址
 
-可使用管理中心更改 Microsoft 365 组的电子邮件地址。 只需选择组，然后选择 @edit 电子邮件地址。
+可使用 [Microsoft 365 管理中心](https://admin.microsoft.com/) 更改 Microsoft 365 组或 Microsoft Teams 的电子邮件地址。 只需选择组，然后选择 @edit 电子邮件地址。
 
-你还可以使用以下 LOP-EXO PowerShell 命令来更改 Microsoft 365 组的主 SMTP 地址：
+你还可以使用以下 EXO PowerShell 命令来更改 Microsoft 365 组/Teams 的主 SMTP 地址：
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
 示例：
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
