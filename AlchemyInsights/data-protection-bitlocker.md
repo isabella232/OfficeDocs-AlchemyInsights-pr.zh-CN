@@ -1,5 +1,5 @@
 ---
-title: DataProtection-Bitlocker
+title: DataProtection - Bitlocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,36 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731229"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768807"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>使用 Intune 启用 Bitlocker 加密
 
- Intune Endpoint Protection 策略可用于配置 Windows 设备的 Bitlocker 加密设置。 有关详细信息，请参阅 [Windows 10 (和更高版本) 设置，以使用 Intune 保护设备](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)。
+ Intune Endpoint Protection 策略可用于为 Windows 设备配置 Bitlocker 加密设置。 有关详细信息，请参阅 Windows 10 (及更高版本) [Intune 保护设备。](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
  
-应注意，许多运行 Windows 10 的更新的设备都支持自动 Bitlocker 加密，这是在不应用 MDM 策略的情况下触发的。 如果配置了非默认设置，这可能会影响策略的应用。 有关更多详细信息，请参阅以下 FAQ。
+你应该知道，许多运行 Windows 10 的较新设备都支持自动 Bitlocker 加密，无需应用 MDM 策略即可触发。 如果配置了非默认设置，这可能会影响策略的应用。 有关详细信息，请参阅以下常见问题解答。
  
-有关对 bitlocker 问题进行故障排除的信息，请参阅 [Microsoft Intune 中的 bitlocker 策略疑难解答](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)。
+有关 bitlocker 问题疑难解答的信息，请参阅 Microsoft Intune 中的 [BitLocker](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)策略疑难解答。
  
  
 **常见问题解答**
 
- 问：哪些版本的 Windows 支持使用 Endpoint Protection 策略进行设备加密？<br>
- A： Intune Endpoint Protection 策略中的设置是使用 [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)实现的。 并不是所有版本或 Windows 版本都支持 Bitlocker CSP。 <br><br>
-      目前，支持以下 Windows 版本：企业版、教育版、移动版、移动企业版和专业版 (内部版本1809及更高版本) 。
+问：哪些版本的 Windows 支持使用 Endpoint Protection 策略进行设备加密？<br>
+答：Intune Endpoint Protection 策略中的设置是使用 [Bitlocker CSP 实现的](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp)。 并非所有版本的 Windows 都支持 Bitlocker CSP。 <br><br>
+
+问：如何在无需最终用户交互的情况下在设备上启用 Bitlocker？<br>
+答：只要满足必要的先决条件，就可以通过 Intune 启用 Bitlocker"无提示加密"。 请参阅以下文档中的设备要求和示例策略设置的详细信息，以启用无提示加密：无提示 [启用 Bitlocker 加密](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)。 <br><br>
+
+问：如果设备已使用适用于加密方法和加密强度 (XTS-AES-128) 的操作系统默认设置使用 Bitlocker 进行加密，那么应用不同设置的策略是否将自动触发使用新设置的驱动器重新加密？<br>
+答：不可以。 若要应用新的密码设置，必须先解密驱动器。<br><br>
+**注意：** 对于使用 Autopilot 注册的设备，在评估 Intune 策略之前，不会触发在 OOBE 期间发生的自动加密，这将允许使用基于策略的设置来更改操作系统默认值。
  
-问：如果已使用 OS 默认的加密方法和密码强度 (XTS-128) 加密了设备，则应用具有不同设置的策略将自动触发对具有新设置的驱动器的重新加密。<br>
-答：不可以。 若要应用新密码设置，必须先解密驱动器。<br><br>
-**注意：** 对于使用 Autopilot 注册的设备，在对 Intune 策略进行评估之前不会触发在 OOBE 期间进行的自动加密，这将允许使用基于策略的设置来替代 OS 默认值。
+问：如果设备由于 Intune 策略的应用而加密，那么在删除该策略时，设备是否将被解密？<br>
+答：删除与加密相关的策略不会解密已配置的驱动器。
  
-问：如果某个设备因 Intune 策略的应用程序而被加密，则在删除该策略时是否会对其进行解密？<br>
-A：删除与加密相关的策略不会导致对配置的驱动器进行解密。
- 
-问：为什么 Intune 合规性策略显示我的设备未启用 Bitlocker，尽管它是吗？<br>
-A： Intune 合规性策略中的 "Bitlocker enabled" 设置使用 Windows 设备运行状况证明 (DHA) 客户端。 此客户端仅在引导时测量设备状态。 因此，如果 Bitlocker 加密完成后设备尚未重新启动，则 DHA 客户端服务不会将 Bitlocker 报告为活动状态。
+问：为什么 Intune 合规性策略显示我的设备未启用 Bitlocker，即使它已启用？<br>
+答：Intune 合规性策略中的"启用 Bitlocker"设置利用 Windows 设备运行状况证明 (DHA) 客户端。 此客户端仅在启动时测量设备状态。 因此，如果自 Bitlocker 加密完成后设备尚未重新启动，DHA 客户端服务将不会报告 Bitlocker 处于活动状态。
  
  
