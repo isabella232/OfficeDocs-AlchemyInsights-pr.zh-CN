@@ -13,23 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801066"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847590"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>检查邮箱的电子邮件转发设置
 
-很容易验证 Microsoft 365 邮箱上的电子邮件转发设置。 只需按照以下步骤操作即可。
-  
-> 如果这是用户邮箱，请转到 " **用户** \> **活动用户** "，然后选择要转发其邮箱的用户。 在 " **邮件** " 选项卡上，选择 " **管理电子邮件转发**"。
+首先，电子邮件转发必须启用租户级别。 如果你已设置邮箱的电子邮件转发，但它无法工作，请参阅 [Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)中的控制自动外部电子邮件转发。
 
-> 如果这是共享邮箱，请转到 " **组** \> **共享** 邮箱"，然后选择要转发的共享邮箱。 选择 " **编辑** " 以进行电子邮件转发。
+验证邮箱中的电子邮件转发设置非常简单！ 只需执行以下步骤。
+  
+> 如果这是用户邮箱，请转到 **"用户** 活动用户"，然后选择要转发其邮箱 \> 的用户。 在"**邮件"** 选项卡上，选择 **"管理电子邮件转发"。**
 
-有关详细信息，请参阅 [在 Microsoft 365 中配置电子邮件转发](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)。
+> 如果这是共享邮箱，**请转到"组** 共享邮箱"，然后选择要 \> 转发的共享邮箱。 选择 **"** 编辑"进行电子邮件转发。
+
+有关详细信息，请参阅在 [Microsoft 365 中配置电子邮件转发](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)。
   
-若要向用户发送说明，以便他们可以在自己的邮箱上设置电子邮件转发，请指向将 [电子邮件从 Microsoft 365 转发到其他电子邮件帐户](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)。 请注意，您只能转发到一个电子邮件地址。 如果您需要设置到一组人员的转发，请在 " **组** ") 下创建通讯组列表 (，向其添加用户，然后配置到该组的转发。
+若要向用户发送说明，以便他们可以在其自己的邮箱上设置电子邮件转发，请将其指向将电子邮件从 [Microsoft 365 转发到另一个电子邮件帐户](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e)。 请注意，只能转发到一个电子邮件地址。 如果需要设置转发到一组人员，请创建通讯组列表 (组 **)** 下，将用户添加到其中，然后配置转发到该组。
   
-您是否有员工离开？ 有关建议的步骤，请参阅 [删除来自 Microsoft 365 的前一名员工](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) 。
+你是否有员工离开？ 有关建议的步骤，请参阅从 [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) 中删除以前的员工。
