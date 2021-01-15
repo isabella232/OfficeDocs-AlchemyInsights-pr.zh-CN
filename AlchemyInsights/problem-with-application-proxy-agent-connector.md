@@ -1,0 +1,27 @@
+---
+title: 应用程序代理代理连接器出现问题
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/15/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004356"
+- "7802"
+ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
+ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.translationtype: MT
+ms.contentlocale: zh-CN
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49869157"
+---
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a><span data-ttu-id="9ce6e-102">应用程序代理代理连接器出现问题</span><span class="sxs-lookup"><span data-stu-id="9ce6e-102">I'm having a problem with the Application Proxy Agent Connector</span></span>
+
+1. <span data-ttu-id="9ce6e-103">Microsoft Azure Active Directory 应用程序代理连接器是一个内部域组件，它使用出站连接建立从云可用终结点到内部域的连接。</span><span class="sxs-lookup"><span data-stu-id="9ce6e-103">Microsoft Azure Active Directory Application Proxy Connector is an internal domain component that uses outbound connections to establish the connectivity from the cloud available endpoint to the internal domain.</span></span>
+1. <span data-ttu-id="9ce6e-104">如果在安装应用程序代理代理连接器时遇到问题，请按照 [以下步骤](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) 进行故障排除。</span><span class="sxs-lookup"><span data-stu-id="9ce6e-104">If you are having issues installing the Application Proxy Agent Connector, follow [these steps](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) to troubleshoot.</span></span>
+1. <span data-ttu-id="9ce6e-105">如果使用应用程序代理服务远程访问本地 Web 应用程序，但连接到应用程序时遇到问题，请使用本文帮助您解决 Azure Active Directory ([](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) Azure AD) 应用程序代理连接器的问题。</span><span class="sxs-lookup"><span data-stu-id="9ce6e-105">If you're using the Application Proxy service for remote access to an on-premises web application, but you're having trouble connecting to the application, use [this article](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) to help you troubleshoot issues with Azure Active Directory (Azure AD) Application Proxy connectors.</span></span>
