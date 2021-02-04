@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560430"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093345"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>启用 Azure AD Connect 中的密码写回
 
@@ -43,4 +43,4 @@ ms.locfileid: "49560430"
 有关详细信息，请参阅“[对本地环境启用 Azure Active Directory 自助服务密码重置写回](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)”。
 
 > [!NOTE]
->  当管理员在 Azure 门户中重置用户密码时，如果该用户是联盟用户或其密码哈希已同步，则该密码将回写到本地。 Office 管理门户当前不支持此功能。
+>  当管理员在 Azure 门户中重置用户密码时，如果该用户是联盟用户或其密码哈希已同步，则该密码将回写到本地。 此功能需要 Azure Premium 许可证（P1 或 P2），并且目前在 Office 管理门户中不受支持。
