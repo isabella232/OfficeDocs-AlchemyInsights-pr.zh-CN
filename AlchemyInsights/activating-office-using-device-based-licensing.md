@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697871"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094027"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>使用基于设备的许可激活 Office
 
+Microsoft 365 企业应用版基于设备的许可仅作为许可证提供给某些商业客户和一些教育客户。 有关详细信息，请参阅[：Microsoft 365](https://docs.microsoft.com/deployoffice/device-based-licensing)企业应用版基于设备的许可
+
+若要使用基于设备的许可激活 Microsoft 365 企业应用版，请参阅：
+
+- [对 Microsoft 365 企业应用版使用基于设备的许可的要求](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [为 Microsoft 365 企业应用版配置基于设备的许可的步骤](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+有关疑难解答指南，请参阅[Microsoft 365](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)企业应用版基于设备的许可疑难解答
+
 > [!NOTE]
-> 美国教育版客户的 [基于 Office 设备的激活](https://aka.ms/officedba) 现在已被弃用。 我们鼓励组织为教育客户 (设备) 许可证规划新的 Microsoft 365 应用程序教育版。
-
-若要使用基于设备的许可激活 Office，您需要具有适用于教育版的 Microsoft 365 Apps (设备) 仅供教育客户使用的附加许可证，并且只能通过注册教育版解决方案 (EES) 获得。 有关 [使用基于设备的许可的 Microsoft 365 应用程序的企业版的要求，](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)请参阅。
-
-
-有关安装程序的详细信息，请参阅：
-
-- [为适用于企业的 Microsoft 365 应用程序配置基于设备的许可的步骤](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [管理设备的许可证](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-有关故障排除指南，请参阅针对 [企业版 Microsoft 365 应用程序的基于设备的许可进行故障排除](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)。
+> 如果已经使用基于用户的订阅许可或共享计算机激活安装和激活了 Microsoft 365 应用版，则需要在设备上重置许可证状态，然后才能过渡到基于设备的许可。 若要重置激活状态，请参阅 ["重置 Microsoft 365 企业应用版激活状态"](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
