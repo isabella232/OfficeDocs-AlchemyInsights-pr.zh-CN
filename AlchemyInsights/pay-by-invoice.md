@@ -1,32 +1,30 @@
 ---
-title: 按发票付款
+title: 按发票支付
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "492"
 - "1500024"
-ms.assetid: 3e687777-13bf-467e-9746-a1f35571178f
-ms.openlocfilehash: dc231f15df85d2dddfce4c5a63193129ab61f434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bafb21aae965122f5ac6d214f2ac6d63858003c
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751773"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152332"
 ---
-# <a name="pay-by-invoice"></a>按发票付款
+# <a name="pay-by-invoice"></a>按发票支付
 
-如果你的 Microsoft 365 订阅的费用超过一定数额 (则此金额因服务位置) 而异，你可以选择使用支票或 EFT 以发票付款。 较大数额的发票付款可能要求进行信用检查。 如需进行信用检查，会在购买订阅时收到通知。 如果同意接受联系，将收到一封电子邮件，其中包括有关申请信用审批的详细信息。 通常会在两个工作日内完成信用检查。
-  
-如果按发票支付订阅费用，将收到一封电子邮件，指明帐单可供查看。 此电子邮件不包含帐单的副本。 然而，也可选择[以电子邮件方式接收账单副本](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)。 帐单包括用于付款的选项的详细信息。 如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。 若要了解有关访问帐单的信息，请参阅[查看帐单或发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
-  
-若要了解有关按发票付款的详细信息，请参阅 [订阅付费](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
-  
-如果你想要更改付款方式，请参阅 [更改付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)。
+如果你的 Microsoft 365 订阅费用超过一定金额 (此金额因服务位置) 而异，你将可以选择使用支票或 EFT 通过发票付款。 较大数额的发票付款可能要求进行信用检查。 如果需要信用检查，购买订阅时将会收到通知。 如果你同意联系你，你收到一封电子邮件，其中包含有关申请信用审批详细信息。 通常会在两个工作日内完成信用检查。
+
+如果你通过发票为订阅付款，则当帐单可供查看时，你收到一封电子邮件。 此电子邮件不包含帐单副本。 但是，你可以选择通过电子邮件接收帐单 [副本](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice.md#receive-a-copy-of-your-billing-statement-in-email)。 帐单包含有关付款选项以及付款位置的详细信息。 如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。 若要了解有关访问帐单的信息，请参阅[查看帐单或发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
+
+若要了解有关通过发票付款的信息，请参阅 [如何支付订阅费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+
+如果你希望更新付款方式，请参阅"[管理付款方式"。](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)

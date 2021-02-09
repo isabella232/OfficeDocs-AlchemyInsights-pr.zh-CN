@@ -1,37 +1,35 @@
 ---
-title: 如何将信用卡付款更改为发票？
+title: 如何从信用卡付款更改为发票？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "433"
 - "1500001"
-ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 71f0026751fd9f4233c0de51519076cb6a0bce63
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286711"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152296"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>如何将信用卡付款更改为发票？
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>如何从信用卡付款更改为发票？
 
 > [!NOTE]
-> 仅当您的订阅成本超过一定金额 (取决于服务位置) 时，按发票付款的选项才可用。 较大数额的发票付款可能要求进行信用检查。 若要了解详细信息，请参阅 [订阅的付费](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+> 如果你的订阅费用超过一定金额，你只能更改为通过发票付款。 必须先支付信用卡或借记卡或银行帐户上的任何未结余额，然后才能更改为通过发票付款。
 
 1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
-2. 查找要更改的订阅。 在 " **帐单**" 下，选择 "付款方法" 旁边的 " **编辑**"。
-3. 在现有付款方法旁边，选择 " **更改**"。
-4. 从下拉菜单中，选择 "发票" **或 "电汇转移**"。
-5. 输入您的姓名、地址和电话号码。 您还可以添加要显示在发票上的采购订单编号。
-6. 完成后，选择“保存”****。
-7. 确认所选的支付方式正确，然后选择 " **保存**"。
+2. 在 **"产品** "选项卡上，找到想要通过备用付款方式付费的订阅。
+3. 选择 **三个点 (** 操作) ，然后选择 **"替换付款方式"。**
+4. 在 **"替换付款方式"** 窗格中，选择 **"添加付款方式"。**
+5. 在"**添加付款方式"窗格中**，选择 **"发票"或"线路传输"。**
+6. 输入你的姓名、地址和电话号码。 还可以添加要显示在发票上的 PO 编号。
+7. 完成后，选择“保存”。
 
-若要了解详细信息，请参阅 [更改支付方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)。
+若要了解更多信息，请参阅 [如何支付订阅费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
