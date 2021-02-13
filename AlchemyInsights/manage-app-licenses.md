@@ -2,8 +2,7 @@
 title: 管理应用许可证
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778141"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232393"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="6d577-102">管理应用许可证</span><span class="sxs-lookup"><span data-stu-id="6d577-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="32b11-102">管理应用许可证</span><span class="sxs-lookup"><span data-stu-id="32b11-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="6d577-103">更改许可证数量</span><span class="sxs-lookup"><span data-stu-id="6d577-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="32b11-103">更改许可证数量</span><span class="sxs-lookup"><span data-stu-id="32b11-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="6d577-104">转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面，然后选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="6d577-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="32b11-104">转到"**计费**  >  **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页。</span><span class="sxs-lookup"><span data-stu-id="32b11-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="32b11-105">在 **"产品** "选项卡上的 **"** 应用"部分，查找要管理的应用。</span><span class="sxs-lookup"><span data-stu-id="32b11-105">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="32b11-106">选择 **三个点 (** 更多操作) ，然后选择"购买 **许可证"。**</span><span class="sxs-lookup"><span data-stu-id="32b11-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="32b11-107">如果要减少许可证数量，请在"购买许可证"窗格顶部，**选择"删除许可证"。** </span><span class="sxs-lookup"><span data-stu-id="32b11-107">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="32b11-108">若要购买或删除许可证，请在"许可证总数"框中的"新数量"下输入此订阅的许可证总数。</span><span class="sxs-lookup"><span data-stu-id="32b11-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="32b11-109">例如，如果你有 100 个许可证，并且要再添加五个许可证，请输入 105。</span><span class="sxs-lookup"><span data-stu-id="32b11-109">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="32b11-110">如果要删除其中五个，请输入 95。</span><span class="sxs-lookup"><span data-stu-id="32b11-110">If you want to remove five of them, enter 95.</span></span>
+5. <span data-ttu-id="32b11-111">选择“**保存**”。</span><span class="sxs-lookup"><span data-stu-id="32b11-111">Select **Save**.</span></span>
 
-2. <span data-ttu-id="6d577-105">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="6d577-105">Find and select the app you want to manage.</span></span>  
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="32b11-112">分配应用许可证</span><span class="sxs-lookup"><span data-stu-id="32b11-112">To assign app licenses</span></span>
 
-3. <span data-ttu-id="6d577-106">选择 " **添加/删除许可证**"。</span><span class="sxs-lookup"><span data-stu-id="6d577-106">Select **Add/remove licenses**.</span></span>
-
-4. <span data-ttu-id="6d577-107">输入所需的新数量的许可证。</span><span class="sxs-lookup"><span data-stu-id="6d577-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="6d577-108">例如，如果您当前有5个许可证并且只需要4个，请在 " **许可证总数** " 框中输入 "4"。</span><span class="sxs-lookup"><span data-stu-id="6d577-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="6d577-109">如果你当前有5个许可证，并且需要10个总许可证，请在 " **许可证总数** " 框中输入10。</span><span class="sxs-lookup"><span data-stu-id="6d577-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
-
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="6d577-110">分配应用程序许可证</span><span class="sxs-lookup"><span data-stu-id="6d577-110">To assign app licenses</span></span>
-
-1. <span data-ttu-id="6d577-111">转到 "**付费**  >  **[产品](https://go.microsoft.com/fwlink/p/?linkid=842054)**" 页面，然后选择 "**应用**" 选项卡。</span><span class="sxs-lookup"><span data-stu-id="6d577-111">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
-
-2. <span data-ttu-id="6d577-112">查找并选择要管理的应用程序。</span><span class="sxs-lookup"><span data-stu-id="6d577-112">Find and select the app you want to manage.</span></span>  
-
-3. <span data-ttu-id="6d577-113">在 " **设置" & "操作**" 下，选择要 **在 publisher 的门户中管理**的链接。</span><span class="sxs-lookup"><span data-stu-id="6d577-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+1. <span data-ttu-id="32b11-113">转到"**计费**  >  **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页。</span><span class="sxs-lookup"><span data-stu-id="32b11-113">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="32b11-114">在 **"产品** "选项卡上的 **"应用** "部分，查找并选择要管理的应用。</span><span class="sxs-lookup"><span data-stu-id="32b11-114">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
+3. <span data-ttu-id="32b11-115">在 **&操作下**，选择在 **发布者门户中管理的链接**。</span><span class="sxs-lookup"><span data-stu-id="32b11-115">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
