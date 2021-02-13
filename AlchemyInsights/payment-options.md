@@ -2,43 +2,39 @@
 title: 支付选项
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce
 - "1639"
 - "9000134"
-ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: cafaf2aa60e408c56a46aea63911b62e622c979b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768669"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152476"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Microsoft 365 商业版订阅的支付选项
   
-Microsoft 365 商业版订阅的付款选项包括信用卡、银行帐户（直接借记）和转账（支票付款或电子资金汇划）。
+信用卡、借记卡、银行账户（直接借记）和发票（通过支票或电子资金转账（EFT）支付）都是Microsoft 365 商业版订阅的支付选项。
   
-**通过信用卡和银行帐户支付**
+**通过信用卡、借记卡或银行账户支付**
   
-当通过信用卡或银行帐户付款时，将在发票日期后自动扣除你的订阅的费用，直到订阅期限结束。 你可以随时[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。 也可选择[以电子邮件方式接收账单副本](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)。
-  
-如果信用卡被拒或有过期未付款项，可以选择“**账单**”\>**“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”** 页面上的“**结账**”选项。
-  
+可使用信用卡、借记卡或银行账户支付订阅费用。 当使用这些付款方式之一付款时，我们将继续向该付款方式收取费用，直到订阅到期或取消。 你可以随时[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。 也可选择[以电子邮件方式接收账单副本](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email)。
+
+如果信用卡被拒或有逾期余额，而你个人又添加了有逾期金额的支付方式，则可使用 **结算余额** 进行付款。 用于支付逾期金额的支付方式将成为所有使用拒绝支付方式的订阅的新支付方式。 如需了解更多信息，请参阅[如果我有未清偿的余额，我应该怎么做？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+
 **转账支付（支票或电子资金汇划）**
   
-如果你的订阅费用高于一定的金额（此金额因服务位置而异），则可以选择使用支票或 EFT 按发票付款。 较大数额的发票付款可能要求进行信用检查。 如需进行信用检查，会在购买订阅时收到通知。 如果同意接受联系，将收到一封电子邮件，其中包括有关申请信用审批的详细信息。 通常会在两个工作日内完成信用检查。
-  
-如果按发票支付订阅费用，将收到一封电子邮件，指明帐单可供查看。 此电子邮件不包含帐单的副本。 然而，也可选择[以电子邮件方式接收账单副本](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email)。 帐单包括用于付款的选项的详细信息。 如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。 若要了解有关访问帐单的信息，请参阅[查看帐单或发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
-  
-**更改付款方式**
-  
-如果希望更改当前订阅的付款方式，请按照[此处](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method)的说明执行操作。
+如果你的订阅费用高于一定的金额（此金额因服务位置而异），则可以选择使用支票或 EFT 按发票付款。 较大数额的发票付款可能要求进行信用检查。 如果需要进行信用检查，在购买订阅时就会收到通知。 如果同意取得联系，则会收到一封电子邮件，其中包括更多关于申请信贷审批的信息。 通常会在两个工作日内完成信用检查。
+
+如果通过发票支付订阅，当账单可以查看时，则会收到一封电子邮件。 这封邮件不包含账单副本。 不过，可以选择[通过电子邮件接收账单副本](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email)。 账单中包含了关于付款选择以及付款地点的详细信息。 如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。 若要了解有关访问帐单的信息，请参阅[查看帐单或发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
   
 **其他信息**
   
-[支付 Microsoft 365 商业版订阅费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[ 如何为Microsoft 365商业订阅支付费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
