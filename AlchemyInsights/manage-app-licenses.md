@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
+ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232393"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50237558"
 ---
 # <a name="manage-app-licenses"></a>管理应用许可证
 
 ## <a name="to-change-license-quantity"></a>更改许可证数量
+
+**观看演示如何** 执行此操作的视频： [购买新许可证](https://go.microsoft.com/fwlink/p/?linkid=2154857) 或删除 [现有许可证](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
 1. 转到"**计费**  >  **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页。
 2. 在 **"产品** "选项卡上的 **"** 应用"部分，查找要管理的应用。 选择 **三个点 (** 更多操作) ，然后选择"购买 **许可证"。**
