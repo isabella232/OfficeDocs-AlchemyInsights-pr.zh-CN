@@ -13,12 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: 24330dffb38be14dd369960ff86d4650d60c55ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701273"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416303"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>从 Intune 删除数据和擦除设备
 
@@ -27,11 +29,14 @@ ms.locfileid: "47701273"
 1. 登录 Microsoft 365 设备管理，然后转到“**设备**” > “**所有设备**”。
 2. 选择要擦除的设备。
 3. 选择要执行的远程擦除类型。 停用只会删除组织信息，而完全擦除会将设备还原为出厂设置。
-4. 选择“**是**”进行确认。 在擦除完成之前，设备操作状态将显示为“等待停用”。</br>
+4. 选择“**是**”进行确认。 擦除完成后，"设备"操作状态将显示为" *停用挂起*。
     操作完成后，你将不能再在受管理的设备列表中看到该移动设备。
 
-**注意** 无法从已加入 Azure AD 的设备中删除公司数据。
+> [!NOTE]
+> 不能从加入 Azure AD 的设备中删除公司数据。 
 
-有关停用和擦除操作的影响的完整详细信息（包括保留的内容和删除的内容），请参阅[使用擦除、停用或手动取消注册设备来删除设备](https://docs.microsoft.com/intune/devices-wipe)。
+有关停用和擦除操作的影响的完整详细信息，包括保留内容及删除内容，请参阅以下文档：
 
-若要擦除 macOS 设备中的所有数据，请参阅[擦除 macOS 设备中的所有数据](https://docs.microsoft.com/intune/device-erase)。
+- [通过使用擦除、停用或手动取消上卷设备来删除](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe)。
+- [如何只从 Intune 托管应用擦除企业数据](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [擦除 macOS 设备应用更新](https://docs.microsoft.com/mem/intune/remote-actions/device-erase)。
