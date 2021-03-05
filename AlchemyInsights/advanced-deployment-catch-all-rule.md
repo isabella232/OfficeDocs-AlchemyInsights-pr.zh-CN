@@ -2,8 +2,9 @@
 title: 高级部署捕获所有规则
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696682"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448633"
 ---
-# <a name="deploy-microsoft-365-apps"></a>部署 Microsoft 365 应用程序
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>与 Microsoft 365 应用版部署顾问一起安装 Office
 
-若要通过 Office 部署工具、Microsoft 终结点配置管理器将 Microsoft 365 应用程序部署到多个最终用户，作为操作系统磁盘映像的一部分，或在使用带有远程桌面服务的 Windows Server 的共享计算机方案中 (RDS) 或终端服务，请考虑使用 **Microsoft 365 apps for enterprise Deployment advisor**中的分步指南。
+[Microsoft 365 应用](https://admin.microsoft.com/adminportal/home)版部署顾问可帮助你使用户的设备运行最新版本的 Office 产品，如 Word、Excel、PowerPoint 和 OneNote。
   
-若要开始，请确保你已以租户管理员或全局管理员身份登录，然后单击此处： [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) 。
+你将获取有关各种部署方法（包括简单的自安装选项）以及使用管理工具的企业部署的指导。 这些说明将帮助您评估环境、确定特定的部署要求，以及实施必要的支持工具以确保成功安装。
   
