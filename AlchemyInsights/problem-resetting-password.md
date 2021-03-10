@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "9360"
-ms.openlocfilehash: fe3a13acb0ba5c8872d7c0bb8c3961d83f7d3526
-ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
+ms.openlocfilehash: aa1eba1efef6a4c28aa6b9229071304093395922
+ms.sourcegitcommit: 9a00005546c2fe473e3cea2b06e38c27eada88c4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "50568464"
+ms.locfileid: "50585648"
 ---
 # <a name="problems-resetting-password"></a>重置密码时出现问题
 
@@ -26,7 +26,7 @@ ms.locfileid: "50568464"
 
 **我遇到密码重置未涵盖在其他类别中的问题**
 
--确保你有权重置密码。 只有全局、密码和用户管理员可以重置用户密码。 全局管理员还可以重置其他特权管理员的密码。
+- 确保你有权重置密码。 只有全局、密码和用户管理员可以重置用户密码。 全局管理员还可以重置其他特权管理员的密码。
 - 确保您了解许可要求：
     - 必须在组织中分配至少一个许可证
         - 仅云用户 - 任何 Office 365 (O365) 付费 SKU 或 Azure AD Basic

@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "663"
 - "1500007"
-- commerce
-ms.openlocfilehash: 28d9722779a89f843af8a83304ffd6640012af93
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 28601f73a9766a516565d29e1c0f24f20b5e731a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469436"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601129"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>向预付费订阅添加席位
 
@@ -27,8 +26,8 @@ ms.locfileid: "50469436"
 1. 在管理中心中，转到“**账单**” > **“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”** 页面。
 2. 在 **"产品** "选项卡上，选择要添加许可证的订阅。
 3. 在订阅详细信息页面上的"**许可证"部分**，选择"**添加更多许可证"。**
-4. 在"**添加更多许可证"** 窗格中，选择"**使用新的** 未使用的产品密钥"，然后选择"下一 **步"。**
-5. 输入产品密钥，然后选择"下一 **步"。**
+4. 在"**添加更多许可证"** 窗格中，选择"**使用新的和未使用的产品密钥**"，然后选择"下 **一步"。**
+5. 输入产品密钥，然后选择"下 **一步"。**
     > [!NOTE]
     > 如果有多个产品密钥，可以选择" **添加其他产品密钥**"以输入产品密钥。
 6. 查看你的订单详细信息，然后选择"兑换 **"。**

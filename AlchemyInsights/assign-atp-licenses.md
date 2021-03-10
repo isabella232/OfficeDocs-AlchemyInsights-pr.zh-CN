@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-- commerce
-ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0b6dea84c1342ef17f23180d3b917b052158cf46
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469580"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601814"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>分配 Microsoft Defender for Office 365 许可证
 
@@ -31,4 +30,4 @@ Microsoft Defender for Office 365 可以分配给 Microsoft 365 管理中心中�
 5. 单击 **"打开或关闭应用和服务"**  以分配或删除。
 6. 单击 **"分配**"，然后  **关闭**。
 
-若要购买更多或删除许可证，请参阅["购买或删除许可证"。](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+若要购买更多许可证或删除许可证，请参阅 [购买或删除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
