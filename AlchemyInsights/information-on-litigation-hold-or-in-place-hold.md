@@ -1,5 +1,5 @@
 ---
-title: 有关诉讼保留或就地保留的信息
+title: 诉讼保留或就地保留信息
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755445"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709312"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>关于诉讼保留和就地保留
 
-- 若要将诉讼保留或就地保留应用到邮箱，需要 [Exchange Online 计划2许可证](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 。 如果你有任何其他计划，请为帐户分配单独的 [Exchange Online 存档](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 许可证。 
+- 若要对邮箱应用诉讼保留或就地保留， [需要 Exchange Online 计划 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) 许可证。 如果你有任何其他计划，请为 [Exchange Online Archiving分配单独的](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) 许可证。 
     
-- **若要为单个用户启用诉讼保留** ，请按照 [此处](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)所述的步骤操作。 启用诉讼保留时，会将邮箱中的所有内容置于保留状态。
+- **若要为单个用户启用** 诉讼保留，请按照此处列出的 [步骤操作](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold)。 启用诉讼保留后，邮箱中所有内容将置于保留状态。
     
-- 若要对**整个组织中的所有邮箱**应用**就地保留**，可以在 Microsoft 365 安全与合规中心中使用保留策略，具体[步骤如下所示。]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- 若要对单个用户应用就地保留，或将保留应用于整个组织的所有邮箱，可以按照此处列出的步骤在 Microsoft 365 安全与合规中心使用保留[策略](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)。
     
     > [!NOTE]
-    > 对于组织范围内的保留策略，新用户将自动添加到保留。 
+    > 对于组织范围的保留策略，新用户将自动添加到保留中。 
   
-- 若要查看或发现处于保留状态的邮箱内容，请使用 **电子数据展示搜索和导出**。 若要了解如何使用 **电子数据展示搜索和导出**，请按照 [此处](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)所述的步骤操作。
+- 若要查看或发现置于保留状态中的邮箱内容，请使用 **电子数据展示搜索和导出**。 有关使用 **电子数据展示搜索和导出的信息**，请按照此处概述 [的步骤操作](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
     
 

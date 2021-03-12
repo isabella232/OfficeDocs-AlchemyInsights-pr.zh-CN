@@ -13,20 +13,20 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 485615a706d574076f103973e09539d71498e457
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dc43348237784e9e34273cd467aaba00269aed4
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699797"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708916"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>解决在 Microsoft Intune 中注册 macOS 设备的问题
 
-立即查看下面列出的资源，以解决问题。
+查看下面列出的资源，以现在解决问题。
   
-1. 使用 [Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 诊断和解决常见注册故障。 有关详细信息，请查看 [此文档](https://docs.microsoft.com/intune/help-desk-operators) 。
+1. 使用 [Intune 故障排除门户](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) 诊断和解决常见的注册失败。 有关详细信息 [，](https://docs.microsoft.com/intune/help-desk-operators) 请查看本文档。
 
-2. 查看 [此文档](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) ，了解阻止对每个的注册和解决的常见错误的列表。
+2. 请查看 [本文档，](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) 了解阻止注册和解决每个错误常见错误的列表。
 
 3. [了解如何在 Microsoft Intune 中注册 macOS 设备](https://docs.microsoft.com/intune/macos-enroll)。
 

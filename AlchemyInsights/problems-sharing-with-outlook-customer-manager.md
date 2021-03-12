@@ -1,5 +1,5 @@
 ---
-title: 问题-与-outlook 共享-客户经理
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728241"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709240"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>与 Outlook 客户管理器共享的问题
+# <a name="problems-sharing-with-outlook-customer-manager"></a>与 Outlook Customer Manager 共享问题
 
-如果您在使用 Outlook 客户管理器时遇到共享问题，建议您先尝试清除浏览器缓存。 例如，在 Internet Explorer 中，您可以：
+如果与 Outlook Customer Manager 共享问题，我们建议您首先尝试清除浏览器缓存。 例如，在Internet Explorer中，您将：
 
-1. 转到 "**设置**  >  **常规**" > "**浏览历史记录**  >  **缓存和数据库**" 下的设置。
-2. 删除网站 "outlookapps.com" 的缓存文件。
+1. 转到"**浏览**  >  **历史记录**>**和数据库下的"设置常规**  >  **设置"。**
+2. 删除网站"outlookapps.com"的缓存文件。
 3. 重新启动 Outlook。
 
-有关共享的详细信息，请参阅 [在 Outlook 客户管理器中共享信息](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20)。
+有关共享的信息，请参阅[Outlook Customer Manager 中的"共享信息"。](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
