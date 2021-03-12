@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002870"
 - "5407"
-- commerce
-ms.openlocfilehash: ba8df2816f8e8a65be7af528a7e5b2e823312e04
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 08d4fc4672a6202cb61e90f9e7027b1189fc06f8
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469630"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602498"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Microsoft 365 E1 订阅和许可证管理常见问题解答
 
@@ -30,6 +29,6 @@ ms.locfileid: "50469630"
 - 如果要 **取消** E1 订阅，请转到 **“计费” > [“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)**，选择订阅，并在 **“订阅和付款设置“** 部分，选择 **"取消订阅“**。 有关详细信息，请参阅[“取消订阅”](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 - 若要 **激活** “E1 订阅”，请参阅 [激活你的订阅](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)。
 - 若要 **重新激活** “E1 订阅”，请参阅 [重新激活你的订阅](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)。
-- 若要 **延长** “E1 试用期”，请参阅[“延长你的试用期”](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)。
+- 若要 **延长** “E1 试用期”，请参阅 [“延长你的试用期”](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)。
 
 有关详细信息，请参阅 [购买或删除许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

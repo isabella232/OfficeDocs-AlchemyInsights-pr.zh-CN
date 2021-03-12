@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002872"
 - "5425"
-- commerce
-ms.openlocfilehash: ec5e0fa7c7656704995f2c04a5cf12076e1eb4fd
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 0920f231f56207c488a4ddee0b0cd852ccf8e8ec
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469914"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602912"
 ---
 # <a name="microsoft-365-a5-faq"></a>Microsoft 365 A5 常见问题解答
 
@@ -30,6 +29,6 @@ ms.locfileid: "50469914"
 - 如果要 **取消** A5 订阅，请转到 **“计费” > [“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)**，选择订阅，并在 **“订阅和付款设置“** 部分，选择 **"取消订阅“**。 有关详细信息，请参阅[“取消订阅”](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 - 若要 **激活** “A5 订阅”，请参阅 [激活你的订阅](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription)。
 - 若要 **重新激活** “A5 订阅”，请参阅 [重新激活你的订阅](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)。
-- 若要 **延长** “A5 试用期”，请参阅[“延长你的试用期”](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)。
+- 若要 **延长** “A5 试用期”，请参阅 [“延长你的试用期”](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)。
 
 有关详细信息，请参阅 [购买或删除许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

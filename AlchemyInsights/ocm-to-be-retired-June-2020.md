@@ -1,5 +1,5 @@
 ---
-title: OCM 6 月2020日终止
+title: OCM 将于 2020 年 6 月停用
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662747"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704812"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM 6 月2020日终止
+# <a name="ocm-to-be-retired-june-2020"></a>OCM 将于 2020 年 6 月停用
 
 
-**2020 年6月30日**生效，Outlook 客户管理器外接程序和移动应用程序将停用。 你可以在**此日期之前**从其**导出数据**。  
+自 **2020 年 6 月 30** 日起，Outlook Customer Manager 加载项和移动应用将停用。 你可以  **在此日期**  之前  **从它导出数据**。  
 
-您可以通过单击 [此处](https://admin.microsoft.com/AdminPortal/Home?ref=/users)检查组织中的哪些人有 microsoft 365 商业标准版 (以前称为 Office 365 商业高级) 或 Microsoft 365 商业 (版) 订阅计划（通过权限给 Outlook 客户经理365）。
+通过单击此处，可以检查组织中谁拥有 Microsoft 365 商业标准版 (（以前称为 Office 365 商业高级版) 或 Microsoft 365 商业高级版 (，以前称为 Microsoft 365 商业版) 订阅计划，并拥有 Outlook Customer Manager [权限](https://admin.microsoft.com/AdminPortal/Home?ref=/users)。
 
 有关详细信息，请参阅：
 
-- [导出或删除您的 Outlook 客户管理器数据](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [导出或删除 Outlook Customer Manager 数据](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Outlook 客户经理常见问题解答](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Outlook Customer Manager 常见问题解答](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236079"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704920"
 ---
 # <a name="unable-to-activate-office"></a>无法激活 Office
 
 - 检查你的订阅状态是否已过期。
-- 请确保你拥有允许客户端许可证的订阅（如 Office 365 商业版或商业高级版），并[确保该用户分配有许可证](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)。
+- 请确保你拥有允许客户端许可证的订阅（如 Office 365 商业版或商业高级版），并[确保该用户分配有许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)。
 - 确保用户使用分配有许可证的同一帐户登录到 Office。
 - 查看 [Office 365 服务运行状况页面](https://docs.microsoft.com/office365/enterprise/view-service-health)，检查是否存在任何已知的服务问题。
 - 检查防火墙、防病毒软件和代理设置，确认它们不会阻止 Microsoft 365 应用访问 Internet。 请参阅 [Office 365 URL 和 IP 地址范围](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Office 365 URL 和 IP 地址范围")。
