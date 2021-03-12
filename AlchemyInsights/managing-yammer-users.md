@@ -12,29 +12,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5aaca1ca3095616606da2e36c1f992af6366ac47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812717"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704704"
 ---
-# <a name="managing-yammer-users"></a><span data-ttu-id="f8b78-102">管理 Yammer 用户</span><span class="sxs-lookup"><span data-stu-id="f8b78-102">Managing Yammer users</span></span>
+# <a name="managing-yammer-users"></a><span data-ttu-id="b6bcb-102">管理 Yammer 用户</span><span class="sxs-lookup"><span data-stu-id="b6bcb-102">Managing Yammer users</span></span>
 
-1. <span data-ttu-id="f8b78-103">有关从 Microsoft 365 管理 Yammer 用户的信息，请参阅 [在其生命周期中管理 yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。</span><span class="sxs-lookup"><span data-stu-id="f8b78-103">For information about managing Yammer users from Microsoft 365, please see [Manage Yammer users across their lifecycle](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle).</span></span> <span data-ttu-id="f8b78-104">其中包括有关以下内容的详细信息：</span><span class="sxs-lookup"><span data-stu-id="f8b78-104">This includes details on:</span></span>
+1. <span data-ttu-id="b6bcb-103">有关从 Microsoft 365 管理 Yammer 用户的信息，请参阅管理 [其生命周期中的 Yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。</span><span class="sxs-lookup"><span data-stu-id="b6bcb-103">For information about managing Yammer users from Microsoft 365, please see [Manage Yammer users across their lifecycle](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle).</span></span> <span data-ttu-id="b6bcb-104">这包括以下详细信息：</span><span class="sxs-lookup"><span data-stu-id="b6bcb-104">This includes details on:</span></span>
 
-  - <span data-ttu-id="f8b78-105">创建用户</span><span class="sxs-lookup"><span data-stu-id="f8b78-105">Creating a user</span></span>
+  - <span data-ttu-id="b6bcb-105">创建用户</span><span class="sxs-lookup"><span data-stu-id="b6bcb-105">Creating a user</span></span>
 
-  - <span data-ttu-id="f8b78-106">删除用户</span><span class="sxs-lookup"><span data-stu-id="f8b78-106">Deleting users</span></span>
+  - <span data-ttu-id="b6bcb-106">删除用户</span><span class="sxs-lookup"><span data-stu-id="b6bcb-106">Deleting users</span></span>
 
-  - <span data-ttu-id="f8b78-107">从 Microsoft 365 管理 Yammer 用户</span><span class="sxs-lookup"><span data-stu-id="f8b78-107">Managing Yammer users from Microsoft 365</span></span>
+  - <span data-ttu-id="b6bcb-107">从 Microsoft 365 管理 Yammer 用户</span><span class="sxs-lookup"><span data-stu-id="b6bcb-107">Managing Yammer users from Microsoft 365</span></span>
 
-2. <span data-ttu-id="f8b78-108">有关从 Yammer 管理控制台管理用户的信息，请参阅 [添加、阻止或删除 Yammer 用户](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) 。</span><span class="sxs-lookup"><span data-stu-id="f8b78-108">Please see [Add, block, or remove Yammer users](https://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) for information about managing users from the Yammer admin console.</span></span> <span data-ttu-id="f8b78-109">这包括：</span><span class="sxs-lookup"><span data-stu-id="f8b78-109">This includes:</span></span>
+2. <span data-ttu-id="b6bcb-108">有关从 Yammer 管理控制台管理用户的信息，请参阅"添加、阻止或删除 [Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) 用户"。</span><span class="sxs-lookup"><span data-stu-id="b6bcb-108">Please see [Add, block, or remove Yammer users](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) for information about managing users from the Yammer admin console.</span></span> <span data-ttu-id="b6bcb-109">这包括：</span><span class="sxs-lookup"><span data-stu-id="b6bcb-109">This includes:</span></span>
 
-  - <span data-ttu-id="f8b78-110">邀请或删除用户</span><span class="sxs-lookup"><span data-stu-id="f8b78-110">Inviting or removing users</span></span>
+  - <span data-ttu-id="b6bcb-110">邀请或删除用户</span><span class="sxs-lookup"><span data-stu-id="b6bcb-110">Inviting or removing users</span></span>
 
-  - <span data-ttu-id="f8b78-111">邀请来宾用户</span><span class="sxs-lookup"><span data-stu-id="f8b78-111">Inviting guest users</span></span>
+  - <span data-ttu-id="b6bcb-111">邀请来宾用户</span><span class="sxs-lookup"><span data-stu-id="b6bcb-111">Inviting guest users</span></span>
 
-  - <span data-ttu-id="f8b78-112">导出用户列表</span><span class="sxs-lookup"><span data-stu-id="f8b78-112">Exporting the user list</span></span>
+  - <span data-ttu-id="b6bcb-112">导出用户列表</span><span class="sxs-lookup"><span data-stu-id="b6bcb-112">Exporting the user list</span></span>
 
-3. <span data-ttu-id="f8b78-113">有关添加、删除和管理外部用户的信息，请参阅 [将外部邮件参与者添加到 Yammer 网络](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)。</span><span class="sxs-lookup"><span data-stu-id="f8b78-113">For information about adding, removing and managing external users, see [Add external messaging participants to your Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).</span></span>
+3. <span data-ttu-id="b6bcb-113">有关添加、删除和管理外部用户的信息，请参阅"将[外部邮件参与者添加到 Yammer 网络"。](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)</span><span class="sxs-lookup"><span data-stu-id="b6bcb-113">For information about adding, removing and managing external users, see [Add external messaging participants to your Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).</span></span>
