@@ -12,18 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: dffc58ee2a01157dca0b365d5419c571f2e545f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779815"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707728"
 ---
 # <a name="how-to-install-office"></a>如何安装 Office
 
 若要安装 Office 客户端应用，请确保有商业版订阅，如 Microsoft 365 商业高级版（标准）、Microsoft 365 商业应用版或 Office 365 教育版。
   
-*注意：[Office 小型企业版](https://products.office.com/home-and-business)是一款 [Office 家庭版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)产品，不是企业订阅的一部分。有关 Visio 或 Project 的具体说明，请参阅[安装 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 或[安装 Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*。
+*注意：[Office 小型企业版](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)是一款 [Office 家庭版](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA)产品，不是企业订阅的一部分。有关 Visio 或 Project 的具体说明，请参阅 [安装 Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) 或 [安装 Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*。
 
 创建用户帐户并添加域。 请确保用户其具有[分配的许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)。
 

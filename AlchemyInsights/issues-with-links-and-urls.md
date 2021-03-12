@@ -3,7 +3,7 @@ title: 链接和 URL 的问题
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950688"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707872"
 ---
 # <a name="issues-with-links-and-urls"></a>链接和 URL 的问题
 
@@ -31,7 +31,7 @@ ms.locfileid: "49950688"
 
 使用正在开发的应用程序登录时，如果登录对话框显示 **AADSTS50011：请求中指定的答复 URL 与为应用程序 <your app ID>** 配置的答复 URL 不匹配，你需要向你的应用程序注册添加重定向 URI（即代码在向 Microsoft 身份平台的令牌请求中所使用的重定向 URI）。
 
-若要添加答复 URL，请转到 Azure 门户中 **应用程序注册** 页面中的 **身份验证** 选项卡，在 “**重定向 URL**”部分中添加一个条目。 键入重定向 URL（Web 或移动/桌面）。 需要输入的值取决于正在构建的应用程序类型，如下所述：
+若要添加答复 URL，请转到 Azure 门户中 **应用程序注册** 页面中的 **身份验证** 选项卡，在 “**重定向 URL**”部分中添加一个条目。 需要输入的值取决于正在构建的应用程序类型，如下所述：
 
 - 对于单页应用程序和 Web 应用，答复 URL 就是应用程序中的 URL。 请参阅 [单页应用程序注册](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) 或 [使用 Azure 门户注册 web 应用型应用](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
 - 对于桌面应用，需要选择的值取决于：

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602102"
+ms.locfileid: "50707836"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>购买 Microsoft Defender for Office 365
 
-Microsoft Defender for Office 365 包含在特定订阅中，如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商业高级版。 如果你的订阅不包括 Microsoft Defender for Office 365，你可以购买 [Microsoft Defender for Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) 作为特定订阅的加载项。 若要在 Microsoft 365 管理中心购买：
+Microsoft Defender for Office 365 包含在特定订阅中，如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商业高级版。 如果你的订阅不包括 Microsoft Defender for Office 365，你可以购买 [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 作为特定订阅的加载项。 若要在 Microsoft 365 管理中心购买：
 
 1. 在管理中心，转到"**计费**  >  [购买服务"](https://go.microsoft.com/fwlink/p/?linkid=868433)页。
 2. 在"购买服务"**页面底部的**"加载项"部分，查找适用于 Office 365 的 Microsoft Defender 加载项，然后选择 **"详细信息"。**

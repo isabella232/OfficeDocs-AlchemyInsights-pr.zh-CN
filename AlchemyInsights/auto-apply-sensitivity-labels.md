@@ -1,5 +1,5 @@
 ---
-title: 自动应用灵敏度标签
+title: 自动应用敏感度标签
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715155"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707224"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>自动应用灵敏度标签
+# <a name="auto-apply-sensitivity-labels"></a>自动应用敏感度标签
 
-用户可以手动将敏感度标签应用于内容，也可以将其配置为自动应用于内容。
+敏感度标签可以手动应用于用户的内容，也可以将其配置为自动应用于内容。
 
-自动应用敏感度标签无需向用户介绍如何对内容进行分类以及将策略配置通知给他们的需求。
+自动应用敏感度标签无需培训用户如何对内容进行分类，也无需通知他们策略配置。
 
-若要自动应用标签，需要满足以下条件：
+若要自动应用标签，需要执行以下操作：
 
 - Azure 信息保护 P2 订阅
-- [下载并安装 Azure 信息保护统一标签客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [下载并安装 Azure 信息保护统一标记客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-我们正在努力处理本机支持，以后不需要 Azure 信息保护统一的标记客户端。
+我们正在致力于提供将来不需要 Azure 信息保护统一标签客户端的本机支持。
 
-目前，只有 Windows 支持统一的标签客户端。  Mac、iOS 和 Android 上尚不支持此功能。
+目前，仅 Windows 支持统一标记客户端。  Mac、iOS 和 Android 尚不支持此功能。
 
-若要详细了解灵敏度标签并将它们自动应用于内容，请参阅：
+有关敏感度标签和自动将其应用于内容的信息，请参阅：
 
 - [敏感度标签概述](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [将敏感度标签自动应用于内容](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [将敏感度标签自动应用于内容](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

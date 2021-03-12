@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716451"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707332"
 ---
 # <a name="install-sharepoint-apps"></a>安装 SharePoint 应用
 
@@ -28,4 +28,4 @@ ms.locfileid: "47716451"
 -   针对所有应用购买[配置 SharePoint 商店设置](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)，指定用户是否可以从 SharePoint 商店获取应用。
 -   如果遇到应用问题，可以尝试[删除](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)后再[重新添加](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)应用。
 
-有关详细信息，请参阅[向网站添加应用](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)。
+有关详细信息，请参阅[向网站添加应用](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)。
