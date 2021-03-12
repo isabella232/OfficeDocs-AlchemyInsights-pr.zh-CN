@@ -1,5 +1,5 @@
 ---
-title: 我应从何处获取服务 (SaaS) 应用程序？
+title: 在哪里可以获取 SaaS (软件) 服务？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 0018788b28f201bcd050a14ae45c962c1cbf5a5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20914f85e964d5aea0409e70e12fe29416664787
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719151"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708160"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="9016f-102">从 Microsoft 合作伙伴获取软件即服务 (SaaS) 应用程序，从哪里获取？</span><span class="sxs-lookup"><span data-stu-id="9016f-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a><span data-ttu-id="d68a4-102">在哪里从 Microsoft 合作伙伴处获取 SaaS (软件) 服务？</span><span class="sxs-lookup"><span data-stu-id="d68a4-102">Where do I get software-as-a-service (SaaS) apps from Microsoft partners?</span></span>
 
-<span data-ttu-id="9016f-103">客户可以从 [AppSource](https://www.appsource.com/)搜索、研究和购买 SaaS 应用程序。</span><span class="sxs-lookup"><span data-stu-id="9016f-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://www.appsource.com/).</span></span>
+<span data-ttu-id="d68a4-103">客户可以从 AppSource 搜索、研究和购买 [SaaS 应用](https://appsource.microsoft.com)。</span><span class="sxs-lookup"><span data-stu-id="d68a4-103">Customers can search for, research, and purchase SaaS apps from [AppSource](https://appsource.microsoft.com).</span></span>
