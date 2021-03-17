@@ -2,9 +2,9 @@
 title: 取消 Microsoft 365 订阅？
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757218"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837408"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="c536a-102">取消 Microsoft 365 订阅？</span><span class="sxs-lookup"><span data-stu-id="c536a-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="ab4aa-102">取消 Microsoft 365 订阅？</span><span class="sxs-lookup"><span data-stu-id="ab4aa-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="c536a-103">很遗憾看到你，但你可以选择取消订阅：</span><span class="sxs-lookup"><span data-stu-id="c536a-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
-  
-- <span data-ttu-id="c536a-104">**根据你的组织数据，我们认为你当前的所有订阅都是试用订阅。无需显式取消试用订阅，因为试用版订阅不需要付款，并且试用版结束后没有任何义务。**</span><span class="sxs-lookup"><span data-stu-id="c536a-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+<span data-ttu-id="ab4aa-103">很抱歉，我们来看一下，下面是取消订阅的步骤：</span><span class="sxs-lookup"><span data-stu-id="ab4aa-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-- <span data-ttu-id="c536a-105">若要了解有关取消订阅的详细信息，或有关分步说明，请参阅本文： [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="c536a-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
+1. <span data-ttu-id="ab4aa-104">在管理中心，转到"**帐单**  >  **[""产品"页面](https://go.microsoft.com/fwlink/p/?linkid=842054)**，然后选择"产品 **"** 选项卡。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="ab4aa-105">找到要取消的订阅。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="ab4aa-106">选择“**更多操作**”（三个点），然后选择“**取消订阅**”。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="ab4aa-107">在“**取消订阅**”窗格中，选择取消原因。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="ab4aa-108">(可选)提供反馈。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="ab4aa-109">选择“**保存**”。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-109">Select **Save**.</span></span>
+
+<span data-ttu-id="ab4aa-110">若要了解有关取消订阅或选项的详细信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。</span><span class="sxs-lookup"><span data-stu-id="ab4aa-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
