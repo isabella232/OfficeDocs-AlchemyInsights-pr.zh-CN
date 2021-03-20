@@ -13,13 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-- commerce
-ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837408"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50931638"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消 Microsoft 365 订阅？
 
@@ -31,3 +30,5 @@ ms.locfileid: "50837408"
 4. 选择“**保存**”。
 
 若要了解有关取消订阅或选项的详细信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+
+如果你想要在试用期内继续使用订阅，可以关闭订阅的定期计费。 若要了解如何，请参阅续订 [Microsoft 365 商业版](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)。
