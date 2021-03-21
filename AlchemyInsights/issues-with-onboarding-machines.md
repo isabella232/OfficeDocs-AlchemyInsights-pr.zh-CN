@@ -1,5 +1,5 @@
 ---
-title: 载入计算机问题
+title: Microsoft Defender for Endpoints 的计算机载入问题
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676872"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901557"
 ---
-# <a name="issues-with-onboarding-machines"></a>载入计算机问题
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Microsoft Defender for Endpoints 的计算机载入问题
 
-将计算机载入到 MDATP 服务时可能会遇到问题。 如果可以访问最终用户计算机，请按照下列步骤进行操作：
+将计算机载入到 MDE 服务时可能会遇到问题。 如果可以访问最终用户计算机，请按照下列步骤进行操作：
 
-1. 下载[客户端连接分析器](https://aka.ms/mdatpanalyzer)诊断工具。
-2. 提取并运行 MDATPAnalyzer.cmd。
-3. 在名为 MDATPClientAnalyzerResult 的文件夹中找到诊断日志，该文件夹与下载分析器工具的文件夹相同。
-4. 查看日志文件 MDATPClientAnalyzer.txt，以查找连接或 Internet 代理设置问题。
+1. 下载 [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) 诊断工具的最新预览版本。
+2. 右键单击 **MDEClientAnalyzer.cmd** 并选择“以管理员角色运行”。
+3. 按照 **MDEClientAnalyzer.htm** 中的任何指导建议操作。
+4. 有关详细日志，请查看创建的名为 **MDEClientAnalyzerResult** 的子文件夹。
+5. 如果需要其他指导，请与 [Microsoft Defender for Endpoint 支持](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support)联系，并提供生成的 MDEClientAnalyzerResult.zip 文件以供分析。
