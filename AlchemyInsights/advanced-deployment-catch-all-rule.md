@@ -13,19 +13,19 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 305fe22b71e0f0aa149837a7b3da0e8283603bb2
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901521"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122977"
 ---
 # <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>使用 Microsoft 365 应用版部署顾问安装 Office
 
-[Microsoft 365 应用](https://admin.microsoft.com/adminportal/home)版部署顾问可帮助你使用户的设备运行最新版本的 Office 产品，如 Word、Excel、PowerPoint 和 OneNote。
-
+[Microsoft 365 应用](https://go.microsoft.com/fwlink/?linkid=2145748)版部署顾问可帮助你使用户的设备运行最新版本的 Office 产品，如 Word、Excel、PowerPoint 和 OneNote。
+  
 你将获取有关各种部署方法的指导，其中包括简单的自安装选项，以及使用管理工具的企业部署。 这些说明将帮助您评估环境、确定特定部署要求，以及实施必要的支持工具以确保成功安装。
-
+  
 有关设置 Microsoft 365 和为 Microsoft 365 和 Office 365 服务准备环境的信息，请参阅：
 
 - [准备环境指南](https://go.microsoft.com/fwlink/?linkid=2005213)
