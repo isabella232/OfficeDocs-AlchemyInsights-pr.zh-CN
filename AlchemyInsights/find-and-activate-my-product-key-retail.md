@@ -1,5 +1,5 @@
 ---
-title: 查找并激活我的产品密钥
+title: 零售预付费卡
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 49a612831c416ca6767eeb47800bca535a3fc010
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 1785cc69d00211cf025814e66ae317fc5b69e8bd
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51207595"
+ms.locfileid: "51217957"
 ---
-# <a name="find-and-activate-my-product-key"></a>查找并激活我的产品密钥
+# <a name="retail-prepaid-card"></a>零售预付费卡
 
 如果你从零售商店购买了 Microsoft 365 商业标准版，请使用以下步骤来延长到期日期或向现有订阅添加许可证。
 

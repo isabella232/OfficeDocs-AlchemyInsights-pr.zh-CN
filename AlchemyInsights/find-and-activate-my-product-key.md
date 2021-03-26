@@ -1,5 +1,5 @@
 ---
-title: 查找并激活我的产品密钥
+title: Microsoft 开放式许可证计划
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200699"
+ms.locfileid: "51217923"
 ---
-# <a name="find-and-activate-my-product-key"></a>查找并激活我的产品密钥
+# <a name="microsoft-open-license-program"></a>Microsoft 开放式许可证计划
 
 如果你通过 Microsoft 开放许可证计划购买了 Microsoft [](https://go.microsoft.com/fwlink/p/?LinkID=613298)365 商业版，下面将说明如何查找和激活产品密钥。
 
