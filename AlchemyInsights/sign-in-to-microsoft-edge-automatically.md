@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003848"
 - "6898"
-ms.openlocfilehash: 68a1119abd0a3f687b6448bb6e58c6485c239c0f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8333"
+- "9004625"
+ms.openlocfilehash: 6021991c125f5cb2a33ce8db8fe7717b528bf49b
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599443"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398719"
 ---
 # <a name="sign-in-to-microsoft-edge-automatically"></a>自动登录到 Microsoft Edge
 
-Microsoft Edge 根据用户设备的配置方式，使用 OS 的默认帐户自动登录用户。 
+Microsoft Edge 使用操作系统默认帐户根据用户设备的配置方式自动登录用户。 
 
-以下介绍每种类型的设备配置及其相关用户登录进程的方案：
+下面介绍了每种类型的设备配置及其从属用户登录过程的方案：
 
-1. **设备是混合型/AAD-J**：此选项在 windows 10、下层 windows 和相应的服务器版本上可用。 将使用 Azure Active Directory (AD) 帐户自动登录用户。
-2. **设备已加入域**：此选项在 windows 10、下层 windows 和相应的服务器版本上可用。 默认情况下，不会自动登录具有域帐户的用户;若要为其启用自动登录，请使用 **ConfigureOnPremisesAccountAutoSignIn** 策略。 若要为使用 Azure AD 帐户的用户启用自动登录，请考虑混合加入其设备。
-3. **OS 的默认帐户是 Microsoft 帐户**：在 WINDOWS 10 RS3 上提供此选项。 (版本1709，构建 10.0.16299) 及更高版本。 企业设备上可能不会发生这种情况。 但是，如果 OS 的默认帐户是 Microsoft 帐户，则 Microsoft Edge 将使用 Microsoft 帐户自动登录用户。
+- **设备是混合/AAD-J：** 此选项在 Windows 10、低级别 Windows 和相应的服务器版本上可用。 用户将自动使用其 Azure Active Directory (AD) 登录。
+- **设备已加入域**：此选项在 Windows 10、低级别 Windows 和相应的服务器版本上可用。 默认情况下，具有域帐户的用户不会自动登录;若要为用户启用自动登录，请使用 **ConfigureOnPremisesAccountAutoSignIn** 策略。 若要为拥有 Azure AD 帐户的用户启用自动登录，请考虑混合加入其设备。
+- 操作系统的默认帐户是 **Microsoft** 帐户：此选项适用于 Windows 10 RS3 (版本 1709 内部版本 10.0.16299) 及更高版本。 方案不太可能在企业设备上发生。 但是，如果操作系统默认帐户是 Microsoft 帐户，则 Microsoft Edge 将自动使用 Microsoft 帐户登录用户。
  
  

@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576362"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398611"
 ---
 # <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge 如何使用 Microsoft Defender SmartScreen
 
-为了使您在 web 上保持安全，Microsoft Edge 使用 Microsoft Defender SmartScreen 作为早期警告系统，针对 perpetrate 网络钓鱼攻击并通过集中式攻击分发恶意软件的网站。
+为了在 Web 上确保安全，Microsoft Edge 使用 Microsoft Defender SmartScreen 作为针对网站的早期警告系统，这些网站会遭受网络钓鱼攻击并通过集中式攻击来分发恶意软件。
 
-管理员可以使用组策略、Microsoft Intune 或移动设备管理 (MDM) 设置来配置 Microsoft Defender SmartScreen。 根据您设置 Microsoft Defender SmartScreen 的方式，您可以向用户显示一个警告页面，并让他们继续转到网站或完全阻止网站。
+管理员可以使用组策略、Microsoft Intune 或移动设备管理配置 Microsoft Defender SmartScreen (MDM) 设置。 根据 Microsoft Defender SmartScreen 的设置，你可以向用户显示一个警告页面，让他们继续访问站点或完全阻止站点。
 
-若要了解详细信息，请参阅 microsoft [Edge 支持的 Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) 和 [Microsoft Defender 应用程序防护](https://go.microsoft.com/fwlink/?linkid=2132839)。
+若要了解更多信息，请参阅 [Microsoft Edge 对 Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) 和 Microsoft Defender [应用程序防护的支持](https://go.microsoft.com/fwlink/?linkid=2132839)。
