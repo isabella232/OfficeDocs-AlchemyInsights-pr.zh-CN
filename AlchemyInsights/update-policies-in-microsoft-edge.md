@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571818"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403661"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>使用 Microsoft Edge 中提供的与更新相关的组策略
 
-使用 Microsoft Edge 中的可用 [策略](https://go.microsoft.com/fwlink/?linkid=2134862) (版本77或更高版本) 来控制 microsoft edge 更新的方式和时间。
+使用 Microsoft Edge [版本](https://go.microsoft.com/fwlink/?linkid=2134862) 77 (中提供的策略) 更新 Microsoft Edge 的时间和时间。
