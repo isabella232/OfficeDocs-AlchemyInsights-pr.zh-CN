@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688828"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505418"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="06b0c-102">所有公司组</span><span class="sxs-lookup"><span data-stu-id="06b0c-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="79088-102">所有公司组</span><span class="sxs-lookup"><span data-stu-id="79088-102">All Company Group</span></span>
 
-<span data-ttu-id="06b0c-103">创建 Yammer 网络时，将自动创建 " **所有公司** " 组。</span><span class="sxs-lookup"><span data-stu-id="06b0c-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="06b0c-104">它是一个无法重命名或删除的默认系统组。</span><span class="sxs-lookup"><span data-stu-id="06b0c-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="06b0c-105">每个人都可以发布到 " **所有公司** " 组，但只有 Yammer 网络管理员可以向该组发布通知。</span><span class="sxs-lookup"><span data-stu-id="06b0c-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="06b0c-106">使用 **组见解**查看 " **所有公司** " 组中有关预订的信息。</span><span class="sxs-lookup"><span data-stu-id="06b0c-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="79088-103">现在，"所有公司"社区支持与 Yammer 中其他社区类似的功能。</span><span class="sxs-lookup"><span data-stu-id="79088-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="79088-104">这包括封面照片和命名等选项。</span><span class="sxs-lookup"><span data-stu-id="79088-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="79088-105">还可以限制 Yammer 中所有公司帖子。</span><span class="sxs-lookup"><span data-stu-id="79088-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="79088-106">有关详细信息，请参阅所有公司 [现在的工作方式与其他 Yammer 社区一样](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)。</span><span class="sxs-lookup"><span data-stu-id="79088-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="06b0c-107">有关详细信息，请参阅 [在 Yammer 中管理组](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)。</span><span class="sxs-lookup"><span data-stu-id="06b0c-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="79088-107">常见问题和解决方案</span><span class="sxs-lookup"><span data-stu-id="79088-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="79088-108">所有公司自定义或发布限制不适用于网络管理员。</span><span class="sxs-lookup"><span data-stu-id="79088-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="79088-109">打开服务请求以启用新式"所有公司"组。</span><span class="sxs-lookup"><span data-stu-id="79088-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="79088-110">社区见解不会显示旧数据。</span><span class="sxs-lookup"><span data-stu-id="79088-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="79088-111">现在，"所有公司"是真正的社区，不会显示之前的网络数据。</span><span class="sxs-lookup"><span data-stu-id="79088-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="79088-112">所有公司似乎都已删除。</span><span class="sxs-lookup"><span data-stu-id="79088-112">All Company seems to be deleted.</span></span> <span data-ttu-id="79088-113">当社区连接到 Microsoft 365 组时，可删除该组。</span><span class="sxs-lookup"><span data-stu-id="79088-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="79088-114">必须在租户中还原 Microsoft 365 组。</span><span class="sxs-lookup"><span data-stu-id="79088-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
