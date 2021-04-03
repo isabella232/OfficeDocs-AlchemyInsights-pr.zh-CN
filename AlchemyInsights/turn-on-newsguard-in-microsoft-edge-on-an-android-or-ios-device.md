@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004028"
 - "7098"
-ms.openlocfilehash: 7c3cb0eecb2ce073637623062d6c15c7bac4c1c9
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8308"
+- "9004621"
+ms.openlocfilehash: 73e2cefe98185ff9f741e8d46b92ebcc8a5a499a
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599444"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505634"
 ---
 # <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>在 Android 或 iOS 设备上打开 Microsoft Edge 中的 NewsGuard
 
-NewsGuard 是一种第三方扩展，它根据 journalistic 的可信度和透明度的标准评估和评级网站。 此扩展在 Microsoft Edge 中可用，但在默认情况下处于禁用状态。 如果启用此功能，扩展将不会阻止网站访问，也不会中断浏览。
+NewsGuard 是一个第三方扩展，它根据美国的信誉和透明度标准对网站进行评估和评分。 此扩展在 Microsoft Edge 中可用，但默认情况下处于关闭状态。 打开后，扩展将不会阻止对网站的访问，并且不会中断浏览。
 
 若要打开 NewsGuard，请完成以下步骤：
-1. 选择 .。。 > **设置**  > **新闻评级**。
-2. 在地址栏上启用 " **显示分级**"。
+1. 选择 … > **设置**  > **新闻评级**。
+2. 在地址 **栏上打开显示分级**。

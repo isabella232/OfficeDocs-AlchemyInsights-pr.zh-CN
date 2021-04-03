@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652121"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504950"
 ---
 # <a name="remove-an-extension-from-microsoft-edge"></a>从 Microsoft Edge 中删除扩展
 
 若要从 Microsoft Edge 中删除扩展，请：
 
 1. 打开 Microsoft Edge。
-2. 选择 **... >扩展**。
-3. 在 **"已安装的扩展"** 页上，找到要删除的扩展，然后选择 **"删除** "旁边的扩展。
-4. 在确认对话框中，选择"删除 **"。**
+2. Select **... > Extensions**.
+3. 在 **"已安装的扩展"** 页上，找到要删除的扩展，然后选择它旁边的" **删除** "。
+4. 在确认对话框中， **选择删除**。

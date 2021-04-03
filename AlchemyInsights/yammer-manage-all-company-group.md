@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688828"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505418"
 ---
 # <a name="all-company-group"></a>所有公司组
 
-创建 Yammer 网络时，将自动创建 " **所有公司** " 组。 它是一个无法重命名或删除的默认系统组。 每个人都可以发布到 " **所有公司** " 组，但只有 Yammer 网络管理员可以向该组发布通知。 使用 **组见解**查看 " **所有公司** " 组中有关预订的信息。
+现在，"所有公司"社区支持与 Yammer 中其他社区类似的功能。 这包括封面照片和命名等选项。 还可以限制 Yammer 中所有公司帖子。 有关详细信息，请参阅所有公司 [现在的工作方式与其他 Yammer 社区一样](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)。
 
-有关详细信息，请参阅 [在 Yammer 中管理组](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)。
+## <a name="common-issues-and-solutions"></a>常见问题和解决方案
+
+- 所有公司自定义或发布限制不适用于网络管理员。 打开服务请求以启用新式"所有公司"组。
+
+- 社区见解不会显示旧数据。 现在，"所有公司"是真正的社区，不会显示之前的网络数据。
+
+- 所有公司似乎都已删除。 当社区连接到 Microsoft 365 组时，可删除该组。 必须在租户中还原 Microsoft 365 组。
+
