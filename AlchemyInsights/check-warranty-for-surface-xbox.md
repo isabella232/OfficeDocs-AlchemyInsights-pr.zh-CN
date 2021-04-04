@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897512"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505310"
 ---
 # <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>检查 Surface 或 Xbox 设备的保修状态
 
 如果你有 Surface 或 Xbox 设备，则可以使用 Microsoft 帐户检查保修状态。 方法如下：
 
-1. 登录到你的 Microsoft 帐户。 
+1. 登录到你的 [Microsoft 帐户](https://account.microsoft.com/devices/)。 
 
 1. 选择要检查其保修状态的设备。
 
