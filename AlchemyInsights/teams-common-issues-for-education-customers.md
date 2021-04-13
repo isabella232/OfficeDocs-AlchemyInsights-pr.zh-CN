@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737007"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692384"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Teams 教育版客户常见问题
 
@@ -46,7 +46,7 @@ ms.locfileid: "47737007"
     6. 在“Skype for Business 管理中心”中，单击“**音频会议**”，然后单击“**用户**”。
     7. 选择有问题的用户，并验证用户是否有“默认收费号码”。
 
-    有关详细信息，请参阅[通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce 计费团队，让其帮助解决与许可相关的问题。
+    有关详细信息，请参阅[Microsoft Teams 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce Billing 团队来获取授权相关问题的帮助。
 
     其他资源
 
@@ -69,7 +69,7 @@ ms.locfileid: "47737007"
         - 禁用“**允许白板**”。
         - 禁用“**允许共享笔记**”。
 
-        然后**将此策略分配给用户**：
+        然后 **将此策略分配给用户**：
 
     1. 在 Microsoft Teams 管理员中心的左侧导航中，转到“**用户**”，然后单击相应的用户。
     2. 单击用户名的左侧以选择用户，然后单击“**编辑设置**”。

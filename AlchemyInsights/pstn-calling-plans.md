@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662495"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692456"
 ---
 # <a name="pstn-calling-plans"></a>PSTN 通话套餐
 
@@ -26,6 +26,6 @@ ms.locfileid: "47662495"
 
 - 请参阅[如何购买通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365)，了解如何开始购买过程。
 
-- 设置[通信点数](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)以防止**通话时间不足**。 费率请参见[这里](https://products.office.com/microsoft-teams/voice-calling)。 
+- 设置 [通信点数](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization)以防止 **通话时间不足**。 费率请参见[这里](https://products.office.com/microsoft-teams/voice-calling)。 
 
-- 有关更多信息，请参阅[电话系统和通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)或[什么是通信点数？](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- 有关更多信息，请查看[Microsoft Teams 电话和 Microsoft Teams 通话套餐](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page)或[什么是通信点数？](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

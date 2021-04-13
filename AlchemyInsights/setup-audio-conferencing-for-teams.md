@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739599"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692672"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>设置 Teams 音频会议
 
@@ -33,7 +33,7 @@ ms.locfileid: "47739599"
 
 2. 根据管理中心的版本，选择“**许可证和应用程序**”或点击“**产品许可证**”上的“**编辑**”。
 
-3. 确认用户已选择了适用于**音频会议、Microsoft Teams**、**Skype for Business Online (计划 2)** 的许可证。
+3. 确认用户已选择了适用于 **音频会议、Microsoft Teams**、**Skype for Business Online (计划 2)** 的许可证。
 
 4. 用户 **管理中心** 单击“**显示全部**”，并随后单击 **Teams**。
 
@@ -43,4 +43,4 @@ ms.locfileid: "47739599"
 
 7. 选择有问题的用户，并验证用户是否有“**默认收费号码**”。
 
-有关详细信息，请参阅 [Microsoft 365 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)或致电 Microsoft Commerce 计费团队来获取授权相关问题的帮助。
+有关详细信息，请参阅[Microsoft 365 的 Microsoft Teams 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce Billing 团队来获取授权相关问题的帮助。

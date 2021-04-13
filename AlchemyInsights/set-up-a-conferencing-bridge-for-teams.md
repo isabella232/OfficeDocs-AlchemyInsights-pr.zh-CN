@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 93167e4bbbfe0ff87f26714f55c539d796ea5737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797646"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692784"
 ---
 # <a name="set-up-a-conferencing-bridge-for-teams"></a>设置 Teams 会议网桥
 
-你只需为打算安排或主持会议的人设置音频会议。 我们提供了完成电话系统设置的分步过程。 请查看[设置组织内的电话系统](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)。
+你只需为打算安排或主持会议的人设置音频会议。 我们提供了完成电话系统设置的分步过程。 请检查[如何在你的组织设置 Microsoft Teams 电话](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)。
