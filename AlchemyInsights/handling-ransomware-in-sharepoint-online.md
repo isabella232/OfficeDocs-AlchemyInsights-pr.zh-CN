@@ -2,7 +2,7 @@
 title: 在 SharePoint Online 中处理勒索软件
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: e9e69d846af13cd7260822a30fbbbfd7b1fb773a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8f7385a8f371fa24b3e0efdd02dd6c305b4920e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705865"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811734"
 ---
-# <a name="handling-ransomware-in-sharepoint-online"></a><span data-ttu-id="4db83-102">在 SharePoint Online 中处理勒索软件</span><span class="sxs-lookup"><span data-stu-id="4db83-102">Handling ransomware in SharePoint Online</span></span>
+# <a name="handling-ransomware-in-sharepoint-online"></a><span data-ttu-id="9d102-102">在 SharePoint Online 中处理勒索软件</span><span class="sxs-lookup"><span data-stu-id="9d102-102">Handling ransomware in SharePoint Online</span></span>
 
-<span data-ttu-id="4db83-103">勒索软件是一种恶意软件，它阻止对你计算机上各种项目的访问并要求你支付赎金，以便让创建者解除强加的锁定。</span><span class="sxs-lookup"><span data-stu-id="4db83-103">Ransomware is malware that blocks access to various items on your computer and demands a ransom from you in order for the creator to release the lock they have imposed.</span></span>
-- [<span data-ttu-id="4db83-104">在 SharePoint Online 中处理勒索软件</span><span class="sxs-lookup"><span data-stu-id="4db83-104">Handling ransomware in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/security/handling-ransomware-in-sharepoint-online)
+<span data-ttu-id="9d102-103">勒索软件是一种恶意软件，它阻止对你计算机上各种项目的访问并要求你支付赎金，以便让创建者解除强加的锁定。</span><span class="sxs-lookup"><span data-stu-id="9d102-103">Ransomware is malware that blocks access to various items on your computer and demands a ransom from you in order for the creator to release the lock they have imposed.</span></span>
+- [<span data-ttu-id="9d102-104">在 SharePoint Online 中处理勒索软件</span><span class="sxs-lookup"><span data-stu-id="9d102-104">Handling ransomware in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/security/handling-ransomware-in-sharepoint-online)
