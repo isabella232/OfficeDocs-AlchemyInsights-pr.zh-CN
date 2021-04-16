@@ -2,7 +2,7 @@
 title: 重复登录提示/登录循环
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799043"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="31b25-102">Microsoft 365 应用中的重复登录提示</span><span class="sxs-lookup"><span data-stu-id="31b25-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="95f05-102">Microsoft 365 应用中的重复登录提示</span><span class="sxs-lookup"><span data-stu-id="95f05-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="31b25-103">若要对 Microsoft 365 应用中的重复登录提示进行故障排除，请参阅：</span><span class="sxs-lookup"><span data-stu-id="31b25-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
+<span data-ttu-id="95f05-103">若要解决 Microsoft 365 应用中重复登录提示的问题，请参阅：</span><span class="sxs-lookup"><span data-stu-id="95f05-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="31b25-104">如何对无法登录到 Microsoft 365、Azure 或 Intune 的非浏览器应用进行故障排除</span><span class="sxs-lookup"><span data-stu-id="31b25-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="31b25-105">"访问被拒绝"，或在连接到 Microsoft 365 时反复提示用户输入凭据</span><span class="sxs-lookup"><span data-stu-id="31b25-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="31b25-106">在登录到 Microsoft 365、Azure 或 Intune 期间，将重复提示联合用户输入凭据</span><span class="sxs-lookup"><span data-stu-id="31b25-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="95f05-104">如何排查无法登录 Microsoft 365、Azure 或 Intune 的非浏览器应用的问题</span><span class="sxs-lookup"><span data-stu-id="95f05-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="95f05-105">"访问被拒绝"，或在连接到 Microsoft 365 时反复提示用户输入凭据</span><span class="sxs-lookup"><span data-stu-id="95f05-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="95f05-106">在登录 Microsoft 365、Azure 或 Intune 期间，会反复提示联盟用户输入凭据</span><span class="sxs-lookup"><span data-stu-id="95f05-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
