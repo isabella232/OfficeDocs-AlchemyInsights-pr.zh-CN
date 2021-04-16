@@ -2,7 +2,7 @@
 title: 关闭音频增强功能
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797178"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808745"
 ---
 # <a name="turn-off-audio-enhancement"></a>关闭音频增强功能
 
 请按以下步骤操作：
 
-1. 转到 " **开始**"、"输入 **声音**"，然后选择 **"声音控制面板"** 或 "更改结果列表中的 **系统声音** "。
+1. 转到" **开始"，** 输入 **"声音**"，然后从结果列表中选择" **声音控制面板** "或 **"更改系统** 声音"。
 
-2. 在 " **播放** " 选项卡上，右键单击 (或点击并按住) 默认设备，然后选择 " **属性**"。
+2. 在"**播放**"选项卡上，右键单击 ("默认设备"，) 并按住"属性 **"。**
 
-3. 在 " **增强功能** " 选项卡上，选中 " **禁用所有声音效果** " 复选框，然后尝试播放音频设备。 如果这样做不起作用，请选择 " **取消** "，在 " **播放** " 选项卡上，选择 "其他默认设备 (如果您有一个) ，请选中" **禁用所有声音效果** "复选框，然后再次尝试播放音频。 对每个默认设备执行此操作。
+3. 在 **"增强功能"** 选项卡上，选中" **禁用所有声音** 效果"复选框，然后尝试播放音频设备。 如果不起作用，请选择"取消"，在"播放"选项卡上，选择另一个默认设备 (如果你有一个) ，请选中"禁用所有声音效果"复选框，然后再次尝试播放音频。  针对每个默认设备执行这一操作。
