@@ -1,8 +1,8 @@
 ---
-title: 1800014获取适用于 Outlook 移动应用程序的应用程序支持
+title: 1800014 获取 Outlook 移动应用的应用内支持
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: fe099b2cf0a596900c4e5a9b35d5d8f8b1ac5d07
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707701"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812274"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>获取适用于 Outlook 移动应用程序的应用程序支持
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>获取 Outlook 移动应用的应用内支持
 
 1. 在 Outlook 移动应用中，打开 **菜单**。
 
-2. 选择问号以打开 " **帮助 &amp; 反馈** " 屏幕。
+2. 选择问号以打开" **帮助反馈 &amp; "** 屏幕。
 
-3. 点击 " **联系支持** " 并解释你的问题。
+3. 点击 **"联系支持** 人员"并解释你的问题。
 
-4. 点击 " **发送** "，当支持代理与你联系时，你将收到应用中通知。
+4. 点击 **"** 发送"，当支持代理联系你时，你将收到应用内通知。
 
-有关详细说明，请参阅获取适用于 [iOS 的 Outlook For iOS 和 Outlook For Android 中的应用程序帮助](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)。
+有关详细说明，请参阅 [获取适用于 Outlook for iOS 和 Outlook for Android 的应用内帮助](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)。

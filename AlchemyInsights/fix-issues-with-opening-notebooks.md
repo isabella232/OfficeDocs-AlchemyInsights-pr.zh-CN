@@ -2,7 +2,7 @@
 title: 解决打开笔记本时出现的问题
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: b7628cdbb7cd3bc60b97339cb59854fc73f0139e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744760"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812814"
 ---
 # <a name="fix-issues-with-opening-notebooks"></a>解决打开笔记本时出现的问题
 
@@ -31,6 +31,6 @@ ms.locfileid: "47744760"
 
 1. 你可能无法打开笔记本，因为你是使用个人帐户而不是工作或学校帐户登录的。
     - 如果笔记本在 OneNote 网页版上打开，请确保使用 OneNote 中的当前凭据登录。
-    - 在 OneNote 2016 中，单击“**文件”>“帐户**”并**注销**所有帐户。 使用具有有效许可证的用户帐户再次登录。 有关详细信息，请参阅 [Office 中的帐户](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。 
+    - 在 OneNote 2016 中，单击“**文件”>“帐户**”并 **注销** 所有帐户。 使用具有有效许可证的用户帐户再次登录。 有关详细信息，请参阅 [Office 中的帐户](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。 
     - 在 OneNote for Windows 中，单击屏幕右上角的省略号 (**…**)，单击“**设置”>“帐户**”，并确保列出了工作或学校帐户。 
 2. 如果无法打开的笔记本存储在 OneDrive 或 SharePoint Online 上，请尝试在 [OneNote 网页版](https://onenote.com)中打开该笔记本。 如果笔记本未列出，则你可能没有权限。 如果是共享笔记本，请让所有者共享它，并确保你使用正确的帐户进行登录。

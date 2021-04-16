@@ -2,7 +2,7 @@
 title: HIPPA 合规性和 Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002430"
 - "4720"
-ms.openlocfilehash: ea0d01150f7dbf4d9788deb3430bc27862a54c45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f98c725e2624ddb584dc62321ce48de41e4a127
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811410"
 ---
 # <a name="hippa-compliance-and-office-365"></a>HIPPA 合规性和 Office 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "47782146"
 
 - 有关 **HIPAA 和 HITECH 法案概述**，请参阅 [健康保险便利和义务 (HIPAA) 和 HITECH 法案](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide)。
 
-- **使用[合规性分数](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** 来评估风险。
+- **使用 [合规性分数](https://docs.microsoft.com/microsoft-365/compliance/offering-hipaa-hitech?view=o365-worldwide#use-microsoft-compliance-score-to-assess-your-risk)** 来评估风险。
 
 - **Office 365 合规产品文档**，请参阅 [Office 365、Office 365 美国政府版和 Office 365 美国政府防御版](https://go.microsoft.com/fwlink/p/?LinkID=2077751)。
 

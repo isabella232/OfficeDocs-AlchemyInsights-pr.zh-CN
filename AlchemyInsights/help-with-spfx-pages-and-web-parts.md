@@ -2,7 +2,7 @@
 title: 有关 SPFx 页面和 Web 部件的帮助
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: a55208747662f2aebbd230c51a00596893cc972b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782281"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811518"
 ---
 # <a name="help-with-spfx-pages-and-web-parts"></a>有关 SPFx 页面和 Web 部件的帮助
 
 SPFx 仅通过 Microsoft 开发人员支持获得支持。 SharePoint 产品团队跨多个渠道响应开发人员社区。
 
-- 可将[变成问题](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)提交到 **GitHub sp-dev-docs** 或**堆栈溢出**。
-- 可将[文档 bug](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) 提交到 **GitHub**。
-- 可将[示例应用程序 bug](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) 提交到 **GitHub**。
+- 可将 [变成问题](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)提交到 **GitHub sp-dev-docs** 或 **堆栈溢出**。
+- 可将 [文档 bug](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) 提交到 **GitHub**。
+- 可将 [示例应用程序 bug](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) 提交到 **GitHub**。
 - 可将[功能请求](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)提交到 UserVoice。
 
 有关更多开发人员资源，请参阅[支持和反馈](https://docs.microsoft.com/sharepoint/dev/support-feedback)
