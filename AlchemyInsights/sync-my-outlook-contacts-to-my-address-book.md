@@ -1,8 +1,8 @@
 ---
-title: 将我的 Outlook 联系人同步到我的通讯簿
+title: 将 Outlook 联系人同步到通讯簿
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737367"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797531"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>将我的 Outlook 联系人同步到我的通讯簿
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>将 Outlook 联系人同步到通讯簿
 
-Outlook 允许你将联系人导出到 Android 上的默认 "联系人" 应用。 这使您可以在收到呼叫或短信时查看联系人的姓名，并在默认的 "联系人" 应用中直接查看他们的所有联系人信息。
+Outlook 允许你将联系人导出到 Android 上的默认联系人应用。 这允许你在接收呼叫或短信时查看联系人的姓名，并直接在默认"联系人"应用中查看其所有联系人信息。
  
-**要启用此功能**，请执行以下操作：
+**若要启用此功能**：
  
-1. 在设备上，转到 " **设置**"。
+1. 在你的设备上， **转到设置**。
 
-2. 在 " **帐户**" 下，点击要与其同步联系人的帐户。
+2. 在 **"** 帐户"下，点击要与联系人同步的帐户。
 
-3. 在上切换 " **同步联系人** " 滑块。
+3. 打开 **"同步联系人"** 滑块。
  
-对于本地邮箱，Microsoft 365、Outlook.com 和混合新式身份验证支持双向联系人导出。 双向支持可确保您添加的任何新联系人或您编辑的现有联系人将在您的设备和您的 Outlook 帐户之间同步。
+Microsoft 365 支持双向联系人导出，Outlook.com 内部部署邮箱的混合新式验证。 双向支持可确保在设备和 Outlook 帐户之间同步你添加的任何新联系人或编辑的现有联系人。
  
-对于旧版 Exchange 帐户，您可以将您的联系人导出为保存到设备。 启用 **同步联系人** 后，新添加的联系人和在 Outlook 中对联系人所做的编辑将保存到设备上的 "联系人" 应用中。 但是，直接在设备的 "联系人" 应用程序中进行的编辑不会保存到 Outlook。 请注意，我们不支持在 Outlook for Android 中为本地 exchange 帐户添加/编辑联系人，因此您需要从不同的 Outlook 客户端管理联系人。
+对于旧版 Exchange 帐户，可以导出要保存到设备的联系人。 启用 **"同步** 联系人"后，在 Outlook 中新添加的联系人和编辑将保存到您设备的"联系人"应用中。 但是，直接在设备的"联系人"应用中进行编辑不会保存到 Outlook。 请注意，我们不支持从 Outlook for Android 为内部部署 Exchange 帐户添加/编辑联系人，因此您需要从不同的 Outlook 客户端管理联系人。
  
 目前，不支持 GMAIL 和 iCloud 的联系人同步。
  
-如果你想要删除这些已同步的联系人，你可以随时切换 **同步联系人** ，并将从你的通讯簿中删除它们。
+如果要删除这些已同步的联系人，可以随时切换"同步联系人"，这些联系人将从通讯簿中删除。
