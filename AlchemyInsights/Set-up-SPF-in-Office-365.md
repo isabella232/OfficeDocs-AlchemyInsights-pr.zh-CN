@@ -2,25 +2,25 @@
 title: 在 Microsoft 365 中设置 SPF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 8b77871b7ae2706ca2d493f4a53f27d151d8bf77
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 11a972bf7f3c13c2fc67a79439873f587e4a9f15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44501337"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804335"
 ---
 # <a name="set-passwords-to-never-expire"></a>将密码设置为永不过期 
 
-若要将所有密码设置为永不过期，请在 Microsoft 365 管理中心中，转到 "**设置**  >  [安全 &amp; 隐私](https://portal.office.com/adminportal/home#/settings/security)" 页。 选择 "**密码策略**" 旁边的 "**编辑**"，然后**将滑块打开。**
+若要将"所有密码"设置为永不过期，在 Microsoft 365 管理中心中，**转到"设置**""  >  [安全 &amp; 隐私"](https://portal.office.com/adminportal/home#/settings/security)页面。 选择 **"** 密码策略 **"旁边的"编辑"，** 将滑块 **打开。**
   
-有关更多详细信息，请参阅：为[组织设置密码过期策略。](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+有关详细信息，请参阅： [为组织设置密码过期策略。](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-[为特定用户将密码设置为永不过期](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+[将密码设置为永不过期的特定用户](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
   
