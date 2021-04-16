@@ -1,8 +1,8 @@
 ---
-title: 以共享邮箱的形式发送电子邮件
+title: 将电子邮件作为共享邮箱发送
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "622"
 - "3500003"
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
-ms.openlocfilehash: 45468ed831f15585d68f2a7b02386f62b6cb3874
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0311a22e689f27868a2b0cd252af34926dad9902
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801210"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809141"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a>以共享邮箱的形式发送电子邮件
+# <a name="sending-email-as-the-shared-mailbox"></a>将电子邮件作为共享邮箱发送
 
-创建共享邮箱后，作为邮箱成员的用户可以将电子邮件作为共享邮箱标识发送 (例如，  *info@contoso.com*  ) 。 有关说明，请参阅以下内容：
+创建共享邮箱后，作为邮箱成员的用户将能够将电子邮件作为共享邮箱标识 (例如 *，info@contoso.com) 。* 有关说明，请参阅以下内容：
   
 [在 Outlook 2016 和 Outlook 2013 中打开和使用共享邮箱](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   

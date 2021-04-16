@@ -2,7 +2,7 @@
 title: 如何购买 Office 365 教育版计划
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +15,12 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 7199f8321d68ad9641dda265adba804216dede92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8546be7dc2ab569fe0beb3150ead687d3a96c83a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703326"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810726"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>如何购买 Office 365 教育版计划
 
@@ -32,7 +32,7 @@ ms.locfileid: "47703326"
 
 3. 将光标悬停在想要购买的订阅上，然后单击“**立即购买**”。
 
-**远程教学和学习**
+**远程教学**
 
 - 请参阅[使用 Office 365 教育版远程教学](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4)，了解如何设置学校、课程规划、虚拟会议和与学生共享内容。
 

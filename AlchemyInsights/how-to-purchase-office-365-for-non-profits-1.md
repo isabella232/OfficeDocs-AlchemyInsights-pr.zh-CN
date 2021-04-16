@@ -1,8 +1,8 @@
 ---
-title: '适用于非营利组织的 Microsoft 365-已批准 '
+title: 'Microsoft 365 非营利组织版 - 已批准 '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779798"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810654"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>适用于非营利组织的 Microsoft 365-已批准
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 非营利组织版 - 已批准
 
-作为 Microsoft 限定的非盈利组织的状态已获批准。 您可以从 Microsoft 365 管理中心完成购买。
+你作为 Microsoft 合格非营利组织的状态已获得批准。 可以从 Microsoft 365 管理中心完成购买。
 
-1. 在 "管理中心" 中，转到 " **付费** \> [购买服务](https://go.microsoft.com/fwlink/p/?linkid=868433) " 页。
+1. In the admin center， go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.
 
-2. 从 " **非营利组织计划**" 下的列表中进行选择。
+2. 从"非调整 **计划"下的列表中选择**。
 
-3. 将鼠标悬停在要购买的订阅上，然后选择 " **立即购买**"。
+3. 将鼠标悬停在要购买的订阅上，然后选择"**立即购买"。**
 
-有关详细信息，请参阅 [Microsoft 365 resources for 非营利组织](https://www.microsoft.com/nonprofits/microsoft-365) or [contact sales](https://www.microsoft.com/nonprofits/contact-us)。
+有关详细信息，请参阅适用于非营利组织[的 Microsoft 365 资源](https://www.microsoft.com/nonprofits/microsoft-365)或[联系人销售。](https://www.microsoft.com/nonprofits/contact-us)

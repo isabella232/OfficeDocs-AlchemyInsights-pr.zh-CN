@@ -2,7 +2,7 @@
 title: 无法创建兼容性评估
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a42872d1685782abc86b55674e84ad1ace338c88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674064"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810330"
 ---
 # <a name="cant-create-a-compatibility-assessment"></a>无法创建兼容性评估
 
-Microsoft 终结点配置管理器已成功配置设备，但桌面分析无法创建兼容性评估。 它没有为设备的配置 (人口普查) 或已安装的应用 (库存) 的完整数据集。
+Microsoft Endpoint Configuration Manager 已成功配置设备，但桌面分析无法创建兼容性评估。 它没有针对设备配置的完整数据集 (或) 应用的 (清单) 。
 
-当设备重试时，通常会自动修复此问题。 如果仍然存在，请确保设备可以与服务通信。 有关详细信息，请参阅 [终结点](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) 和 [缺少数据](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)。
+此问题通常在设备重试时自动修复。 如果问题仍然存在，请确保设备可以与服务通信。 有关详细信息，请参阅[终结点和](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)[缺少数据](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data)。

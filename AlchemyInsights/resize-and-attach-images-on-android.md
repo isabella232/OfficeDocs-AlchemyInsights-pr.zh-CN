@@ -2,7 +2,7 @@
 title: 在 Android 上调整图像大小和附加图像
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795666"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809501"
 ---
 # <a name="resize-and-attach-images-on-android"></a>在 Android 上调整图像大小和附加图像
 
-将大小的图像以 1 MB 的大小附加到电子邮件中时，可以选择压缩/调整邮件的图像大小。
+将大小超过 1 MB 的图像附加到电子邮件时，可以选择压缩/调整邮件图像的大小。
  
-- 如果选择保留原始的，则邮件中的所有图像都将以其完整大小发送。
+- 如果选择保留原始图像，则邮件上的所有图像将全部发送。
  
-- 如果您选择调整大小，则邮件上的所有图像都将被压缩。  这包括稍后添加的图像，同时仍在编辑该草稿。
+- 如果选择调整大小，则压缩邮件上的所有图像。  这包括稍后添加的图像，同时仍编辑该草稿。
  
-- 如果您保存草稿并稍后返回，并且您添加了另一个大图像，则系统将再次询问您，并且您的选择将在该编辑会话期间应用于所有草稿。
+- 如果保存草稿并稍后返回，并添加另一张大图像，系统将会再次询问您，并且您的选择将应用于该编辑会话期间的所有草稿。
  

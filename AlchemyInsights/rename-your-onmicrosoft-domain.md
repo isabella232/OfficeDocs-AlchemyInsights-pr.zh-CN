@@ -1,8 +1,8 @@
 ---
-title: 重命名 .onmicrosoft 域
+title: 重命名 onmicrosoft 域
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: c74e4c761c331cbe26d14dbe67632d2bb24c7763
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e966aab4d24b47f3672dcb3c84eb6961b8966f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701309"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810222"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>重命名 onmicrosoft.com 域
+# <a name="rename-your-onmicrosoftcom-domain"></a>重命名您的 onmicrosoft.com 域
 
- **注册后，不能重命名 .onmicrosoft 域。** 例如，如果您选择的初始域是 "  *fourthcoffee.onmicrosoft.com*"，则不能将其更改为 "  *fabrikam.onmicrosoft.com*"。 若要使用不同的 onmicrosoft.com 域，您必须启动一个使用 Microsoft 365 的新订阅。
+ **注册后，无法重命名 onmicrosoft 域。** 例如，如果你选择的初始域 fourthcoffee.onmicrosoft.com，则不能将它更改为 *fabrikam.onmicrosoft.com。* 若要使用不同的 onmicrosoft.com 域，你必须使用 Microsoft 365 启动新订阅。
   
-如果要使用像  *contoso.com*  这样的自定义域，可以 [添加你自己](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain) 的域，也可以 [从 Microsoft 购买它](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)。
+如果你想要使用自定义域，如 *contoso.com* ，可以添加你 [拥有或](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)[从 Microsoft 购买](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/buy-a-domain-name)一个。
   

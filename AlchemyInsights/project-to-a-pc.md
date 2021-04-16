@@ -2,7 +2,7 @@
 title: 投影到电脑
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801606"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809934"
 ---
 # <a name="project-to-a-pc"></a>投影到电脑
 
@@ -26,7 +26,7 @@ ms.locfileid: "47801606"
 - “要求投影到这台电脑”下拉菜单设置为“**每次需要连接时**”。
 - “需要 PIN 才能进行配对”下拉菜单设置为“**从不**”。
 
-在目标设备上，通过访问“**开始**”并搜索“连接”来启动**连接**应用。
+在目标设备上，通过访问“**开始**”并搜索“连接”来启动 **连接** 应用。
 
 然后，在你尝试投影的源设备上：
 

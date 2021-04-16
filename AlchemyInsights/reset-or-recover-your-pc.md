@@ -2,7 +2,7 @@
 title: 重置或恢复电脑
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: afadd93fb9ccf6a76a7fa7e6b860212756050c6c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795702"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809537"
 ---
 # <a name="reset-or-recover-your-pc"></a>重置或恢复电脑
 

@@ -2,7 +2,7 @@
 title: 重置或更改密码
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692141"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810186"
 ---
 # <a name="reset-or-change-passwords"></a>重置或更改密码
 
-用户可以从**我的帐户**  >  [安全 & 隐私](https://portal.office.com/account/#security)更改自己的密码。
+用户可以更改自己的密码，从我的 **帐户**  >  [安全&隐私](https://portal.office.com/account/#security)。
   
-如果用户忘记了密码，管理员可以通过转到 "**用户**活动用户" 来重置密码  >  [Active users](https://portal.office.com/adminportal/home#/users)，选择 "用户" (s ") "，然后单击 "**重置密码**"。
+如果用户忘记了密码，管理员可以通过以下操作重置密码："用户""活动用户"，选择 (") "重置  >  [](https://portal.office.com/adminportal/home#/users)**密码"。**
   
-[单击此处了解详细信息](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)，或允许用户重置其自己的忘记的密码。
+[单击此处了解详情](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)，或让用户重置自己的忘记密码。
