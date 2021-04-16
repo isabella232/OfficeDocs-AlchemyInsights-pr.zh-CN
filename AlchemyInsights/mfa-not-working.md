@@ -1,8 +1,8 @@
 ---
-title: 与 MFA 相关的问题
+title: MFA 问题
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2fed99ebf553a9bfda436d81797c841987759e98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755121"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810474"
 ---
-# <a name="issues-with-azure-mfa"></a><span data-ttu-id="28b45-102">Azure MFA 的问题</span><span class="sxs-lookup"><span data-stu-id="28b45-102">Issues with Azure MFA</span></span>
-<span data-ttu-id="28b45-103">若要检查用户是否无法使用多重身份验证 (MFA 进行登录，请执行以下操作之一) </span><span class="sxs-lookup"><span data-stu-id="28b45-103">There are a couple of things to check if users cannot log in using multi-factor authentication (MFA)</span></span>
+# <a name="issues-with-azure-mfa"></a><span data-ttu-id="e4534-102">Azure MFA 问题</span><span class="sxs-lookup"><span data-stu-id="e4534-102">Issues with Azure MFA</span></span>
+<span data-ttu-id="e4534-103">需要检查用户是否无法使用 MFA 身份验证或 MFA (登录) </span><span class="sxs-lookup"><span data-stu-id="e4534-103">There are a couple of things to check if users cannot log in using multi-factor authentication (MFA)</span></span>
 
-1. <span data-ttu-id="28b45-104">受影响的用户可能会在 Azure Active Directory 门户中被阻止。</span><span class="sxs-lookup"><span data-stu-id="28b45-104">The affected user may be blocked in Azure Active Directory Portal.</span></span> <span data-ttu-id="28b45-105">如果是这种情况，该特定用户的身份验证尝试将被自动拒绝。</span><span class="sxs-lookup"><span data-stu-id="28b45-105">If that is the case, Authentication attempts for that specific user will be automatically denied.</span></span> [<span data-ttu-id="28b45-106">请按照本文中的步骤取消阻止。</span><span class="sxs-lookup"><span data-stu-id="28b45-106">Please follow the steps in this article to unblock them.</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. <span data-ttu-id="e4534-104">受影响的用户可能在 Azure Active Directory 门户中受阻。</span><span class="sxs-lookup"><span data-stu-id="e4534-104">The affected user may be blocked in Azure Active Directory Portal.</span></span> <span data-ttu-id="e4534-105">如果是这种情况，将自动拒绝对特定用户的身份验证尝试。</span><span class="sxs-lookup"><span data-stu-id="e4534-105">If that is the case, Authentication attempts for that specific user will be automatically denied.</span></span> [<span data-ttu-id="e4534-106">请按照本文中的步骤取消阻止它们。</span><span class="sxs-lookup"><span data-stu-id="e4534-106">Please follow the steps in this article to unblock them.</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. <span data-ttu-id="28b45-107">如果取消阻止用户没有帮助或用户未被阻止，则可以尝试重置用户的 MFA，并将再次执行注册过程。</span><span class="sxs-lookup"><span data-stu-id="28b45-107">If unblocking the user didn't help or the user is not blocked you can try to reset MFA for the user and they will go through the enroll process again.</span></span> [<span data-ttu-id="28b45-108">请按照本文中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="28b45-108">Please follow the steps in this article.</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. <span data-ttu-id="e4534-107">如果取消阻止用户没有帮助或未阻止用户，可以尝试重置用户的 MFA，他们将再次完成注册过程。</span><span class="sxs-lookup"><span data-stu-id="e4534-107">If unblocking the user didn't help or the user is not blocked you can try to reset MFA for the user and they will go through the enroll process again.</span></span> [<span data-ttu-id="e4534-108">请按照本文中的步骤操作。</span><span class="sxs-lookup"><span data-stu-id="e4534-108">Please follow the steps in this article.</span></span>](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-<span data-ttu-id="28b45-109">如果这是你第一次启用 MFA，且你的用户无法登录到非浏览器客户端（如 Outlook、Skype 等），可能是你的 O365 订阅上未启用 (Active Directory 身份验证库) 。</span><span class="sxs-lookup"><span data-stu-id="28b45-109">If this is the first time you enabled MFA and your users are unable to login to non-browsers clients such as Outlook, Skype, etc, perhaps ADAL (Active Directory Authentication Library) is not enabled on your O365 subscription.</span></span> <span data-ttu-id="28b45-110">在这种情况下，您需要连接到 Exchange Online Powershell 并运行以下 cmdlet：  *set-organizationconfig-OAuth2ClientProfileEnabled： $true*</span><span class="sxs-lookup"><span data-stu-id="28b45-110">In this case you will need to connect to Exchange Online Powershell and run this cmdlet:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*</span></span>
+<span data-ttu-id="e4534-109">如果这是第一次启用 MFA，并且用户无法登录非浏览器客户端（如 Outlook、Skype 等），可能是因为 O365 订阅上未启用 ADAL (Active Directory 身份验证库) 。</span><span class="sxs-lookup"><span data-stu-id="e4534-109">If this is the first time you enabled MFA and your users are unable to login to non-browsers clients such as Outlook, Skype, etc, perhaps ADAL (Active Directory Authentication Library) is not enabled on your O365 subscription.</span></span> <span data-ttu-id="e4534-110">在这种情况下，您需要连接到 Exchange Online Powershell 并运行此  *cmdlet：Set-OrganizationConfig -OAuth2ClientProfileEnabled：$true*</span><span class="sxs-lookup"><span data-stu-id="e4534-110">In this case you will need to connect to Exchange Online Powershell and run this cmdlet:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*</span></span>

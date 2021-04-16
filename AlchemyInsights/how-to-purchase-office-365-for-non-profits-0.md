@@ -1,8 +1,8 @@
 ---
-title: 适用于非营利组织的 Microsoft 365-已拒绝
+title: Microsoft 365 非营利组织版 - 拒绝
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b785243902b3e0ccbba14164ca6f19ab754beb9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779758"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810690"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="41bf1-102">适用于非营利组织的 Microsoft 365-已拒绝</span><span class="sxs-lookup"><span data-stu-id="41bf1-102">Microsoft 365 for nonprofits - declined</span></span>
+# <a name="microsoft-365-for-nonprofits---declined"></a><span data-ttu-id="cb2a1-102">Microsoft 365 非营利组织版 - 拒绝</span><span class="sxs-lookup"><span data-stu-id="cb2a1-102">Microsoft 365 for nonprofits - declined</span></span>
 
-<span data-ttu-id="41bf1-103">我们检查了你的请求并确定此组织不符合 Microsoft 合格的非盈利组织。</span><span class="sxs-lookup"><span data-stu-id="41bf1-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
+<span data-ttu-id="cb2a1-103">我们审查你的请求，确定此组织不符合成为 Microsoft 合格非营利组织的资格。</span><span class="sxs-lookup"><span data-stu-id="cb2a1-103">We reviewed your request and determined this organization is not eligible as a Microsoft Qualified Nonprofit Organization.</span></span>
   
-<span data-ttu-id="41bf1-104">若要购买 Office 365 商业版，请参阅 [可用优惠](https://portal.office.com/AdminPortal/Home)。</span><span class="sxs-lookup"><span data-stu-id="41bf1-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
+<span data-ttu-id="cb2a1-104">若要商业购买 Office 365，请参阅 [可用的产品/服务](https://portal.office.com/AdminPortal/Home)。</span><span class="sxs-lookup"><span data-stu-id="cb2a1-104">To purchase Office 365 commercially, please see [available offers](https://portal.office.com/AdminPortal/Home).</span></span>
