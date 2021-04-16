@@ -2,7 +2,7 @@
 title: Windows 10 中缺少电源或电池图标
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 10213843f8ec5ceeaa191d3373406d767f2bea3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790538"
 ---
 # <a name="power-or-battery-icon-missing-in-windows-10"></a>Windows 10 中缺少电源或电池图标
 
@@ -37,6 +37,6 @@ ms.locfileid: "47771531"
 
 **疑难解答**
 
-如果你按照上述说明进行了操作，并且“**电源**”开关灰显或不可见，请在任务栏上的搜索框中，键入**设备管理器**，然后在结果列表中选择“**设备管理器**”。 在“**电池**”下，右键单击设备的电池，单击“**禁用**”，然后单击“**是**”。 稍等几秒钟，右键单击电池，然后单击“**启用**”。 然后重新启动设备。
+如果你按照上述说明进行了操作，并且“**电源**”开关灰显或不可见，请在任务栏上的搜索框中，键入 **设备管理器**，然后在结果列表中选择“**设备管理器**”。 在“**电池**”下，右键单击设备的电池，单击“**禁用**”，然后单击“**是**”。 稍等几秒钟，右键单击电池，然后单击“**启用**”。 然后重新启动设备。
 
-如果你按照上述说明进行了操作，但电池图标未显示在任务栏上，请在任务栏上的搜索框中键入**任务管理器**，然后在结果列表中单击“**任务管理器**”。 在“**进程**”选项卡的“**名称**”下，右键单击**资源管理器**，然后单击“**重新启动**”。
+如果你按照上述说明进行了操作，但电池图标未显示在任务栏上，请在任务栏上的搜索框中键入 **任务管理器**，然后在结果列表中单击“**任务管理器**”。 在“**进程**”选项卡的“**名称**”下，右键单击 **资源管理器**，然后单击“**重新启动**”。

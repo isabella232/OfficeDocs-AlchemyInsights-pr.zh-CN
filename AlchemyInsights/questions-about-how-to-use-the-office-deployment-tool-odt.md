@@ -1,8 +1,8 @@
 ---
-title: 有关如何使用 Office 部署工具 (ODT) 的问题
+title: '有关如何使用 Office 部署工具 (ODT) '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790322"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>有关如何使用 Office 部署工具 (ODT) 的问题
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>有关如何使用 Office 部署工具 (ODT) 
 
 [从 Microsoft 下载中心](https://go.microsoft.com/fwlink/p/?LinkID=626065)下载 Office 部署工具。
   
-下载文件后，运行自解压缩可执行文件，其中包含 ( # A0) 的 Office 部署工具可执行文件和) # A1 的示例配置文件 (。
+下载文件后，运行自解压缩可执行文件，其中包含 Office 部署工具可执行文件 (setup.exe) 和一个示例配置文件 (configuration.xml)。
   
- **若要从客户端计算机中排除或删除适用于企业产品的 Microsoft 365 应用程序：**
+ **若要从客户端计算机中排除或删除 Microsoft 365 企业应用版产品：：**
   
-在安装适用于企业的 Microsoft 365 应用程序时，您可以排除特定产品。 若要执行此操作，请按照使用 ODT 安装 Office 的步骤操作，但请将 ExcludeApp 元素包括在配置文件中。 例如，此配置文件将安装除 Publisher 之外的所有适用于企业产品的 Microsoft 365 应用程序：
+安装 Microsoft 365 企业应用版时，可以排除特定产品。 若要执行此操作，请按照使用 ODT 安装 Office 的步骤操作，但请将 ExcludeApp 元素包括在配置文件中。 例如，此配置文件将安装除 Publisher 之外的所有 Microsoft 365 企业应用版产品：
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
