@@ -2,7 +2,7 @@
 title: Yammer 常见问题和解决方法
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 4ecd8b34830f53670145068398f28d16e820efd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805460"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Yammer 常见问题和解决方法
 
@@ -25,15 +25,15 @@ ms.locfileid: "47657554"
 
 - **入门**：用户应先从 [Yammer 帮助和学习](https://support.office.com/yammer)入手。 使用所有 [Yammer 采用资源](https://aka.ms/yamresources)对开始在组织中使用 Yammer 进行[计划](https://aka.ms/YamSuccessGuide)、[启动](https://aka.ms/YamLaunchPlaybook)和[度量](https://aka.ms/YamMeasureSuccesGuide)。 
 
-- **Yammer 网络**：确保已[强制使用 O365 标识](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)，并已[合并多个网络](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。 
+- **Yammer 网络**：确保已 [强制使用 O365 标识](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)，并已 [合并多个网络](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。 
 
-- **实时活动**：将社区与[实时活动](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events)相结合。 获取[额外的帮助和指导](https://resources.techcommunity.microsoft.com/live-events/assistance/)，以确保活动成功。 
+- **实时活动**：将社区与 [实时活动](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events)相结合。 获取[额外的帮助和指导](https://resources.techcommunity.microsoft.com/live-events/assistance/)，以确保活动成功。 
 
-- **电子数据展示**：运行[本机模式对齐工具](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)，以为 [Yammer 网络中的电子数据展示](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)做好准备。 
+- **电子数据展示**：运行 [本机模式对齐工具](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)，以为 [Yammer 网络中的电子数据展示](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)做好准备。 
 
-- **合规性**：设置用户[使用策略](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy)、[导出 Yammer 数据](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)、了解[如何处理 Yammer 的 GDPR 请求](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)，以及[确定 Yammer 数据的托管位置](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency)。 视需要[禁用](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer 访问权限。
+- **合规性**：设置用户 [使用策略](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy)、[导出 Yammer 数据](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)、了解 [如何处理 Yammer 的 GDPR 请求](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)，以及 [确定 Yammer 数据的托管位置](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency)。 视需要[禁用](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer 访问权限。
 
-- **外部协作**：与[外部组](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups)中的外部用户协作，或在[外部网络](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network)中托管更大的社区。 如果安全策略要求的话，[禁用外部消息传递和组](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
+- **外部协作**：与 [外部组](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups)中的外部用户协作，或在 [外部网络](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network)中托管更大的社区。 如果安全策略要求的话，[禁用外部消息传递和组](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
 
 - **监视使用情况**：使用 [Yammer 活动报告](https://docs.microsoft.com/microsoft-365/admin/activity-reports/yammer-activity-report)监视使用情况。 社区管理员可以[访问组见解](https://support.office.com/article/view-group-insights-in-yammer-73f9fa6d-d442-4f25-9194-d5317c9328ab)。
 
