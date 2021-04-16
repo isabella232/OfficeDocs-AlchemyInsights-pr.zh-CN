@@ -2,7 +2,7 @@
 title: 了解账单
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791371"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782681"
 ---
 # <a name="understand-billing-amount"></a>了解帐单金额
 
@@ -70,7 +70,7 @@ Azure 免费帐户优惠包括 $200 的 Azure 额度（在注册前 30 天内使
 
 **如何验证免费服务是否处于活动状态或即将过期？**
 
-在 “Ibiza 门户” > “订阅” > “概述”页面中 > 向下滚动到“12 个月的免费服务”，然后单击“信息”图标。 这将显示“免费服务”的到期日期 **备注** ：没有一项 V1 服务包含在 Azure 免费包含服务中。 有关最新“免费服务”的列表，请参阅 [12 个月内的免费产品](http://www.microsoftazuresponsorships.com/)
+在 “Ibiza 门户” > “订阅” > “概述”页面中 > 向下滚动到“12 个月的免费服务”，然后单击“信息”图标。 这将显示“免费服务”的到期日期 **备注**：没有一项 V1 服务包含在 Azure 免费包含服务中。 有关最新“免费服务”的列表，请参阅 [12 个月内的免费产品](http://www.microsoftazuresponsorships.com/)
 
 附加常见问题：[免费帐户常见问题](https://azure.microsoft.com/free/free-account-faq/)
 

@@ -2,7 +2,7 @@
 title: 在 Word 中使用听写
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: f91a455322b7f885f4edd3308e6fbd5d46522324
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 665437de66b0875492201074146c8ed4ef454f91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798474"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51781700"
 ---
 # <a name="use-dictation-in-word"></a>在 Word 中使用听写
 
-要**[在 Word 中听写文档](https://support.office.com/article/dictate-your-documents-in-word-3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)**，请在登录到 Microsoft 365 时转到 **“主页”>“听写”**。
+要 **[在 Word 中听写文档](https://support.office.com/article/dictate-your-documents-in-word-3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)**，请在登录到 Microsoft 365 时转到 **“主页”>“听写”**。
 
 **如果听写未正常运行**，请验证：
 
