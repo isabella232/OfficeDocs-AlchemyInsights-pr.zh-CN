@@ -1,8 +1,8 @@
 ---
-title: Yammer 网络中的电子数据展示
+title: Yammer Networks 中的电子数据展示
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710906"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814470"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Yammer 网络中的电子数据展示
+# <a name="ediscovery-in-yammer-networks"></a>Yammer Networks 中的电子数据展示
 
 现在，您可以对 Yammer 内容执行电子数据展示搜索。  对 Yammer 内容执行电子数据展示搜索或导出需要满足以下条件：
 
-1. 您必须先将 Yammer Enterprise 网络迁移到本机模式，才能使 Yammer 消息和文件可发现。 **注意：如果你是自1月 2020 9 日到1日的新客户，并且你的 Yammer 网络已处于本机模式，则你的数据现在可通过电子数据展示来发现**。
+1. 必须先将 Yammer 企业网络迁移到本机模式，使 Yammer 消息和文件可发现。 **注意：如果你是截至 2020** 年 1 月 9 日的新产品，并且 Yammer 网络已进入本机模式，则数据现在可以使用电子数据展示进行发现。
 
-2. 对于现有客户，在释放本机模式对齐工具并完成对租户中 Yammer 的本机模式迁移时，将提供 Yammer 的电子数据展示。
+2. 对于退出的客户，一旦发布本机模式对齐工具，并且租户中 Yammer 的本机模式迁移完成，Yammer 电子数据展示将可用。
 
-有关详细信息，请执行以下操作：
+有关详细信息，请参阅：
 
-- 在 Yammer 中的本机模式，请参阅： [本机模式概述](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)。
-- Yammer 网络中的电子数据展示，请参阅： [yammer 网络中的电子数据展示概述](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)。
-- Microsoft 365 中的电子数据展示，请参阅 [microsoft 365 中的电子数据展示](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)。
+- Yammer 中的本机模式，请参阅： [本机模式概述](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)。
+- Yammer Networks 中的电子数据展示，请参阅 [：Overview of eDiscovery in Yammer networks](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)。
+- Microsoft 365 中的电子数据展示，请参阅 [Microsoft 365 中的电子数据展示](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)。

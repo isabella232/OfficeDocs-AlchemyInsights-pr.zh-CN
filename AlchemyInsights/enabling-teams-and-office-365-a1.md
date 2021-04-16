@@ -2,7 +2,7 @@
 title: 启用 Teams 和 Office 365 A1
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: 5f677c8fabb6cdb9c708ab9dc39882a8d3b0567b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e99fcc49108c9e8f87ca204b9f3dfe7fcfdae97a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784405"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813930"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>启用 Teams 和 Office 365 A1
 
-如果拥有 EDU 租户，需要手动启用 Microsoft Teams。 若要执行此操作，转到 Microsoft 365 管理中心 **设置 > 设置 > Microsoft Teams**。 如果在服务列表中看不到 Microsoft Teams，关闭“**试用新管理中心**”来查找**设置 > 服务和加载项 > Microsoft Teams**。 有关更多信息，参见“[为学校启用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)”。
+如果拥有 EDU 租户，需要手动启用 Microsoft Teams。 若要执行此操作，转到 Microsoft 365 管理中心 **设置 > 设置 > Microsoft Teams**。 如果在服务列表中看不到 Microsoft Teams，关闭“**试用新管理中心**”来查找 **设置 > 服务和加载项 > Microsoft Teams**。 有关更多信息，参见“[为学校启用 Microsoft Teams](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1)”。
 
 **重要信息**：可能需要等待24小时，所做的更改才会生效。 
 

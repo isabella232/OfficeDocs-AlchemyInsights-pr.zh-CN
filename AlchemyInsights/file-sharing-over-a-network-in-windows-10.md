@@ -1,8 +1,8 @@
 ---
-title: 通过网络在 Windows 10 中共享文件
+title: Windows 10 中的网络文件共享
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813138"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>通过网络在 Windows 10 中共享文件
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10 中的网络文件共享
 
-**注意**：如果你以前使用过家庭组进行文件共享，请注意，已从 Windows 10 (版本 1803) 中删除了家庭组。 您现在可以使用 Windows 10 中的内置功能共享打印机和文件。
+**注意**：如果你之前使用家庭组进行文件共享，请注意家庭组已从 Windows 10 (版本 1803) 。 你现在可以使用 Windows 10 中的内置功能共享打印机和文件。
 
 **通过网络共享文件或文件夹**
 
-- 在**文件资源管理器**中，选择一个文件 > 单击 "**共享位置**" 部分顶部 > 中的 "**共享**" 选项卡，单击 "**特定人员**"。
+- 在 **文件资源管理器** 中，选择一个文件>单击"共享"部分顶部的">"**选项卡**，然后单击"特定 **人员"。**
 
     ![与特定人员共享文件。](media/share-with-specific-people.png)
           
-- 如果一次选择了多个文件，则可以用相同的方式共享这些文件。 它也适用于文件夹。
+- 如果一次选择多个文件，可以以相同方式共享所有文件。 它适用于文件夹。
 
 **查看网络上共享文件的设备**
 
-- 在 **文件资源管理器**中，转到 " **网络**"。 如果未启用网络发现，您将看到一条错误消息 "网络发现功能已关闭 ..."
+- 在 **文件资源管理器** 中，转到 **网络**。 如果未启用网络发现，则会看到错误消息"网络发现已关闭..."。
 
-- 单击 " **网络发现" 已关闭** 标题，然后单击 " **启用网络发现和文件共享**"。
+- 单击"**网络发现已关闭"横幅**，然后单击"**打开网络发现和文件共享"。**
 
-    ![启用网络发现和文件共享。](media/turn-on-network-discovery.png)
+    ![打开网络发现和文件共享。](media/turn-on-network-discovery.png)
 
-[阅读有关网络上的文件共享的详细信息](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[阅读有关通过网络共享文件的内容](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
 [使用应用、OneDrive、电子邮件等共享文件](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

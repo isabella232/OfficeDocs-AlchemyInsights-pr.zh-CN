@@ -2,7 +2,7 @@
 title: 在 Windows 10 中使用多任务执行更多操作
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 3efdd790d40dcf76b9815bcc63c150db9ab9a177
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 18259192bd5e6aeb85abaf6aa988cfcbbebd88af
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679106"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814948"
 ---
 # <a name="do-more-with-multitasking-in-windows-10"></a>在 Windows 10 中使用多任务执行更多操作
 
@@ -33,4 +33,4 @@ ms.locfileid: "47679106"
 2. 单击“**+ 新建桌面**”（在任务视图中时位于屏幕左上角）。
 3. 打开要使用的应用。 
 
-返回到**任务视图**以查看桌面并在两者之间切换。
+返回到 **任务视图** 以查看桌面并在两者之间切换。

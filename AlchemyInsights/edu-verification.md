@@ -2,7 +2,7 @@
 title: EDU 验证
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 309575a86155d416d587ee034fb7efe2c807e3f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710329"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814362"
 ---
 # <a name="edu-verification"></a>EDU 验证
 
 大多数情况下，学术资格请求将在 24-48 小时内得到处理。 有些请求可能需要进行更彻底的审查，并且可能需要长达 10 个工作日才能得到处理。 完成后，我们将发送一封电子邮件，说明你学校的资格状态。
 
-**重要提示** 如果你在进入域之前退出了验证向导，则可在免费试用期间的任何时间[恢复学术验证向导](https://go.microsoft.com/fwlink/p/?linkid=2135255)。
+**重要提示** 如果你在进入域之前退出了验证向导，则可在免费试用期间的任何时间 [恢复学术验证向导](https://go.microsoft.com/fwlink/p/?linkid=2135255)。
 
 如果你想要检查你的域的状态，请转到 [Microsoft 365 管理中心](https://go.microsoft.com/fwlink/p/?linkid=2024339)。 在主页上，滚动到底部并找到“**帐单**”卡。 “**帐单**”卡指示验证过程的状态（已批准、待定、已拒绝或添加你的域）。
 

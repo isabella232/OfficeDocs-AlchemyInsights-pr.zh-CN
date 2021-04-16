@@ -2,7 +2,7 @@
 title: 导出笔记本
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000739"
 - "4709"
-ms.openlocfilehash: 8a8ed7918fecd863f0477fba544f55cea6421267
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51153353a62ea4643b24cb369e2727b707a80ce5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708889"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813390"
 ---
 # <a name="export-a-notebook"></a>导出笔记本
 
 在 OneNote 2016 桌面应用中：
 
-1. 在要导出的页面上，单击**文件 > 导出**。
+1. 在要导出的页面上，单击 **文件 > 导出**。
 2. 在“**导出当前**”下，单击要导出的内容（页面、部分或笔记本）。
 3. 单击“**导出**”。
  

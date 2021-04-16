@@ -2,7 +2,7 @@
 title: 打开或保存文件时出错
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: ce9e160272d96f40a6ba30b1527bde1aed1b8d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783577"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813606"
 ---
-# <a name="resolve-errors-opening-or-saving-word-files"></a>解决打开或保存 Word 文件时出现的错误
+# <a name="resolve-errors-opening-or-saving-word-files"></a>解决打开或保存 Word 文件时出错
 
-如果您在打开或保存 Word 文档时遇到问题，请尝试以下操作：
+如果在打开或保存 Word 文档时遇到问题，请尝试执行以下操作：
 
 - [安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 有关最新 Office 更新的列表，请参阅 [最新更新](https://docs.microsoft.com/officeupdates/office-updates-msi)。
-- [解决 Word 中损坏的文档](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)。
+- [排查 Word 中损坏的文档。](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
 - [修复 Office 应用程序](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
-- 如果文档包含修订， [如果有过多的修订或注释](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) 可解决问题，请使用 Word 中的建议变慢或停止响应。
+- 如果文档包含修订，请使用 [Word](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) 中的建议，如果跟踪更改或注释过多，将减慢或停止响应，以解决问题。
 
-如果收到如下所示的错误，在 [注册表策略设置阻止文件时](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)，请使用 Office 中的错误消息中的建议：
+如果收到类似以下错误之一的错误，请使用注册表策略设置阻止文件时 Office 中的错误消息 [中的建议](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)：
 
 - 你正在尝试打开注册表策略设置阻止的文件。
-- 你正尝试打开的文件类型**\<File Type\>** 已被“信任中心”的“文件阻止”设置阻止。
+- 你正尝试打开的文件类型 **\<File Type\>** 已被“信任中心”的“文件阻止”设置阻止。
 - 你正在尝试打开由以前版本的 Microsoft Office 创建的文件。 注册表策略设置已阻止此文件在该版本中打开。
 - 你正在尝试保存注册表策略设置阻止的文件。
-- 您尝试保存的文件类型已被信任中心的文件阻止设置阻止。
+- 您试图在信任中心保存已被"文件阻止"设置阻止的文件类型。
 
 如果从 SharePoint 或 OneDrive 文档库打开 Office 文件时遇到问题，请尝试以下操作：
 
