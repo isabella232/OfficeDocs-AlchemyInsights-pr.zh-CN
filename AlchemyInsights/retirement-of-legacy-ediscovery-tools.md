@@ -1,8 +1,8 @@
 ---
-title: 旧电子数据展示工具的退休
+title: 停用旧版电子数据展示工具
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,44 +12,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 2315c4c651a83f0ecc78c0171f32aba13bc93f8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727773"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798539"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>旧电子数据展示工具的退休
+# <a name="retirement-of-legacy-ediscovery-tools"></a>停用旧版电子数据展示工具
 
-由于 Microsoft 365 合规性中心中新增和改进的电子数据展示功能的结果，以下旧的电子数据展示工具和 commandlet 将在接下来的几个月内退出：
+作为 Microsoft 365 合规中心中新增和改进电子数据展示功能的结果，以下旧版电子数据展示工具和命令let 将在几个月后停用：
 
-- Exchange 管理中心内的[就地电子数据展示](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery)和[就地保留](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)。
+- [Exchange 管理中心中的](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) 就 [地](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) 电子数据展示和就地保留。
 
-- 支持就地电子数据展示和就地保留的 Exchange Online PowerShell cmdlet。  (这些 cmdlet 共同标识为 *-New-mailboxsearch cmdlet。 ) 这包括以下 cmdlet：
+- 支持电子数据展示和保留In-Place Exchange Online PowerShell In-Place cmdlet。  (这些 cmdlet 统称为 *-MailboxSearch cmdlet。) 包括以下 cmdlet：
 
-    - [新 New-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [启动-New-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [New-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [New-mailboxsearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Exchange Online PowerShell 中的 [搜索邮箱](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet。
-- Exchange Web Services API 中的以下操作：
+- Exchange Online PowerShell 中的 [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) cmdlet。
+- Exchange Web 服务 API 中的以下操作：
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [高级电子数据展示1.0 版](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [高级电子数据展示 v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**停用的时间线**：
-- **2020 年7月1日** 您无法再创建新的搜索和保留，但您可以通过您自己的风险运行、编辑和删除现有搜索。 Microsoft 支持不再支持 EAC 中的就地电子数据展示 & 保留。
+**停用时间线**：
+- **2020 年 7 月 1 日** 你无法再创建新的搜索和保留，但可以自行承担运行、编辑和删除现有搜索的风险。 Microsoft 支持不再支持In-Place EAC &电子数据展示保留。
     
-- **2020 年10月1日** 就地电子数据展示 & 保留 EAC 中的功能将被置于只读模式，因此您只能删除现有的搜索和保留。
+- **2020 年 10** 月 1 In-Place EAC 中的电子数据展示 & 保留功能将置于只读模式，因此只能删除现有搜索和保留。
 
 **有关详细信息，请参阅**：
 
- - [将旧式电子数据展示搜索和保留迁移到 Microsoft 365 合规性中心](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [将旧版电子数据展示搜索和保留迁移到 Microsoft 365 合规中心](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [旧版电子数据展示工具的停用](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [有关就地电子数据展示和就地保留的常见问题解答](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [有关电子数据展示In-Place保留的常见问题In-Place常见问题](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
