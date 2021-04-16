@@ -2,7 +2,7 @@
 title: Office 激活错误
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: e3c3f53b5e053cec00010e8d321f3f48bbfd5bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f791c15a57a4da209b7802db853c0d3ab6c1b681
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702137"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802229"
 ---
 # <a name="office-activation-errors"></a>Office 激活错误
 
-1. 在**控制面板 > 程序和功能**中搜索 “**Office**”。 你应该能够看到 **Microsoft 365 企业版** 或 **Microsoft 365 商业版**。 如果看到列出多个版本的 Office，请卸载不使用的版本。 如果无法使用控制面板成功卸载，请使用支持和恢复助手（SaRA）[卸载](https://aka.ms/SARA-OfficeUninstall-Alchemy)不使用的版本。 然后，如果出现提示，请重新启动Office并使用您的工作或学校帐户登录。 
+1. 在 **控制面板 > 程序和功能** 中搜索 “**Office**”。 你应该能够看到 **Microsoft 365 企业版** 或 **Microsoft 365 商业版**。 如果看到列出多个版本的 Office，请卸载不使用的版本。 如果无法使用控制面板成功卸载，请使用支持和恢复助手（SaRA）[卸载](https://aka.ms/SARA-OfficeUninstall-Alchemy)不使用的版本。 然后，如果出现提示，请重新启动Office并使用您的工作或学校帐户登录。 
 
-2. 如果 Office 仍未经授权，请返回**控制面板 > 程序和功能**，右键单击剩下的 Office 安装，单击“**修改**” （或 “**更改**”），然后单击“**联机修复**”。 联机修复可能会持续一些时间。 然后，如果出现提示，请重新启动Office并使用您的工作或学校帐户登录。 
+2. 如果 Office 仍未经授权，请返回 **控制面板 > 程序和功能**，右键单击剩下的 Office 安装，单击“**修改**” （或 “**更改**”），然后单击“**联机修复**”。 联机修复可能会持续一些时间。 然后，如果出现提示，请重新启动Office并使用您的工作或学校帐户登录。 
 
 3. 如果 Office 仍未经授权，请在受影响的计算机上下载并运行[激活疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)来修复激活问题。 
 
