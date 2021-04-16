@@ -2,7 +2,7 @@
 title: 在 Teams 中下载出席情况报告
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712102"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814687"
 ---
-# <a name="download-attendance-reports-in-teams"></a><span data-ttu-id="f9b86-102">在 Teams 中下载出席情况报告</span><span class="sxs-lookup"><span data-stu-id="f9b86-102">Download attendance reports in Teams</span></span>
+# <a name="download-attendance-reports-in-teams"></a><span data-ttu-id="30176-102">在 Teams 中下载出席情况报告</span><span class="sxs-lookup"><span data-stu-id="30176-102">Download attendance reports in Teams</span></span>
 
-<span data-ttu-id="f9b86-103">会议组织者可在会议过程中下载出席情况报告。</span><span class="sxs-lookup"><span data-stu-id="f9b86-103">Meeting organizers can download attendance reports during meetings.</span></span> <span data-ttu-id="f9b86-104">作为管理员，你可以通过设置 Teams 会议策略来控制会议组织者是否可以下载会议出席情况报告。</span><span class="sxs-lookup"><span data-stu-id="f9b86-104">As an admin, you control whether meeting organizers can download meeting attendance reports by setting a Teams meeting policy.</span></span> <span data-ttu-id="f9b86-105">默认情况下，下载该报告的功能处于关闭状态。</span><span class="sxs-lookup"><span data-stu-id="f9b86-105">By default, the ability to download the report is turned off.</span></span> <span data-ttu-id="f9b86-106">有关如何启用此功能的步骤，请参阅[会议策略设置 - 会议出席情况报告](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)。</span><span class="sxs-lookup"><span data-stu-id="f9b86-106">For steps on how to turn on this feature, see  [Meeting policy settings - Meeting attendance report](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).</span></span>
+<span data-ttu-id="30176-103">会议组织者可在会议过程中下载出席情况报告。</span><span class="sxs-lookup"><span data-stu-id="30176-103">Meeting organizers can download attendance reports during meetings.</span></span> <span data-ttu-id="30176-104">作为管理员，你可以通过设置 Teams 会议策略来控制会议组织者是否可以下载会议出席情况报告。</span><span class="sxs-lookup"><span data-stu-id="30176-104">As an admin, you control whether meeting organizers can download meeting attendance reports by setting a Teams meeting policy.</span></span> <span data-ttu-id="30176-105">默认情况下，下载该报告的功能处于关闭状态。</span><span class="sxs-lookup"><span data-stu-id="30176-105">By default, the ability to download the report is turned off.</span></span> <span data-ttu-id="30176-106">有关如何启用此功能的步骤，请参阅[会议策略设置 - 会议出席情况报告](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)。</span><span class="sxs-lookup"><span data-stu-id="30176-106">For steps on how to turn on this feature, see  [Meeting policy settings - Meeting attendance report](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).</span></span>
 
-<span data-ttu-id="f9b86-107">启用此功能后，在会议期间，会议组织者可以选择“**显示参与者**”，然后选择“**下载与会者列表**”。</span><span class="sxs-lookup"><span data-stu-id="f9b86-107">Once this is enabled, during the meeting, meeting organizers can select  **Show participants**  and choose  **Download attendee list**.</span></span> <span data-ttu-id="f9b86-108">有关详细信息，请参阅[在 Teams 中下载出席情况报告](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310)和 [Microsoft Teams 会议出席情况报告](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)。</span><span class="sxs-lookup"><span data-stu-id="f9b86-108">For more information please see [Download attendance reports in Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) and [Microsoft Teams meeting attendance report](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).</span></span>
+<span data-ttu-id="30176-107">启用此功能后，在会议期间，会议组织者可以选择“**显示参与者**”，然后选择“**下载与会者列表**”。</span><span class="sxs-lookup"><span data-stu-id="30176-107">Once this is enabled, during the meeting, meeting organizers can select  **Show participants**  and choose  **Download attendee list**.</span></span> <span data-ttu-id="30176-108">有关详细信息，请参阅[在 Teams 中下载出席情况报告](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310)和 [Microsoft Teams 会议出席情况报告](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)。</span><span class="sxs-lookup"><span data-stu-id="30176-108">For more information please see [Download attendance reports in Teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) and [Microsoft Teams meeting attendance report](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).</span></span>
 
-<span data-ttu-id="f9b86-109">**重要提示**：你只能在会议正在进行且参与者仍未离开会议时下载出席情况报告。</span><span class="sxs-lookup"><span data-stu-id="f9b86-109">**Important**: you'll only be able to download the attendance report while the meeting is in progress and participants are still present.</span></span>
+<span data-ttu-id="30176-109">**重要提示**：你只能在会议正在进行且参与者仍未离开会议时下载出席情况报告。</span><span class="sxs-lookup"><span data-stu-id="30176-109">**Important**: you'll only be able to download the attendance report while the meeting is in progress and participants are still present.</span></span>
