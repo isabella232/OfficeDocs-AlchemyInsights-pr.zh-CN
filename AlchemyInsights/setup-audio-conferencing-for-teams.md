@@ -43,4 +43,4 @@ ms.locfileid: "51692672"
 
 7. 选择有问题的用户，并验证用户是否有“**默认收费号码**”。
 
-有关详细信息，请参阅[Microsoft 365 的 Microsoft Teams 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce Billing 团队来获取授权相关问题的帮助。
+有关详细信息，请参阅[Microsoft 365 的 Microsoft Teams 通话套餐](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365)，或致电 Microsoft Commerce Billing 团队获取与许可相关问题的帮助。

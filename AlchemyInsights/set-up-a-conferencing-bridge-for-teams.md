@@ -21,4 +21,4 @@ ms.locfileid: "51692784"
 ---
 # <a name="set-up-a-conferencing-bridge-for-teams"></a>设置 Teams 会议网桥
 
-你只需为打算安排或主持会议的人设置音频会议。 我们提供了完成电话系统设置的分步过程。 请检查[如何在你的组织设置 Microsoft Teams 电话](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)。
+你只需为打算安排或主持会议的人设置音频会议。 我们提供了完成电话系统设置的分步过程。 请查看[如何在组织中设置 Microsoft Teams 电话](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview)。

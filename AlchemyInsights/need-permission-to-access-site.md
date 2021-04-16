@@ -2,7 +2,7 @@
 title: 需要访问网站的权限
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: dba40636895dda775884c9f720c8c60e2c815019
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772685"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792302"
 ---
 # <a name="you-need-permission-to-access-this-site"></a>您需要访问此网站的权限
 
-[SharePoint Online 和 OneDrive for Business 中的 "访问被拒绝"、"你需要访问此网站的权限" 或 "在目录中找不到用户" 错误](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[SharePoint Online 和 OneDrive for Business 中的"访问被拒绝"、"需要访问此网站的权限"或"目录中找不到用户"错误](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
