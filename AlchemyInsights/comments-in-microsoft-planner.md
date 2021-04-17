@@ -2,7 +2,7 @@
 title: Microsoft Planner 中的评论
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 048b63619256c1322837a06115f97127188aec6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793568"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817630"
 ---
 # <a name="comments-in-microsoft-planner"></a>Microsoft Planner 中的评论
 
@@ -29,7 +29,7 @@ ms.locfileid: "47793568"
 
 - **评论未保存** -  添加评论的用户无权向 Microsoft 365 组发送电子邮件。 有关此方案的详细信息，请参阅 [Microsoft Planner 的工作原理](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736)。
 
-- 显示错误**您不再拥有访问权限**，或**来宾用户无法添加评论** - 无法向组收件箱发送电子邮件的来宾用户可能会看到此消息。 若要解决，确保来宾用户持有有效的电子邮件地址。
+- 显示错误 **您不再拥有访问权限**，或 **来宾用户无法添加评论** - 无法向组收件箱发送电子邮件的来宾用户可能会看到此消息。 若要解决，确保来宾用户持有有效的电子邮件地址。
 
 - **已删除的用户收到电子邮件** -  如果用户被从计划中删除前对任务进行评论，则电子邮件会话将包括对此任务进行评论的人户。
 

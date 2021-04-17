@@ -1,8 +1,8 @@
 ---
-title: 在下载邮件跟踪时获取自定义错误模块无法识别此错误？
+title: 获取自定义错误模块在下载邮件跟踪时无法识别此错误？
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731949"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815749"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>下载邮件跟踪时获取 "自定义错误模块无法识别此错误"？
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>下载邮件跟踪时收到"自定义错误模块无法识别此错误"？
 
-我们意识到问题并正在解决问题。  同时，尝试 **清除浏览器缓存**或使用 InPrivate 模式来解决此问题。
+我们已注意到该问题，并正在努力修复问题。  在此期间，请尝试 **清除浏览器缓存**，或者使用 InPrivate 模式解决此问题。

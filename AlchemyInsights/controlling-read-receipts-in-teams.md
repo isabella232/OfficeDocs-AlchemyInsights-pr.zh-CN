@@ -2,7 +2,7 @@
 title: 从 Teams 控制已读回执
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002246"
 - "4369"
-ms.openlocfilehash: c028e7937d0ce5030d877eb219924fa47070f986
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34fdfc7df6bde1ef93b52cb20983762c8d79ca94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816622"
 ---
 # <a name="controlling-read-receipts-in-teams"></a>从 Teams 控制已读回执
 
-可以使用 Teams 中的消息传递策略控制组织的**已读回执**。
+可以使用 Teams 中的消息传递策略控制组织的 **已读回执**。
 
 若要在应用中更新单个用户的已读回执设置：单击 Teams 应用窗口右上角的个人资料，单击“**设置**” > “**隐私**”，然后使用“**已读回执**”开关。
 

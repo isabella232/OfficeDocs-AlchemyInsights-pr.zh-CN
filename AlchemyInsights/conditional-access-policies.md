@@ -2,7 +2,7 @@
 title: 条件访问策略
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 25dc98397920e4fbf28895f5961f154381e11c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af95627d07d41add54f03c9254562b9be4e05d9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812249"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817270"
 ---
 # <a name="conditional-access-policies"></a>条件访问策略
 
@@ -25,7 +25,7 @@ ms.locfileid: "47812249"
 
 了解有关 [Azure AD 条件访问](https://docs.microsoft.com/azure/active-directory/conditional-access/)的详细信息。  
 
-**注意**：如果你的租户在 2019 年 10 月 21 日后创建，并且意外收到了有关 MFA 的提示，则你的租户中可能启用了[安全性默认值](https://aka.ms/securitydefaults)。
+**注意**：如果你的租户在 2019 年 10 月 21 日后创建，并且意外收到了有关 MFA 的提示，则你的租户中可能启用了 [安全性默认值](https://aka.ms/securitydefaults)。
 
 **管理安全性默认值**
 
@@ -35,4 +35,4 @@ ms.locfileid: "47812249"
 
 3. 在页面底部，单击“**管理安全性默认值**”。
 
-4. 单击“是”**** 启用安全性默认值，或单击“否”**** 禁用安全性默认值。
+4. 单击“是”启用安全性默认值，或单击“否”禁用安全性默认值。

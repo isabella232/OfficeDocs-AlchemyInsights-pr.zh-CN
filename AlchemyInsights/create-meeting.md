@@ -1,8 +1,8 @@
 ---
-title: 安排团队中的会议
+title: 在 Teams 中安排会议
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: d75f3a1d83845609ff4a41788ce9dbf92fbfc3d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746893"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815965"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>安排团队中的会议
+# <a name="schedule-a-meeting-in-teams"></a>在 Teams 中安排会议
 
-**重要说明** 如果在团队中创建会议或找不到会议选项时遇到问题，请确保受影响的用户 (s) 在 Microsoft 团队支持的版本上有一个已启用的 Exchange 邮箱。 尽管建议使用 Exchange Online，但 exchange Server 2016 CU3 或更高版本上支持 Exchange 内部部署邮箱，并且在联机和本地之间成功配置了 OAuth。 有关详细信息，请参阅 [在 Exchange Online 中创建用户邮箱](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) 和 [托管本地邮箱的要求](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)。 
+**重要** 如果你在创建会议时有问题或在 Teams 中找不到会议选项，请确保受影响的用户 () 在 Microsoft Teams 支持的版本上拥有已启用的 Exchange 邮箱。 虽然建议使用 Exchange Online，但 exchange 本地邮箱在 Exchange Server 2016 CU3 或更高版本上受支持，同时在 Online 和本地之间成功配置了 OAuth。 有关详细信息，请参阅在 [Exchange Online 中创建](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) 用户邮箱和本地托管 [的邮箱的要求](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises)。 
 
-1. 您可以通过选择以下选项安排会议：
+1. 可以通过选择：
 
-    - 在 "撰写" 框下的聊天中**安排会议**图标，以便与聊天中的人员一起预订会议。
+    - **在撰写** 框下方的聊天中安排会议图标，与聊天中的人员预订会议。
 
-    - 应用程序左侧的**日历**图标。 在右上方选择 " **新建会议** " 或选择日历中的时间范围以打开日程安排表单。
+    - **应用** 左侧的日历图标。 选择 **右上方** 的"新建会议"，或在日历中选择一个时间范围以打开计划窗体。
 
-2. 与在 Outlook 中安排会议类似，你将为会议提供标题、邀请人员和添加会议详细信息。
+2. 与在 Outlook 中安排会议类似，您将为会议提供一个标题、邀请人员并添加会议详细信息。
 
-3. 在日程安排表单的右侧，可以添加频道或单个人员，也可以将这两项都留空以安排私人约会。
+3. 在日程安排窗体的右侧，可以添加频道或单个人员，或将两者都留空以安排私人约会。
 
-有关在 Microsoft 团队中创建和安排会议的详细信息，请参阅 [在团队中安排会议](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)。
+有关在 Microsoft Teams 中创建和安排会议详细信息，请参阅在 [Teams 中安排会议](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)。
 
-有关会议限制和规范的详细信息，请参阅 [Microsoft 团队的限制和规范](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)。
+有关会议的限制和规范详细信息，请参阅 [Microsoft Teams 的限制和规范](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)。
 
-若要帮助解决团队和 Exchange 交互，尤其是在委派计划问题时，请参阅 [Microsoft 团队和 Exchange Server 交互问题的疑难解答](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)。
+有关排查 Teams 和 Exchange 交互问题（尤其是委派计划问题的帮助，请参阅 Microsoft Teams 疑难解答Exchange Server [交互问题](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)）。
