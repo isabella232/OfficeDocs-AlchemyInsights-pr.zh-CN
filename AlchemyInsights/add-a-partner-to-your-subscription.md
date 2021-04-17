@@ -2,7 +2,7 @@
 title: 向订阅添加合作伙伴
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 3a876b70a739788768bfbabf7777d727f0a5e748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 22f22016e266d0b99efe8fa225a19f689f4a71fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688684"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822733"
 ---
-# <a name="add-a-partner-to-your-subscription"></a><span data-ttu-id="3ac18-102">向订阅添加合作伙伴</span><span class="sxs-lookup"><span data-stu-id="3ac18-102">Add a partner to your subscription</span></span>
+# <a name="add-a-partner-to-your-subscription"></a><span data-ttu-id="d54df-102">向订阅添加合作伙伴</span><span class="sxs-lookup"><span data-stu-id="d54df-102">Add a partner to your subscription</span></span>
 
-<span data-ttu-id="3ac18-103">可以在[购买订阅时](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase)添加合作伙伴，或在“**Microsoft 365 管理中心**”中将合作伙伴添加到[现有订阅](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription)。</span><span class="sxs-lookup"><span data-stu-id="3ac18-103">Partners can be added at the [time of your subscription purchase](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase) or to your [existing subscription](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription) in the **Microsoft 365 Admin Center**.</span></span>
+<span data-ttu-id="d54df-103">可以在 [购买订阅时](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase)添加合作伙伴，或在“**Microsoft 365 管理中心**”中将合作伙伴添加到 [现有订阅](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription)。</span><span class="sxs-lookup"><span data-stu-id="d54df-103">Partners can be added at the [time of your subscription purchase](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-at-the-time-of-purchase) or to your [existing subscription](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide#add-a-partner-to-an-existing-subscription) in the **Microsoft 365 Admin Center**.</span></span>
 
-<span data-ttu-id="3ac18-104">**向现有订阅添加合作伙伴**</span><span class="sxs-lookup"><span data-stu-id="3ac18-104">**Add a partner to an existing subscription**</span></span>
+<span data-ttu-id="d54df-104">**向现有订阅添加合作伙伴**</span><span class="sxs-lookup"><span data-stu-id="d54df-104">**Add a partner to an existing subscription**</span></span>
 
-1. <span data-ttu-id="3ac18-105">在管理中心，转到“**账单” > “[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”** 页面。</span><span class="sxs-lookup"><span data-stu-id="3ac18-105">In the admin center, got to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> 
-2. <span data-ttu-id="3ac18-106">如果你有多个订阅，请选择想要编辑的订阅的名称。</span><span class="sxs-lookup"><span data-stu-id="3ac18-106">If you have multiple subscriptions, select the name of the subscription you want to edit.</span></span> 
-3. <span data-ttu-id="3ac18-107">在 “订阅” 页上，选择“**合作伙伴**”选项卡，然后输入要添加的合作伙伴的**合作伙伴网络 ID**。</span><span class="sxs-lookup"><span data-stu-id="3ac18-107">On the subscription page, select the **Partner** tab, and then type the **Partner Network ID** for the partner you're adding.</span></span> <span data-ttu-id="3ac18-108">可询问合作伙伴获得合作伙伴的 Microsoft 合作伙伴 ID。</span><span class="sxs-lookup"><span data-stu-id="3ac18-108">You can get the partner's Microsoft Partner ID by asking the partner for it.</span></span> 
+1. <span data-ttu-id="d54df-105">在管理中心，转到“**账单” > “[产品和服务](https://go.microsoft.com/fwlink/p/?linkid=842054)”** 页面。</span><span class="sxs-lookup"><span data-stu-id="d54df-105">In the admin center, got to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> 
+2. <span data-ttu-id="d54df-106">如果你有多个订阅，请选择想要编辑的订阅的名称。</span><span class="sxs-lookup"><span data-stu-id="d54df-106">If you have multiple subscriptions, select the name of the subscription you want to edit.</span></span> 
+3. <span data-ttu-id="d54df-107">在 “订阅” 页上，选择“**合作伙伴**”选项卡，然后输入要添加的合作伙伴的 **合作伙伴网络 ID**。</span><span class="sxs-lookup"><span data-stu-id="d54df-107">On the subscription page, select the **Partner** tab, and then type the **Partner Network ID** for the partner you're adding.</span></span> <span data-ttu-id="d54df-108">可询问合作伙伴获得合作伙伴的 Microsoft 合作伙伴 ID。</span><span class="sxs-lookup"><span data-stu-id="d54df-108">You can get the partner's Microsoft Partner ID by asking the partner for it.</span></span> 
 
-<span data-ttu-id="3ac18-109">有关详细信息，请参阅[添加、更改或删除订阅顾问合作伙伴](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)。</span><span class="sxs-lookup"><span data-stu-id="3ac18-109">For more info, see [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner).</span></span> 
+<span data-ttu-id="d54df-109">有关详细信息，请参阅[添加、更改或删除订阅顾问合作伙伴](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)。</span><span class="sxs-lookup"><span data-stu-id="d54df-109">For more info, see [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner).</span></span> 
