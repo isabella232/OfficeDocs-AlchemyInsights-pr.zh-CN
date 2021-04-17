@@ -1,8 +1,8 @@
 ---
-title: 从 Skype for Business 在本地升级到团队
+title: 从本地 Skype for Business 升级到 Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734757"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827350"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>从 Skype for Business 在本地升级到团队
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>从本地 Skype for Business 升级到 Teams
 
-如果你已在本地部署 Skype for Business 或 Microsoft Lync，并且你的组织想要升级到团队，请按照以下文章中的指导进行操作。 你需要设置与你的租户的混合连接，然后将你的用户移动到团队，并为其分配适当的共存和升级模式。 
+如果你已在本地部署 Skype for Business 或 Microsoft Lync，并且你的组织想要升级到 Teams，请按照下文中的指南操作。 你需要设置与租户的混合连接，然后将用户移动到 Teams，并为其分配适当的共存和升级模式。 
 
 [从本地 Skype for Business 升级到 Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

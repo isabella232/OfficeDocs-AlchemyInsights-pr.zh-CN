@@ -2,7 +2,7 @@
 title: 替换 SharePoint 根网站
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 3f0c621d14c4dd5ca9bcd2dbbea0a9059ca55933
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451273"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826765"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>替换 SharePoint 根网站
 如果想要使用现有网站革新根网站，或者直接想要在根网站级别使用一个不同的网站，则可以选择替换（更换）网站。

@@ -2,7 +2,7 @@
 title: 了解帐单金额
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791372"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827854"
 ---
 # <a name="understand-billing-amount"></a>了解帐单金额
 
@@ -28,7 +28,7 @@ ms.locfileid: "48791372"
 - 了解 Azure 使用情况费用：[使用条款说明](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - 若要获取发票的 PDF 和详细的日常使用情况文件的副本 (.CSV)：[获取发票和使用情况数据](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**注意** ：如果你在计费周期内间取消订阅/资源，你可能仍会看到对上一个月任何使用情况的费用。 打个比方，如果你的计费周期是从每个月的 26 号到下个月的 25 号，然后你在 23 号挂起订阅（即已经在 6 月计费周期过了 28 天），你可能会看到使用 28 天的费用。 尽管取消订阅，你依然看到收费，请确保你没有致使收费的任何其他支持套餐。 如果确实有其他支持套餐，请动手取消套餐。
+**注意**：如果你在计费周期内间取消订阅/资源，你可能仍会看到对上一个月任何使用情况的费用。 打个比方，如果你的计费周期是从每个月的 26 号到下个月的 25 号，然后你在 23 号挂起订阅（即已经在 6 月计费周期过了 28 天），你可能会看到使用 28 天的费用。 尽管取消订阅，你依然看到收费，请确保你没有致使收费的任何其他支持套餐。 如果确实有其他支持套餐，请动手取消套餐。
 
 **Microsoft 客户协议（MCA）：**
 
@@ -51,10 +51,10 @@ ms.locfileid: "48791372"
 
 查看服务超额发票：
 
-- 登录到 **企业门户** 。 选择 **“报告”**
+- 登录到 **企业门户**。 选择 **“报告”**
 - 在选项卡的右上角，将视图从 **M** 切换为 **C** 并匹配发票上的句点
 - 总 **使用情况** 金额应与服务超额发票上的总 **应收** 金额相匹配
-- 转到 **“下载使用情况” > “高级报告下载”** ，以获取有关费用的详细信息 **备注** ：此报告不包括税费、预订费用或市场费用
+- 转到 **“下载使用情况” > “高级报告下载”**，以获取有关费用的详细信息 **备注**：此报告不包括税费、预订费用或市场费用
 
 **Azure 市场**
 
@@ -64,10 +64,10 @@ ms.locfileid: "48791372"
 
 在企业门户中的“报告” > “使用情况摘要”下，将你的 Azure 市场总额与市场发票进行比较。 市场发票仅适用于 Azure 市场的购买和使用。 “使用情况摘要”中的金额不包括税项。
 
-- 登录到 **企业门户** 。 选择 **“报告”**
+- 登录到 **企业门户**。 选择 **“报告”**
 - 在选项卡的右上角，将视图从 **M** 切换为 **C** 并匹配发票上的句点
-- **Azure 市场** 总额应与市场发票上的“ **总销售额”** 相匹配
-- 转到“ **下载使用情况** ”，获取有关基于使用情况的费用的详细信息。 在“ **市场费用** ”下，选择“ **下载** ” **注意** ：此报告不含税费或显示一次性购买
+- **Azure 市场** 总额应与市场发票上的“**总销售额”** 相匹配
+- 转到“**下载使用情况**”，获取有关基于使用情况的费用的详细信息。 在“**市场费用**”下，选择“**下载**” **注意**：此报告不含税费或显示一次性购买
 
 **云解决方案提供商 (CSP)**
 

@@ -2,7 +2,7 @@
 title: 适用于 Microsoft Teams 的 Yammer 社区应用
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: 89d71126b5663ea11f7ca9166b2e72e854953dcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94c2b184d433c918bc1cf04e0547734e65fb3568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825829"
 ---
 # <a name="yammer-communities-app-for-microsoft-teams"></a>适用于 Microsoft Teams 的 Yammer 社区应用
 
@@ -29,7 +29,7 @@ ms.locfileid: "47664376"
 
 **直接链接到 Yammer 社区应用**
 
-- 可以将 [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) 与用户共享，以便在 Teams 中直接链接到 Yammer 社区应用并**添加**此应用。
+- 可以将 [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) 与用户共享，以便在 Teams 中直接链接到 Yammer 社区应用并 **添加** 此应用。
 
 **在公司范围内推出**
 

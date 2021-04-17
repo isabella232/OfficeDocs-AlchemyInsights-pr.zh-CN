@@ -2,7 +2,7 @@
 title: 解除帐户锁定
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 9a6178bd6ebc9c1c86869ece552448fbe8ac9a9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657887"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827746"
 ---
 # <a name="unlocking-an-account"></a>解除帐户锁定
 
@@ -37,7 +37,7 @@ ms.locfileid: "47657887"
 
 1. 在管理中心中，转到“**用户”>“[活动用户](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**”。
 
-2. 选择用户，然后依次单击“更多操作(...)”**** 和“编辑登录状态”****。
+2. 选择用户，然后依次单击“更多操作(...)”和“编辑登录状态”。
 
 有关更多密码重置方案（包括自助式密码重置），请参阅[重置 Microsoft 365 multiple-attempts-to-charge-online-payment-instrumentsbusiness 密码](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide)。
 
