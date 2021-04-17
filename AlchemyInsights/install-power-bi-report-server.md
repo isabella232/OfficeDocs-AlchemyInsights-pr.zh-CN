@@ -1,8 +1,8 @@
 ---
-title: 安装 Power BI Report Server
+title: 安装 Power BI 报表服务器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755085"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832084"
 ---
-# <a name="install-power-bi-report-server"></a>安装 Power BI Report Server
+# <a name="install-power-bi-report-server"></a>安装 Power BI 报表服务器
 
-1. 查找 PowerBIReportServer.exe 的位置并启动安装程序。
+1. 找到安装PowerBIReportServer.exe并启动安装程序。
 
-2. 选择 " **安装 POWER BI Report Server**"。
+2. 选择 **"安装 Power BI 报表服务器"。**
 
-3. 选择要安装的版本，然后选择 " **下一步**"。
+3. 选择要安装的版本，然后选择"下一 **步"。**
 
-4. 您可以从下拉中选择评估版或开发人员版。  否则，可以输入从 Power BI 服务或批量许可证服务中心获取的服务器的产品密钥。 有关如何获取产品密钥的详细信息，请参阅 "开始之前" 部分。 阅读并同意许可条款和条件，然后选择 " **下一步**"。
+4. 你可以从下拉列表中选择评估版或开发人员版。  否则，您可以输入从 Power BI 服务或批量许可服务中心获取的服务器的产品密钥。 若要详细了解如何获取产品密钥，请参阅开始之前部分。 阅读并同意许可条款和条件，然后选择"下一 **步"。**
 
-5. 您需要具有可用于存储报表服务器数据库的数据库引擎。 选择 " **下一步** " 仅安装报告服务器。
+5. 您需要有一个数据库引擎可用于存储报表服务器数据库。 选择 **"下** 一步"以仅报表服务器安装程序。
 
-6. 指定报表服务器的安装位置。 选择 " **安装** " 以继续。
+6. 指定客户端的安装报表服务器。 选择 **"安装** "以继续。
 
-7. 成功安装后，选择 " **配置报表服务器** " 以启动 Reporting Services 配置管理器。
+7. 成功设置后，选择 **"配置报表服务器** "以启动 Reporting Services Configuration Manager。
 
-您不需要在安装时提供 SQL Server 数据库引擎服务器。 在安装后，您需要一个配置 Reporting Services 的。
+在安装时，SQL Server数据库引擎服务器可用。 安装后，您需要一个配置 Reporting Services。
 
-有关详细信息，请执行以下操作： https://docs.microsoft.com/power-bi/report-server/install-report-server
+有关详细信息： https://docs.microsoft.com/power-bi/report-server/install-report-server

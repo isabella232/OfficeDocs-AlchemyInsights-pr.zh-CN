@@ -1,8 +1,8 @@
 ---
-title: 共享选项显示暗淡或不可用
+title: "\"共享选项\"显示为\"变暗\"或\"不可用\""
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 86d14adff3967a11fadf057302233764512e5b46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758523"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832588"
 ---
-# <a name="sharing-options-appear-dim-or-are-not-available"></a>共享选项显示暗淡或不可用
+# <a name="sharing-options-appear-dim-or-are-not-available"></a>"共享选项"显示为"变暗"或"不可用"
 
-如果尝试从 SharePoint Online 或 OneDrive 共享时，某些共享选项或不可用，请参阅 [当从 Sharepoint online 或 onedrive 共享时，共享选项将灰显](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)。
+如果尝试从 SharePoint Online 或 OneDrive 共享时某些共享选项或不可用，请参阅从 [SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)或 OneDrive 共享时，共享选项显示为灰色。

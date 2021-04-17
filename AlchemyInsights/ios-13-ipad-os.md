@@ -1,8 +1,8 @@
 ---
-title: iOS 13-iPadOS
+title: iOS 13 - iPadOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2701"
 - "6700003"
-ms.openlocfilehash: 747c24250b911f30176ff03ed623ae38488ab57f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d851fcc6c8514300d5f67b5755caa729c5441a67
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695927"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833137"
 ---
-# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>适用于条件访问策略的 iOS 13 +/iPadOS 更新
+# <a name="ios-13--ipados-updates-for-conditional-access-policy"></a>条件访问策略的 iOS 13+ / iPadOS 更新
 
-如果您遇到与 Ipad 中的条件访问相关的问题，并且已升级到 iPadOS (iOS 13 或更高) 版本，请查看 AAD 团队中的以下文章，以确保您可能需要做的更改，以确保条件访问继续按预期方式运行：
+如果遇到与已升级到 iPadOS (iOS 13 或更高版本) 的 Ipad 上的条件访问相关的问题，请查看来自 AAD 团队的以下文章，了解您可能需要所做的更改以确保条件访问继续按预期运行：
 
-[必需的操作：评估和更新条件访问策略，以便为 iPadOS 发布做准备](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)
+[需要的操作：评估和更新条件访问策略，为 iPadOS 发布做准备](https://support.microsoft.com/help/4521038/action-required-update-conditional-access-policies-for-ipados)

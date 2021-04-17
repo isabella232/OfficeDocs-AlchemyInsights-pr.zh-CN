@@ -1,8 +1,8 @@
 ---
-title: 将团队安装为独立或通过新的/现有 Office 安装
+title: 将 Teams 安装为独立版或全新/现有 Office 安装
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: dc6c083c0f28a4724a23d829d03b9b78ea627270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663071"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831904"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>将团队安装为独立或使用新的或现有 Office 安装
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>将 Teams 作为独立安装或全新或现有的 Office 安装进行安装
 
-Microsoft 团队作为 Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business 和 Office for Mac 的 *全新安装* 的一部分包括在内。 有关详细信息，请参阅 [何时 Microsoft 团队何时开始将新安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams 包含在新安装的Microsoft 365 企业应用版、Microsoft 365 商业应用版和 Office for Mac。 有关详细信息，请参阅 Microsoft Teams 何时开始包含在新安装的 [Office 中？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-此外，从当前通道中的版本1906开始，在将现有安装更新到最新版本时，团队将添加到 Microsoft 365 Apps for business (和 Microsoft 365 在运行 Windows 的设备上的 Windows 相关应用程序) 的 *现有安装* 中。 有关详细信息，请参阅 [现有安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+此外，从当前频道的版本 1906 开始，当你将现有安装更新到最新版本时，Teams 将添加到运行 Windows 的设备上 Microsoft 365 企业应用版 (和 Microsoft 365 企业应用版) 的现有安装中。 有关详细信息，请参阅 [What about existing installations of Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-您可以按照 [以下说明](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)将团队部署为独立用户，也可以让您的用户自行安装团队 https://teams.microsoft.com/downloads 。
+你可以按照以下说明为用户将 Teams[](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)部署为独立版，也可以让用户从 自行安装 https://teams.microsoft.com/downloads Teams。
 
-团队安装完成后，每两周 [都会自动更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 一次，并提供新的功能和质量更新。 
+安装 Teams 后，它大约[](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)每两周自动更新一次，并包含新功能和质量更新。 
 

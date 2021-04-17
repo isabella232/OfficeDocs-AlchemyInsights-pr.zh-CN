@@ -2,7 +2,7 @@
 title: Microsoft 365 应用中的订阅通知消息
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a09075b4092573054c594224387980598b6f8a1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832444"
 ---
 # <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Microsoft 365 应用中的订阅通知消息
 
@@ -29,7 +29,7 @@ ms.locfileid: "47659228"
 
 - 打开 Office 应用，转到“**文件 > 帐户**”并注销所有帐户。 使用具有有效许可证的用户账户再次登录。 有关详细信息，请参阅[Office 中的账户](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
-- 打开Office应用程序，然后转到**文件 > 帐户 > 更新选项 > 立即更新**，以在受影响的计算机上更新 Office。 有关详细步骤，请参阅[安装 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
+- 打开Office应用程序，然后转到 **文件 > 帐户 > 更新选项 > 立即更新**，以在受影响的计算机上更新 Office。 有关详细步骤，请参阅[安装 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 - 运行“[激活 疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)”并重新启动计算机。
 

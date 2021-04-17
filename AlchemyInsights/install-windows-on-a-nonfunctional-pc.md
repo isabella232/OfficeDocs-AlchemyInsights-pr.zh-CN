@@ -2,7 +2,7 @@
 title: 安装 Windows 至无法正常工作的电脑上
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: 2793234c4601c20efb1510970608816c48de1a5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e741b99dcc01aaabce001c8b8fe45161a1d3badd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696179"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831976"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>安装 Windows 至无法正常工作的电脑上
 

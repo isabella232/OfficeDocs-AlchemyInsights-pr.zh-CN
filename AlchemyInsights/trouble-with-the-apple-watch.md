@@ -1,8 +1,8 @@
 ---
-title: Apple 手表中的问题
+title: Apple Watch 问题
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700013"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832264"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Apple 手表中的问题
+# <a name="trouble-with-the-apple-watch"></a>Apple Watch 问题
 
-如果在 Apple 手表中使用 Outlook 时遇到问题，以下是一些故障排除步骤： 
+If you're having trouble using Outlook on the Apple Watch， here are some troubleshooting steps： 
 
-1. 转到 iPhone 上的手表应用。
+1. 转到 iPhone 上的监视应用。
 
 2. 滚动到 Outlook 应用。
 
-3. 将 "在 Apple 观看中显示应用程序" 切换为 " **关闭** " 以卸载。
+3. 将"在 Apple Watch 上显示应用"切换 **为"关闭"** 以卸载。
 
-4. 将 "在 Apple 手表中显示应用程序" 切换到 "打开" 以 **在** 手表上重新安装。
+4. 将"在 Apple Watch 上显示应用"切换为 **"开** "以重新安装 Watch。
 
-5. 在 Apple 观看中启动 Outlook 应用程序并等待数据同步到最新。 
+5. 在 Apple Watch 上启动 Outlook 应用并等待数据同步到最新。 
 
-如果未解决你的问题，则支持团队将非常乐意提供帮助。转到 " **设置" > 帮助 & 反馈 > 联系支持部门**。 
+如果问题未解决，支持团队将乐于提供帮助。转到设置 **>帮助&反馈>联系支持人员**。 

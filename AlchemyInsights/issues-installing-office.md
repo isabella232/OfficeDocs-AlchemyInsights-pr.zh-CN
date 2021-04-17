@@ -2,7 +2,7 @@
 title: 安装 Office 时出现的问题的解决方案
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 4b309039dc920089d966e3bbe45dcea874668597
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d466e4dc26379509c4bf3b34d9d7b39c5d3c4c19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833101"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>安装 Office 时出现的问题的解决方案
 
@@ -34,5 +34,5 @@ ms.locfileid: "47695495"
 
 - [使用 Office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 Office。
 
-有关特定 Office 安装错误代码的解决方案，请参阅 [Office 安装疑难解答](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)中的**安装 Office 时出现错误消息**部分。
+有关特定 Office 安装错误代码的解决方案，请参阅 [Office 安装疑难解答](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages)中的 **安装 Office 时出现错误消息** 部分。
 

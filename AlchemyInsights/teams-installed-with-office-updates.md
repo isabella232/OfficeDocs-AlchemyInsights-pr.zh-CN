@@ -1,8 +1,8 @@
 ---
-title: 使用 Office 更新安装的团队
+title: 随 Office 更新一起安装的 Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 9a09800fcc36876629c7d59182f20b5b16393ef8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736494"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832372"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>安装了 Office 更新的 Microsoft 团队
+# <a name="microsoft-teams-installed-with-office-updates"></a>随 Office 更新一起安装的 Microsoft Teams
 
-Microsoft 团队作为 Microsoft 365 Apps for enterprise、Microsoft 365 Apps for business 和 Office for Mac 的 ***全新安装*** 的一部分包括在内。 有关详细信息，请参阅 [何时 Microsoft 团队何时开始将新安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams 包含在新安装的Microsoft 365 企业应用版、Microsoft 365 商业应用版和 Office for Mac。 有关详细信息，请参阅 Microsoft Teams 何时开始包含在新安装的 [Office 中？](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-此外，从当前通道中的版本1906开始，在将现有安装更新到最新版本时，团队将逐步添加到 Microsoft 365 应用程序的 ***现有安装*** ，以供企业 (和 Microsoft 365 应用程序) 在运行 Windows 的设备上。 有关详细信息，请参阅 [现有安装的 Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+此外，从当前频道的版本 1906 开始，当你将现有安装更新到最新版本时，Teams 将逐渐添加到运行 Windows 的设备上 Microsoft 365 企业应用版 (和 Microsoft 365 企业应用版) 的现有安装中。 有关详细信息，请参阅 [What about existing installations of Office？](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**注意：** 如果您不想等待此首展计划，可以按照 [这些说明](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)将团队部署为独立用户，也可以让您的用户自行安装团队 https://teams.microsoft.com/downloads 。
+**注意：** 如果不想等待此推出计划，可以按照以下说明为用户将 Teams 部署为独立版，也可以 [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)让用户从 自行安装 https://teams.microsoft.com/downloads Teams。
 
-如果你的组织未准备好部署团队，则可以从 Office 的[新](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)安装或[现有](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)安装中***排除团队***。 如果您希望安装团队，但不希望团队在安装后自动为用户启动，请参阅 " [阻止 Microsoft 团队在安装后自动](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)启动"。
+如果你的组织尚未准备好部署 Teams，你可以将 Teams 从 ***新的*** 或 [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps)[现有的](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)Office 安装中排除。 如果你希望安装 Teams，但不希望 Teams 在安装后自动为用户启动，请参阅防止 Microsoft Teams 在安装后 [自动启动](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)。
 
-若要从运行 Windows 的设备中 ***卸载团队*** ，请参阅 [卸载 Microsoft 团队](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81)。 若要从多个目标计算机或用户清理 Microsoft 团队，请参阅 [Microsoft 团队部署清理](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)。
+若要 ***从运行*** Windows 的设备卸载 Teams，请参阅 [卸载 Microsoft Teams。](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) 若要从多个目标计算机或用户清理 Microsoft Teams，请参阅 [Microsoft Teams 部署清理](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)。
 
-如果使用的是共享计算机，则远程桌面服务 (RDS) 或虚拟桌面基础结构 (VDI) ，请参阅 [与 Microsoft 团队共享的计算机和 VDI 环境](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)。 如果使用的是 Office for Mac，请参阅 [mac 上的 Microsoft 团队安装](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)。
+如果你使用的是共享计算机、远程桌面服务 (RDS) 或虚拟桌面基础结构 (VDI) ，请参阅使用 Microsoft Teams 共享计算机和 [VDI 环境](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)。 如果你使用的是 Microsoft Office for Mac，请参阅 Mac [上的 Microsoft Teams 安装](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)。
 
-**注意：** 团队安装完成后，每两周 [都会自动更新](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 一次，并提供新的功能和质量更新。 
+**注意：** 安装 Teams 后，它大约 [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams)每两周自动更新一次，并包含新功能和质量更新。 
