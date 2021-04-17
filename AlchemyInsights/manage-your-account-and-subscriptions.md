@@ -2,7 +2,7 @@
 title: 管理帐户和订阅
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703073"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823885"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>管理帐户和订阅
 
@@ -56,4 +56,4 @@ ms.locfileid: "47703073"
 
 - [向用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-如果已分配许可证，可在[我的帐户](https://portal.office.com/account/#installs)页面上找到可以下载的应用程序。 此页面提供可基于分配的许可证下载的应用程序列表。 如果你已下载 Office 应用程序，可能需要使用你的工作或学校帐户登录应用程序。 可在任何 Office 应用程序（Word、Excel 等）中单击“文件”>“帐户”****（靠近底部）进行此操作。 在“用户信息”下，单击“切换帐户”****。 有关详细信息，请参阅[安装 Office 应用程序](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。 
+如果已分配许可证，可在[我的帐户](https://portal.office.com/account/#installs)页面上找到可以下载的应用程序。 此页面提供可基于分配的许可证下载的应用程序列表。 如果你已下载 Office 应用程序，可能需要使用你的工作或学校帐户登录应用程序。 可在任何 Office 应用程序（Word、Excel 等）中单击“文件”>“帐户”（靠近底部）进行此操作。 在“用户信息”下，单击“切换帐户”。 有关详细信息，请参阅[安装 Office 应用程序](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。 

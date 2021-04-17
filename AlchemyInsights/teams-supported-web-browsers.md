@@ -1,8 +1,8 @@
 ---
-title: 工作组-支持的 web 浏览器
+title: Teams 支持的 Web 浏览器
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750513"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824677"
 ---
-# <a name="teams-supported-web-browsers"></a>工作组-支持的 web 浏览器
+# <a name="teams-supported-web-browsers"></a>Teams 支持的 Web 浏览器
 
-团队完全支持 Microsoft 团队的文章、 [限制和规范](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)中列出的 Internet 浏览器，并注明通话和会议的例外情况。
+Teams 完全支持 Microsoft [Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)的限制和规范一文中列出的 Internet 浏览器，通话和会议除外。

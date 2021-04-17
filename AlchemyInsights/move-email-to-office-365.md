@@ -2,7 +2,7 @@
 title: 将电子邮件移动到 Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: abe11201d2c6dc4c517231b191f22e8ed2038411
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ace759a6cfe6e161c5572472b7459f8fd4c6021
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799734"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823705"
 ---
 # <a name="move-email-to-microsoft-365"></a>将电子邮件移动到 Microsoft 365
 
-有几种方法可用于将电子邮件迁移到 Microsoft 365。 [Microsoft 365 邮件迁移顾问](https://aka.ms/alchemyinsight-mailmigrationadvisor)可帮助您选择最适合您的环境的，同时还可指导您完成邮件迁移。
+有几种将电子邮件迁移到 Microsoft 365 的选项。 [Microsoft 365 邮件](https://aka.ms/alchemyinsight-mailmigrationadvisor)迁移顾问可帮助你选择最适合你的环境的邮件，并指导你完成邮件迁移。
   
-若要在不启动迁移的情况下阅读选项，请参阅 [确定迁移路径](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)。
+若要在不开始迁移的情况下阅读有关选项的信息，请参阅 [确定迁移路径](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path)。
 
-如果符合条件，请参阅使用 [Microsoft 365 With FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page 获取有关迁移的协助帮助。
+如果符合条件，请查看 [采用 Microsoft 365 FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) 页面获取迁移协助帮助。
   

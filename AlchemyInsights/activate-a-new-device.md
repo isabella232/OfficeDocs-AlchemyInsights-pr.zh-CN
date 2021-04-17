@@ -2,7 +2,7 @@
 title: 激活新设备
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668372"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823273"
 ---
 # <a name="activating-a-new-device-running-windows-10"></a>激活运行 Windows 10 的新设备
 
-如果你购买了一个运行 Windows 10 的新设备，则在将设备连接到 Internet 时，它将自动激活。 如果激活服务器处于忙碌状态，则可能需要等待一段时间才能激活 Windows。
+如果你购买了运行 Windows 10 的新设备，它将在将设备连接到 Internet 时自动激活。 如果激活服务器繁忙，可能需要等待一段时间，Windows 才能激活。
 
-若要检查激活状态，请选择 "**启动****设置**  >  **更新 & 安全**  >  **激活**"。
+To check activation status， choose **Start** **Settings** Update  >  **& security**  >  **Activation**.
 
-**注意：** 在某些情况下，您可能需要输入设备打包附带的 Windows 10 产品密钥，或作为卡或真品证书 (COA) 附加到设备上。
+**注意：** 在某些情况下，你可能需要输入设备打包随附的 Windows 10 产品密钥，或作为卡或附加到设备的验证证书 (COA) 随附。
 
-[了解有关 Windows 10 中激活的详细信息](https://support.microsoft.com/help/12440)
+[详细了解 Windows 10 中的激活](https://support.microsoft.com/help/12440)
