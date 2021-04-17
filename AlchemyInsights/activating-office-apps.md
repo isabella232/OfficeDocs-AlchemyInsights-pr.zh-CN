@@ -2,7 +2,7 @@
 title: 正在激活 Microsoft 365 应用
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236043"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823021"
 ---
 # <a name="activating-microsoft-365-apps"></a>正在激活 Microsoft 365 应用
 
@@ -27,7 +27,7 @@ ms.locfileid: "48236043"
 
 - [在 Mac 上激活 Office](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**注意：** 请确保您具有 [ 包括 Office 客户端应用 ](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) 的 Office 365 或 Microsoft 365 订阅，例如 Microsoft 365 商业标准版、Microsoft 365 商业应用版或 Microsoft 365 企业应用版。 此外，请确保您用于登录 Office 应用程序的用户帐户[已分配了许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+**注意：** 请确保您具有 [ 包括 Office 客户端应用](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e) 的 Office 365 或 Microsoft 365 订阅，例如 Microsoft 365 商业标准版、Microsoft 365 商业应用版或 Microsoft 365 企业应用版。 此外，请确保您用于登录 Office 应用程序的用户帐户[已分配了许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 
 若要修复 Office 激活问题，请参阅：
 
@@ -42,9 +42,9 @@ ms.locfileid: "48236043"
 
 1. 打开 Office 应用，然后[注销](https://go.microsoft.com/fwlink/?linkid=2114082)任何现有用户帐户。
 
-2. 使用 Windows 的“设置”>“帐户”>“电子邮件和帐户”****，删除旧的或未用的工作帐户。
+2. 使用 Windows 的“设置”>“帐户”>“电子邮件和帐户”，删除旧的或未用的工作帐户。
 
-3. 使用 Windows 的“设置”>“帐户”>“访问工作或学校帐户”****，断开旧的或未用的工作帐户连接
+3. 使用 Windows 的“设置”>“帐户”>“访问工作或学校帐户”，断开旧的或未用的工作帐户连接
 
 4. [重置 Office 激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)，然后使用新帐户[登录 Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) 应用。
 

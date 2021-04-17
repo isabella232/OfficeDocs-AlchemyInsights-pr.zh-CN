@@ -2,7 +2,7 @@
 title: 在 Windows 10 中添加用户帐户
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687532"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822301"
 ---
 # <a name="add-a-user-account-in-windows-10"></a>在 Windows 10 中添加用户帐户
 
-下面介绍如何在 Windows 10 中添加帐户：
+下面将了解如何在 Windows 10 中添加帐户：
 
-1. **Start**  >  **Settings**  >  **Accounts**  >  如果您使用的是 Windows 10 企业版) > 将其他人**添加到这台电脑**，请转到开始设置帐户**系列 & 其他人** (或**其他人**。
+1. 如果你使用的是  >    >    >   Windows 1) > 0企业&将其他人添加到 (，请转到"开始设置""帐户系列"" (其他人"或"**其他人"。**
 2. 按照说明添加 Microsoft 帐户或本地帐户。
 
-[了解有关设置帐户的详细信息](https://support.microsoft.com/help/17197/)
+[详细了解如何设置帐户](https://support.microsoft.com/help/17197/)

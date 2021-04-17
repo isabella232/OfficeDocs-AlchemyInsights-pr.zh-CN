@@ -2,7 +2,7 @@
 title: 将联系人添加到 O365 组
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 649a299fa03453c5255e938017ab53b578a05037
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 315ea0fd00da68210175bb21510bea4cb35386fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688216"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822517"
 ---
 # <a name="add-contacts-to-a-microsoft-365-group"></a>将联系人添加到 Microsoft 365 组
 
-组所有者可以通过遵循以下说明在 Outlook 中添加外部用户和邮件联系人： [添加和删除 outlook 中的组成员](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
+组所有者可以按照以下说明在 Outlook 中添加外部用户和邮件联系人：在 Outlook 中添加和 [删除组成员](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
   
-您还可以在管理门户中添加或删除组成员： [使用 microsoft 365 管理中心在 microsoft 365 组中添加或删除成员](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+还可以在管理门户中添加或删除组成员：使用 Microsoft [365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)管理中心在 Microsoft 365 组中添加或删除成员
