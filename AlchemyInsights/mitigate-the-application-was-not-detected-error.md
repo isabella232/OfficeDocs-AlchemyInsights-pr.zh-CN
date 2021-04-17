@@ -2,7 +2,7 @@
 title: 解决“未检测到应用程序”错误
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000171"
 - "1712"
-ms.openlocfilehash: 498c2ec78bc9f4a7bc7d77d12b488be2cf0bf79a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e0599f9bdf2c7d16d009627f44b3691c2c250b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666968"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836341"
 ---
 # <a name="mitigate-the-application-was-not-detected-error"></a>解决“未检测到应用程序”错误
 
@@ -32,6 +32,6 @@ ms.locfileid: "47666968"
 
 - 如果是在 Intune 之外更新了应用，可将应用部署设置为忽略应用程序版本。 若要执行此操作，请在 **“应用配置”>“应用信息”** 下，将“**忽略应用版本**”设置为“**是**”。
 - 当以客户端为目标时，可以根据“需要”部署应用程序，并确保部署最新版本。
-- 或者，如果是在 iOS 平台上，可使用与 Apple 批量购买计划相关联的**自动更新**功能，该计划可配置为在新的应用程序版本推出时自动更新。
+- 或者，如果是在 iOS 平台上，可使用与 Apple 批量购买计划相关联的 **自动更新** 功能，该计划可配置为在新的应用程序版本推出时自动更新。
 
 有关解决应用安装问题的详细信息，请参阅[解决应用安装问题](https://docs.microsoft.com/intune/troubleshoot-app-install)。

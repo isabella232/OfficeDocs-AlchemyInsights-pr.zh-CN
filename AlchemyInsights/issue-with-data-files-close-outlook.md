@@ -1,8 +1,8 @@
 ---
-title: 其中一个数据文件出现问题，Outlook 需要关闭
+title: 其中一个数据文件出错，Outlook 需要关闭
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003094"
 - "5849"
-ms.openlocfilehash: b3e5d4b8c4cc88b4fdd166eed5da831c0bef0a46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84e81baac7bbf255c6a5af5c32e3418164c49bae
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836629"
 ---
-# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>其中一个数据文件出现问题，Outlook 需要关闭
+# <a name="something-is-wrong-with-one-of-your-data-files-and-outlook-needs-to-close"></a>其中一个数据文件出错，Outlook 需要关闭
 
-我们了解并努力解决在打开 Outlook 时可能导致此错误的问题
+我们了解并正在努力修复在打开 Outlook 时可能提供此错误的问题
 
-若要查看最新状态的解决方法，请访问  [Outlook FOR PC 中最近遇到的问题的修补程序和解决方法](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230)，尤其是本文： [其中一个数据文件出现问题，Outlook 需要关闭](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2)
+To see latest status for workarounds please visit  [Fix and workarounds for recent issues in Outlook for PC，](https://support.microsoft.com/office/ecf61305-f84f-4e13-bb73-95a214ac1230)specifically this article： Something is wrong [with one of your data files and Outlook needs to close](https://support.microsoft.com/office/a3b59934-2446-4f2a-bd25-58f88188b9b2)
