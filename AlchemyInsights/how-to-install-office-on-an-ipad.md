@@ -2,7 +2,7 @@
 title: 如何在 iPad 上安装 Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 8b1c4d70adec883b8b17ea57c38d3c599677438f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917c4354ccabe48a1e7a32855dd5bc7e21630a4e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779941"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829258"
 ---
 # <a name="how-to-install-office-on-an-ipad"></a>如何在 iPad 上安装 Office
 
-- 让用户点击其移动设备上的 [下载链接](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) （适用于 Word、Excel、PowerPoint 和 OneNote）。
+- 让用户点击 [其移动设备上的](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) Word、Excel、PowerPoint 和 OneNote 的下载链接。
 
-- 让用户启动应用程序，点击 **"登录"** ，然后输入他们的工作或学校凭据。
+- 让用户启动应用，点击登录 **并** 输入他们的工作或学校凭据。

@@ -1,8 +1,8 @@
 ---
-title: 用于教育计划和定价的 Office 365
+title: Office 365 教育版计划和定价
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729573"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829582"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a>为你的整个学校获取 Microsoft 365 免费版
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>为整个学校免费获取 Microsoft 365
 
-使用免费的生产力工具改进课堂和学校协作。 您需要验证您是否是获得资格认证的学术机构来利用这些优惠。
+使用免费的生产力工具改善教室和学校协作。 你将需要验证你是一个经过认证的学院机构，以充分利用这些优惠。
   
 - [查看教育计划](https://products.office.com/academic/compare-office-365-education-plans)
 

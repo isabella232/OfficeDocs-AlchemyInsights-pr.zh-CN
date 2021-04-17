@@ -1,8 +1,8 @@
 ---
-title: 在团队中实施 QoS 和监控通话质量
+title: 在 Teams 中实施 QoS 并监视呼叫质量
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667940"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829222"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>在团队中实施 QoS 和监控通话质量
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a>在 Teams 中实施 QoS 并监视呼叫质量
 
-呼叫分析和呼叫质量仪表板可用于帮助解决 Microsoft 团队中的呼叫质量问题。 若要了解有关服务质量 (QoS) 、呼叫分析和呼叫质量仪表板 (CQD) 的详细信息，请参阅 [在 Microsoft 团队中实施 QoS 和监控呼叫质量](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)。 
+通话分析和通话质量仪表板可用于帮助解决 Microsoft Teams 中的通话质量问题。 若要了解有关服务质量 (QoS) 、呼叫分析和呼叫质量仪表板 (CQD) 的更多信息，请参阅在 Microsoft Teams 中实施 [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)和监控呼叫质量。 

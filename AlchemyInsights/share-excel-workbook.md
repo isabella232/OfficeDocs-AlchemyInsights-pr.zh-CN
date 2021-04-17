@@ -2,7 +2,7 @@
 title: 共享 Excel 工作簿
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739275"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828430"
 ---
-# <a name="collaborate-on-excel-documents"></a>对 Excel 文档进行协作
+# <a name="collaborate-on-excel-documents"></a>协作处理 Excel 文档
 
 若要与同事协作处理 Excel 文档，请使用 **共同创作功能**。 
 
-了解有关启用和使用此功能的信息，以及查看有关共享和共同创作方案的常见问题解答，同时 [协作处理 Excel 工作簿和共同创作](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)的问题。
+了解启用和使用此功能，以及查看有关共享和共同创作方案的常见问题的解答，位于 Collaborate [on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)。

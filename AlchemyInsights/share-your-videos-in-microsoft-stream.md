@@ -1,8 +1,8 @@
 ---
-title: 在 Microsoft Stream 中共享你的视频
+title: 在 Microsoft Stream 中共享视频
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8363706fbc6dc87ce06ead90a6ff68f809ca9ac4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727305"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828394"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>在 Microsoft Stream 中共享你的视频
+# <a name="share-your-videos-in-microsoft-stream"></a>在 Microsoft Stream 中共享视频
 
-您可能想要与不以其他方式访问的用户共享 Microsoft Stream 中的视频。 可以通过多种方式共享视频：
+你可能想要在 Microsoft Stream 中与没有访问权限的人共享视频。 有多种方式可以共享你的视频：
 
-- [在 Microsoft Stream 中共享你的视频](https://docs.microsoft.com/stream/portal-share-video)
+- [在 Microsoft Stream 中共享视频](https://docs.microsoft.com/stream/portal-share-video)
 
-- [对视频的权限](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [视频权限](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
