@@ -2,7 +2,7 @@
 title: Microsoft Stream 存储
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675288"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833929"
 ---
 # <a name="microsoft-stream-storage"></a>Microsoft Stream 存储
 
-Microsoft Stream 租户接收到 500 GB 的存储的固定分配，并为每个许可用户增加一个 0.5 GB 的存储空间。
+Microsoft Stream 租户获得固定分配，即每个许可用户 500 GB 存储空间和 0.5 GB 额外存储空间。
 有关存储的更多详细信息，请参阅：
 
 - [Microsoft Stream 存储概述](https://docs.microsoft.com/stream/license-overview#storage)
-- [向 Microsoft Stream 添加存储](https://docs.microsoft.com/stream/storage-add-on)
+- [将存储添加到 Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
 - [Microsoft Stream 中的配额和限制](https://docs.microsoft.com/stream/quotas-and-limitations)

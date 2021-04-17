@@ -2,7 +2,7 @@
 title: 双击时 Word 文件未打开
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794793"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834109"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word 文档在错误的应用程序中打开或未打开
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word 文档在错误应用中打开或未打开
 
 请尝试以下建议之一：
 
 **选择 Word 作为默认值**
 
-- 右键单击该文档，选择 "**打开方式**"，然后选择 " **Word** "。
+- 右键单击文档，选择"打开 **"，** 然后选择 **"Word"**
 
 **运行快速修复**
 
-1. 转到 **"控制面板" > 程序 > "程序和功能"**。
+1. 转到控制面板 **">程序>程序和功能"。**
 
-2. 选择要修复的 Office 产品，然后选择 " **更改**"。
+2. 选择要修复的 Office 产品，然后选择"更改 **"。**
 
-3. 选择 " **快速修复** " 选项，然后选择 " **修复**"。
+3. 选择"**快速修复"** 选项，然后选择"修复 **"。**
 
 **卸载不使用的 Office 版本**
 
-1. 转到 **"控制面板" > 卸载程序**，然后选择要删除的 Office 版本。
+1. 转到 **"控制面板>卸载程序**"，然后选择要删除的 Office 版本。
 
-2. 单击“卸载”****。
+2. 单击“卸载”。
 
 3. Restart your computer.
 
-**运行此疑难解答以将 Office 文件扩展设置为在 Office 中打开**
+**运行此疑难解答以将 Office 文件扩展名设置为在 Office 中打开**
 
-1. 运行本疑难解答： https://aka.ms/diag_officefile 。
+1. 运行此疑难解答程序 https://aka.ms/diag_officefile ：。
 
-2. 根据你的浏览器， **打开** 或 **将疑难解答保存** 到桌面，然后 **运行** 它。
+2. 根据您的浏览器， **打开** 或 **将** 疑难解答保存到桌面，然后 **运行** 它。

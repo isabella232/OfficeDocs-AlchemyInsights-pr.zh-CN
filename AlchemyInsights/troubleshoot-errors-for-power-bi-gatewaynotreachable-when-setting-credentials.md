@@ -1,8 +1,8 @@
 ---
-title: 设置凭据时的 GatewayNotReachable
+title: 设置凭据时 GatewayNotReachable
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d02ff9db70a8c8db82b573121cb52c031899fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690845"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834937"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>设置凭据时的 GatewayNotReachable
+# <a name="gatewaynotreachable-when-setting-credentials"></a>设置凭据时 GatewayNotReachable
 
-在尝试为 Power BI 服务中的数据源设置凭据时，可能会遇到 GatewayNotReachable。 这可能是过时的网关造成的。 安装最新的网关，再试一次。
+尝试在 Power BI 服务中设置数据源的凭据时，可能会遇到 GatewayNotReachable。 这可能是网关过时的结果。 安装最新的网关，然后重试。
 
-有关详细信息，请执行以下操作： [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+有关详细信息： [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

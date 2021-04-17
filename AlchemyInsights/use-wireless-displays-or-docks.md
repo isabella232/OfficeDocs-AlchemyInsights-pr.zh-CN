@@ -2,7 +2,7 @@
 title: 使用无线显示器或扩展坞
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 5b0db5a7be944b9cf5872aa93c0a55bb1fe6b3c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b769773206aa2be4118d655a82cb8d0703f1149b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795117"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834397"
 ---
 # <a name="use-wireless-displays-or-docks"></a>使用无线显示器或扩展坞
 
@@ -25,7 +25,7 @@ ms.locfileid: "47795117"
 
 1. 按键盘上的 **Windows 徽标键 + P**。
 
-2. 单击“连接到无线显示器”****。
+2. 单击“连接到无线显示器”。
 
 3. 单击要连接到的设备。
 
@@ -33,9 +33,9 @@ ms.locfileid: "47795117"
 
 1. 确保 Windows 10 设备支持 Miracast： 
 
-    - 单击“开始”**** 按钮。
+    - 单击“开始”按钮。
     
-    - 键入“Connect”，然后单击结果列表中的“Connect”****。 Connect 应用中会显示文本，以指明 Windows 10 设备是否支持。 
+    - 键入“Connect”，然后单击结果列表中的“Connect”。 Connect 应用中会显示文本，以指明 Windows 10 设备是否支持。 
 
 2. 确保 Wi-Fi 已打开。 
 
@@ -45,4 +45,4 @@ ms.locfileid: "47795117"
 
 5. 重启电脑或手机以及无线显示器或扩展坞。
 
-6. 移除无线显示器或扩展坞，然后重新连接。 若要移除设备，请依次打开“设置”>“设备”>“蓝牙和其他设备”****。 单击无线显示器、适配器或扩展坞，然后单击“移除设备”****。 之后，尝试重新连接。
+6. 移除无线显示器或扩展坞，然后重新连接。 若要移除设备，请依次打开“设置”>“设备”>“蓝牙和其他设备”。 单击无线显示器、适配器或扩展坞，然后单击“移除设备”。 之后，尝试重新连接。

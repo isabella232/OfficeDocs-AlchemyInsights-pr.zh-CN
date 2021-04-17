@@ -1,8 +1,8 @@
 ---
-title: Microsoft Stream External 共享
+title: Microsoft Stream 外部共享
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675215"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833965"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Microsoft Stream External 共享
+# <a name="microsoft-stream-external-sharing"></a>Microsoft Stream 外部共享
 
-Microsoft Stream 尚不支持对你的组织外部的来宾或人员的外部共享方案。 我们知道这些功能是非常需要的，我们正在努力制定有关如何构建这些功能的计划。
+Microsoft Stream 尚不支持来宾或组织外部人员的外部共享方案。 我们知道这些功能是高度需要的，并且我们正在制定如何构建这些功能的计划。
 
-- [流中的外部共享](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Stream 中的外部共享](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [在 Microsoft Stream 中共享你的视频](https://docs.microsoft.com/stream/portal-share-video)
+- [在 Microsoft Stream 中共享视频](https://docs.microsoft.com/stream/portal-share-video)
