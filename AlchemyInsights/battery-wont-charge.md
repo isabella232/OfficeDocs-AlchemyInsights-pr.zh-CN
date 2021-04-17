@@ -2,7 +2,7 @@
 title: 电池无法充电
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: b15939c264a39687b4d93874553e5af7b3f7fe8d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686308"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820456"
 ---
 # <a name="battery-wont-charge"></a>电池无法充电
 
@@ -30,7 +30,7 @@ ms.locfileid: "47686308"
 如果任务栏上的电池图标显示“**已接通电源，但未充电**”，则意味着 Surface 检测到电源，但没有对电池充电。 拔出电源后，Surface 可能会关闭。 请尝试使用以下命令：
 
 1. 为 Surface 接通电源。
-2. 选择任务栏中的搜索框，键入**设备管理器**，然后从结果列表中选择“**设备管理器**”。
+2. 选择任务栏中的搜索框，键入 **设备管理器**，然后从结果列表中选择“**设备管理器**”。
 3. 单击“**电池**”类别旁边的箭头。
 4. 双击“**Microsoft Surface ACPI 兼容的控制方法电池**”，选择“**驱动程序**”选项卡，然后单击“**卸载 > 确定**”。
 5. 选择“所有类别”顶部的计算机和“**操作**”菜单，然后单击“**扫描硬件更改**”。

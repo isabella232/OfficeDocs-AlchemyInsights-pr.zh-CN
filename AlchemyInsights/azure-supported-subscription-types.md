@@ -2,7 +2,7 @@
 title: 支持的订阅类型
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820672"
 ---
 # <a name="supported-subscription-types"></a>支持的订阅类型
 
@@ -29,7 +29,7 @@ ms.locfileid: "48791355"
 
 将 Azure 门户用作需要转移订阅的帐单帐户的“[帐户管理员](https://ms.portal.azure.com/)”
 
-- 在“ **成本管理 + 帐单** ”上搜索。 从左侧窗格选择 **“订阅”** 。 你可能需要选择计费范围，然后再选择“ **订阅** ”或 “ **Azure 订阅** ”（具体取决于访问权限）。
+- 在“**成本管理 + 帐单**”上搜索。 从左侧窗格选择 **“订阅”**。 你可能需要选择计费范围，然后再选择“**订阅**”或 “**Azure 订阅**”（具体取决于访问权限）。
 - 选择要转移的订阅的“转移帐单所有权”
 - 输入帐户的电子邮件地址，该帐户的用户是订阅的新所有者的帐单管理员，然后选择 **发送转移请求**
 - 用户将收到一封电子邮件，其中包含检查转移请求的说明。 若要批准转移请求，用户可选择电子邮件中的链接，并按照说明进行操作。

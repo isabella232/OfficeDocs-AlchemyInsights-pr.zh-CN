@@ -1,8 +1,8 @@
 ---
-title: 已支付？
+title: 已付费？
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: 1e3915f2120b5ba017741dbb9bac42528db9cee2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9192eaeeb35a1adc00658f9248bc3bb5d26ae022
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717999"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821509"
 ---
-# <a name="already-paid"></a>已支付？
+# <a name="already-paid"></a>已付费？
 
-如果你已发送付款，你可以让我们知道：
+如果已发送付款，可以通知我们：
   
 1. 在管理中心，转到“**计费**”\>“[订阅](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
 
-2. 选择一个订阅，并在 " **我的帐单** " 部分，选择 " **查看帐单**"。
+2. 选择订阅，在"我的帐单"**部分**，选择"**查看帐单"。**
 
-3. 在 " **帐单详细信息** " 页上，选择 **"已支付"？** 系统将要求你输入与发送的付款相关的信息。
+3. 在" **帐单详细信息"** 页面上，选择" **已付费"？** 将要求您输入与已发送付款有关的信息。
 
-4. 输入所有必需的信息后，选择 " **发送**"。
+4. 输入所有必需信息后，选择"发送 **"。**
