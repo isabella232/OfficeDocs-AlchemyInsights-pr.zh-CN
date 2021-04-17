@@ -2,7 +2,7 @@
 title: 阻止共享链接上的下载
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: ddd74f3875a586b4fbf49db2f01c8efb180cb005
-ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49353460"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820240"
 ---
-# <a name="block-download-on-sharing-links"></a><span data-ttu-id="c77e0-102">阻止共享链接上的下载</span><span class="sxs-lookup"><span data-stu-id="c77e0-102">Block download on sharing links</span></span>
+# <a name="block-download-on-sharing-links"></a><span data-ttu-id="fa630-102">阻止共享链接上的下载</span><span class="sxs-lookup"><span data-stu-id="fa630-102">Block download on sharing links</span></span>
 
-<span data-ttu-id="c77e0-103">当你与 OneDrive 或 SharePoint 中的其他人共享项目时，你可以向他们授予查看权限，但他们无法下载。</span><span class="sxs-lookup"><span data-stu-id="c77e0-103">When you share items with others in OneDrive or SharePoint, you can give them access to view, but not download.</span></span>
+<span data-ttu-id="fa630-103">当你与 OneDrive 或 SharePoint 中的其他人共享项目时，你可以向他们授予查看权限，但他们无法下载。</span><span class="sxs-lookup"><span data-stu-id="fa630-103">When you share items with others in OneDrive or SharePoint, you can give them access to view, but not download.</span></span>
 
-<span data-ttu-id="c77e0-104">有关详细信息，请参阅[启用 SharePoint 和 OneDrive 中 Office 文件的敏感度标签](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)。</span><span class="sxs-lookup"><span data-stu-id="c77e0-104">For more information, see: [Block downloads for view-only files in SharePoint and OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span></span>
+<span data-ttu-id="fa630-104">有关详细信息，请参阅[启用 SharePoint 和 OneDrive 中 Office 文件的敏感度标签](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)。</span><span class="sxs-lookup"><span data-stu-id="fa630-104">For more information, see: [Block downloads for view-only files in SharePoint and OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)</span></span>
