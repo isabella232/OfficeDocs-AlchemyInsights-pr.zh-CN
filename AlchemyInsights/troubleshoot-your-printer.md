@@ -2,7 +2,7 @@
 title: 打印机疑难解答
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 9fd1dc7cfd9d866950a9252f760c2808dd8b5f55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689872"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830464"
 ---
 # <a name="troubleshoot-your-printer"></a>打印机疑难解答
 
@@ -29,7 +29,7 @@ ms.locfileid: "47689872"
 
 3. 重新插回打印机，然后重新开启打印机。
 
-如果还是不能解决问题，请转到**开始 > 设置 > 更新和安全 > 疑难解答**，运行打印机疑难解答程序。 单击**打印机**，然后单击**运行故障排除程序**。
+如果还是不能解决问题，请转到 **开始 > 设置 > 更新和安全 > 疑难解答**，运行打印机疑难解答程序。 单击 **打印机**，然后单击 **运行故障排除程序**。
 
 **如果打印机通过网络连接连接到你的电脑**（如果着急使用，可以使用USB电缆将打印机直接插入电脑来快速运行计算机）：
 
@@ -41,7 +41,7 @@ ms.locfileid: "47689872"
 
 2. **将电脑的网络连接与打印机连接匹配**。
 
-    - 单击**开始 > 设置 > 网络和 Internet**。
+    - 单击 **开始 > 设置 > 网络和 Internet**。
 
     - 在“**网络状态**”下，查找你的网络名称。 这需要与打印机的连接名称完全匹配。
 
@@ -51,7 +51,7 @@ ms.locfileid: "47689872"
 
 1. **在设置中删除打印机**。
 
-    - 单击**开始 > 设置 > 设备 > 打印机和扫描仪**。
+    - 单击 **开始 > 设置 > 设备 > 打印机和扫描仪**。
 
     - 在“打印机和扫描仪”标题下，单击要进行故障排除的打印机。 单击“**删除设备**”。 按照说明完全删除打印机。
 
@@ -69,6 +69,6 @@ ms.locfileid: "47689872"
 
 4. **在设置中重新安装计算机**。
 
-    - 单击**开始 > 设置 > 设备> 打印机和扫描仪**。
+    - 单击 **开始 > 设置 > 设备> 打印机和扫描仪**。
  
     - 单击屏幕顶部的“**添加打印机或扫描仪**”并根据说明重新安装计算机。

@@ -1,8 +1,8 @@
 ---
-title: 同步警告：上次同步时间超过3天前
+title: 同步警告：上次同步时间超过 3 天
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 0263dd1e7490e5fecb461fecaff875194acb9e60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 786178b1cea84d1e01a43ce4c84df0a3846953c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831076"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>同步警告：上次同步时间超过3天前
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>同步警告：上次同步时间超过 3 天
 
-有关其他故障排除，请参阅 [修复目录同步的问题](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)。
+有关其他疑难解答，请参阅 [修复目录同步问题](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)。
 
-您可以按照 [查看目录同步状态](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)中的说明，在 Office 管理门户中检查同步状态。
+可以按照查看目录同步状态 中的说明在 Office 管理门户 [中检查同步状态](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)。
 

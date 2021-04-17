@@ -2,7 +2,7 @@
 title: 缺少笔记本
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667148"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831652"
 ---
-# <a name="recover-missing-notebook"></a>恢复丢失的笔记本
+# <a name="recover-missing-notebook"></a>恢复缺少的笔记本
 
-如果最近删除了 OneDrive 上的笔记本，可以按照[还原 onedrive 中删除的文件或文件夹](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)中的步骤进行恢复
+如果 OneDrive 上的笔记本被意外删除，可以按照在 OneDrive 中还原已删除文件或文件夹中的步骤 [恢复它](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-默认情况下，你可以在30天内通过执行[还原已删除 onedrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)中的步骤，在已删除的 onedrive 中恢复笔记本
+默认情况下，你可以按照还原已删除的 OneDrive 中的步骤在 30 天内恢复已删除 [OneDrive 上的笔记本](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote 使用的帐户可能与预期的不同。 如果除了你的个人 Microsoft 帐户之外，还有工作或学校提供的帐户，你需要添加其他帐户以查看你的所有笔记本 (参考有关如何 [在 OneNote 中添加帐户](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)的说明。
+OneNote 使用的帐户可能不同于预期。 如果你拥有工作或学校提供的帐户以及你的个人 Microsoft 帐户，你将需要添加其他帐户以查看所有笔记本 (请参阅有关如何在 [OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)中添加帐户的说明。

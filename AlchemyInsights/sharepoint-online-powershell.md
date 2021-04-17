@@ -2,7 +2,7 @@
 title: Sharepoint Online PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: b7580f0e609d21bdc13fc07fda0bfd15bdb7a7ca
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709060"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830572"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
-在 Sharepoint Online 中使用 PowerShell 或脚本？ 有关详细信息，请访问以下链接。
+在 Sharepoint Online 中使用 PowerShell 或脚本 有关详细信息，请访问以下链接。
 - [SharePoint Online 命令行管理程序入门](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [使用多重身份验证和 MFA (连接到 SPO PowerShell) ](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint 模式和做法 (PnP) ](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) 包含一个 PowerShell 命令库，允许您对 SPO 执行复杂的管理操作。
+- [通过多重身份验证和 MFA (SPO PowerShell) ](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint Patterns and Practices (PnP) ](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contains a library of PowerShell commands that allows you to perform complex management actions to SPO.
 
 > [!NOTE]
 > - 如果在与 SPO 命令行管理程序连接时遇到问题，请确保已更新到最新版本，并尝试使用 *"Import-Module Microsoft.Online.SharePoint.PowerShell"* 重新导入模块。 [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1)
 > - 如果您尝试运行客户端对象模型脚本，则需要在本地计算机上安装[Sharepoint Online 客户端组件 SDK。](https://www.microsoft.com/download/details.aspx?id=42038)
-> - 如果在从 PowerShell 运行脚本时遇到问题，您可能需要考虑以管理员角色运行 PowerShell 并更改 [执行策略](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
+> - 如果在从 PowerShell 运行脚本时遇到问题，可能需要考虑以管理员角色运行 PowerShell 并更改 [执行策略](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
