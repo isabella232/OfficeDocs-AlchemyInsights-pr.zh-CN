@@ -2,7 +2,7 @@
 title: 在 Azure 中取消订阅
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791352"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819574"
 ---
 # <a name="cancel-subscription"></a>取消订阅
 
@@ -25,7 +25,7 @@ ms.locfileid: "48791352"
 
 1. 从 [Azure 门户的“订阅”页面](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)中选择你的订阅。
 2. 选择想要取消的订阅。
-3. 选择“ **概述** ”，然后选择“ **取消订阅** ”。
+3. 选择“**概述**”，然后选择“**取消订阅**”。
 
 **我取消订阅后会发生什么？**
 
@@ -33,7 +33,7 @@ ms.locfileid: "48791352"
 
 取消后，你的服务将被禁用。 这意味着虚拟机将被解除分配、临时 IP 地址将被释放，并且存储区将变成只读。
 
-取消订阅后，Microsoft 将在等待 30 - 90 天后才永久删除数据，以防你需要访问它们或改变主意。 我们不会向你收取保留数据的费用。 若要了解详细信息，请参阅 [Microsoft 信任中心 - 我们会如何管理你的数据](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409)。
+取消订阅后，Microsoft 将在等待 30 - 90 天后才永久删除数据，以防你需要访问它们或改变主意。 我们不会向你收取保留数据的费用。 若要了解详细信息，请参阅 [Microsoft 信任中心 - 我们如何管理你的数据](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409)。
 
 **取消 Azure 订阅**
 
