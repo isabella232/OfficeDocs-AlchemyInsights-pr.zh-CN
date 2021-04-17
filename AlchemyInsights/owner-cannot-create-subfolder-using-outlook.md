@@ -2,7 +2,7 @@
 title: 所有者无法使用 Outlook 创建子文件夹
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665708"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836125"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a><span data-ttu-id="24cc8-102">所有者无法使用 Outlook 创建子文件夹</span><span class="sxs-lookup"><span data-stu-id="24cc8-102">Owner cannot create sub-folder using Outlook</span></span>
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a><span data-ttu-id="53e45-102">所有者无法使用 Outlook 创建子文件夹</span><span class="sxs-lookup"><span data-stu-id="53e45-102">Owner cannot create sub-folder using Outlook</span></span>
 
-<span data-ttu-id="24cc8-103">**在公用文件夹所有者使用 Outlook 创建子文件夹时一直都存在问题。该问题将很快得到修复。**</span><span class="sxs-lookup"><span data-stu-id="24cc8-103">**There's an ongoing issue with public folder owners creating subfolders using Outlook. The issue will be fixed soon.**</span></span>
+<span data-ttu-id="53e45-103">**在公用文件夹所有者使用 Outlook 创建子文件夹时一直都存在问题。该问题将很快得到修复。**</span><span class="sxs-lookup"><span data-stu-id="53e45-103">**There's an ongoing issue with public folder owners creating subfolders using Outlook. The issue will be fixed soon.**</span></span>
 
-<span data-ttu-id="24cc8-104">在此期间，请使用以下解决方法中的一个：</span><span class="sxs-lookup"><span data-stu-id="24cc8-104">Meanwhile, use one of the following workarounds:</span></span>
+<span data-ttu-id="53e45-104">在此期间，请使用以下解决方法中的一个：</span><span class="sxs-lookup"><span data-stu-id="53e45-104">Meanwhile, use one of the following workarounds:</span></span>
 
-1. <span data-ttu-id="24cc8-105">使用 Outlook for MAC 创建子文件夹，因为此问题仅影响 Windows 中的 Outlook 桌面版（所有版本）</span><span class="sxs-lookup"><span data-stu-id="24cc8-105">Use Outlook for MAC to create the subfolder as the issue impacts only Outlook for desktop windows (all versions)</span></span>
-2. <span data-ttu-id="24cc8-106">请管理员使用 EXO Shell 或 EAC 创建子文件夹</span><span class="sxs-lookup"><span data-stu-id="24cc8-106">Have admin create the subfolder using EXO Shell or EAC</span></span>
-3. <span data-ttu-id="24cc8-107">将用户上的 DefaultPublicFolderMailbox/EffectivePublicFolderMailbox 更改为导致问题的文件夹的内容邮箱以外的其他邮箱</span><span class="sxs-lookup"><span data-stu-id="24cc8-107">Change the DefaultPublicFolderMailbox/EffectivePublicFolderMailbox on the user to other mailbox than the Content Mailbox for the folder causing issue</span></span>  
-    - <span data-ttu-id="24cc8-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span><span class="sxs-lookup"><span data-stu-id="24cc8-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span></span>
-4. <span data-ttu-id="24cc8-109">稍等片刻，然后重新启动 Outlook 客户端</span><span class="sxs-lookup"><span data-stu-id="24cc8-109">Wait for an hour, restart outlook client</span></span>
+1. <span data-ttu-id="53e45-105">使用 Outlook for MAC 创建子文件夹，因为此问题仅影响 Windows 中的 Outlook 桌面版（所有版本）</span><span class="sxs-lookup"><span data-stu-id="53e45-105">Use Outlook for MAC to create the subfolder as the issue impacts only Outlook for desktop windows (all versions)</span></span>
+2. <span data-ttu-id="53e45-106">请管理员使用 EXO Shell 或 EAC 创建子文件夹</span><span class="sxs-lookup"><span data-stu-id="53e45-106">Have admin create the subfolder using EXO Shell or EAC</span></span>
+3. <span data-ttu-id="53e45-107">将用户上的 DefaultPublicFolderMailbox/EffectivePublicFolderMailbox 更改为导致问题的文件夹的内容邮箱以外的其他邮箱</span><span class="sxs-lookup"><span data-stu-id="53e45-107">Change the DefaultPublicFolderMailbox/EffectivePublicFolderMailbox on the user to other mailbox than the Content Mailbox for the folder causing issue</span></span>  
+    - <span data-ttu-id="53e45-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span><span class="sxs-lookup"><span data-stu-id="53e45-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span></span>
+4. <span data-ttu-id="53e45-109">稍等片刻，然后重新启动 Outlook 客户端</span><span class="sxs-lookup"><span data-stu-id="53e45-109">Wait for an hour, restart outlook client</span></span>
