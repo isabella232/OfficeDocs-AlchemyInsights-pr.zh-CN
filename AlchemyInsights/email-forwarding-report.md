@@ -21,7 +21,7 @@ ms.locfileid: "51692240"
 ---
 # <a name="email-forwarding-report"></a>电子邮件转发报告
 
-若要查看你的组织中有多少自动转发邮件的报告，请在[Microsoft 365 的安全&amp;合规中心](https://protection.office.com/#/homepage)的[安全与合规中心中查看自动转发的邮件见解](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report)。
+若要查看你的组织中有多少自动转发邮件的报告，请在[Microsoft 365 的安全&amp;合规中心](https://protection.office.com/#/homepage)查看[安全与合规中心中自动转发的邮件见解](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report)。
   
 请注意：如果这是你首次登录安全 &amp; 合规中心，则可能需要在几分钟后刷新浏览器以查看所有可用选项。
   
