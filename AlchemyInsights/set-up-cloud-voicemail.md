@@ -23,7 +23,7 @@ ms.locfileid: "51692852"
 
 - [设置云语音邮件](https://docs.microsoft.com/microsoftteams/set-up-phone-system-voicemail) 
 - [Microsoft Teams 附加许可](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing) 
-- 具有本地环境的 Microsoft Teams 电话：[为本地用户配置云语音邮件服务](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
-- [Microsoft 365 的 Microsoft Teams 通话套餐](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
+- 在本地环境使用的 Microsoft Teams 电话：[为本地用户配置云语音邮件服务](https://docs.microsoft.com/skypeforbusiness/hybrid/configure-cloud-voicemail) 
+- [适用于 Microsoft 365 的 Microsoft Teams 通话套餐](https://docs.microsoft.com//microsoftteams/calling-plans-for-office-365) 
 
 如果语音邮件未送达，请参阅[在 Teams 或 Skype for Business 客户端中语音邮件未送达](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/hybrid-phone-system/voicemails-not-delivered)。
