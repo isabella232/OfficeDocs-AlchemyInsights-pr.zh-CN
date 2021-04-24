@@ -1,5 +1,5 @@
 ---
-title: DLP 策略提示无法正常工作
+title: DLP 策略提示无法工作
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
+ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679575"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51958692"
 ---
 # <a name="dlp-policy-tip-issues"></a>DLP 策略提示问题
 
 **重要信息：** 在这段前所未有的时期，我们正在采取措施确保 SharePoint Online 和 OneDrive 服务高度可用，请访问 [SharePoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)，获取详细信息。
 
-**DLP 策略提示**
+若要在完全强制执行模式下在安全与合规&配置 DLP 策略的策略提示，请执行下列操作：
 
-使用 **DLP 策略**时，用户可以收到策略 **提示**冲突的通知。 管理员可以配置在测试其 DLP 策略时或策略处于完全强制模式时显示的策略提示。
-  
-若要在完全强制模式下的安全与合规中心中的 DLP 策略上配置策略提示，请执行以下操作：
-  
-- 使用[此处](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)的步骤，确保已在 DLP 规则上**启用**策略提示。
+- 确保已在 DLP **规则** 上启用策略提示。 有关步骤，请参阅 [发送电子邮件通知和显示 DLP 策略的策略提示](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)。
 
-- 确保您的内容与在[此处](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)触发本文中所述规则**所需**的**内容相匹配**。
+- 确保内容与触发敏感信息类型实体定义中概述的规则 [所需的内容匹配](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)。
 
-- 在 OWA 和 Outlook 中显示策略提示。 但是，使用 **Outlook 2013 或更高版本**时，策略提示仅在特定条件下显示。 下面列出了这些条件： [适用于 Outlook 2013 或更高版本的支持条件，用于显示策略提示](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- 策略提示同时显示在 OWA 和 Outlook 中。 但是，在使用 Outlook 2013 或更高版本时，策略提示仅在某些条件下显示。 有关特定条件列表，请参阅 Supported [conditions for Outlook 2013 or later for displaying Policy Tips](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)。
 
-有关 DLP 策略提示的详细信息，请参阅：[显示策略提示的 dlp](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)策略
-  
+有关 DLP 策略提示的信息，请参阅 [DLP Policy Tips Reference](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) and Support Matrix for DLP Policy [tips](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps)。
