@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107499"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233503"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>部署加载项Microsoft 365 应用版
 
 建议使用集中部署将外接程序Office组织内部的用户和组。 若要部署外接程序，请按照以下步骤操作：
 
-**注意：** 若要以单个用户Office加载项，请参阅在加载项程序中查看、管理和Office [加载项](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)。 此外，请确保启用单独Office应用商店加载项的购置。 
+**注意：** 若要以单个用户Office加载项，请参阅在加载项程序中查看、管理和Office [加载项](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)。 此外，请确保启用单独Office应用商店加载项的购置。 有关详细信息，请参阅通过在所有客户端上关闭 Office [Store 阻止](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)外接程序下载 (除Outlook) 。
 
 1. 确保您的环境满足使用集中部署部署外接程序的要求。 有关详细信息，请参阅 [要求](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)。
 2. 转到 **设置**  >  **集成应用** 在 Microsoft 365 管理中心获取  >  应用以部署外接程序。 
@@ -41,7 +41,7 @@ ms.locfileid: "52107499"
 
 - 如果使用集成应用部署加载项时遇到问题，请尝试使用加载项 [进行部署](https://admin.microsoft.com/AdminPortal/Home?#/Settings/AddIns)。
 
-有关更多信息，请参阅：
+有关详细信息，请参阅：
 
 [在管理中心部署外接程序](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
 [在管理中心管理外接程序](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 

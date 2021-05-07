@@ -1,5 +1,5 @@
 ---
-title: 正在创建你的用户的邮箱
+title: 正在创建用户的邮箱
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796242"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261798"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>用户邮箱创建花费了很长时间
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>用户邮箱创建需要很长时间
 
-在新邮箱准备好使用前，可能需要长达24小时。
+新邮箱可能需要 24 小时才能准备好使用。
   
-如果用户的邮箱的 "正在准备" 的时间超过一小时，请尝试删除用户的 Exchange 许可证并重新添加它，或 [与支持人员联系](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online)。
+如果用户的邮箱已"正在准备"超过一小时，请尝试从用户中删除 Exchange 许可证，然后重新添加它，或[联系支持人员](/microsoft-365/admin/contact-support-for-business-products?tabs=online)。
