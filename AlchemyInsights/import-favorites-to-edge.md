@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9447"
+- "11023"
 - "9005491"
-ms.openlocfilehash: 056e9b2c4d60a7f15eed26c8a38d3c50cc81aecd
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+- "9006474"
+ms.openlocfilehash: a4636532111248d91a2e2b3d52fcc2e896aa7cd5
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51441152"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470232"
 ---
 # <a name="import-favorites-from-google-chrome-or-mozilla-firefox-to-microsoft-edge"></a>将收藏夹从 Google Chrome 或 Mozilla Firefox 导入到 Microsoft Edge
 
