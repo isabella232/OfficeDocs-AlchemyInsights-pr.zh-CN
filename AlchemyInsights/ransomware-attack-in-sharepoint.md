@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 6c48ebc0bccba40398b64f7002291cf844e10fc9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7781a999bf12b531fac3934181cdaeacaf3a8d2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771414"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542667"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>SharePoint 或 OneDrive 中的勒索软件攻击
 
-1.  如果你正在寻找有关在 OneDrive 或 SharePoint 或团队中找到恶意文件时要采取的操作的帮助，请参阅 [当发现恶意文件时要执行的操作](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)。
-2. 如果你想要了解如何保护勒索软件中的数据，请参阅：
-    - [在 SharePoint 和 OneDrive 中保护数据](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [勒索软件威胁防护](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  如果你正在查找有关在 OneDrive 或 SharePoint 或 Teams 上发现恶意文件时要执行哪些操作的帮助，请参阅找到恶意文件时[要执行哪些操作](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)。
+2. 如果你正在寻找如何保护你的数据不使用勒索软件，请参阅：
+    - [保护数据在SharePoint OneDrive](/sharepoint/safeguarding-your-data) 
+    - [勒索软件威胁防护](/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  您的 OneDrive 或 SharePoint 上的所有文件是否受勒索软件或恶意软件或加密病毒的影响？ 
+3.  你的软件上的所有OneDrive或SharePoint受到勒索软件、恶意软件或加密病毒的影响？ 
 
-立即停止/暂停 OneDrive Sync (如果任何) 或断开的资源管理器视图从受影响的计算机映射到库 (如果有任何) ，然后可以使用 "文件还原" 功能将整个 OneDrive 或 SharePoint 库还原到以前的某个时间。 
+如果有任何) 或断开从受影响的计算机 (（如果有) ）映射到库的资源管理器视图，则立即停止/暂停 OneDrive Sync (，然后可以使用文件还原功能将整个 OneDrive 或 SharePoint 库还原到上一时间。 
 
-有关如何还原的详细信息，请参阅：
+若要详细了解如何还原，请参阅：
 
 - [还原 OneDrive 库](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 - [还原文档库](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-有关 (ATP) 的高级威胁防护的详细信息，请参阅：
-- [SharePoint、OneDrive 和团队的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [威胁资源管理器视图](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+有关 Microsoft Defender for Office 365，请参阅：
+- [Microsoft Defender for Office 365 for SharePoint、OneDrive 和 Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [威胁资源管理器视图](/microsoft-365/security/office-365-security/threat-explorer-views)
 
 其他信息：
 
-- [SPO 中的病毒检测](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [ODB 和 SPO 中的数据加密](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [SPO 中的病毒检测](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [ODB 和 SPO 中的数据加密](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [勒索软件检测和恢复文件](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [威胁资源管理器和实时检测](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+- [威胁资源管理器和实时检测](/microsoft-365/security/office-365-security/threat-explorer-views)

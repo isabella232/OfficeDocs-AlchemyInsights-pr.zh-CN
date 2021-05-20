@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: a8d5ad2246b9b83e1e0a4d5be4dd8bb41c16e734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39f180852fd0438597fa1ce665b2703fbc7b1aa4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "49768346"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539670"
 ---
 # <a name="issues-installing-microsoft-defender-on-mac-or-linux"></a>有关在 Mac 或 Linux 上安装 Microsoft Defender 的问题
 
 **Mac**
 
-- 在安装 Mac 版 Microsoft Defender ATP 前确保满足系统要求。 有关更多信息，请参阅[如何安装 Mac 版 Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)。  
+- 在安装 Mac 版 Microsoft Defender ATP 前确保满足系统要求。 有关更多信息，请参阅[如何安装 Mac 版 Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#how-to-install-microsoft-defender-atp-for-mac)。  
 - 检查此文件中的信息："/Library/Logs/Microsoft/mdatp/install.log"。
 
 **Linux**
 
-- 在安装 Linux 版 Microsoft Defender ATP 前确保满足系统要求。 有关更多信息，请参阅[如何安装 Linux 版 Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)。 
-- 要验证 MDATP 服务正在允许，请参阅[安装失败](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)。  
-    如果服务未运行，要故障排除和解决问题，请参阅[mdatp 服务未运行时故障排除步骤](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)。
-- 客户端配置用于验证产品的健康，有关检查客户端配置步骤和运行检测测试 EICAR 文本文件的信息，请参阅[客户端配置](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)。  
+- 在安装 Linux 版 Microsoft Defender ATP 前确保满足系统要求。 有关详细信息，请参阅[如何安装 Linux 版 MDATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)。 
+- 要验证 MDATP 服务正在允许，请参阅[安装失败](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#installation-failed)。  
+    如果服务未运行，要故障排除和解决问题，请参阅[mdatp 服务未运行时故障排除步骤](/windows/security/threat-protection/microsoft-defender-atp/linux-support-install#steps-to-troubleshoot-if-mdatp-service-isnt-running)。
+- 客户端配置用于验证产品的健康，有关检查客户端配置步骤和运行检测测试 EICAR 文本文件的信息，请参阅[客户端配置](/windows/security/threat-protection/microsoft-defender-atp/linux-install-manually#client-configuration)。  
 
-    **注意** 要查看受支持的文件系统的访问活动列表，请参与[Linux 版 Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)。
+    **注意** 要查看受支持的文件系统的访问活动列表，请参与 [Linux 版 Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)。
