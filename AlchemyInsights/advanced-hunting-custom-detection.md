@@ -1,5 +1,5 @@
 ---
-title: 9001220高级搜寻自定义检测
+title: 9001220 高级搜寻自定义检测
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801505"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542991"
 ---
 # <a name="advanced-hunting-custom-detections"></a>高级搜寻自定义检测
 
-您可以了解如何创建和管理基于高级搜寻查询的自定义检测规则。 使用自定义检测，可以主动监视和响应各种事件和系统状态，包括可疑的入侵活动和错误配置的设备。 可以使用自动触发通知和响应操作的可自定义检测规则执行此操作
+你可以了解如何创建和管理基于高级搜寻查询的自定义检测规则。 通过自定义检测，你可以主动监视和响应各种事件和系统状态，包括可疑的泄露活动和错误配置的设备。 为此，可以使用可自动触发警报和响应操作且可自定义的检测规则
   
-如果使用的是 Microsoft Defender ATP，请参阅以下主题获取详细信息： 
-- [自定义检测概述](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [创建自定义检测规则](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [查看和管理自定义检测规则](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+如果您使用的是 Microsoft Defender ATP，请参阅以下主题了解详细信息： 
+- [自定义检测概述](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [创建自定义检测规则](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [查看和管理自定义检测规则](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-如果使用的是 Microsoft 365 Defender，请参阅以下主题获取详细信息： 
-- [自定义检测概述](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [创建和管理自定义检测规则](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+如果你使用的是 Microsoft 365 Defender，请参阅以下主题了解详细信息： 
+- [自定义检测概述](/microsoft-365/security/mtp/custom-detections-overview)
+- [创建和管理自定义检测规则](/microsoft-365/security/mtp/custom-detection-rules)

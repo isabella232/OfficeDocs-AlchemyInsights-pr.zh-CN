@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801217"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542883"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- 安全附件、安全链接和反网络钓鱼是 Microsoft Defender for Office 365 (ATP) 的一部分。 企业版 E5、教育版 A5 和 Microsoft 365 商业高级版包括 ATP。 所有其他计划都需要附加的 ATP 订阅。
+- 保险箱附件保险箱链接和防钓鱼是 Microsoft Defender for Office 365。 EnterpriseE5、教育版 A5 和 Microsoft 365 商业高级版包括 Microsoft Defender for Office 365。 所有其他计划都需要 Microsoft Defender for Office 365订阅。
 
-- 您需要分配适当的许可证，以保护您的用户的 Office 365 ATP。 请参阅 [本主题](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ，了解有关如何将许可证批量应用到您的用户的说明。
+- 你需要分配适当的许可证，以便通过 Microsoft Defender for Office 365。 有关如何 [向用户批量](/microsoft-365/admin/add-users/add-users) 应用许可证的说明，请参阅同时添加用户和分配许可证。
 
-- 全局管理员或安全管理员可以在 **威胁 Managmeent** 策略中访问安全 & 合规中心中的 Office 365 ATP 功能 \> **Policy** 。
+- 全局管理员或安全管理员可以访问 Microsoft Defender，Office 365安全与合规中心的"威胁&策略"**中提供的功能** \> 。
 
-- 可以将安全附件和安全链接策略的范围限定为您的整个组织、特定域或较小的用户组。
+- 保险箱附件和保险箱链接策略可以作用域为整个组织、特定域或较小的用户组。
 
-- 没有默认的 ATP 安全附件策略。 您需要 [创建一个策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) 并将其应用到您的用户。
+- 没有默认的"附件保险箱策略。 你需要创建 [一个策略](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ，并应用到你的用户。
 
-- 有一个适用于组织中每个人的默认 ATP 安全链接策略。 若要编辑此策略或创建自定义策略，请参阅 [本主题](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)。
+- 有一个适用于保险箱中的每个人的默认链接策略。 若要编辑此策略或创建自定义策略，请参阅在 Microsoft Defender 中设置保险箱[链接策略Office 365。](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

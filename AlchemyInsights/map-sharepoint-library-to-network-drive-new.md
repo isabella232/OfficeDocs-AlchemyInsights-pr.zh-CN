@@ -1,5 +1,5 @@
 ---
-title: 将 SharePoint 库映射到网络驱动器
+title: 将SharePoint库映射到网络驱动器
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806173"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542811"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>将 SharePoint 库映射到网络驱动器
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>将SharePoint库映射到网络驱动器
 
-将库映射为网络驱动器是临时的，并且仅支持通过 Internet Explorer 实现。 您必须偶尔在 Internet Explorer 中打开 SharePoint 网站，并选择 **"保持登录** 状态" 以阻止会话过期。 而是[使用新的 OneDrive 同步客户端同步 SharePoint 文件](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)，该客户端 </a> [根据需要提供文件](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e)。 无需本地存储空间即可访问所有 OneDrive 中的文件。
+与映射网络驱动器不同，SharePoint新的 OneDrive 同步客户端同步文件，该客户端提供按需文件。 无需本地存储空间即可访问所有 OneDrive 中的文件。 有关详细信息，请参阅[Sync SharePoint and Teams files with your computer](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)和 Save disk space with OneDrive Files [On-Demand for Windows 10](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)。
 
-如果选择映射驱动器，而不是 [使用新的 OneDrive 同步客户端](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)，请确保按照以下文章中的步骤操作。 
+如果你选择映射驱动器而不是使用新的 OneDrive[同步客户端，](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)请确保按照以下步骤操作：
 
+- [对连接到 SharePoint Online 的映射的网络驱动器进行故障排除](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**如何配置映射的网络驱动器并对其进行疑难解答**
+- [当客户端不支持 TLS 1.2 时，将发生身份验证错误](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-请参阅 [疑难解答连接到 SharePoint Onlines 的映射网络驱动器](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)。
-
-注意：如果在 Windows 8 或 Windows 7 中使用 Internet Explorer 10，并且在映射驱动器时接收 **访问被拒绝** 或 **路径不可访问** ，请安装 [此修补程序](https://support.microsoft.com/help/2846960) 以解决此问题。 
+**注意：** 如果使用 Internet Explorer 10 或 Windows 8 Windows 7，并且映射驱动器时收到访问被拒绝或路径不可访问，请安装此修补程序来 [解决此问题。](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)
