@@ -1,5 +1,5 @@
 ---
-title: 为 SharePoint、OneDrive 和 Microsoft 团队启用 Office 365 ATP
+title: 为Office 365、SharePoint和OneDrive启用 ATP Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801037"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543918"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>为 SharePoint Online、OneDrive 和 Microsoft 团队启用 Microsoft Defender for Office 365
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>为 Office 365 Online SharePoint、OneDrive 和 Microsoft Teams 启用 Microsoft Defender for Microsoft Teams
 
 1. 转到 https://protection.office.com 并登录。
-2. 选择 **威胁管理**  >  **策略**  >  **安全附件** 。
-3. 选择 " **启用 SharePoint、OneDrive 和 Microsoft 团队的 ATP** "，然后单击 " **保存** "。
-4.  (推荐) 为全局管理员或 SharePoint Online 管理员，请运行 [set-spotenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet，并将 **DisallowInfectedFileDownload** 参数设置为 *true* 。
-5.  (建议的) 为检测到的文件 [设置通知](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 。
+2. 选择 **"威胁管理**  >  **策略**  >  **保险箱附件"。**
+3. 选择 **打开 Defender for Office 365 for SharePoint、OneDrive 和 Microsoft Teams，****然后单击保存。**
+4.  (建议) 全局管理员或 SharePoint Online 管理员，运行 [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet，将 **DisallowInfectedFileDownload** 参数设置为 *true。*
+5.  (推荐) [设置检测到的文件](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) 的警报。
 
 > [!NOTE]
-> ATP 将在 SharePoint Online、OneDrive 或 Microsoft 团队中扫描每个单个文件。 文件通过使用共享和来宾活动事件的进程进行异步扫描，同时还通过智能启发和威胁信号来识别恶意文件。 请参阅 [适用于 SharePoint、OneDrive 和 Microsoft 团队的 ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)。
+> Microsoft Defender for Office 365不会扫描 SharePoint Online、OneDrive 或 Microsoft Teams。 通过使用共享和来宾活动事件以及智能启发和威胁信号识别恶意文件的过程，以异步方式扫描文件。 请参阅[Microsoft Defender for Office 365 for SharePoint、OneDrive 和 Microsoft Teams。](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

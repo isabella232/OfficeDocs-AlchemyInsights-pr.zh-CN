@@ -1,5 +1,5 @@
 ---
-title: '解决 Microsoft Defender for Office 365 中的问题 (ATP) '
+title: 解决 Microsoft Defender for Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801397"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544748"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>解决 Office 365 ATP 中的问题
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>解决 Microsoft Defender for Office 365
 
-- **注意电子邮件传递是否延迟** ？ 尝试对 ATP 安全附件策略使用动态传递选项。 这将避免电子邮件传递延迟，同时防止收件人受到恶意文件的攻击。
-- **是否要报告误报或漏报** ？ 使用此链接提交您的文件以供分析： [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **您是否知道您可以为组织中的人员发送的电子邮件启用 ATP 安全链接保护** ？ 请按以下步骤操作：
+- **注意电子邮件传递延迟？** 请尝试为 Microsoft Defender for Office 365 保险箱 策略使用动态传递选项。 这将避免电子邮件传递延迟，同时保护收件人免受恶意文件的攻击。
+- **是否要报告误报或漏报**？ 使用 [提交资源管理器](https://protection.office.com/reportsubmission)。
+- **你是否知道可以启用 Microsoft Defender for Microsoft Defender Office 365 保险箱在** 组织中人员之间发送的电子邮件的链接保护？ 请按以下步骤操作：
     1. 转到 https://protection.office.com ，然后登录。
-    2. 转到 " **威胁管理**  >  **策略**  >  **安全链接** "。
-    3. 在 " **适用于特定收件人的策略** " 下，编辑 (或添加) 策略。
-    4. 选择 " **将安全链接应用于在组织内发送的邮件"** 。
-    5. 保存您的策略，并大约等待30分钟，以使更改在您的数据中心中工作。
-- 若要获取有关 ATP 的更多帮助，请参阅 [Microsoft Defender For Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)。
+    2. 转到威胁 **管理**  >  **策略**  >  **保险箱链接。**
+    3. 在 **"适用于特定收件人的策略**"下，编辑 (或) 策略。
+    4. 选择 **"将安全链接应用于在组织内部发送的邮件"。**
+    5. 保存策略，并允许最多 30 分钟应用更改。
+
+- 若要获取有关 Microsoft Defender for Office 365 的更多帮助，请参阅[Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp)。

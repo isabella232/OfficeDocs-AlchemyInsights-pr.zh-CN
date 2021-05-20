@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489303"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544244"
 ---
 # <a name="subscription-no-longer-active"></a>订阅不再有效
 
@@ -26,8 +26,8 @@ ms.locfileid: "48489303"
 **重新激活订阅**
 
 1. 在管理中心中，转到 **“账单”** > [“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)页面。
-2. 在“**产品**”选项卡上，找到要重新激活的订阅。 选择“**更多操作**”（三个点），然后选择“**重新激活此订阅**”。
+2. 在“**产品**”选项卡上，找到要重新激活的订阅。选择三个点（更多操作），然后选择“**重新激活此订阅**”。
 3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 
-要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。

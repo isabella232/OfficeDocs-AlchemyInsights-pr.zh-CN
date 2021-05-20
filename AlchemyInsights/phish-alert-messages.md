@@ -1,5 +1,5 @@
 ---
-title: 2491通知电子邮件来自 "由于租户或用户替代而发送的网络钓鱼" 策略
+title: 2491 警报来自"由于租户或用户覆盖而传递的网络钓鱼"策略的电子邮件
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,29 +11,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 5b5faa08542cb5878107f10afb34427f636562ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b373423cf3e63b76a62465dd62076c023580e94
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728601"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544568"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>通知来自 "由于租户或用户替代的网络钓鱼传递" 策略的电子邮件
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>警报来自"由于租户或用户覆盖而传递的网络钓鱼"策略的电子邮件
 
-一个名为 "由于租户或用户替代而发送的网络钓鱼" 的默认通知策略已通过 Office 365 ATP P1 和 P2 许可证推出给租户。 如果你收到此通知，请查看以下步骤：
+名为"由于租户或用户覆盖而送达的网络钓鱼"的默认警报策略已推出给使用 Microsoft Defender 的租户，Office 365 P1 和 P2 许可证。 如果您收到此警报，以下是要调查的步骤：
 
-1. 在警告消息中，单击 " **查看通知** " 以转到安全 & 合规性中心中的 " **通知** " 页面。
+1. 从警报消息中，单击 **"查看警报**"以转到安全与合规中心&警报"页面。
 
-2. 选择警报以查看 **查看邮件列表** 的选项或 **查看资源管理器中的邮件**。 这两个选项都将您带到邮件的详细信息，其中包括邮件 ID。 请注意，威胁资源管理器链接将自动筛选符合警报条件的邮件。 您可能需要在威胁资源管理器中调整日期筛选器。
+2. 选择警报以查看查看邮件列表或在资源管理器 **中查看邮件的选项**。  这两个选项都使你可以查看邮件的详细信息，其中包括邮件 ID。 请注意，威胁资源管理器链接将自动筛选与警报条件匹配的邮件。 你可能需要在威胁资源管理器中调整日期筛选器。
 
-由于手动配置的替代，已传递网络钓鱼邮件：
+由于手动配置的覆盖，传送了网络钓鱼邮件：
 
 - 用户设置的允许发件人或域。
 
-- 由管理员在反垃圾邮件策略中设置的允许发件人或域。
+- 管理员在反垃圾邮件策略中设置的允许发件人或域。
 
 - 连接筛选器策略中允许的 IP 地址。
 
-- 邮件流规则 (也称为传输规则) ，配置为允许中的邮件。
+- 邮件流规则 (也称为传输规则) 配置为允许邮件使用的邮件流规则。
 
-如果您认为邮件被错误地标记为网络钓鱼，请使用 Outlook [报告邮件外接程序](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) 将邮件示例提交给 Microsoft。
+如果您认为邮件被错误地标记为网络钓鱼邮件，请使用 Outlook[报告邮件外接程序](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)将邮件示例提交给 Microsoft。

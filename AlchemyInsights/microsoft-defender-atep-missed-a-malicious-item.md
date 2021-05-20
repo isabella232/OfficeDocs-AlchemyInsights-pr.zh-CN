@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3203"
 - "9001221"
-ms.openlocfilehash: 634f6804a7b2bfe5ffde62e972bff541fdf3ff68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c06e9b017170fd23b12b11cf0aac98b2bf53db0d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725181"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544026"
 ---
 # <a name="microsoft-defender-atp-missed-a-malicious-item"></a>Microsoft Defender ATP 遗漏了一个恶意项
 
 - 请在 [Microsoft Defender 响应门户](https://www.microsoft.com/wdsi/filesubmission/)中将恶意文件提交给 Microsoft 以供分析。 
 - 如果已登录，请在 [Microsoft Defender 响应门户](https://www.microsoft.com/wdsi/submissionhistory)中查找文件的提交历史记录。
-- 有关详细信息，请参阅[提交文件进行分析](https://docs.microsoft.com/windows/security/threat-protection/intelligence/submission-guide)。
+- 有关详细信息，请参阅[提交文件进行分析](/windows/security/threat-protection/intelligence/submission-guide)。

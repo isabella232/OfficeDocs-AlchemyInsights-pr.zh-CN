@@ -13,17 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: afc84866a3dd9ecb30562bd185239c3d1695fd10
-ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52261876"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543781"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>自动完成列表在桌面版中滚动Outlook屏幕
 
-更新到 Outlook 桌面版 2104 (内部版本 13929.20296) 后，"自动完成"列表意外向上，可能会滚动到屏幕之外。 您可能未在列表中看到所有自动完成条目，并且无法向上滚动来访问它们。
+This issue is fixed in Version 2104 Build 13929.20386. 具有固定内部版本的更新预期将在 5 月 17 日这一周转到当前频道生产。 
 
-**状态：正在调查** Outlook团队正在调查此问题，将在提供详细信息时更新本文。
-
-有关最新状态，请参阅自动[完成列表滚动](https://support.microsoft.com/office/autocomplete-list-scrolls-off-the-screen-in-outlook-0247f165-697f-4238-b424-b03cd2582e2d?ui=en-US&rs=en-US&ad=US)屏幕Outlook。
+若要确认固定内部版本何时可用，请参阅更新历史记录[Microsoft 365 应用版 (按日期](/officeupdates/update-history-microsoft365-apps-by-date)) 。

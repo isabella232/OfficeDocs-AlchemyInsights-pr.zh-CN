@@ -15,23 +15,23 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 9218a6611bf830341b125d331d496a52bc782553
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: bde53301b351359012394304a2236f526a478a32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307404"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544424"
 ---
 # <a name="reactivate-your-subscription"></a>重新激活订阅
 
 如果订阅过期，或被 Microsoft 禁用，或者在订阅期取消订阅，可在管理中心重新激活它。
 
 1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
-2. 在“**产品**”选项卡上，找到要重新激活的订阅。 选择“**更多操作**”（三个点），然后选择“**重新激活此订阅**”。
+2. 在“**产品**”选项卡上，找到要重新激活的订阅。选择三个点（更多操作），然后选择“**重新激活此订阅**”。
 3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 
-要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **管理订阅续订**
 
@@ -43,4 +43,4 @@ ms.locfileid: "48307404"
 4. 在“**编辑定期计费设置**”窗格中，选择“**开**”，“**开，但续订一次**”或“**关**”。
 5. 选择“**保存**”。
 
-有关详细信息，请参阅[打开或关闭定期计费](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。
+有关详细信息，请参阅[打开或关闭定期计费](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)。

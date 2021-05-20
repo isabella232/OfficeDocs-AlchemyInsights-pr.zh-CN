@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798942"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544640"
 ---
 # <a name="set-up-spf"></a>设置 SPF
 
-更新 DNS 记录，以便可以将发件人策略框架 (SPF) 与自定义域结合使用，以验证从自定义域发送的出站电子邮件。 这有助于防止其他人 "哄骗" 邮件，就好像它是从您的域发送的一样。
+更新 DNS 记录，以便你可以将发件人策略框架 (SPF) 用于验证从自定义域发送的出站电子邮件。 这有助于防止其他人"欺骗"邮件，就像邮件从你的域发送一样。
   
-- [设置 SPF 以帮助防止欺骗](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [设置 SPF 以防止欺骗](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [帮助设置所有 DNS 记录](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [SPF 记录疑难解答](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [帮助设置所有 DNS 记录](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
