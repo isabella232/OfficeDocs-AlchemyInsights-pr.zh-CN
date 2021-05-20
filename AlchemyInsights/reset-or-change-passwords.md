@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810186"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569641"
 ---
 # <a name="reset-or-change-passwords"></a>重置或更改密码
 
-用户可以更改自己的密码，从我的 **帐户**  >  [安全&隐私](https://portal.office.com/account/#security)。
+用户可以通过选择"查看"帐户的用户照片或缩写来> **密码**。
   
 如果用户忘记了密码，管理员可以通过以下操作重置密码："用户""活动用户"，选择 (") "重置  >  [](https://portal.office.com/adminportal/home#/users)**密码"。**
   
-[单击此处了解详情](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)，或让用户重置自己的忘记密码。
+若要了解有关密码和允许用户重置自己的密码的更多信息，请参阅 [重置密码](/microsoft-365/admin/add-users/reset-passwords)。
