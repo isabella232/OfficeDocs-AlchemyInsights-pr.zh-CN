@@ -37,7 +37,7 @@ ms.locfileid: "52544134"
 
 1. 在管理中心中，转到“**用户”>“[活动用户](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**”。
 
-2. 选择用户，然后依次单击三个点（更多操作）和 **“编辑登录状态”**。
+2. 选择用户，然后单击三个点（更多操作）以及 **“编辑登录状态”**。
 
 有关更多密码重置方案（包括自助式密码重置），请参阅[重置 Microsoft 365 multiple-attempts-to-charge-online-payment-instrumentsbusiness 密码](/microsoft-365/admin/add-users/reset-passwords)。
 

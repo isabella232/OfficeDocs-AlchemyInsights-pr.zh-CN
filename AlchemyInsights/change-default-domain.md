@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815667"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569785"
 ---
 # <a name="change-default-domain"></a>更改默认域
 
@@ -26,7 +26,7 @@ ms.locfileid: "47815667"
 
 - 若要将默认域更改为现有域，请在“[域](https://admin.microsoft.com/Adminportal/Home#/Domains)”页面上选择相应域，然后选择“**设为默认值**”。
 
-- 若要为现有用户更改域名，请在“[活动用户](https://admin.microsoft.com/Adminportal/Home#/users)”页面上选择多个用户，选择“**...**”，然后选择“**更改域**”。
+- 若要为现有用户更改域名，请在 [活动用户页面](https://admin.microsoft.com/Adminportal/Home#/users)上选择多个用户，然后选择“**更改域**”。
 
 - 若要为单个用户更改域或添加别名，请在“[活动用户](https://admin.microsoft.com/Adminportal/Home#/users)”页面上选择相应用户名，然后选择“**管理用户名和电子邮件**”。
 

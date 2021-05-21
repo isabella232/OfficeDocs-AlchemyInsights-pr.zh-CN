@@ -40,4 +40,4 @@ ms.locfileid: "52544784"
 
 7. 选择有问题的用户，并验证用户是否有“**默认收费号码**”。
 
-如果需要更多关于购买 **Microsoft 音频会议** 许可证的帮助，请联系 [Microsoft Billing Support](https://go.microsoft.com/fwlink/p/?linkid=518322)。
+如果需要更多关于购买 **Microsoft 音频会议** 许可证的帮助，请联系 [Microsoft 账单支持](https://go.microsoft.com/fwlink/p/?linkid=518322)。
