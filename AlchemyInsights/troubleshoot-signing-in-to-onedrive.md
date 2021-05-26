@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: a3ad6d9769dab948cb83c04232bb3d8e937a5dc2
-ms.sourcegitcommit: 6900c2b7208ca51a9873dfc2e00be6f66cb25e3c
+ms.openlocfilehash: 2c9a390f38ecbba94698a352348e2e533a50ee17
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50243898"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626103"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>登录到OneDrive的故障排除
 
@@ -29,6 +29,7 @@ ms.locfileid: "50243898"
 
 **解决有关登录 OneDrive 同步客户端的问题**
 
+- 有关解决错误代码 0x004de40 的信息，请参阅 [登录 OneDrive 时遇到错误代码 0x8004de40](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)。
 - 通过访问OneDrive或SharePoint网站登录，然后点击网站菜单栏顶部的 **同步** 按钮。
 - 确保正在登录OneDrive for Business，而不是OneDrive.com。 如果访问的 URL 以 onedrive.live.com 开头，则不是 OneDrive for Business 的位置。 确保你登录OneDrive for Business的简单方法是通过这个链接：https://portal.office.com/onedrive 然后使用工作或学校帐户登录。
 - 如果仍然遇到问题，请考虑[充值OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c)。
@@ -43,9 +44,9 @@ ms.locfileid: "50243898"
 
 **登录Office与OneDrive同步的故障排除**
 
-如果你得到一个错误信息说 **上传受阻**，**登录到保存这个文件**，或 **保存副本**，可能需要[删除并从Office连接服务中重新连接OneDrive](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)。
+如果你得到一个错误信息说 **上传受阻**，**登录到保存这个文件**，或 **保存副本**，可能需要 [删除并从Office连接服务中重新连接OneDrive](https://support.microsoft.com/office/how-to-resolve-upload-blocked-sign-into-save-this-file-or-save-a-copy-error-messages-32c7340c-f5fb-4ca0-a829-65d8120f81f8)。
 
 **其他疑难解答提示**
 
-如果你是全局、许可证或用户管理员，[请将正确的许可证分配给受影响的用户](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
+如果你是全局、许可证或用户管理员，[请将正确的许可证分配给受影响的用户](/microsoft-365/admin/manage/assign-licenses-to-users)。
 
