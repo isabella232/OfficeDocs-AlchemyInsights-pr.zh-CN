@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809717"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694730"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>从 Exchange 管理中心恢复已删除的项目
 
@@ -28,3 +28,5 @@ ms.locfileid: "51809717"
 3. 选择“**恢复已删除邮件**”。
     - 可能需要在“**… 更多**”下拉列表中查找“**恢复已删除邮件**”。
 4. 使用筛选器选项查看需要恢复的项目。
+
+有关详细信息，请参阅[使用新版 EAC 恢复已删除邮件](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)。

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573736"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696876"
 ---
 # <a name="disable-chat"></a>禁用聊天
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573736"
 
 - **会议**：在 Teams 管理中心，转到“[会议策略](https://admin.teams.microsoft.com/) ”- 聊天设置是“**允许在会议中聊天**”。 有关创建自定义会议策略的详细信息，请参阅 [管理 Teams 中的会议策略](/microsoftteams/meeting-policies-in-teams) 和 [允许在会议中聊天](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)。
 
-- **消*息传递**：在 Teams 管理中心，转到“[消息传递策略](https://admin.teams.microsoft.com/)”，并切换“**打开聊天**”或“**关闭聊天**”。 有关自定义消息传递策略以及如何为用户分配策略的详细信息，请参阅 [在 Teams 中管理消息传递策略](/microsoftteams/messaging-policies-in-teams)。
+- **消息传递**：在 Teams 管理中心，转到“[消息传递策略](https://admin.teams.microsoft.com/)”，并切换“**打开聊天**”或“**关闭聊天**”。 有关自定义消息传递策略以及如何为用户分配策略的详细信息，请参阅 [在 Teams 中管理消息传递策略](/microsoftteams/messaging-policies-in-teams)。
 
 - **学生**：若要对学生禁用聊天，请在 [适用于教育的 Teams 策略和策略包](/microsoftteams/policy-packages-edu)中查看“允许在会议中聊天”和“允许一对一聊天”选项。
 
