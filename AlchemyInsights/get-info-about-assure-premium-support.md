@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426777"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702044"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a><span data-ttu-id="a664d-102">获取有关 Assure 和 Premium 辅助软件支持的信息</span><span class="sxs-lookup"><span data-stu-id="a664d-102">Get info about Assure and Premium assisted software support</span></span>
+# <a name="get-info-about-premium-assisted-software-support"></a><span data-ttu-id="46c79-102">获取有关 Premium 辅助软件支持的信息</span><span class="sxs-lookup"><span data-stu-id="46c79-102">Get info about Premium assisted software support</span></span>
 
-<span data-ttu-id="a664d-103">Microsoft 为 Windows 和 Office 软件提供多个一对一辅助支持选项：</span><span class="sxs-lookup"><span data-stu-id="a664d-103">Microsoft offers several one-on-one options for assisted support with Windows and Office software:</span></span>
+<span data-ttu-id="46c79-103">Microsoft 为 Windows 和 Office 软件提供多个一对一辅助支持选项：</span><span class="sxs-lookup"><span data-stu-id="46c79-103">Microsoft offers one-on-one options for assisted support with Windows and Office software:</span></span>
 
-- <span data-ttu-id="a664d-104">**Assure 软件支持**：一年 Office 和 Windows 软件支持</span><span class="sxs-lookup"><span data-stu-id="a664d-104">**Assure software support**: One year of Office and Windows software support</span></span>
-- <span data-ttu-id="a664d-105">**Windows Premium 技术支持**：一次 Windows 软件支持</span><span class="sxs-lookup"><span data-stu-id="a664d-105">**Windows Premium Technical Support**: One-time Windows software support</span></span>
-- <span data-ttu-id="a664d-106">**Office Premium 技术支持**：一次 Office 软件支持</span><span class="sxs-lookup"><span data-stu-id="a664d-106">**Office Premium Technical Support**: One-time Office software support</span></span>
+- <span data-ttu-id="46c79-104">**Windows Premium 技术支持**：一次 Windows 软件支持</span><span class="sxs-lookup"><span data-stu-id="46c79-104">**Windows Premium Technical Support:** one-time Windows software support</span></span>
 
-<span data-ttu-id="a664d-107">有关详细信息，请参阅[辅助软件支持选项：Assure 和 Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium)。</span><span class="sxs-lookup"><span data-stu-id="a664d-107">For more info, see [Assisted Software support options: Assure and Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium).</span></span>
+- <span data-ttu-id="46c79-105">**Office Premium 技术支持**：一次 Office 软件支持</span><span class="sxs-lookup"><span data-stu-id="46c79-105">**Office Premium Technical Support:** one-time Office software support</span></span>
 
-<span data-ttu-id="a664d-108">如果你已购买 Assure 订阅并且需要帮助，请在下方的聊天框中键入“**咨询专员**”。</span><span class="sxs-lookup"><span data-stu-id="a664d-108">If you've already purchased an Assure subscription and need help, type **talk to an agent** in the chat box below and tell the representative that you're an Assure subscriber.</span></span>
+<span data-ttu-id="46c79-106">**注意：** 如果已有“Assure”订阅，请注意，“Assure”不再作为支持选项提供。</span><span class="sxs-lookup"><span data-stu-id="46c79-106">**Note:** If you have an existing Assure subscription, be aware that Assure is no longer offered as a support option.</span></span> <span data-ttu-id="46c79-107">当前订阅在购买期间仍有效，但无法续订。</span><span class="sxs-lookup"><span data-stu-id="46c79-107">Your current subscription remains valid for the duration of time you've purchase but can't be renewed.</span></span>
 
