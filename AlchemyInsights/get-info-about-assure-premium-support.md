@@ -13,22 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "10136"
 - "9005723"
-ms.openlocfilehash: 5a796eb736c995eac9be390593096a4a6c006f7f
-ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
+ms.openlocfilehash: 56a5b3a452a353044807792a86a76b7e6e33c1b0
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51426777"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702044"
 ---
-# <a name="get-info-about-assure-and-premium-assisted-software-support"></a>获取有关 Assure 和 Premium 辅助软件支持的信息
+# <a name="get-info-about-premium-assisted-software-support"></a>获取有关 Premium 辅助软件支持的信息
 
 Microsoft 为 Windows 和 Office 软件提供多个一对一辅助支持选项：
 
-- **Assure 软件支持**：一年 Office 和 Windows 软件支持
 - **Windows Premium 技术支持**：一次 Windows 软件支持
+
 - **Office Premium 技术支持**：一次 Office 软件支持
 
-有关详细信息，请参阅[辅助软件支持选项：Assure 和 Premium](https://support.microsoft.com/help/4467230/assisted-software-support-options-assure-premium)。
-
-如果你已购买 Assure 订阅并且需要帮助，请在下方的聊天框中键入“**咨询专员**”。
+**注意：** 如果已有“Assure”订阅，请注意，“Assure”不再作为支持选项提供。 当前订阅在购买期间仍有效，但无法续订。
 
