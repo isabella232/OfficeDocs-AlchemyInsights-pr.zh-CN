@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470233"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721626"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365导入服务
 
-The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.
-
 若要访问导入服务并启动导入过程，请执行以下操作：
 
-1. 转到安全 [&](https://protection.office.com) 中心，然后使用组织中管理员帐户的凭据登录。
+1. 转到 [M365](https://compliance.microsoft.com/)合规中心，然后使用组织中管理员帐户的凭据登录。
 
-2. 在安全与合规中心的左 **&，单击**"信息治理>**导入"。**
+1. 在 M365 合规中心的左侧窗格中的"解决方案 **"下**，选择"**信息治理""导入**  >  **"。**
 
-3. 在"**导入"** 页上，单击"**新建导入作业"。**
+1. 在"**导入"** 页上，选择"**新建导入作业"。**
 
-4. 若要完成向导中的步骤，请按照以下 [分步说明操作](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)。
+1. 若要完成向导中的步骤，请参阅使用网络上传将组织的[PST](/compliance/use-network-upload-to-import-pst-files)文件导入Microsoft 365。
 
-**重要** 提示： **若要访问安全** 与合规中心&"导入"页面，你已分配  [有适当的权限](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)。
+若要访问 **"导入** "页，请确保你已分配有适当的权限。 有关详细信息，请参阅使用 [网络上传导入 PST 文件](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)。
 
-如果只想将 PST 导入到邮箱，请参阅 [本文](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)。
+如果要将 PST 导入邮箱，请参阅从[.pst](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)文件导入电子邮件、Outlook日历。
+
+如果您在导入时遇到问题，请参阅 [影响 PST 导入作业的问题](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)。
+
