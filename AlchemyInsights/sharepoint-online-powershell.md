@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830572"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774348"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
 在 Sharepoint Online 中使用 PowerShell 或脚本 有关详细信息，请访问以下链接。
-- [SharePoint Online 命令行管理程序入门](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [通过多重身份验证和 MFA (SPO PowerShell) ](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Patterns and Practices (PnP) ](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contains a library of PowerShell commands that allows you to perform complex management actions to SPO.
-
-> [!NOTE]
-> - 如果在与 SPO 命令行管理程序连接时遇到问题，请确保已更新到最新版本，并尝试使用 *"Import-Module Microsoft.Online.SharePoint.PowerShell"* 重新导入模块。 [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1)
-> - 如果您尝试运行客户端对象模型脚本，则需要在本地计算机上安装[Sharepoint Online 客户端组件 SDK。](https://www.microsoft.com/download/details.aspx?id=42038)
-> - 如果在从 PowerShell 运行脚本时遇到问题，可能需要考虑以管理员角色运行 PowerShell 并更改 [执行策略](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)。
+- [SharePoint Online 命令行管理程序入门](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [连接 MFA 中通过多重身份验证 (SPO PowerShell) ](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint PnP](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) (做法) 包含一个 PowerShell 命令库，可用于对 SPO 执行复杂的管理操作。

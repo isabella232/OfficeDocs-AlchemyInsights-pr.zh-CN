@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8002"
 - "5300030"
-ms.openlocfilehash: 1596df1f15a032663194ac897fc7dc63ceaa60d5
-ms.sourcegitcommit: 4e2d640a618c786700e8b276533554d51956f080
+ms.openlocfilehash: a9ca35432a152b33be46a7c42f47b924473d6897
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50716175"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774313"
 ---
 # <a name="migrate-files-from-dropbox"></a>从 Dropbox 迁移文件
 
-如果要从 Dropbox 迁移到 SharePoint Online，可以考虑使用 **Mover**。
+通过将 Dropbox 文档、数据和用户迁移到 Microsoft 365 中的 OneDrive、SharePoint 和 Teams，从而在一个位置协作。
 
-有关详细信息，请参阅 [授权 Dropbox 连接器](https://docs.microsoft.com/sharepointmigration/mover-dropbox)。
+有关详细信息，请参阅 [使用 Migration Manager将 Dropbox 迁移到 Microsoft 365](/sharepointmigration/mm-dropbox-overview)。
 
