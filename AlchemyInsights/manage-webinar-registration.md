@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11512"
 - "9006672"
-ms.openlocfilehash: c5b0721d286b07d7e0f84199885b6f527a2b42a2
-ms.sourcegitcommit: f7a9e97d04b7b6cbb633b32094d40f1874bf0fce
+ms.openlocfilehash: 0db6f434fa74970ac6083501ab26762cc6b7885f
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783137"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798634"
 ---
 # <a name="manage-webinar-registration"></a>管理网络研讨会注册
 
 你可以通过使用 Teams PowerShell 命令管理谁可以注册 Teams 网络研讨会。 要安装 Teams Powershell，请参阅 [Teams PowerShell](/microsoftteams/teams-powershell-install)。 
 
-默认情况下，*WhoCanRegister* 处于启用状态，并已设置为“**EveryoneInCompany**”。 要允许任何人（包括匿名用户）注册，必须通过使用以下 PowerShell 命令将会议策略设置为 **所有人**：
+默认情况下，*WhoCanRegister* 处于启用状态，并已设置为“**所有人**”。 
+
+如果在会议邀请中未看到允许所有人注册的选项，请重新运行设置 *WhoCanRegister* 为所有人，然后等待 24 小时。 要重新运行 *WhoCanRegister*，请使用 Powershell 命令：
 
 `Set-CsTeamsMeetingPolicy -WhoCanRegister Everyone`
 
