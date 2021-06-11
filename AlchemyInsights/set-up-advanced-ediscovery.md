@@ -2,6 +2,7 @@
 title: 设置高级电子数据展示
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: f3a74bf74fb0786227e3f6c9bd53af1c8bebe098
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 928eac7dc5455a96d8f49f60a368f098f8e322bb
+ms.sourcegitcommit: 29019d042be8283d24048f96f1a16ec865c74ca6
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795522"
+ms.lasthandoff: 06/10/2021
+ms.locfileid: "52882679"
 ---
 # <a name="set-up-advanced-ediscovery"></a>设置高级电子数据展示
 
-借助高级电子数据展示，可分析非结构化数据，以减少电子数据展示成本。 可应用文本分析、机器学习和相关性/预测性编码。  高级电子数据展示功能需要以下两种订阅之一：
+通过“高级电子数据展示”，可以应用文本分析、机器学习和相关性/预测性编码。 “高级电子数据展示”功能需要满足以下条件之一:
 
 - Microsoft 365 E5 或 Office 365 E5 订阅
 
@@ -39,4 +40,6 @@ ms.locfileid: "47795522"
 
 **4. 创建高级电子数据展示事例**
 
-有关设置高级电子数据展示所需步骤的信息，请参阅[高级电子数据展示入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery?view=o365-worldwide)。
+有关设置高级电子数据展示所需步骤的信息，请参阅 [高级电子数据展示入门](/microsoft-365/compliance/get-started-with-advanced-ediscovery)。
+
+有关如何创建和管理案件的信息，请参阅 [Microsoft 365 中创建和管理“高级电子数据展示”事例](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)。
