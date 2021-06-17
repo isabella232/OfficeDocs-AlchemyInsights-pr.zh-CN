@@ -13,16 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9144"
 - "9005291"
-ms.openlocfilehash: d3288bc4da83bcd8ddc82b0ce40482453a822aad
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+- "11089"
+- "9006490"
+ms.openlocfilehash: c47218035155a8138caeac01e03fbe9d9e1aca4d
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529891"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989635"
 ---
 # <a name="determine-channel-strategy"></a>确定频道策略
 
-Microsoft Edge 有 4 个频道发布，控制更新浏览器的时间。 有关每个频道的深入概述，请参阅 [频道概述](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels#channel-overview)。
+Microsoft Edge 有 4 个频道发布，控制更新浏览器的时间。 有关每个频道的深入概述，请参阅 [频道概述](/DeployEdge/microsoft-edge-channels#channel-overview)。
 
 想要向大多数设备部署"稳定频道"，但应考虑部署多个频道和设备。
 
