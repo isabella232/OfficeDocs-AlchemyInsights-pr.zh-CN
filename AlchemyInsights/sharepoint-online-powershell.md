@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell 无法连接
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774348"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931001"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell 无法连接
 
-在 Sharepoint Online 中使用 PowerShell 或脚本 有关详细信息，请访问以下链接。
-- [SharePoint Online 命令行管理程序入门](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [连接 MFA 中通过多重身份验证 (SPO PowerShell) ](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint PnP](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) (做法) 包含一个 PowerShell 命令库，可用于对 SPO 执行复杂的管理操作。
+如果在连接到联机 PowerShell 模块SharePoint时遇到问题，请参阅连接到 SharePoint [Online 命令行管理程序 时出错](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)。
