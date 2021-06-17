@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell 无法连接
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774348"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931001"
 ---
-# <a name="sharepoint-online-powershell"></a><span data-ttu-id="75432-102">Sharepoint Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="75432-102">Sharepoint Online PowerShell</span></span>
+# <a name="sharepoint-powershell-unable-to-connect"></a><span data-ttu-id="c129c-102">Sharepoint PowerShell 无法连接</span><span class="sxs-lookup"><span data-stu-id="c129c-102">Sharepoint PowerShell unable to connect</span></span>
 
-<span data-ttu-id="75432-103">在 Sharepoint Online 中使用 PowerShell 或脚本</span><span class="sxs-lookup"><span data-stu-id="75432-103">Working with PowerShell or Scripts within Sharepoint Online?</span></span> <span data-ttu-id="75432-104">有关详细信息，请访问以下链接。</span><span class="sxs-lookup"><span data-stu-id="75432-104">Visit the links below for more information.</span></span>
-- [<span data-ttu-id="75432-105">SharePoint Online 命令行管理程序入门</span><span class="sxs-lookup"><span data-stu-id="75432-105">Getting started with SharePoint Online Management Shell</span></span>](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [<span data-ttu-id="75432-106">连接 MFA 中通过多重身份验证 (SPO PowerShell) </span><span class="sxs-lookup"><span data-stu-id="75432-106">Connect to SPO PowerShell with multifactor authentication (MFA)</span></span>](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- <span data-ttu-id="75432-107">[SharePoint PnP](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) (做法) 包含一个 PowerShell 命令库，可用于对 SPO 执行复杂的管理操作。</span><span class="sxs-lookup"><span data-stu-id="75432-107">[SharePoint Patterns and Practices (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contains a library of PowerShell commands that allows you to perform complex management actions towards SPO.</span></span>
+<span data-ttu-id="c129c-103">如果在连接到联机 PowerShell 模块SharePoint时遇到问题，请参阅连接到 SharePoint [Online 命令行管理程序 时出错](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)。</span><span class="sxs-lookup"><span data-stu-id="c129c-103">If you're having issues connecting to SharePoint Online PowerShell module, see [Errors when connecting to SharePoint Online Management Shell](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell).</span></span>
