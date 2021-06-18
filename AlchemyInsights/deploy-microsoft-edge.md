@@ -12,13 +12,15 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9139"
+- "11088"
 - "9005291"
-ms.openlocfilehash: ad2c42ad77cd4a4606365bc616547846ae3c2c65
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+- "9006490"
+ms.openlocfilehash: 9a51b0cbf6ccb0254ea2ef162530067bbfb5f215
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529205"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989743"
 ---
 # <a name="deploy-microsoft-edge"></a>部署 Microsoft Edge
 
@@ -26,18 +28,18 @@ ms.locfileid: "50529205"
 
 可以使用以下工具部署 Microsoft Edge：
 
-- [Microsoft Intune for Windows](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge) 或 [Microsoft Intune for macOS](https://docs.microsoft.com/mem/intune/apps/apps-edge-macos)
-- [配置管理器](https://docs.microsoft.com/DeployEdge/deploy-edge-with-configuration-manager)
+- [Microsoft Intune for Windows](/mem/intune/apps/apps-windows-edge) 或 [Microsoft Intune for macOS](/mem/intune/apps/apps-edge-macos)
+- [配置管理器](/DeployEdge/deploy-edge-with-configuration-manager)
 - 另一个工具，使用 [Microsoft Edge 的 MSI 文件](https://www.microsoft.com/edge/business/download)
 
 **验证部署**
 
-部署试点后，从用户获取反馈。 比如以下几种情况：
+部署试点后，从用户获取反馈。请考虑以下内容：
 - **兼容性**：标识属于企业网站列表中的网站，网站发现过程中未标识。
 - **策略配置**：确保用户可以使用关键功能，在符合安全准则的同时工作。
 - **易于使用和新功能**：基于用户问题确定应开发并交付培训的任何方面。
 
 **Microsoft Edge 广泛部署**
 
-部署试点，使用课程中心更新部署计划后，即可对所有用户执行 Microsoft Edge 的完整部署。 恭喜！
+使用所学课程完成试点部署并更新部署计划后，即可向所有用户全面部署 Microsoft Edge。恭喜！
 
