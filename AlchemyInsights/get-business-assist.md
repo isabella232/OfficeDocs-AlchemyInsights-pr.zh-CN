@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "52963899"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023129"
 ---
 # <a name="get-business-assist"></a>获取业务协助
 
-1. In the Microsoft 365 管理中心， go to **Subscriptions**  >  **Business Assist**.
-
-1. 选择 **"商务**  >  **协助购买**"，然后按照向导购买 Business Assist。
+1. In the Microsoft 365 管理中心， go to the [Microsoft 365 商业助手 page，](https://go.microsoft.com/fwlink/p/?linkid=2158423)select a billing frequency， and then select **Buy**.
+2. 按照步骤付款。
 
 若要了解更多信息[，请参阅](/microsoft-365/admin/misc/business-assist)Microsoft 365 商业助手。

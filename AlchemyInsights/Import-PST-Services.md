@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721626"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023093"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365导入服务
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721626"
 
 1. 在 M365 合规中心的左侧窗格中的"解决方案 **"下**，选择"**信息治理""导入**  >  **"。**
 
-1. 在"**导入"** 页上，选择"**新建导入作业"。**
+1. 在"**导入"** 页上，选择"**新建导入作业"。** 输入作业名称，然后选择"下一 **步"。**
 
-1. 若要完成向导中的步骤，请参阅使用网络上传将组织的[PST](/compliance/use-network-upload-to-import-pst-files)文件导入Microsoft 365。
+1. Select **Upload your data** to use the network upload option for the Import Job **Type**. 有关详细步骤，请参阅使用[网络上传将](/compliance/use-network-upload-to-import-pst-files)组织的 PST 文件导入Microsoft 365。
 
 若要访问 **"导入** "页，请确保你已分配有适当的权限。 有关详细信息，请参阅使用 [网络上传导入 PST 文件](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)。
 
