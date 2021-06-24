@@ -1,5 +1,5 @@
 ---
-title: 解决 SMTP 身份验证问题
+title: 启用 SMTP 身份验证和故障排除
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826405"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077641"
 ---
-# <a name="solving-smtp-authentication-issues"></a>解决 SMTP 身份验证问题
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>启用 SMTP 身份验证和故障排除
 
-如果在尝试发送 SMTP 电子邮件并通过客户端或应用程序进行身份验证时收到错误 5.7.57 或 5.7.3，则应检查以下内容：
+如果要为邮箱启用 SMTP 身份验证，或者在尝试通过使用 Microsoft 365 对设备或应用程序进行身份验证来中继电子邮件时收到“客户端未通过身份验证”、“身份验证失败”或“SmtpClientAuthentication”错误消息（代码分别为“5.7.57”、“5.7.3”和“5.7.139”），请执行以下三项操作来解决此问题：
 
-- 在你的租户中或你尝试使用的邮箱中可能禁用了经过身份验证的 SMTP 提交（检查这两个设置）。 若要了解详细信息，请参阅[启用或禁用经过身份验证的客户端 SMTP 提交](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)。
+1. 通过将“**启用安全性默认设置**”切换为“**否**”，禁用 [Azure 安全性默认设置](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)。
 
-- 检查是否为租户启用了 [Azure 安全默认值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)；如果已启用，则使用基本身份验证（也称为传统身份验证，该验证将使用用户名和密码）的 SMTP 身份验证将失败。
+    a. 以安全管理员、条件访问管理员或全局管理员的身份登录到 Azure 门户。<BR/>
+    b. 浏览到 Azure Active Directory > **属性**。<BR/>
+    c. 选择 **管理安全性默认设置**。<BR/>
+    d. 将“**启用安全性默认设置**”设置为“**否**”。<BR/>
+    e. 选择“**保存**”。
+
+2. 在许可邮箱上[启用客户端 SMTP 提交](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes)。
+
+    a. 从 Microsoft 365 管理中心，转到“**活动用户**”并选择用户。<BR/>
+    b. 转到“邮件”选项卡，然后在“**电子邮件应用**”下，选择“**管理电子邮件应用**”。<BR/>
+    d. 确保已选中“**已验证的 SMTP**”（已启用）。<BR/>
+    e. 选择“**保存更改**”。<BR/>
+
+3. 在许可邮箱上[禁用多重身份验证 (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa)。
+
+    a. 转到 Microsoft 365 管理中心，在左侧导航菜单窗格中选择“**用户** > **活动用户**”。<BR/>
+    b. 选择“**多重身份验证**”。<BR/>
+    c. 选择用户并禁用“**多重身份验证**”。<BR/>
