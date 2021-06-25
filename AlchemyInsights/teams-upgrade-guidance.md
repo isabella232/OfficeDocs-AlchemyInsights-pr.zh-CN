@@ -1,5 +1,5 @@
 ---
-title: 团队升级指南
+title: Teams升级指南
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333918"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095390"
 ---
-# <a name="microsoft-teams-upgrade"></a>Microsoft 团队升级
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams升级
 
-**重要说明**：如果你已从 Skype For business Online 升级到 team Only 模式中的 Microsoft 团队，但发现你还不准备就绪，我们可以使用支持诊断帮助解决此问题。 请确保您使用的是新管理中心，方法是向右侧的 " **新建管理中心**" 向右滑动 "切换"。 使用新管理中心，单击 " **需要帮助？** " 小部件，键入 "**团队升级**"，然后按照提示运行诊断。
+无论你是刚开始使用 Teams，已经将 Teams 与 Skype for Business 一起使用，还是准备进行升级，我们都希望确保你拥有成功开启 Teams 之旅所需的一切。 有关详细信息，请访问以下链接。
 
-无论你是刚开始使用 Teams，已经将 Teams 与 Skype for Business 一起使用，还是准备进行升级，我们都希望确保你拥有成功开启 Teams 之旅所需的一切。 有关详细信息，请访问下面的链接。
+[开始 Microsoft Teams 升级](/MicrosoftTeams/upgrade-start-here)
 
-[开始 Microsoft Teams 升级](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[规划升级](/MicrosoftTeams/upgrade-plan-journey)
 
-[规划升级](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[了解Microsoft Teams Skype for Business共存](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[了解 Microsoft 团队和 Skype for business 共存](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[执行从 Skype for Business Online 到 Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[执行从 Skype for Business Online 升级到团队](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[从 Skype for Business 本地升级到团队](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[执行从本地Skype for Business到 Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[通过 PowerShell 检查 Skype for business Online 与团队升级的状态](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[检查 Skype for Business Online 的状态Teams PowerShell 进行升级](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
