@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809645"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117973"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>设置多功能设备或应用程序以发送电子邮件
 
-若要了解有关选项和步骤的详细信息，请参阅[如何设置多功能设备或应用程序以使用 Microsoft 365 发送电子邮件](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)。
+若要了解有关选项和步骤的详细信息，请参阅[如何设置多功能设备或应用程序以使用 Microsoft 365 发送电子邮件](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365)。
   
-**注意：** 如果你的某设备或应用程序近期停止工作，请注意我们最近已开始按计划 [禁用 3DES 密码](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption)。 要查看受影响的设备，请转到 [SMTP 身份验证客户端报表](https://protection.office.com/mailflow/dashboard)。 常见错误可能类似于：身份验证失败/错误、TLS 失败/错误、密码算法错误、算法不匹配或连接断开。 如何解决该问题：
+如果你的设备或应用程序最近停止工作，最常见的问题有：
 
- - **Windows Server 2003 IIS SMTP 将不再正常工作 – 需要更高版本的 Windows。**  
- - 请与你的应用程序或设备供应商核实，了解是否支持新式密码或是否有更新。
+- **使用 SMTP 身份验证客户端提交身份验证时出现的相关错误** 我们最近对 SMTP 身份验证的工作方式进行了一些更改。 有关如何解决问题的详细信息，请参阅[修复使用 Microsoft 365 或 Office 365 发送电子邮件的打印机、扫描仪和 LOB 应用程序的问题](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)的身份验证失败部分。
+- **我们只接受 TLS 1.2 版本，同时与 Office 365 建立安全连接** 如果你使用的是安全连接 (TLS)，请确保应用程序设备支持 TLS 1.2。 有关详细信息，请参阅[在 Office 365 和 Office 365 GCC 中准备 TLS 1.2](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)。
+ 
+有关其他问题和解决方案，请参阅[修复使用 Microsoft 365 或 Office 365 发送电子邮件的打印机、扫描仪和 LOB 应用程序的问题](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)。
+
+要查看受影响的设备，请转到 [SMTP 身份验证客户端报表](https://protection.office.com/mailflow/dashboard)。
+
+**注意**：Exchange Online 不适用于批量邮件方案。若要发送批量商业电子邮件（例如，客户新闻稿），应使用专用于这些服务的第三方提供商。
