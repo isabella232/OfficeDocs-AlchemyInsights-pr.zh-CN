@@ -1,5 +1,5 @@
 ---
-title: 955如何配置 MFA
+title: 955 如何配置 MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704443"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218764"
 ---
-# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="9e314-102">配置多重身份验证</span><span class="sxs-lookup"><span data-stu-id="9e314-102">Configure multi-factor authentication</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="3cbe4-102">配置多重身份验证</span><span class="sxs-lookup"><span data-stu-id="3cbe4-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="9e314-103">若要配置 MFA，请参阅 [设置多因素身份验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)。</span><span class="sxs-lookup"><span data-stu-id="9e314-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="3cbe4-103">若要配置 MFA，请参阅设置[多重](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)身份验证或使用Microsoft 365 管理中心[设置指南](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)。</span><span class="sxs-lookup"><span data-stu-id="3cbe4-103">To configure MFA, see [Set up multi-factor authentication](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) or use the [Microsoft 365 admin center setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:).</span></span>
 
-<span data-ttu-id="9e314-104">请注意，您必须是全局管理员才能启用和配置 MFA。</span><span class="sxs-lookup"><span data-stu-id="9e314-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="3cbe4-104">**注意**：你必须是全局管理员才能启用和配置 MFA。</span><span class="sxs-lookup"><span data-stu-id="3cbe4-104">**Note**: You must be a global admin to enable and configure MFA.</span></span>
