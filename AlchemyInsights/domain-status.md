@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52107498"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389168"
 ---
 # <a name="domain-status---no-services-selected"></a>域状态 - 未选择任何服务
 
-将域直接连接到服务（如 Microsoft 365）后，域Exchange。 为此，请转到管理Microsoft 365，然后选择 **"DNS 记录**""  >  **管理 DNS"。**
+**未选择** 任何服务意味着你尚未选择任何 Microsoft 365 服务（如 Exchange Online、Skype for Business 或 Intune）和移动设备管理Microsoft 365用于自定义域。 如果在本地将 Exchange 混合 (Exchange与 Exchange Online) 或外部垃圾邮件筛选一Exchange，Microsoft 服务，可以忽略此邮件。 域运行状况状态仅适用于直接连接到服务的域。
 
-如果您无法将域直接连接到 Microsoft 365服务，则域运行状况状态不可用。 例如，当您对电子邮件、外部垃圾邮件筛选服务使用自定义 DNS 路由时，或者同时使用 Exchange 本地和 Exchange Online (也称为混合部署) 。
+若要为域选择服务：
+
+1. From **设置**  >  [**Domains**](https://admin.microsoft.com/Adminportal/Home)， check the box next to the domain with the status message **No services selected**.
+1. 选择 **"管理 DNS"** 以启动域设置向导。
+    - 如果选择" **添加自己的 DNS 记录"，** 请确保在系统提示时选择服务。 高级选项 下可能提供了 **更多服务**。
+    - 如果选择"**允许 Microsoft 添加 DNS** 记录"或"更多选项""为我设置联机服务"，将自动建议和选择  >  所有可用服务。
+1. 继续执行向导以完成 DNS 设置和服务选择。
+ 
+有关设置域的其他帮助，请参阅添加 [DNS 记录以连接域](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)。
 
