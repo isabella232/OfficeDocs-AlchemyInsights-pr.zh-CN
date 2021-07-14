@@ -33,7 +33,7 @@ ms.locfileid: "53195474"
 
 - O365 中的审核：[搜索 O365 中的审核日志](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)。
 
-- 数据丢失防护 (DLP)：请参阅[数据丢失防护 (DLP) 概述](/microsoft-365/compliance/data-loss-prevention-policies)，了解更多信息。
+- 数据丢失防护(DLP)：请参阅[数据丢失防护(DLP)概述](/microsoft-365/compliance/data-loss-prevention-policies)，了解更多信息。
  
 - 敏感度标签：若要了解详细信息，请参阅[创建和配置敏感度标签及其策略](/microsoft-365/compliance/create-sensitivity-labels)。
 
