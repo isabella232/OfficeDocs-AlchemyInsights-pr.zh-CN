@@ -1,5 +1,5 @@
 ---
-title: SharePoint 中的工作流疑难解答
+title: 工作流疑难解答SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800238"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586924"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>SharePoint 中的工作流疑难解答
+# <a name="troubleshoot-workflows-in-sharepoint"></a>工作流疑难解答SharePoint
 
-**SharePoint 中的疑难解答和调试工作流**
+**对工作流进行故障排除和SharePoint**
 
-请参阅 [sharepoint 工作流验证错误](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) 和 [调试 Sharepoint 工作流](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)疑难解答。
+有关详细信息，请参阅：
+
+- [工作流SharePoint错误疑难解答](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [调试SharePoint工作流](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)。
+- [使用 ShowScopedebugInfo 收集 SharePoint 2013 工作流疑难解答数据](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
 **Power Automate**
 
-如果只是开始使用工作流，请考虑使用 [Power 自动执行](https://docs.microsoft.com/power-automate/modern-approvals) ，而不是经典 SharePoint 工作流解决方案。
+如果您刚开始使用工作流，请考虑使用[Power Automate而不是经典](/power-automate/modern-approvals)工作流SharePoint解决方案。
 
-有关详细信息，请参阅 [SharePoint 工作流淘汰](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)。
+有关详细信息，请参阅停用[SharePoint工作流](/alchemyinsights/sharepoint-workflows-retiring)。

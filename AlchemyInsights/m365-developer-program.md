@@ -22,6 +22,6 @@ ms.locfileid: "53458905"
 ---
 # <a name="microsoft-365-developer-program"></a>Microsoft 365 开发人员计划
 
-Microsoft 365开发人员计划包含一个Microsoft 365 E5 开发人员订阅，可用于创建自己的沙盒和开发独立于生产环境的解决方案。 有关Microsoft 365开发人员计划和Visual Studio订阅的详细信息和常见问题解答，请参阅 [Microsoft 365开发人员计划](/office/developer-program/microsoft-365-developer-program)。
+Microsoft 365 开发人员计划包含一个 Microsoft 365 E5 开发人员订阅，可用于创建自己的沙盒并开发独立于生产环境的解决方案。 有关 Microsoft 365 开发人员计划和 Visual Studio 订阅的详细信息和常见问题解答，请参阅 [Microsoft 365 开发人员计划](/office/developer-program/microsoft-365-developer-program)。
 
-有关Microsoft 365开发人员计划或Visual Studio 订阅的帮助，请在 [Visual Studio 订阅支持](https://visualstudio.microsoft.com/subscriptions/support/)提交支持请求。
+如需 Microsoft 365 开发人员计划或 Visual Studio 订阅方面的帮助，请在 [Visual Studio 订阅支持](https://visualstudio.microsoft.com/subscriptions/support/)上提交支持请求。
