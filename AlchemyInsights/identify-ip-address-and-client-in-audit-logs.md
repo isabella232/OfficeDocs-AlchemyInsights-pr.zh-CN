@@ -13,27 +13,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 295418f3c433df2ba1004f4bec4377c68e6bb155
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a596dd4bed90a0d777dcf19c4c82b41c67fac812
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668300"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630275"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>在审核日志中标识 IP 地址和客户端
 
-与 Microsoft 365 用户或管理员的活动对应的 IP 地址显示在审核日志中。 还记录客户端信息。 以下是确定此类信息的步骤
+与用户或管理员Microsoft 365活动的 IP 地址显示在审核日志中。 还会记录客户端信息。 下面是标识此信息的步骤
 
-1. 登录到 [Microsoft 365 安全 & 合规性中心](https://protection.office.com/)。
+1. 登录到合规性Microsoft 365[中心](https://protection.office.com/)。
 
-2. 转到 "**搜索**  >  **审核日志搜索**" 页。
+2. 转到"**搜索**  >  **审核日志搜索"** 页。
 
-   如果你对特定活动感兴趣，请从 " **活动** " 列表中选择该活动。 如果不是，则将返回选定用户 (默认设置) 的所有活动。
+   如果你对特定活动感兴趣，请从" **活动"列表中选择** 它。 如果不是，将返回所选用户的所有活动 (默认设置) 。
 
-   **注意**：某些活动可能在 " **活动** " 菜单中不可用;但是，如果选择 " **显示所有活动的结果** " (默认设置) ，将返回这些审核项目。
+   **注意**：某些活动在"活动"菜单中 **可能** 不可用;但是，如果选择默认设置"显示所有活动的结果"，将返回 (审核) 。
 
-3. 在 " **用户** " 字段中指定用户名，为活动选择适当的日期范围，然后单击 " **搜索**"。
+3. 在"用户"**字段中指定** 用户名，为活动选择适当的日期范围，然后单击"搜索 **"。**
 
-在结果中，可以在 "结果" 窗格中看到该活动的 IP 地址。 选择 "审核记录" 可查看 " **详细** 信息" 浮出控件中的详细信息 (例如，客户端、执行操作的用户等 ) 。
+在结果中，您可以在结果窗格中看到该活动的 IP 地址。 Select the audit record to see detailed information in the **Details** flyout (for example， Client， User that performed action， etc.) .
 
-有关详细信息，请参阅 [查找用于访问已损坏帐户的计算机的 IP 地址](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。
+有关详细信息，请参阅查找用于访问遭到入侵的帐户的计算机的 [IP 地址](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)。

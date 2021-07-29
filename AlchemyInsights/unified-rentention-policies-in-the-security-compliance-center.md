@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669201"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630131"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>安全与合规中心的统一保留策略
 
@@ -31,6 +31,6 @@ ms.locfileid: "47669201"
       
 了解更多有关 Exchange 电子邮件、OneDrive、SharePoint 和 Teams内容等保留策略的详情，请参阅 [保留策略概述](https://go.microsoft.com/fwlink/?linkid=2127785)。  
     
-如果你在并排使用 Exchange 管理中心和安全与合规中心的保留策略，请查看此建议 [使用保留策略，而不是旧功能](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features)。  
+如果你在并排使用 Exchange 管理中心和安全与合规中心的保留策略，请查看此建议 [使用保留策略，而不是旧功能](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)。  
     
-如需 Teams 特定保留信息，请参阅 [Retention policies in Teams](https://docs.microsoft.com/microsoftteams/retention-policies)。
+如需 Teams 特定保留信息，请参阅 [Retention policies in Teams](/microsoftteams/retention-policies)。
