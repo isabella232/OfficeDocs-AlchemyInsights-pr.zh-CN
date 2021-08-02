@@ -3,6 +3,8 @@ title: 计费和付款
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820384"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686876"
 ---
 # <a name="billing-and-payment"></a>计费和付款
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820384"
 
 7. 已在下拉列表中选择新的付款方式。 选择“**替换**”。
 
-若要了解详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要了解详细信息，请参阅[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **计费频率**
 
 帐单按月或按年生成，具体取决于在结帐时选择的计费频率。  
 
-**注意**：如果进行了更改（如添加或删除许可证），按年计费的订单可能会收到一份中期帐单。 [更改计费频率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
+**注意**：如果进行了更改（如添加或删除许可证），按年计费的订单可能会收到一份中期帐单。 [更改计费频率](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。

@@ -3,6 +3,7 @@ title: 取消你的Microsoft 365订阅？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: ''
 audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 33c0aaca36aab200c98aedf1bae7785520166e65
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543243"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688064"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消你的Microsoft 365订阅？
 
 很抱歉，我们来看一下，下面是取消订阅的步骤：
 
 1. 在管理中心，转到"**帐单**  >  **[""产品"页面](https://go.microsoft.com/fwlink/p/?linkid=842054)**，然后选择"产品 **"** 选项卡。
-2. 找到要取消的订阅。 Select the three dots (more actions) ， then select **Cancel subscription**.
-3. 在“**取消订阅**”窗格中，选择取消原因。 (可选)提供反馈。
+2. 找到要取消的订阅。 选择三个点（更多操作），然后选择“**取消订阅**”。
+3. 在“**取消订阅**”窗格中，选择取消原因。可选择提供任何反馈。
 4. 选择“**保存**”。
 
 若要了解有关取消订阅或选项的详细信息，请参阅 [取消订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

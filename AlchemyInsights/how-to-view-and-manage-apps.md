@@ -1,8 +1,9 @@
 ---
-title: 如何查看和管理应用程序
+title: 如何查看和管理应用
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489087"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686552"
 ---
-# <a name="how-to-view-and-manage-apps"></a>如何查看和管理应用程序
+# <a name="how-to-view-and-manage-apps"></a>如何查看和管理应用
 
-您可以在 Microsoft 365 管理中心中查看您的应用程序。
+可以在应用商店中查看Microsoft 365 管理中心。
 
 1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
-2. 在 " **产品** " 选项卡上，向下滚动到 " **应用** " 部分。
-3. 若要管理应用程序，请选择要管理的应用程序。
+2. 在" **产品"** 选项卡上，向下滚动到" **应用"** 部分。
+3. 若要管理应用，请选择要管理的应用。

@@ -3,6 +3,8 @@ title: 购买 Microsoft Defender for Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 3ad512ae86f68fbaa05501c44de3428e4446e862
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707836"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685544"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>购买 Microsoft Defender for Office 365
 
-Microsoft Defender for Office 365 包含在特定订阅中，如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商业高级版。 如果你的订阅不包括 Microsoft Defender for Office 365，你可以购买 [Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) 作为特定订阅的加载项。 若要在 Microsoft 365 管理中心购买：
+Microsoft Defender for Office 365 包含在特定订阅中，如 Microsoft 365 E5、Office 365 E5、Office 365 A5 和 Microsoft 365 商业高级版。 如果你的订阅不包括 Microsoft Defender for Office 365，你可以购买[Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp)作为特定订阅的加载项。 若要在服务中Microsoft 365 管理中心：
 
-1. 在管理中心，转到"**计费**  >  [购买服务"](https://go.microsoft.com/fwlink/p/?linkid=868433)页。
-2. 在"购买服务"**页面底部的**"加载项"部分，查找适用于 Office 365 的 Microsoft Defender 加载项，然后选择 **"详细信息"。**
-3. 在产品详细信息页面上，选择"购买 **"。**
-4. 如果需要，请完成任何其他订单信息。 此信息可能包括选择加载项所针对的订阅以及将使用加载项的用户数。 完成后，选择"现在 **签出"。**
-5. 如果需要，请查看订单和定价信息，然后选择"下一 **步"。**
-6. 选择付款方式，或添加新付款方式，然后选择"下 **订单**  >  **转到管理员主页"。**
+1. In the admin center， go to the **Billing**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.
+2. 在"购买服务"页面底部的"加载项"部分中，找到适用于加载项Office 365 Microsoft Defender，然后选择"详细信息 **"。**
+3. 在产品详细信息页面上，**选择购买。**
+4. 如果需要，请完成任何其他订单信息。 此信息可能包括选择加载项所针对的订阅以及使用该加载项的用户数量。 完成后，选择"现在 **签出"。**
+5. 如果需要，请查看订单和定价信息，然后选择下一 **步**。
+6. 选择付款方式，或添加新付款方式，然后选择下订单  >  **转到管理员主页**。
 
-若要向用户分配许可证，请参阅"[向用户分配许可证"。](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+若要向用户分配许可证，请参阅 [向用户分配许可证](/microsoft-365/admin/manage/assign-licenses-to-users)。
 
-若要购买更多许可证或删除许可证，请参阅 [购买或删除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
+若要购买更多许可证或删除许可证，请参阅 [购买或删除](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。

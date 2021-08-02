@@ -1,9 +1,10 @@
 ---
-title: 更改您的支付频率
+title: 更改付款频繁
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 04/21/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +13,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
+- commerce_billing
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3ad1bb7a13a9c26dd3e4f9cbee7944e975191c3a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307332"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53680511"
 ---
-# <a name="change-how-often-you-pay"></a>更改您的支付频率
+# <a name="change-how-often-you-pay"></a>更改付款频繁
 
-若要更改你向订阅计费和付款的频率，请完成 Microsoft 365 管理中心中的以下步骤。
+若要更改向订阅计费和支付你的费用，请完成下表中的Microsoft 365 管理中心。
 
-1. 转到 "**付费**  >  [产品](https://go.microsoft.com/fwlink/p/?linkid=842054)" 页面。
-2. 在 " **产品** " 选项卡上，选择要更改的订阅。
-3. 在 "订阅详细信息" 页上的 " **订阅和付款设置** " 部分中，选择 " **编辑帐单频率**"。
-4. 在 " **编辑计费频率** " 窗格中，选择要向其计费的频率的选项，然后选择 " **更改**"。
+1. 转到"**计费**  >  [你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)页面。
+2. 在“**产品**”选项卡上，选择要更改的订阅。
+3. On the subscription details page， in the **Subscription and payment settings** section， select Edit billing **frequency**.
+4. In the **Edit billing frequency** pane， choose the option for how often you want to be billed， then select **Change**.
 
 > [!NOTE]
-> 每月或每年帐单是唯一选项。
+> 按月或按年计费是唯一的选项。
 
-有关详细信息，请参阅[更改计费频率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
+有关详细信息，请参阅[更改计费频率](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。

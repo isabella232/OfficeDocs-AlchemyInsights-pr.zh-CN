@@ -1,8 +1,10 @@
 ---
-title: 如何购买 Microsoft 365
+title: 如何进行Microsoft 365购买
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232357"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689072"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>如何购买 Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>如何进行Microsoft 365购买
 
-可以在管理中心购买 Microsoft 365 订阅。
+可以在管理中心Microsoft 365订阅。
   
-- 若要购买计划，请转到" **计费** \> **[购买服务"](https://go.microsoft.com/fwlink/p/?linkid=868433)** 页。
-- 若要购买其他许可证，请转到"计费 \> **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页。 选择要更改的订阅，然后选择"**购买许可证"。\**
-**观看演示如何** 这样做的视频： [购买新许可证](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- 若要购买计划，请转到帐单 **购买** \> **[服务](https://go.microsoft.com/fwlink/p/?linkid=868433)** 页面。
+- 若要购买其他许可证，请转到" **帐单** \> **[""产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页面。 选择要更改的订阅，然后选择" **购买许可证**"。\
+**观看视频，** 了解如何执行这一此操作：[购买新的许可证](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-若要了解更多信息，请参阅["购买或删除许可证"。](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+若要了解更多信息，请参阅 [购买或删除许可证](/microsoft-365/commerce/licenses/buy-licenses)。
 
 **疑难解答**
 
@@ -35,5 +38,5 @@ ms.locfileid: "50232357"
 
 **其他资源**
   
-- [向 Microsoft 365 商业版中的用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [取消 Microsoft 365 商业版](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [将许可证分配给企业Microsoft 365中的用户](/microsoft-365/admin/add-users/add-users)
+- [取消Microsoft 365 For Business](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

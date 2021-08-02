@@ -3,6 +3,7 @@ title: 取消Visio订阅
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,22 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 37e246d9f311d3b14b1a2867d5b52b53488b9512
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543351"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688676"
 ---
 # <a name="cancel-visio-subscription"></a>取消Visio订阅
 
-管理员可以在管理Visio取消其组织的 Microsoft 365 订阅。
+管理员可以在 Visio 中取消其组织的 Microsoft 365 管理中心。
 
 1. 转到“**计费**”\>“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
-2. 在 **"产品**"选项卡上，Visio要取消的订阅。 Select the three dots (more actions) ， then select **Cancel subscription**.
-3. 在“**取消订阅**”窗格中，选择取消原因。 (可选)提供反馈。
+2. 在 **"产品**"选项卡上，Visio要取消的订阅。 选择三个点（更多操作），然后选择“**取消订阅**”。
+3. 在“**取消订阅**”窗格中，选择取消原因。可选择提供任何反馈。
 4. 选择“**保存**”。
 
 **退还：** 在下一个计费周期内，将向你退还所有按比例分配的点数。

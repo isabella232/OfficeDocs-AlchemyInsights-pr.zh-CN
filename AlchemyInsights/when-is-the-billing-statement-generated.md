@@ -1,9 +1,10 @@
 ---
-title: 何时生成计费声明？
+title: 何时生成帐单？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719187"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685148"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>何时生成计费声明
+# <a name="when-is-the-billing-statement-generated"></a>生成帐单的时间
 
-您的报表日期将设置为创建帐户后的一天中的某个月。 例如，如果你在1月20日创建了你的帐户，则你的报表日期将设置为每个后续月21号。
+你的对帐日期设置为创建帐户后一个月的那一天。 例如，如果在 1 月 20 日创建了帐户，则每个后续月份的对帐日期将设置为 21 号。
 
-在活动计费周期中发生的其他费用包括在下个月的发票中。 发票的 **记帐摘要** 中列出了每个发票的记帐周期开始和结束日期。
+在活动计费周期期间发生的其他费用将包含在下一个月的发票中。 发票的计费摘要中列出了每个发票的计费 **周期开始日期** 和结束日期。
 
-信用卡和/或银行帐户 (在 **发票日期**后的某一天结算相应的) 付款。
+信用卡和/或银行帐户 (如果适用) 付款在发票日期后的第二天 **进行结算**。
   
-若要了解详细信息，请参阅 [了解你的发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)。
+若要了解更多信息，请参阅 [了解发票](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)。

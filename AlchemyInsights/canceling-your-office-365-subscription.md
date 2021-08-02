@@ -3,6 +3,7 @@ title: 取消订阅？
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,20 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 59fd13ca0e1151740ebca23b3f382611a565bc42
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543171"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686804"
 ---
 # <a name="canceling-your-subscription"></a>取消订阅？
 
 我们抱歉地看到您去，但是如果您想要取消订阅，以下是您的选项：
   
-- 如果你分配的许可证少于 25 个，可以在线取消订阅。 转到" **计费** \> **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页，并找到要取消的订阅。 Select the three dots (more actions) ， then select **Cancel subscription**.
+- 如果你分配的许可证少于 25 个，可以在线取消订阅。 转到" **计费** \> **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页，并找到要取消的订阅。 选择三个点（更多操作），然后选择“**取消订阅**”。
 - 如果分配给用户的许可证超过 25 个，请致电支持人员 [取消订阅](https://go.microsoft.com/fwlink/p/?linkid=518322)。
   
 **退款：任何按比例计算退款将在下一个计费周期内退回给你。**

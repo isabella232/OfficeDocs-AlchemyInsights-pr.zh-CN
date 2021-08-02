@@ -3,25 +3,28 @@ title: 更改付款方式
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jamitche
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: ca0ebe741babe1c2177bfbc072a948143d1afe9b
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 185de725abca43ca5ff378adb5bae95c1b6030c8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601123"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685292"
 ---
 # <a name="change-payment-method"></a>更改付款方式
 
-你可以从 **Microsoft 365** 管理中心更改付款方式。
+你可以将付款方式从 **Microsoft 365 管理中心。**
   
 1. 在管理中心，转到“**账单**” > “**账单和付款**“ > “[付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)”页面。
 2. 选择要替换的付款方式行。 右窗格列出了使用所选付款方式的所有计费对象信息和单个订阅。
@@ -33,6 +36,6 @@ ms.locfileid: "50601123"
 6. 在“**添加付款方式**”窗格中，输入帐户信息，然后选择“**保存**”。 你必须使用租户所在国家/地区的付款方式。
 7. 已在下拉列表中选择新的付款方式。 选择“**替换**”。
 
-若要了解如何添加、更新、替换或删除付款方式，请参阅["管理付款方式"。](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+若要了解如何添加、更新、替换或删除付款方式，请参阅 [管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
-若要了解如何在付款方式之间更改，请参阅 [如何支付订阅费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+若要了解如何在付款方式之间更改，请参阅 [如何支付订阅费用](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
