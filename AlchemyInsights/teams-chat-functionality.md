@@ -11,12 +11,12 @@ ms.assetid: ''
 ms.custom:
 - "9000738"
 - "4367"
-ms.openlocfilehash: a6df1b780d36e73b8c06603a6a92976bac7b5993
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c41ab0552985681f14090cc049f8bd77b8b49242823a418822674cd21dea0f77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908979"
 ---
 # <a name="teams-chat-functionality"></a>Teams 聊天功能
 
@@ -26,7 +26,7 @@ ms.locfileid: "47669540"
 
 - 需要与其他组织中的用户聊天？ 需要 Teams 组织的[本机聊天](https://docs.microsoft.com/microsoftteams/native-chat-for-external-users)（联合）。
 
-- 需要 Teams 用户与 **Skype 使用者**用户聊天？ 可[在此处启用](https://docs.microsoft.com/microsoftteams/manage-external-access#step-1---enable-your-organization-to-communicate-with-another-teams-organization)。 
+- 需要 Teams 用户与 **Skype 使用者** 用户聊天？ 可[在此处启用](https://docs.microsoft.com/microsoftteams/manage-external-access#step-1---enable-your-organization-to-communicate-with-another-teams-organization)。 
 
 - 使用保留策略[保留或删除 Teams 聊天](https://docs.microsoft.com/microsoftteams/retention-policies)。
 

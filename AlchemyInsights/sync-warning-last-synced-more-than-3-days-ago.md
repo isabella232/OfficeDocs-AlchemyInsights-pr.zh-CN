@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: 786178b1cea84d1e01a43ce4c84df0a3846953c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6cf365b671deef671902b501fd427d697762942741dc2b30efc97b953c5e1878
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909132"
 ---
 # <a name="sync-warning-last-synced-more-than-3-days-ago"></a>同步警告：上次同步时间超过 3 天
 
 有关其他疑难解答，请参阅 [修复目录同步问题](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization)。
 
-可以按照查看目录同步状态 中的说明在 Office 管理门户 [中检查同步状态](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)。
+你可以按照查看目录同步状态 中的说明Office管理门户[中的同步状态](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status)。
 
