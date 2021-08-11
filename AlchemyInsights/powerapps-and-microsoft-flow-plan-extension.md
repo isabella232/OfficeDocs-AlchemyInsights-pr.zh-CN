@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps 和 Microsoft 流量计划扩展
+title: 1575-PowerApps 和 Microsoft Flow 计划扩展
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728385"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960429"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 和 Microsoft 流量计划扩展
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps 和 Microsoft Flow 计划扩展
 
-如果您打算为 **Microsoft Flow** 或 **PowerApps** 请求一个计划扩展，并且您的租户已经具有以下某项功能的活动用户，则无需对该支持请求进行文件传递。
+如果你打算为 **Microsoft Flow** **或 PowerApps** 请求计划扩展，并且你的租户已有以下功能之一的活动用户，则无需提出支持请求。
 
-- 在 PowerApps 和 Microsoft 流中创建和发布自定义连接器
-- 集成到 SharePoint 和 OneDrive 之外的 HTTP 自定义操作
+- 在 PowerApps 和 Microsoft Flow
+- 集成到外部和外部Flow的 HTTP SharePoint OneDrive
 - 通过本地数据网关集成本地数据
 
-拥有这些功能的活动用户的客户将获得自动扩展，直到2020年1月31日或其现有 Microsoft 365 订阅条款过期（以较长时间为准）。
+具有这些功能的活动用户的客户将获得到 2020 年 1 月 31 日或其现有 Microsoft 365 订阅期限到期（以较长者为准）的自动扩展。

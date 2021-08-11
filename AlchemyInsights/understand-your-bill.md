@@ -13,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 652c9e5b51253b5ce3964b822be28f198ba289deb552984a3d124166484fa84d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908628"
 ---
 # <a name="understand-your-bill"></a>了解账单
 
@@ -38,7 +38,7 @@ ms.locfileid: "51796847"
 
 1. 从你的订阅中添加或删除的许可证；如果在中期更改许可证，这将反映在以下发票中。  对于上一个服务期，可能会显示信用额度和重新开出的账单，以应对此更改。
 
-2. 订阅已取消。  取消后会收到发票，显示未清余额减去所有信用额度。
+2. 订阅已取消。你会在取消后会收到发票，其中显示未清余额减去所有信用额度。
 
 3. 订阅续订了一个新期限，而许可证价格已更改。  
 
