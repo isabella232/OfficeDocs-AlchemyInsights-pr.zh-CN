@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7813"
 - "9004358"
-ms.openlocfilehash: d9964e50bdea0c41ac14ab3783b579034b5f2c8c
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 0c4ee54a6f1d00e7fd3794539ba185afa4327af1124d8057550806f7fa87de7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092940"
 ---
 # <a name="announcements"></a>公告
 
@@ -34,7 +34,7 @@ ms.locfileid: "49886784"
 1. 确保你具有创建新的标准用户的权限。 只有 Azure Active Directory (AD) 中的全局管理员或用户管理员角色可以创建新的标准用户。 如果你不属于上述角色，需请求管理员将你添加到某个上述角色，或让他们为你创建新的用户账户。
 2. 确保域中的用户名在你的 Azure AD 中完成过验证。 如果你在 Azure AD 中没有任何验证过的自定义域名，你可以使用以 *.onmicrosoft.com 结尾的 Azure AD 初始域名。
 3. 确保用户名所在域不是从你的本地 AD 上与 Azure AD 联合的域。 无法使用从本地联合的域名将用户添加到云。
-4. 确保没有其他用户或联系人已经使用了你想要分配给新用户的用户名。 用户名必须是 Azure AD 中唯一的。
+4. 确保没有其他用户或联系人已经使用你想要分配给新用户的用户名。用户名在 Azure AD 中必须是唯一的。
 5. 参阅你的 Azure AD 的 [Azure AD 角色和管理员](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators)。
 6. 参阅你的 Azure AD 的[域名](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Domains)。
 7. 检查 [审核日志](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Audit) 来查看关于最近创建的或删除的用户的详细信息，比如谁执行的操作以及何时执行的。
@@ -47,11 +47,11 @@ ms.locfileid: "49886784"
 要解决自助注册相关问题，执行以下步骤：
 
 1. 要通过应用使用自助注册，首先为你的租户启用自助注册。 
-2. 要为应用启用支持自助注册，请将其添加到你的用户流中。 下一次转到应用的登陆页面时，你将会看到选项 **_没有账户？现在创建！_* _. 然后自助注册过程将会开始。
+2. 要为应用启用支持自助注册，请将其添加到你的用户流中。 下一次转到应用程序的登录页面时，你将会看到选项“***没有帐户? 创建一个!***” 然后自助注册过程将会开始。
 3. 有关如何使用自助注册在 Azure AD 上填充组织，请参阅 [Azure AD 自助注册](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-self-service-signup)。
 4. 一旦将用户流与一个或多个应用关联，访问该应用的用户就可以注册并使用在用户流中配置的选项获取来宾账户。 有关注册和获取来宾账户的详细信息，用户可以参阅[来宾用户自助注册](https://docs.microsoft.com/azure/active-directory/external-identities/self-service-sign-up-user-flow)。
 
-_ *邀请外部用户的有关问题**
+**邀请外部用户的有关问题**
 
 要解决邀请外部用户的相关问题，执行以下步骤：
 

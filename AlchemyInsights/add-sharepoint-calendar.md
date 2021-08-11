@@ -1,5 +1,5 @@
 ---
-title: 添加 SharePoint 日历
+title: 添加SharePoint日历
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935147"
 ---
-# <a name="add-a-sharepoint-calendar"></a>添加 SharePoint 日历
+# <a name="add-a-sharepoint-calendar"></a>添加SharePoint日历
 
-SharePoint 日历是经典列表类型，有时会与 Microsoft 365 组日历混淆。
+SharePoint日历是经典列表类型，有时与组日历Microsoft 365混淆。
  
-若要创建 SharePoint 日历，请按照以下步骤操作：
+若要创建SharePoint日历，请按照以下步骤操作：
  
-1.  选择"**设置"** 齿轮图标，然后选择"**添加应用"。**
+1.  选择设置 **齿轮** 图标，然后选择"**添加应用"。**
 2.  在" **查找应用搜索** "框中，键入 **"日历** "，然后按 Enter。
 3.  选择标题为 **"日历"的应用**，然后输入日历的名称。
 
-有关 Microsoft 365 组详细信息，请参阅了解 [Microsoft 365 组](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)。
+有关组Microsoft 365，请参阅了解[Microsoft 365组。](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 

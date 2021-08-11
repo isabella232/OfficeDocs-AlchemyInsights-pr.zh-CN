@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: 37748293e62e490ad6322d9095cd7b08904f50c6
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d3abd1110b78092563ce26b279cd955d31ef5063425db78567c3cfd906007c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935111"
 ---
 # <a name="add-workplace-analytics"></a>添加工作区分析
 
-通过适当的许可，贵公司可以作为其许可协议的附加项获取工作区分析。 若要能够购买 "工作区分析许可证"，您的公司需要具备以下各项： 
+通过适当的许可，你的公司可以获取 Workplace Analytics 作为其许可协议的附加内容。 为了能够购买 Workplace Analytic 许可证，你的公司需要满足以下条件： 
 
-- 与 Microsoft [ (EA) 的企业协议](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements)
-- 包含[Exchange Online 计划1或 Exchange Online 计划 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)的 Office 365 或 Microsoft 365 产品
+- 与[Microsoft 企业协议 (EA) ](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements)
+- 包含Office 365 1 Microsoft 365计划[2 Exchange Online](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)的Exchange Online产品
 
-有关详细信息，请参阅 [Workplace Analytics 的要求](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements)。 
+有关详细信息，请参阅 [工作区分析的要求](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements)。 

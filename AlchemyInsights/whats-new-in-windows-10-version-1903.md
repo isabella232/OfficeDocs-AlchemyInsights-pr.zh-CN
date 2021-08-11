@@ -1,5 +1,5 @@
 ---
-title: Windows 10 版本 1903 中的新增功能
+title: Windows 10版本 1903 中的新增功能
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970645"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>Windows 10 版本 1903 中的新增功能
+# <a name="whats-new-in-windows-10-version-1903"></a>Windows 10版本 1903 中的新增功能
 
-下面是 Windows 10 版本 1903（也称为 Windows 10 2019 年 5 月更新）的新增和更新的功能和内容。 此更新还包含 Windows 10 版本 1809 以前的累积更新中包含的所有功能和修补程序：
+下面是版本 1903（也称为 Windows 10）的新增和更新的功能Windows 10 2019 年 5 月更新。 此更新还包含之前累积更新中包含的所有功能和修复程序Windows 10 版本 1809：
 
 1. [部署](https://go.microsoft.com/fwlink/?linkid=2114296)
 1. [服务](https://go.microsoft.com/fwlink/?linkid=2114493)
