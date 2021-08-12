@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12068"
 - "9007192"
-ms.openlocfilehash: 5f75c9442fbf5fa59c0eb94ae8ecd28bd7772e92
-ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.openlocfilehash: 94412b6bff18cbc60fba3c380860d9ad208dbd600a0fa0f6d0c72a22e27de620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53118163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907836"
 ---
 # <a name="windows-11-frequently-asked-questions-faq"></a>Windows 11 常见问题 (FAQ)
 
@@ -32,12 +32,12 @@ Windows 11 拥有 Windows 10 的所有功能和安全性，并经过重新设计
 
 **装有 Windows 11 的电脑价格是多少？**
 
-这由具体情况决定！ 许多不同的制造商将提供各种运行 Windows 11 的设备，所有设备的价格都不同。
+要看情况！许多不同的制造商将提供多种运行 Windows 11 的设备，所有设备的价格都不同。
 
 
 **我可以在何处购买装有 Windows 11 的电脑？**
 
-预安装 Windows 11 的电脑 2021 年下半年可从众多零售商购买。 详细信息。
+预安装 Windows 11 的电脑可以在 2021 年下半年从多家零售商购买。稍后公布详细信息。
 
 
 **我的配件是否适用于 Windows 11？**
@@ -52,7 +52,7 @@ Windows 11 拥有 Windows 10 的所有功能和安全性，并经过重新设计
 
 **如何确定新的 Windows 10 电脑是否满足最低要求？**
 
-可通过几种方法进行查找。如果你当前正在购买新电脑，请在事实标记上查找“免费升级到 Windows 11”。 还可以询问零售人员进行确认。
+可通过几种方法进行查找。如果你当前正在购买新电脑，请在事实标记上查找“免费升级到 Windows 11”。也可以要求零售专业人员确认。
 
 
 **何时可以将 Windows 10 设备升级到 Windows 11？**

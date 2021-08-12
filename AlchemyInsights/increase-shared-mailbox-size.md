@@ -1,5 +1,5 @@
 ---
-title: 1815增加共享邮箱的大小
+title: 1815 增加共享邮箱的大小
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912732"
 ---
 # <a name="increase-the-size-of-a-shared-mailbox"></a>增加共享邮箱的大小
 
-可以将共享邮箱的大小从 50 GB 的默认大小增加到 100 GB，具体方法是将共享邮箱分配给在 E3 和 E5 许可证) 中包括的 Exchange Online P2 许可证 (。 将 P2 许可证分配给 [活动用户](https://portal.office.com/adminportal/home)中的共享邮箱时，大小将在15分钟内自动增加。
+您可以通过为共享邮箱分配包含在 E3 和 E5 许可证) 中的 Exchange Online P2 许可证 (，将共享邮箱的大小从默认大小 50 GB 增加至 100 GB。 将 P2 许可证分配给 [活动](https://portal.office.com/adminportal/home)用户中的共享邮箱时，将在 15 分钟内自动增加大小。

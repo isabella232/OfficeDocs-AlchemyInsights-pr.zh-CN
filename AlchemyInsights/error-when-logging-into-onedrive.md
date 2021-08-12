@@ -1,5 +1,5 @@
 ---
-title: 0x8004de40 OneDrive 时出现错误
+title: 0x8004de40时出现错误OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 23c57356c8bd94c1cbafb538c9318208429754115a7c4e88abc93d293b5ea6e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946569"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 OneDrive 时出现错误
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40时出现错误OneDrive
 
-如果在登录 OneDrive **0x8004de40** 收到错误消息，请重启计算机，同时连接到工作或学校域。 如果在重新启动后收到此错误，请在连接到工作或学校域时尝试以下操作：
+如果在登录到 0x8004de40时收到OneDrive错误，请重新启动计算机，同时连接到工作或学校域。 如果在重新启动后收到此错误，请在连接到工作或学校域时尝试以下操作：
 
 1. 单击"开始"，在搜索框中键入 **cmd** 或命令提示符，右键单击命令提示符应用，然后选择"以 **管理员角色运行"。** 如果系统提示你输入管理员密码或进行确认，请键入密码，或单击"允许 **"。**  
 

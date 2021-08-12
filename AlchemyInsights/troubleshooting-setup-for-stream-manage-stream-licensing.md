@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2d3b906de6ebc9190acc947846f8c3f260f8ccd2197dd5cb04daa9c2dffbac97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955884"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>管理 Microsoft Stream 许可证
 
@@ -25,4 +25,4 @@ ms.locfileid: "51834757"
 
 你需要是全局管理员或用户管理管理员。有关详细信息，请参阅关于 [管理员角色](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)。
 
-可以使用 [Office 365 PowerShell 将](https://go.microsoft.com/fwlink/p/?linkid=850410)许可证分配给用户帐户。
+可以使用[PowerShell 将许可证分配给Office 365用户帐户](https://go.microsoft.com/fwlink/p/?linkid=850410)。

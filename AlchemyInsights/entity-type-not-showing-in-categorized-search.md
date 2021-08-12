@@ -1,5 +1,5 @@
 ---
-title: 在动态365统一接口中的分类或相关性搜索结果中未显示实体类型
+title: 未显示在 Dynamics 365 统一接口的已分类或相关性搜索结果中的实体类型
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946681"
 ---
 # <a name="entity-type-not-showing-in-search-results"></a>搜索结果中未显示实体类型
 
-对于在 Dynamics 365 统一界面中的分类搜索或相关性搜索中显示的实体类型，必须首先将其添加到应用模块中。
+若要在 Dynamics 365 统一接口的分类搜索或相关性搜索中显示实体类型，必须先将其添加到应用程序模块。
 
-注意：在相关性搜索中搜索附件时，即使父记录是结果中显示的内容，也必须将附件实体添加到 app 模块中。
+注意：在相关性搜索中搜索附件时，即使父记录是结果中显示的内容，也必须将 attachment 实体添加到应用程序模块。

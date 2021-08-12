@@ -14,12 +14,12 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929187"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>你的用户是否收到恶意电子邮件？
 
@@ -32,7 +32,7 @@ ms.locfileid: "51815236"
 - 当前触发结果，以查看邮件中所包含的 URL 或文件是否是恶意的。
 - 评价员的反馈
 
-如果找到了覆盖，则应该会在数分钟内完成重新扫描。 如果电子邮件身份验证中不存在问题，或者覆盖对传递没有影响的话，则评价员的反馈可能需要多达一天的时间。
+如果找到了覆盖，则应该会在数分钟内完成重新扫描。如果电子邮件身份验证中不存在问题，或者覆盖对递送没有影响，则可能需要最多一天的时间才能收到评价员的反馈。
 
 如果不同意邮件、URL 或文件的最终裁定（被阻止与未阻止），请在一天之后再次提交该邮件以进行重新扫描。 再次提交邮件后，裁定更改的几率是相当高的。
 

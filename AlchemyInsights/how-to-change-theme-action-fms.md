@@ -1,5 +1,5 @@
 ---
-title: '8000059如何更改主题操作 (FMS) '
+title: '8000059如何更改 FMS (主题) '
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "992"
 - "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: 736a30d2d41abe99406352280d95672493dd814a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24b049f048849ae30938a00349946f7534f2538f952bb931997af53472ee3729
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963705"
 ---
 # <a name="how-to-change-your-theme"></a>如何更改主题
 
-若要在 Outlook.com 或 web 上的 Outlook 中更改主题，请转到 " **设置** "，然后选择 " **主题**" 下的主题。 若要查看所有可用的主题，请选择 "**主题**" 下的 "**全部查看**"。
+若要在 Outlook.com 或 Outlook 网页版 中更改设置，然后选择"主题 **"****下的主题**。 若要查看所有可用主题，请选择"**主题"下的"全部****查看"。**
   
