@@ -1,5 +1,5 @@
 ---
-title: 从 Microsoft Edge 加载项应用商店向 Microsoft Edge 添加扩展
+title: 从加载项应用商店Microsoft Edge加载项Microsoft Edge扩展
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936407"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>从 Microsoft Edge 加载项应用商店向 Microsoft Edge 添加扩展
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>从加载项应用商店Microsoft Edge加载项Microsoft Edge扩展
 
-若要从 Microsoft Edge 加载项存储向 Microsoft Edge 添加扩展，
+若要向加载项Microsoft Edge加载项Microsoft Edge扩展：
 
 - 打开 Microsoft Edge。
-- Select **... > Extensions > Get [extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Select **... > Extensions > [Get extensions for Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
 - 选择要添加的扩展，然后选择"获取 **"。**
 - 在确认对话框中，仔细检查扩展可能所做的修改，然后选择"添加 **扩展"。**
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b3f4f034d5d7486dafa1b5c1801a285b09a34644b811146f09f454fad9647833
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910644"
 ---
 # <a name="recover-deleted-items-with-cmdlet"></a>使用 cmdlet 恢复已删除的项目
 
@@ -25,4 +25,4 @@ ms.locfileid: "51835801"
 
 - 请参阅 [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) 的完整详细信息。
 
-- 你必须先分配到“邮箱导入导出”角色，才能运行此 cmdlet。 有关更多详细信息，请参阅 [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)。
+- 你必须先分配到“邮箱导入导出”角色，才能运行此 cmdlet。有关详细信息，请参阅 [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)。
