@@ -1,5 +1,5 @@
 ---
-title: 'Windows 10 中的键盘设置 '
+title: '键盘设置Windows 10 '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be7203521aa2acf2fcf667c26a2d996eca5f846d14cc6957c0fde6b82d887aa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925587"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Windows 10 中的键盘设置
+# <a name="keyboard-settings-in-windows-10"></a>键盘设置Windows 10
 
 **类型设置**
 
-若要更改与拼写检查、自动更正、建议以及硬件和触摸键盘的其他方面相关的 Windows 设置，请转到"设置">**设备>键入"。** 
+若要Windows拼写检查、自动更正、建议以及硬件和触摸键盘的其他方面相关的设置，请转到 设置 > **Devices > Typing**。 
 
 **语言和键盘设置**
 
-若要更改与 Windows 语言使用的键盘或输入方法相关的设置，请转到"设置">"时间&**语言>语言"。** 在"首选语言 **"列表中选择** 语言，然后单击"选项"添加/删除键盘或输入方法 (IIM) 。
+若要更改与用于语言的语言的键盘或输入方法Windows相关的设置，请转到"设置 > **Time & Language > Language"。** 在"首选语言 **"列表中选择** 语言，然后单击"选项"添加/删除键盘或输入方法 (IIM) 。

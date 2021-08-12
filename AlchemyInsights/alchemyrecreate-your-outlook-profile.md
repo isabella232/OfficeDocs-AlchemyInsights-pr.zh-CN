@@ -1,5 +1,5 @@
 ---
-title: Alchemy-重新创建您的 Outlook 配置文件
+title: Alchemy - 重新创建Outlook配置文件
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 3c6fb8639291c210452c7391d249d44a110d77f5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e44ef91a29261be5040b9adbd2ebc7197c5dc3ed61a96be6deda1723bb836580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933527"
 ---
-# <a name="create-an-outlook-profile"></a>创建 Outlook 配置文件
+# <a name="create-an-outlook-profile"></a>创建Outlook配置文件
 
-若要创建或重新创建 Outlook 配置文件，可以在受影响的计算机上运行 [outlook 配置文件工具](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) 。
+若要创建或重新创建Outlook配置文件，可以在受影响的计算机上Outlook[配置文件](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy)工具。
 
-该工具将执行各种检查，准备就绪后，将使用您的电子邮件地址创建 Outlook 配置文件。
+该工具将执行各种检查，当你准备好时，将Outlook电子邮件地址创建一个配置文件。

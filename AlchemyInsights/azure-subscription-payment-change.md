@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e5a0719aecc34dd3cbf0368ba3df3eed312997a392a87b220fbafc8b21b19aa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917593"
 ---
 # <a name="change-payment-information-in-azure"></a>更改 Azure 中的付款信息
 
@@ -26,7 +26,7 @@ ms.locfileid: "51820708"
 **向 Azure 订阅添加新的信用卡或借记卡**
 
 1. 作为 [帐户管理员](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)登录到 [Azure 门户](https://portal.azure.com/)。在“**成本管理 + 帐单** 上搜索
-2. 选择要添加信用卡或借记卡的订阅。 选择 **支付方式**
+2. 选择要添加信用卡或借记卡的订阅。选择“**付款方式**”
 3. 在左上角，选择 + 添加卡。 信用卡窗体将显示在右侧。 输入信用卡或借记卡的详细信息 4. 要将此卡设置为你的有效支付方式，请选中窗体上“将此设为我的有效支付方式”旁边的复选框。 该卡将成为与特定订阅使用同一张卡的所有订阅的有效支付工具。 选择“**下一步**” 5. 若要 **使用不同的信用卡**，请选中想要其成为有效付款方式的信用卡旁的复选框。
 6. 单击“**设为有效**”
 

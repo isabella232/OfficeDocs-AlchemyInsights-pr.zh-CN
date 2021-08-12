@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b4b0d4d9e7d33cfc02a239c96b621fd6ee9404f4839438b3f2b194ceda54658c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917521"
 ---
 # <a name="backup-notebooks-in-onenote"></a>在 OneNote 中备份笔记本
 
@@ -29,4 +29,4 @@ OneNote 可保留所有工作的备份，但 OneNote 网页版目前无法执行
 4. 在“**选择文件夹**”对话框中，转到你的备份文件夹。
 5. 单击“**选择**”以接受新位置，然后单击“**确定**”。
 
-使用 OneNote for Windows 10，你的笔记本将存储在 OneDrive 或 SharePoint 上。 OneNote 的所有版本都会在设备上保留笔记本的缓存副本，因此即使用户处于脱机状态仍可进行访问，而且会在用户连接时同步所有更改。
+在使用 OneNote for Windows 10 的情况下，你的笔记本将存储在 OneDrive 或 SharePoint 上。OneNote 的所有版本都会在设备上保留笔记本的缓存副本，因此你即使处于脱机状态也仍可进行访问，而且系统会在你连接时同步所有更改。

@@ -1,5 +1,5 @@
 ---
-title: 更改 OneDrive for Business 存储配额
+title: 更改OneDrive for Business配额
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968655"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>为您的用户更改默认的 OneDrive 存储空间
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>更改OneDrive的默认存储空间
 
-1. 转到 [OneDrive 管理中心](https://admin.onedrive.com/?v=StorageSettings)的 "存储" 页。
+1. 转到管理[存储中心OneDrive页面](https://admin.onedrive.com/?v=StorageSettings)。
     
-2. 在 " **默认存储** " 框中输入默认存储量 (GB) ，然后单击 " **保存**"。
+2. 在"默认存储"框中 (以 GB) ，然后单击"保存 **"。** 
     
-此存储空间设置适用于尚未为其设置特定存储限制的所有用户。 若要更改特定用户的存储空间，您需要使用 Microsoft PowerShell。 有关如何执行此操作的信息，请参阅 [使用 PowerShell 更改用户的 OneDrive 存储空间](https://go.microsoft.com/fwlink/?linkid=866402)。
+此存储空间设置适用于尚未设置特定存储限制的所有用户。 若要更改特定用户的存储空间，您需要使用 Microsoft PowerShell。 若要了解如何进行此操作，请参阅使用[PowerShell 更改OneDrive存储空间](https://go.microsoft.com/fwlink/?linkid=866402)。
   
 
