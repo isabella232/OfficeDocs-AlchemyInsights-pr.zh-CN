@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2588"
 - "9000668"
-ms.openlocfilehash: 83841de4411ccd6843e0d2c7761930704b08a3b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a2e347859f08396c183f7a8ff0fb2c6f78bd557184a14abf13b46f5f834e54
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911868"
 ---
 # <a name="move-files-from-onedrivecom-or-another-provider-into-onedrive-for-business"></a>将文件从 OneDrive.com 或其他提供程序移动到 OneDrive for Business
 
-如果你对文件具有本地访问权限，则可以通过在 Web 浏览器中上传文件或使用 OneDrive 同步客户端将文件移动到 OneDrive for Business。 我们还提供了其他工具来帮助你移动：
+如果你对文件具有本地访问权限，则可以通过在 Web 浏览器中上传文件或使用 OneDrive 同步客户端将文件移动到 OneDrive for Business。我们还提供了其他工具来帮助你移动：
 
 - 全面大致了解将内容移动到 OneDrive for Business 的方式。 有关详细信息，请参阅[将内容迁移到 Microsoft 365](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online)。
 - 你需要使用不同的步骤来移动 OneNote 笔记本。 有关详细信息，请参阅[将 OneNote 笔记本移动到 OneDrive](https://support.office.com/article/move-a-onenote-notebook-to-onedrive-0af0a141-0bdf-49ab-9e50-45dbcca44082)。

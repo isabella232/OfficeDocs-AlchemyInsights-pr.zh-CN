@@ -1,5 +1,5 @@
 ---
-title: 禁用 OneDrive
+title: 禁用OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 7cfe02546f6bed02282f544037cb5d84a711cd87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff05cbfe55642243cff035c63db1ec7b541324b5f3685cacbf2877e22445e8cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928611"
 ---
-# <a name="disable-onedrive"></a>禁用 OneDrive
+# <a name="disable-onedrive"></a>禁用OneDrive
 
-有几种方法可以根据您的业务需求禁用对 OneDrive 及其服务的访问：
+有几种方法可以禁用对 OneDrive 及其服务的访问，具体取决于您的业务需求：
 
-[取消链接、隐藏或卸载 OneDrive 应用程序](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[取消链接、隐藏或卸载OneDrive应用程序](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[仅允许对特定组织进行同步](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[仅允许同步特定组织](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[为某些用户禁用 OneDrive 网站创建](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[为OneDrive用户禁用网站创建](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[基于网络位置控制对 SharePoint Online 和 OneDrive 数据的访问](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[根据网络SharePoint控制对 OneDrive Online 和 OneDrive 数据的访问](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[禁用个人 OneDrive 同步](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[禁用个人OneDrive 同步](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
 [管理从 Windows 设备到 OneDrive 和其他服务的连接](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
