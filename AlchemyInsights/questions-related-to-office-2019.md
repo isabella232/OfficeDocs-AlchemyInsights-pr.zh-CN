@@ -1,5 +1,5 @@
 ---
-title: 与 Office 2019 相关的问题
+title: 与 2019 Office相关的问题
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911076"
 ---
 # <a name="about-office-2019"></a>关于 Office 2019
 
-Office 2019 适用于尚不准备云或对本地或混合 Office 部署有特定需求的客户。 它包括在最近三年中已添加到 Microsoft 365 的功能的有意义的子集，但它不是 Microsoft 365 中的一部分。
+Office 2019 年适用于尚未准备好使用云或对本地或混合部署有特定需求Office客户。 它包括在过去三年中已添加到 Microsoft 365 有意义的功能子集，但它不是 Microsoft 365。
   
-适用于企业的 Microsoft 365 应用，Office 的云连接版本，提供了效率最高、最安全的 Office 体验。 它提供了对一组服务的访问权限，而不是本地版本在持续的基础上提供和接收新功能更新。
+Microsoft 365 企业应用版是云连接的 Office 版本，可提供最高效、最安全的 Office 体验。 它提供对一套服务的访问权限，超出了本地版本拥有的功能，并持续接收新功能更新。
   
-因此，如果您将 Office 桌面应用程序作为 Microsoft 365 订阅的一部分，则您已拥有最新版本的 Office。
+因此，如果你有桌面Office桌面应用作为你的Microsoft 365订阅的一部分，则你已经拥有最新版本Office。
   
 有关详细信息，请参阅：
   
-[适用于 Windows 和 Mac 的 Office 2019 商业版常见问题](https://support.microsoft.com/help/4133312)
+[Office 2019 商业Windows和 Mac 常见问题](https://support.microsoft.com/help/4133312)
   
-[Office 2019 的主要版本号为16。0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[2019 年 Office的主要版本号为 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
 [Office 2016 和 Microsoft 365 客户端应用中的年份标识将从“开始”菜单项中删除](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

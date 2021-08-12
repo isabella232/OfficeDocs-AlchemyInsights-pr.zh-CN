@@ -1,5 +1,5 @@
 ---
-title: 在 web 上的 Outlook 中恢复已删除的电子邮件
+title: 恢复已删除的电子邮件Outlook 网页版
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 40ebd8a68aebb8d3638940e5263a03abf1ab342f
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: ff252b7fab1aaba9f4e27866b7296ff0bada9ba0891b2f818eda4b7e7a3a3c31
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924255"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>在 web 上的 Outlook 中恢复已删除的电子邮件
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>恢复已删除的电子邮件Outlook 网页版
 
-1. 在左窗格中，选择 "已删除邮件" 文件夹或 "垃圾邮件" 文件夹。
+1. 在左窗格中，选择"已删除邮件"文件夹或"垃圾邮件"文件夹。
 
 2. 执行下列操作之一：
 
-    - "已删除邮件" 文件夹：选择要恢复的邮件，然后选择 " **还原**"。 如果邮件不在 "已删除邮件" 文件夹中，请从邮件列表顶部的 " **恢复此文件夹中删除的项目** " 中选择，选择要恢复的邮件，然后选择 " **还原**"。
+    - "已删除邮件"文件夹：选择要恢复的邮件，然后选择"还原 **"。** If the message isn't in the Deleted Items folder， select **Recover items deleted from** this folder at the top of the message list， select the message you want to recover， and select **Restore**.
 
-    - "垃圾邮件" 文件夹：选择要恢复的邮件，然后选择 " **不垃圾**邮件"。
+    - 垃圾邮件文件夹：选择要恢复的邮件，然后选择"非 **垃圾邮件"。**
 
-若要了解详细信息，请参阅 [在 web 上的 Outlook 中恢复已删除的电子](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)邮件。
+若要了解更多信息，请参阅[恢复已删除的电子邮件Outlook 网页版。](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11)

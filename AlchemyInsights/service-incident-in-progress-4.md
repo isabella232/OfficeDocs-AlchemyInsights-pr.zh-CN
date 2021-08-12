@@ -1,5 +1,5 @@
 ---
-title: 正在进行的服务事件
+title: 正在进行服务事件
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,19 +13,19 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 8ed373939f82f7f96fd51587210dcc26f28e75f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab6c1e12e750ab8fab046bf3d575a4bfc0d191495e4c8c2c48698dd98106aa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942231"
 ---
-# <a name="service-incident-in-progress"></a>正在进行的服务事件
+# <a name="service-incident-in-progress"></a>正在进行服务事件
 
-您可能受到当前正在调查的服务事件或公告的影响。 您可以通过转到 " [服务运行状况](https://admin.microsoft.com/adminportal/home#/servicehealth) " 页来检查最新状态。
+您当前正在调查的服务事件或公告可能会受到影响。 可以通过访问"服务运行状况"页来检查 [最新](https://admin.microsoft.com/adminportal/home#/servicehealth) 状态。
   
 为方便起见，你可以在下面找到此事件的摘要：
   
-> **事件编号：**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **事件编号**[：{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> 影响说明： {ImpactDescription}
+> 影响说明：{ImpactDescription}
