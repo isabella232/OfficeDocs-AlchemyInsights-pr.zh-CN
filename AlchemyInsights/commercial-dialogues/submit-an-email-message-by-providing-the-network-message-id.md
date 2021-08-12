@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: e4a0a3d9b4fede9198c8a235d05945b30a6e0807
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1a6f9815a36cc267a815ff9757d713afed5d95aec4f7c537135c88cadf26cc51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929907"
 ---
 # <a name="submit-an-email-message-by-providing-the-network-message-id"></a>通过提供网络邮件 ID 提交电子邮件
 
 1. 在"**新建提交"** 飞出内容中，选择 **"电子邮件** 和网络 **消息 ID"。**
-2. 按照以下步骤在 Outlook 中查找电子邮件的邮件 ID：
+2. 按照以下步骤在邮件中查找电子邮件Outlook：
     1. 双击电子邮件以打开它。
     1. 选择 **"文件**  >  **属性"。**
     1. 打开记事本或空白 Word 文档，然后将 **"Internet** 标题"框中的内容复制并粘贴到打开的文档中，以更好地查看。
