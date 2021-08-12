@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc8972d56ad63ac1d0bc16910ed74c7121aefb05f786fdd60a77ba89867d1741
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973039"
 ---
 # <a name="questions-before-purchase"></a>购买前的问题
 
@@ -34,7 +34,7 @@ ms.locfileid: "51809897"
 不，如果您是 EA 订阅的所有者，则可以购买 RI。
 
 **RI 购买是否从货币承诺中扣除？**  
-是。 如果没有足够的货币承诺，您将收到超出可用货币承诺金额的超额发票。
+是的。如果没有足够的货币承诺，针对超出可用货币承诺的金额部分，你将收到超额发票。
 
 **预留实例如何应用于 Windows VM 或我的 SQL IP 成本？**  
 预留实例折扣仅适用于计算使用量。 Windows IP 或 SQL IP 费用将单独收取，并且不会获得RI折扣。 [Azure 虚拟机预留实例未包含软件成本](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  

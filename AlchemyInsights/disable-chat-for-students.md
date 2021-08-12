@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6143"
 - "9003097"
-ms.openlocfilehash: 983fc15c3a43ebbf0643e5268baa783be64cca5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa5e62d0419df20b1c2b09add0b16670767fb24f5b50fcc0f5246fa48299f07b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929115"
 ---
 # <a name="disable-chat-for-students"></a>对学生禁用聊天功能
 
-建议教育机构的管理者考虑使用策略包来保障教师和学生的安全。 有关详细信息，请参阅：
+建议教育机构的管理员考虑使用策略包来保障学生和教师的安全。有关详细信息，请参阅：
 
 - [Microsoft Teams 中的策略包](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
 - [为保障学生安全而应分配的策略](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
