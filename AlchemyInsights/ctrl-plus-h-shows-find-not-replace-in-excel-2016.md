@@ -1,5 +1,5 @@
 ---
-title: CTRL + H 在 Excel 2016 中显示 "查找" 和 "不替换"
+title: Ctrl+H 显示"查找"，而不是"替换Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914713"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H 显示查找，不替换在 Excel 中
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>Ctrl+H 显示"查找"，而不是"Excel
 
-在 Excel 2016 中，按 CTRL + H 将打开 "查找和替换" 对话框，并显示 "查找" 选项卡，而不是 "替换" 选项卡。在 "主页" 选项卡上单击 "替换" 执行相同操作。 此问题已在版本 1708 (8431.2094) 中得到解决。 若要解决此问题，请更新到 Office 的最新版本。 选择**File** "立即更新" "文件 \> **帐户** \> **更新选项**" \> **Update Now**。
+在Excel 2016中，按 Ctrl+H 将打开"查找和替换"对话框，并显示"查找"选项卡，而不是"替换"选项卡。单击"开始"选项卡上的"替换"可以完成相同的操作。 This issue was fixed in version 1708 (8431.2094) . 若要解决此问题，请更新到最新版本的 Office。 选择 **"** \> **文件** \> **""帐户更新选项** \> **""现在更新"。**
   

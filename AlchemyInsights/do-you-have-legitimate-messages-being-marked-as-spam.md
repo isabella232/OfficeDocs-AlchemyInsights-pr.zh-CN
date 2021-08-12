@@ -12,12 +12,12 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: d0dafe58717cdb8c59fe558e32ca118c0a8f3e2b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b40d4cc6524a207889bf8ec0e2459c5d3077e7911a0b173a5ac87bb330d5d2cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947901"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>是否有正当邮件被标记为垃圾邮件？
 
@@ -29,5 +29,5 @@ ms.locfileid: "47678998"
 
 2. 让用户[将此邮件报告为“不是垃圾邮件”](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2)。
 
-如果要开具支持工单，请在下方附加至少**一个完整原始邮件**的完整电子邮件标头。
+如果要开具支持工单，请在下方附加至少 **一个完整原始邮件** 的完整电子邮件标头。
   
