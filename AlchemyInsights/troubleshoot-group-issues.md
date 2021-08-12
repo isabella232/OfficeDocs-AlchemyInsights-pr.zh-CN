@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7814"
 - "9004358"
-ms.openlocfilehash: 7e2957a27305e8fb0bfd10e21189cef9870c5aaa
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: 47f00118a5a4b446b6a3b06f0fc6101d00d11b626eaf249bb6ca962a55f7f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "50716103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939333"
 ---
 # <a name="troubleshoot-group-issues"></a>解决组问题
 
@@ -49,7 +49,7 @@ ms.locfileid: "50716103"
 3. 除了内置的用户和设备属性，还可使用"扩展 [属性](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership#extension-properties-and-custom-extension-properties)。 从本地 Windows Server AD 或连接的 SaaS 应用程序同步扩展属性后，属性应显示在规则生成器的下拉列表中。 通过使用 PowerShell 查询用户属性并搜索属性名称，可在目录中找到自定义属性名称。 在规则语法中构建规则时，也可使用这些规则。
 4. 确保租户具有相应的许可证。 动态组需要租户拥有 Azure AD P1 Premium 许可证。 可在此处访问 Azure AD 许可证计划 [列表](https://azure.microsoft.com/pricing/details/active-directory/)。 可在此处访问企业移动性 + 安全性 [许可](https://www.microsoft.com/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing)。
 5. 确保创建动态组的用户的角色是全局管理员、Intune 管理员、组管理员或用户管理员。
-6. 请留出一些时间，以便组进行填充。 根据租户的大小，首次填充或规则更改后，组可能需要多达 24 小时进行填充。
+6. 请留出一些时间，以便组进行填充。根据租户的大小，首次填充或规则更改后，组可能需要多达 24 小时进行填充。
 7. 有关详细信息，请参阅 [动态组成员身份列表创建基于属性的规则](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-dynamic-membership)。
 
 **我需要删除组**
@@ -62,8 +62,8 @@ ms.locfileid: "50716103"
 
 1. 如果删除了 Office 365 组，则只能在永久删除前 30 天将其还原。 永久删除后，无法再还原组。 在[此处](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted)了解有关还原组。
 2. 安全组和通讯组不支持此功能。
-3. 确保你有权还原 Office 365 组。 全局管理员、组管理员、用户帐户管理员、Intune 服务管理员、合作伙伴第 1 层或第 2 层支持以及组的所有者能够还原组。
-4. 删除和还原动态组时，它被视为新组，然后根据规则进行填充。 此过程可能需要多达 24 小时。
+3. 请确保你有权还原 Office 365 组。全局管理员、组管理员、用户帐户管理员、Intune 服务管理员、合作伙伴第 1 级或第 2 级支持人员以及组的所有者均可以还原组。
+4. 在删除后又还原一个动态组时，该组被视为新组，将根据规则进行填充。此过程可能需要多达 24 小时。
 5. 有关还原已删除组的信息，请参阅 在 Azure Active Directory [还原已删除的 Office 365](https://docs.microsoft.com/azure/active-directory/enterprise-users/groups-restore-deleted)。
 
 **组过期策略配置**

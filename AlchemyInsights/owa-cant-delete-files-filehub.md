@@ -1,5 +1,5 @@
 ---
-title: 无法从 web 上的 Outlook 文件中删除文件或照片
+title: 无法从文件中删除文件或Outlook 网页版
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961438"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>无法从 web 上的 Outlook 文件中删除文件或照片
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>无法从文件中删除文件或Outlook 网页版
 
-**文件** 显示附加到邮箱中邮件的文件和照片。 若要从文件中删除文件和照片，您需要删除其附加的电子邮件。 删除邮件后，还需要将其从 "已删除邮件" 文件夹中删除。
+**文件** 显示附加到邮箱中的邮件的文件和照片。 若要从"文件"中删除文件和照片，需要删除它们所附加到的电子邮件。 删除邮件后，还需要从"已删除邮件"文件夹中删除邮件。
