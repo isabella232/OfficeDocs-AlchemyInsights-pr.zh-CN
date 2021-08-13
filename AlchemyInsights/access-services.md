@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938649"
 ---
 # <a name="access-services"></a>Access Services
 
-SharePoint Online 中的 Access Services 功能将被停用。 不能再创建新的基于 Access 的 web 应用程序和 web 数据库，并且现有的 web 应用和 web 数据库将在4月2018的时间点关闭。  ( .accdb) 的访问桌面数据库不受此更改的影响。 我们建议 Microsoft PowerApps 作为 Access web apps 和 web 数据库的替代方法。 
+Access Services Online 中的 SharePoint 功能即将停用。 无法再新建基于 Access 的 Web 应用和 Web 数据库，现有 Web 应用和 Web 数据库将于 2018 年 4 月关闭。 Access Desktop databases (.accdb) are not impacted by this change. 我们建议Microsoft PowerApps Access Web 应用和 Web 数据库的替代项。 
   
-[了解 Microsoft PowerApps](https://powerapps.microsoft.com/)
+[了解Microsoft PowerApps](https://powerapps.microsoft.com/)
   
