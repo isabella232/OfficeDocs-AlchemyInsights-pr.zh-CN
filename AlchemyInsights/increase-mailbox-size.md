@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913128"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>切换订阅以增加邮箱大小
 
 如果邮箱大小已是 100 GB，则不能增加大小。
   
-如果邮箱大小为 50 GB，则可以通过切换到 [Office 365](https://products.office.com/business/office-365-enterprise-e3-business-software) 企业版 E3 或 Office [365](https://products.office.com/business/office-365-enterprise-e5-business-software)企业版 E5，将邮箱大小增加至 100 GB。 下面是切换到其他订阅的步骤：
+如果邮箱大小为 50 GB，则可以通过切换到[E3](https://products.office.com/business/office-365-enterprise-e3-business-software)或 Office 365 企业版[E5，Office 365 企业版 100 GB。](https://products.office.com/business/office-365-enterprise-e5-business-software) 下面是切换到其他订阅的步骤：
   
-1. 在 Microsoft 365 管理中心，转到" **帐单** \> **[""产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页面。
+1. In the Microsoft 365 管理中心， go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.
 
 2. 选择要升级的订阅。
 

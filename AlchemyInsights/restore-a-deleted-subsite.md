@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958719"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>还原已删除的 SharePoint 子网站
+# <a name="restore-a-deleted-sharepoint-subsite"></a>还原已删除的SharePoint子网站
 
-已删除的子网站会被发送到网站集回收站，其中保留了93天。 若要还原已删除的子网站：
+已删除的子网站将发送到网站集回收站，这些子网站将保留 93 天。 还原已删除的子网站：
   
-1. 在新的 SharePoint 管理中心中，查找从中删除了子网站的网站，并确保您是网站集管理员。 
+1. 在新建SharePoint管理中心中，查找已删除子网站的网站，并确保你是网站集管理员。 
     
-2. 转到网站。 在左窗格中单击 " **回收站** "。  (如果看不到回收站，请单击 "设置" 图标，然后单击 " **网站内容**"。 回收站位于命令栏顶部的最右侧。 ) 
+2. 转到网站。 单击 **左窗格中** 的"回收站"。  (如果看不到回收站，请单击"回收站设置图标，然后单击"网站 **内容"。** 回收站位于顶部命令栏最右边) 
     
-3. 在页面底部，单击 " **第二阶段回收站**"。
+3. 在页面底部，单击"**第二阶段回收站"。**
     
-4. 单击子网站的左侧，然后单击 " **还原**"。
+4. 单击子网站左侧，然后单击"还原 **"。**
     
 

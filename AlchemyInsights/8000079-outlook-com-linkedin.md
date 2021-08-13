@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918855"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>声称来自 LinkedIn 的垃圾邮件存在问题
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>声明来自 LinkedIn 的垃圾邮件问题
 
-如果您收到来自 LinkedIn 的垃圾邮件，您可以创建一个规则来筛选这些电子邮件。
-有关详细信息，请参阅 [在 Outlook.com 中使用收件箱规则](https://aka.ms/OutlookComInboxRules) 。
+如果您收到声明来自 LinkedIn 的垃圾邮件，您可以创建一个规则来筛选这些电子邮件。
+有关详细信息[，请参阅使用 Outlook.com](https://aka.ms/OutlookComInboxRules)中的收件箱规则。
 
 

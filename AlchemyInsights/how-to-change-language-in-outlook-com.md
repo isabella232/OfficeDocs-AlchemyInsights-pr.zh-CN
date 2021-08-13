@@ -1,5 +1,5 @@
 ---
-title: 如何更改 Outlook.com 中的语言
+title: 如何在 Outlook.com 中更改语言
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913273"
 ---
 # <a name="change-your-language"></a>更改语言
 
-1. 若要在 Outlook 中 chang 语言，请转到 "[**语言和时间**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional)设置" (**设置** \> **查看所有 Outlook 设置**  >  **常规**  >  **语言和时间**) 。
+1. 若要在语言Outlook，请转到"语言和时间设置" (设置查看所有Outlook设置 [](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) \> **常规** 语言和  >    >  ) 。
 
-2. 选择您的语言。
+2. 选择语言。
 
 3. 选择“**保存**”。
 
-若要了解详细信息，请参阅 [在 Outlook.com 中更改时区和语言设置](https://go.microsoft.com/fwlink/p/?linkid=873132)。
+若要了解更多信息，请参阅更改[Outlook.com 中的时区和语言设置](https://go.microsoft.com/fwlink/p/?linkid=873132)。

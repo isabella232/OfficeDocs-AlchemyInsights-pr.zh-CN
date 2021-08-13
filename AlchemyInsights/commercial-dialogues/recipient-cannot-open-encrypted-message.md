@@ -1,5 +1,5 @@
 ---
-title: 修复了在 Outlook 中查看受保护邮件的问题
+title: 修复了在邮件中查看受保护Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967143"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>修复了在 Outlook 中查看受保护邮件的问题
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>修复了在邮件中查看受保护Outlook
 
 如果收件人在打开加密邮件时遇到问题，请确保收件人单击邮件中的链接以请求一次密码。
 
@@ -35,6 +35,6 @@ ms.locfileid: "50736075"
 
 3. 单击 **"继续** "阅读邮件。
 
-有关详细信息，请参阅在 [Outlook for PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)中发送、查看和回复加密邮件。
+有关详细信息，请参阅S [send， view， and reply to encrypted messages in Outlook for PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)。
 
 

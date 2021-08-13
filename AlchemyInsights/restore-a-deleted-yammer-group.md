@@ -1,5 +1,5 @@
 ---
-title: 还原已删除的 Yammer 组
+title: 还原已删除Yammer组
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958755"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>还原已删除的 Yammer 组
+# <a name="restore-a-deleted-yammer-group"></a>还原已删除的Yammer组
 
-按照还原已删除的 Microsoft [365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)组的步骤，可以在删除后 30 天内还原 Yammer 中的 Office [365 连接组](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)。
-在某些情况下，Yammer 组可能无法连接到 Microsoft 365 组。 在这种情况下，无法自动还原组，但如果网络数据保留策略设置为"软删除"，则可能会访问 [Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)数据导出中的已删除 [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance)*数据*。 请与 [Yammer 网络的](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) 验证管理员联系，以检查数据保留策略或执行数据导出。
+[Office 365还原](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups)已删除Yammer组的步骤，可以在删除后 30 天内还原Microsoft 365[组](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)。
+在某些情况下，Yammer组可能未连接到Microsoft 365组。 在这种情况下，无法自动还原组，但如果网络数据保留策略设置为"软删除 ["，则](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)可能会访问 Yammer 数据导出中已删除 *的数据。* [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) 请与[测试网络](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)Yammer管理员联系，以检查数据保留策略或执行数据导出。

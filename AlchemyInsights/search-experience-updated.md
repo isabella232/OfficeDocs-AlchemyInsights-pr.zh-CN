@@ -1,5 +1,5 @@
 ---
-title: 414搜索体验已更新
+title: 已更新 414 搜索体验
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958539"
 ---
-# <a name="search-experience-updated"></a>更新了搜索体验
+# <a name="search-experience-updated"></a>已更新搜索体验
 
-搜索现在位于应用程序的底部。 点击此项可直接访问你的主要联系人、即将到来的旅行路线、包交付和最近的附件。 您可以从一个搜索框中搜索任何帐户中的电子邮件、文件和联系人，或使用我们的新筛选器来缩小搜索范围。
+搜索现在位于应用底部。 通过点击它，你可以直接访问你的顶级联系人、即将到来的旅行行程、程序包交付和最近附件。 可以从一个搜索框搜索任何帐户的电子邮件、文件和联系人，或使用我们的新筛选器缩小搜索范围。
