@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971077"
 ---
 # <a name="using-custom-policy-in-intune"></a>在 Intune 中使用自定义策略
 
-Intune 为 Android、iOS、macOS 和 Windows 设备内置了许多设置。 您还可以创建自定义配置文件，然后使用 Intune 将这些自定义设置部署到你的设备。 自定义配置文件旨在将未内置于 Intune 中的设备设置和功能添加到 Intune 中。
+Intune 具有许多内置的 Android、iOS、macOS 和 Windows设置。 还可以创建自定义配置文件，然后使用 Intune 将这些自定义设置部署到设备。 自定义配置文件旨在添加未内置于 Intune 的设备设置和功能。
 
 [Intune 中 Android 设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Intune 中 Android 企业版设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Intune 中 Android Enterprise设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
 [Intune 中 iOS 设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Intune 中的 macOS 设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-macos)
+[Intune 中 macOS 设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Intune 中 Windows 10 设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Intune 中Windows 10设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Intune 中 Windows 全息版设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Intune 中Windows Holographic for Business设备的自定义设置](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

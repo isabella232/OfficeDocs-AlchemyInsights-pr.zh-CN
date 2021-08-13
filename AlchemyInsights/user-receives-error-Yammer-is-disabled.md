@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6010"
 - "9003111"
-ms.openlocfilehash: 3a3a1b531f3d775f7e5150ce86733a3012df8d0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2e23d63338ece5332ad4fd2b2d59021eb45d9bf32632d3cc23089c919d4e402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971221"
 ---
 # <a name="user-receives-error-aadsts7000112-yammer-is-disabled"></a>用户收到错误 AADSTS7000112 Yammer 被禁用
 
@@ -29,7 +29,7 @@ ms.locfileid: "47796638"
 若要在 Azure 门户中更正此问题，并将用户访问权限还原到 Yammer：
 
 1.  打开 “Azure Active Directory”页面，然后在左侧导航窗格的“**管理**”下选择“**企业应用程序**”。
-3.  在搜索框中键入 **Office 365 Yammer **，然后选择应用程序名称以打开设置。
+3.  在搜索框中键入 **Office 365 Yammer**，然后选择应用程序名称以打开设置。
 4.  在左侧导航窗格的“**管理**”下选择“**属性**”。
 5.  将“**是否已启用供用户登录的值？**”设置为“**是**”，然后选择“**保存**”。
 6.  重新登录 Yammer。 您可能需要清除 cookie。

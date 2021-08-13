@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online 或 OneDrive "设置"
+title: SharePoint联机或OneDrive"设置"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770982"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093588"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online 或 OneDrive "设置"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint联机或OneDrive"设置"
 
-将用户添加到现有租户时，他们可能会看到 SharePoint Online 或 OneDrive for Business 图标列为 "设置" 或 "我们仍在获取文件安装程序"，直到设置过程完成。 请遵循此 [故障排除指南](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) 以获取帮助。
+将用户添加到现有租户后，他们可能会看到列为"设置"或"我们仍在致力于设置文件"的 SharePoint Online 或 OneDrive for Business 图标，直到预配过程完成。 请按照此 [疑难解答指南](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) 寻求帮助。
 
-如果在你首次看到此问题后超过了24小时，请记录一种支持案例。
+如果自你首次看到此问题以来已过去 24 小时以上，请记录支持案例。
 
-我们理解，24 小时可能看起来很长。 在许多情况下，我们已经在研究解决方案。 请至少为我们提供24小时的时间来完成解决方案。
+我们理解，24 小时可能看起来很长。 在许多情况下，我们已经在研究解决方案。 请给我们至少 24 小时才能完成解决方案。
