@@ -1,5 +1,5 @@
 ---
-title: 从 SharePoint 或 OneDrive 还原已删除的项目
+title: 还原已删除的项目SharePoint或OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922293"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>从 SharePoint 或 OneDrive 还原已删除的项目
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>还原已删除的项目SharePoint或OneDrive
 
-1. 转到您的 OneDrive 或 SharePoint 网站。
+1. 转到你的OneDrive或SharePoint网站。
     
-2. 在左窗格中单击 " **回收站** "。 
+2. 单击 **左窗格中** 的"回收站"。 
     
-3. 单击要还原的项或文件左侧的。
+3. 单击要还原的项目或文件的左侧。
     
-4. 单击" **还原**"。 
+4. 单击“**还原**”。 
     
-从 SharePoint 网站中删除文件、文件夹、库、列表和列表项时，它们将转到回收站，其中保留的时间为93天，除非有人将其从回收站中删除。 如果从该回收站中删除了这些用户) 的 "网站回收站" (，他们将转到网站集回收站以保留剩余时间，然后将被永久删除。 已删除的网站和网站集将直接转到93天的网站集回收站。
+从 SharePoint 网站删除文件时，文件、文件夹、库、列表和列表项会转到回收站，除非有人从此回收站中删除文件、文件夹、库、列表和列表项，否则回收站将保留 93 天。 如果从此回收站中删除 (网站回收站) ，则这些网站集回收站将保留剩余时间，然后永久删除。 删除的网站和网站集在 93 天内直接转到网站集回收站。
   
-[还原网站集回收站中的项目](https://go.microsoft.com/fwlink/?linkid=867800) (网站集管理员)  
+[还原网站集回收站中的](https://go.microsoft.com/fwlink/?linkid=867800) 项目 (网站集管理员)  
   
-在 Microsoft 365 中 (全局或 SharePoint 管理员[还原已删除的网站集](https://go.microsoft.com/fwlink/?linkid=867660))  
+[将已删除的网站集 (](https://go.microsoft.com/fwlink/?linkid=867660)全局管理员或SharePoint管理员Microsoft 365)  
   
-对于属于 Microsoft 365 组的网站，您需要还原组以还原网站。 请参阅 [还原已删除的 Microsoft 365 组](https://go.microsoft.com/fwlink/?linkid=867802) (全局管理员)  
+对于属于组Microsoft 365，需要还原组以还原网站。 请参阅[还原全局管理员Microsoft 365已删除](https://go.microsoft.com/fwlink/?linkid=867802) (组)  
   
 

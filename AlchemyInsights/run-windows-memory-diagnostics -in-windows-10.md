@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 63ba3afdd8f74b17559484f37e9250587aec9b4a929325d8f82e3c9ad06f1783
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922516"
 ---
 # <a name="run-windows-memory-diagnostics-in-windows-10"></a>在 Windows 10 中运行 Windows 内存诊断
 
@@ -25,7 +25,7 @@ ms.locfileid: "51826657"
 
 在任务栏上的搜索框中，键入 **内存诊断**，然后选择“**Windows 内存诊断**”。 
 
-要运行诊断，需要重启电脑。 可选择立即重启（请先保存你的工作，然后关闭打开的文档和电子邮件），或计划在下次重启电脑时自动运行诊断：
+要运行诊断，需要重启电脑。可选择立即重启（请先保存你的工作，然后关闭打开的文档和电子邮件），或安排在下次重启电脑时自动运行诊断：
 
 ![Windows 内存诊断](media/windows-memory-diagnostic.png)
 

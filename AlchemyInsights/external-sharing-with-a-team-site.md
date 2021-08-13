@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fac10d862611cab95933576fde59bdaf1eb58e572d6781b087c48d2c332e205d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708457"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977683"
 ---
 # <a name="external-sharing-with-a-team-site"></a>与团队网站的外部共享
 
 若要为工作组网站启用外部用户共享，请按照以下步骤操作： 
   
-1. 在新的 SharePoint 管理中心中，单击 " **活动网站**"。
+1. 在管理中心的新SharePoint，单击"**活动站点"。**
   
-2. 选择具有 **工作组网站** 模板的网站。 
+2. 选择具有团队网站 **模板** 的网站。 
   
-3. 从顶部菜单中选择 " **共享** " 按钮。 
+3. 从顶部 **菜单中** 选择"共享"按钮。 
   
- **注意**：默认情况下，在创建新式团队网站时，外部共享选项将设置为 "新建" 和 "现有外部用户"。 
+ **注意**：默认情况下，创建新式团队网站时，"外部共享"选项将设置为"新建和现有外部用户"。 
   
- **注意：** 如果选择了多个网站，则 " **共享** " 按钮将显示为禁用状态。 仅选择一个站点。 
+ **注意：** 如果选择了多个网站，" **共享** "按钮将显示为已禁用。 仅选择一个网站。 
   
 

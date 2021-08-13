@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957423"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>何时将我的配置文件更改同步到 SharePoint 用户配置文件应用程序？
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>我的配置文件更改何时同步到SharePoint用户配置文件应用程序？
 
-配置文件图片同步在 SharePoint Online 中，需要用户的操作来启动其照片的同步。 不会自动将照片同步到 SharePoint Online。 SharePoint Online 仅同步来自 Exchange Online （而非 Azure Active Directory）的照片。
+SharePoint Online 中的配置文件图片同步需要用户的操作来启动其照片的同步。 照片无法自动同步到 SharePoint Online。 SharePoint联机仅同步来自Exchange Online的照片，Azure Active Directory。
 
-如果用户从未执行过将提示同步的操作，或者他们已更新其配置文件图片，并且新的配置文件图片在 SharePoint Online 中未显示，则用户可能需要提示它进行同步。下面介绍了如何执行此操作：
+如果用户从未执行过会提示同步的操作，或者他们更新了个人资料图片，但新图片未显示在 SharePoint Online 中，则用户可能需要提示它进行同步。下面是他们可以如何执行这些工作：
 
-1. 在内部专用或 Incognito 会话中打开 web 浏览器，然后 [转到 Office.com](https://www.office.com/)。
+1. 在浏览器或隐身In-Private中打开 Web 浏览器，然后转到[Office.com。](https://www.office.com/)
 
-2. 使用其工作或学校帐户登录，然后单击 "OneDrive" 或 "SharePoint" 磁贴。
+2. 使用工作或学校帐户登录，然后单击"OneDrive或SharePoint磁贴。
 
-3. [将他们的个人资料照片添加到 Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)。
+3. [将个人资料照片添加到Microsoft 365。](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-[有关 Microsoft 365 中的配置文件图片同步的信息](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[有关配置文件图片同步的信息Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 
