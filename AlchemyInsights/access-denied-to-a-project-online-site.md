@@ -1,5 +1,5 @@
 ---
-title: 对 Project Web App 网站的访问被拒绝
+title: 拒绝对网站Project Web App访问
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955335"
 ---
-# <a name="give-users-permissions-in-project-online"></a>在 Project Online 中为用户授予权限
+# <a name="give-users-permissions-in-project-online"></a>向用户授予Project Online
 
-使用 SharePoint 权限模式向用户授予对 Project Web App 网站的访问权限：
+使用权限模式Project Web App访问SharePoint网站：
 
 1. 以管理员身份登录到 Project Online。
-2. 在 Project Web App 主页上，选择右上角的 " **共享** "。
-3. 在 " **共享 Project Web App** " 对话框中，在 " **邀请人员** " 框中键入要向其授予访问权限的人员的用户名。
-4. 选择 " **显示选项**"，并在 " **选择权限级别** " 菜单中选择 "Project **Web App 的项目管理器**"。
+2. 在Project Web App主页上 **，选择右上角** 的"共享"。
+3. 在 **"Project Web App"** 对话框中，在"邀请他人"框中键入要授予其访问权限 **的用户** 的用户名。
+4. 选择 **"显示选项**"，在"**选择权限级别**"菜单中，选择"Project **管理员Project Web App"。**
 5. 选择“**共享**”。
 
-如果使用项目权限模式或详细信息，请参阅 [将人员添加到 Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)。
+如果使用"Project"模式，或有关详细信息，请参阅将[人员添加到Project Online。](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online)

@@ -1,5 +1,5 @@
 ---
-title: '向 Microsoft Teams 添加来宾 (自动建议) '
+title: '向"自动建议"Microsoft Teams (来宾) '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f21eae666d2b25380f184bb2c194e5d1c12812bb78309e6b09f9f497163b8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822769"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936587"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a>向 Microsoft Teams 添加来宾
+# <a name="add-a-guest-to-microsoft-teams"></a>将来宾添加到Microsoft Teams
 
-有时，你需要与不在团队组织中的人协作。 通常在电子邮件中执行此操作，但如果你想要在 Teams 中与它们协作，你可以将它们添加为来宾。
+有时，你需要与不在团队组织中的人协作。 通常在电子邮件中执行此操作，但如果你想要在电子邮件中与用户Teams，你可以将它们添加为来宾。
 
-有关详细信息，请参阅在 [Teams 中将来宾添加到团队](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)。
+有关详细信息，请参阅向[团队添加来宾Teams。](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-**注意：** 你必须是团队所有者才能在 Teams 中添加来宾 ([另请参阅设置](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169) 来宾) 。
+**注意：** 你必须是团队所有者才能在网站中添加来宾 [Teams (请参阅设置](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)来宾) 。

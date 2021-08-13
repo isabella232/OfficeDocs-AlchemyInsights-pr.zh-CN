@@ -1,5 +1,5 @@
 ---
-title: 解决在 Microsoft Intune 中注册 Windows 设备的问题
+title: 解决在设备上Windows设备Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981031"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>解决在 Microsoft Intune 中注册 Windows 设备的问题
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>解决在设备上Windows设备Microsoft Intune
 
 查看下面列出的资源，以现在解决问题。
   
@@ -35,7 +35,7 @@ ms.locfileid: "51808961"
 
 -  设备已由另一个用户注册。 如果是这种情况，请从 Azure Intune 控制台中删除设备或手动取消注册设备，然后再重试。
 
--  设备为 Windows 10 家庭版本。 只有 Windows 10 专业版、教育版和企业版 SK 可以加入 Azure Active Directory。
+-  设备已Windows 10 家庭版。 只有 Windows 10 专业版、教育Enterprise SK 可以加入Azure Active Directory。
 
 有助于解决问题的其他资源：
   
@@ -43,4 +43,4 @@ ms.locfileid: "51808961"
 
 -  有关阻止注册的一系列常见错误及其解决方案，请查看以下文档：[故障排除指南](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)和[疑难解答文档](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)。
 
-[了解如何在 Microsoft Intune 中注册 Windows 设备](https://docs.microsoft.com/intune/windows-enroll)。
+[了解如何在 Microsoft Intune 中注册Windows](https://docs.microsoft.com/intune/windows-enroll)设备。

@@ -1,5 +1,5 @@
 ---
-title: iOS 设置配置文件规则 Id 1029
+title: iOS 预配配置文件规则 ID 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925695"
 ---
-# <a name="ios-provisioning-profiles"></a>iOS 设置配置文件
+# <a name="ios-provisioning-profiles"></a>iOS 预配配置文件
 
-Apple iOS 业务线使用设置配置文件的概念，此配置文件用于验证应用程序的完整性并强制实施配置文件中定义的策略。 这些预配配置文件在12个月后过期，因此必须将新的配置文件与部署的应用程序相关联，以便应用继续运行。
+Apple iOS 业务线使用预配配置文件的概念，该概念用于验证应用程序的完整性并强制实施配置文件中定义的策略。 这些预配配置文件在 12 个月后过期，因此新配置文件必须与已部署的应用相关联，应用才能继续运行。
   
-以下文章介绍了如何创建将新的预配配置文件与通过 Intune 部署的 iOS LOB 应用关联： [使用 ios 应用设置配置文件防止应用程序过期](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+以下文章介绍如何创建将新的预配配置文件与通过 Intune 部署的 iOS LOB 应用关联：使用[iOS](https://docs.microsoft.com/intune/app-provisioning-profile-ios)应用预配配置文件防止应用过期
   

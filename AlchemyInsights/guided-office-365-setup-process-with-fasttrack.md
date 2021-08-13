@@ -1,5 +1,5 @@
 ---
-title: 指导Office 365 FastTrack 完成设置过程
+title: 使用Office 365指导FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -13,18 +13,18 @@ ms.custom:
 - "9003885"
 - "6939"
 - "9419"
-ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 35b18e1fc353d3a757a4b2aded385111bd723f61386fe6d2f7c1315536cc30af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913381"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>指导Office 365 FastTrack 完成设置过程
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>使用Office 365指导FastTrack
 
-如果你有资格获得 FastTrack Office 365，可以通过门户请求帮助。 如果你正在寻找合作伙伴的自驱动的帮助或指导，Office 365向导或合格的合作伙伴可以协助你完成该过程。
+如果你有资格获得Office 365 FastTrack帮助，可以通过门户请求帮助。 如果你正在寻找合作伙伴的自驱动的帮助或指导，Office 365向导或合格的合作伙伴可以协助你完成该过程。
 
-- 若要通过 FastTrack 门户获取帮助，请登录到[FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443)门户并按照步骤完成"请求帮助Microsoft 365表单。
+- 若要通过 FastTrack 门户获取帮助，请登录到[FastTrack 门户](https://go.microsoft.com/fwlink/?linkid=2125443)并按照步骤完成"请求帮助Microsoft 365表单。
 
     > [!NOTE]
     > 如果你在登录时遇到问题或需要其他帮助，请 [发送电子邮件到](mailto:ftcrfa@microsoft.com)ftcrfa@microsoft.com。

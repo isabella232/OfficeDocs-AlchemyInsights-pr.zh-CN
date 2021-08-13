@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955371"
 ---
 # <a name="access-denied-due-to-ip-restriction"></a>由于 IP 限制，访问被拒绝
 
-作为 IT 管理员，你可以根据你信任的已定义网络位置来控制对 Microsoft 365 中的 SharePoint 和 OneDrive 资源的访问权限。 这也称为“基于位置的策略”。 有关详细信息，请参阅 [基于网络位置控制访问权限](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)。
+作为 IT 管理员，您可以根据信任的SharePoint OneDrive控制Microsoft 365访问和访问资源。 这也称为基于位置的策略。 有关详细信息，请参阅 [基于网络位置控制访问](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)。
 
