@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8315"
 - "9004429"
-ms.openlocfilehash: aa89cbd58875f418a0a7a9db4b5eb4f0e4c1223a
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 710489bd7dcb10f5c953c83e87bdad030c47cfda7dbd38e1eceae78bfe0d8790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950320"
 ---
 # <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>如果 Azure 功能在 Microsoft Edge 中无法正常工作，该怎么办
 

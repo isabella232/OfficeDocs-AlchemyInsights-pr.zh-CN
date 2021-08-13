@@ -1,5 +1,5 @@
 ---
-title: 与 filename 的效果最好
+title: 与文件名相同是最佳
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918885"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"必需的 Alchemy 标头 H1，H2's 不起作用。"
-用于 Alchemy 创作的最佳做法和指南：
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"必需 Alchemy Header H1， H2's don's don't work."
+有关 Alchemy 创作的最佳实践和指南：
 
-1. **不在文件夹中嵌套 Alchemy 见解**-这将断开 url 结构。 我们正在寻求解决此情况的情况。
-1. **AlchemyInsights**文件夹中的文件的大小写文件名应带有带空格的连字符（ex）。 操作***方法-保留 "启用-保留***"。
-    1. 将规则 ID 或存储桶 ID 包含在 ms. 自定义域中的 [Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net) 中。 ex. ***ms. custom：100021***
-1. 将此文件顶部的元数据的其余部分用作模板。
-1. 在 [Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)中，向下导航到 " **客户洞察力标题：** " 部分，并将其用作洞察力的 H1 标题的起始点。 
+1. **不要将 Alchemy Insights嵌套在文件夹中**- 这将破坏 url 结构。 我们正在寻找解决此问题的考虑。
+1. **AlchemyInsights** 文件夹中的文件应包含小写文件名以及空格（例如）的连字符。 **_how-to-enable-litigation-hold_**.
+    1. 在 ms.custom 字段中包括 [Alchemy 合作伙伴](https://alchemyportal.azurewebsites.net) 门户中的规则 ID 或存储桶 ID。 例如， ***ms.custom： 100021***
+1. 将此文件顶部的其余元数据用作模板。
+1. 在 ["Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net)"中，导航到"客户见解标题 **："** 部分，并使用它作为了解的 H1 标题的起点。 
     > [!NOTE]
-    > Alchemy 见解必须在顶部只有一个 H1，否则它们将在生产中中断。 H2s 不呈现任何内容，因此使用 **粗体** 或其他约定表示单独的节。
-1. 接下来，使用 Alchemy 规则页面的 "客户见解" 部分中的草稿材料填写正文文本
+    > Alchemy Insights顶部只能有一个 H1，否则将在生产中中断。 H2 不会呈现，因此请使用 **粗体** 或其他约定来表示单独的部分。
+1. 接下来，使用"Alchemy 规则"页的"Customer Insights"部分中的草稿材料填写正文文本
     1. 项目符号列表正常
-    1. 编号列表
-    1. **粗体** 和 *斜体* 为-正常
-    1. 链接应始终是 **"web 上的链接"/External** 或指向 **UI 元素的深层链接**，而不是内部链接。
-    1. 目前尚不支持图片，但这在路线图中。
+    1. 编号列表也
+    1. **粗体***和 italic* 表示正常
+    1. 链接应始终为"Web **链接"/指向** **UI** 元素的外部或深层链接，而不是内部链接。
+    1. 目前，图片不受正式支持，但已制定路线图。
 
-这实际上已经是太长了。 最佳实践大约为400个字符---------------------------------
+这实际上有点过长。 最佳做法是大约 400 个字符---------------------------------
 
-准备好内容后，将其纳入活动分支。 然后，转到 " [Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net) "，并在 "url" 字段中输入文件名。 
+内容准备就绪后，将其拉至活动分支。 然后，转到 ["Alchemy 合作伙伴门户](https://alchemyportal.azurewebsites.net) "，在 url 字段中输入文件名。 

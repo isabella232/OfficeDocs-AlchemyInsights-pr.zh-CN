@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 23f136bdadcb892356c6faf8fd8ae8481aa8ff83
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 1fbde50cc77b4ef05c19c8557e3a41b561d1a73043c239eadb0f18a34af5d639
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950250"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消你的Microsoft 365订阅？
 
@@ -31,6 +31,6 @@ ms.locfileid: "53686912"
 2. 转到" **计费** \> **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页面。
 3. 在"**产品**"选项卡上，找到要取消的订阅，选择三个点 (更多) ，然后选择"取消 **订阅"。**
 
-**退款：** 在下一个计费周期内，将向你退还所有按比例分配的信用额度。
+**退还：** 在下一个计费周期内，将向你退还所有按比例分配的点数。
 
 若要了解更多信息，请参阅 [取消订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

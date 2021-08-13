@@ -1,5 +1,5 @@
 ---
-title: 解决在 Microsoft Intune 中注册 macOS 设备的问题
+title: 解决在设备上注册 macOS 设备Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 72aa0e84bc50f91281d59f0eb405bf2970cad2f0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f89ecc2cffde920feda46090658b938101e0d6027492949dd03612c2b0811555
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939163"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>解决在 Microsoft Intune 中注册 macOS 设备的问题
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>解决在设备上注册 macOS 设备Microsoft Intune
 
 查看下面列出的资源，以现在解决问题。
   
@@ -30,5 +30,5 @@ ms.locfileid: "51823417"
 
 3. [了解如何在 Microsoft Intune 中注册 macOS 设备](https://docs.microsoft.com/intune/macos-enroll)。
 
-[查看最终用户指南以在 Microsoft Intune 中注册 macOS 设备](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[查看最终用户指南，以在 Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
