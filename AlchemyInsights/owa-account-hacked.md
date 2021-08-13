@@ -1,5 +1,5 @@
 ---
-title: Web 帐户上的 Outlook 遭受攻击
+title: Outlook 网页版帐户被黑客攻击
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b411f48ef56f32f22babbe16f13865a2d6f7cc17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 177612e13423f8692cd8fea599861671afe7b1b7b40e7b198f5bef536d51c75c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671326"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961509"
 ---
-# <a name="outlook-on-the-web-account-hacked"></a>Web 帐户上的 Outlook 遭受攻击
+# <a name="outlook-on-the-web-account-hacked"></a>Outlook 网页版帐户被黑客攻击
 
-如果你的帐户受到攻击，请按照 [如何保护电子邮件功能并将其还原到可疑的 Microsoft 365 帐户和邮箱](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)中的说明进行操作。
+如果你的帐户已被黑客攻击，请按照如何保护电子邮件功能，以及将电子邮件功能还原到可疑被盗用Microsoft 365[帐户和邮箱中的说明操作](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)。
 
-若要详细了解您可以采取的其他步骤以防止您的帐户受到威胁，请参阅 [在 Microsoft 365 中答复已泄露的电子邮件帐户](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)。
+若要了解有关防止帐户遭到入侵可采取的其他步骤，请参阅响应遭到入侵的电子邮件帐户[Microsoft 365。](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account)
