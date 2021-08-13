@@ -1,5 +1,5 @@
 ---
-title: 更改 SharePoint 列表或库的权限
+title: 更改列表或库SharePoint权限
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681791"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979447"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>更改 SharePoint 列表或库的权限
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>更改列表或库SharePoint权限
 
-1. 转到 web 浏览器中的 SharePoint 网站，并打开该列表或库。
+1. 在 Web SharePoint转到网站，然后打开列表或库。
     
-2. 单击右上角的 "设置" 图标，然后单击 " **库设置** " 或 " **列表设置**"。  (如果看不到该命令，请选择 " **库** " 或 " **列表** " 选项卡以打开功能区，然后单击功能区上的 " **库设置** " 或 " **列表设置** "。 )  
+2. 单击设置图标，然后单击库 **设置** 或列表 **设置**。  (如果未看到该命令，请选择"库"或"列表"选项卡以打开功能区，然后单击功能区上的"库"设置或设置列表)  
     
-3. 在 " **权限和管理**" 下，单击 " **此列表的权限** " 或 **此文档库的权限**。
+3. 在 **"权限和管理"下**，**单击**"此列表的权限"或 **"此文档库的权限"。**
     
-请注意，默认情况下，SharePoint 列表和库会从网站继承权限。 如果中断权限继承，则将当前权限复制到列表或库中，并将其全部复制到列表或库中。 如果稍后更改网站的权限，则不会将更改应用于列表或库以及其中的项目。
+请注意，默认情况下，SharePoint和库从网站继承其权限。 如果中断权限继承，当前权限将复制到列表或库及其中所有内容。 如果以后更改网站的权限，则更改不会应用于列表或库以及其中的项目。
   
 

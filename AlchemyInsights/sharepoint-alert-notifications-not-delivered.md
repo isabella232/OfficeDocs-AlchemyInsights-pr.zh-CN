@@ -1,5 +1,5 @@
 ---
-title: 未传递 SharePoint 通知通知
+title: SharePoint通知未送达
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957891"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>未传递 SharePoint 通知通知
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint通知未送达
 
-请检查电子邮件中的垃圾邮件文件夹，有时会出现通知。
+请检查电子邮件中的"垃圾邮件"文件夹，因为有时可能会显示警报。
 
-确定是否 **未传递所有警报** ，或者是否未传递来自特定文件或库 **的单个警报** 。
+确定是否 **未传递所有警报，** 或者是否未传递来自特定文件或库的单个警报。
 
-- **不传递单个警报**：如果未传递来自特定文件或库的单个通知，则可以尝试删除并重新创建它。 请参阅 [管理、查看或删除 SharePoint 警报](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) 以重新创建警报。
-- **未传递所有警报**：如果未传递来自多个文件或库的所有警报，请访问 [服务运行状况仪表板](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ，以检查 SharePoint 或 Exchange 可能发生的任何咨询/事件。 问题可能与 SharePoint 通知功能或通过 Exchange 的电子邮件延迟有关。 此外，请务必注意是否正在传递其他电子邮件，如果没有，则可能是 Exchange 延迟问题。
+- **不发送单个警报**：如果未传递来自特定文件或库的单个警报，您可以尝试删除并重新创建它。 请参阅[管理、查看或删除SharePoint警报以](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2)重新创建警报。
+- 所有警报均 **未送达**：如果未传递来自多个文件或库的所有警报，请访问服务运行状况仪表板，以检查 [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)SharePoint 或 Exchange 中是否发生任何警报/事件。 问题可能是电子邮件SharePoint警报功能或延迟Exchange。 此外，还必须注意其他电子邮件是否正在传递，如果未传递，则问题可能Exchange延迟。
 
-有关警报的常见问题解答：
+警报常见问题解答：
 
-- 无法向通讯组发送通知，仅支持安全和 O365 组。
-- 您不能自定义通知电子邮件模板;您需要使用 Microsoft FLOW 或 SharePoint Designer 工作流来实现这些。
+- 无法向通讯组发送通知，仅支持安全组和 O365 组。
+- 无法自定义通知电子邮件模板;你需要使用 Microsoft FLOW 或SharePoint设计器工作流来实现这些目的。
 
 ## <a name="related-topics"></a>相关主题
 
-想要在 SharePoint Online 中试用 Microsoft 流吗？
+想要尝试在 Microsoft Flow Online SharePoint？
 
-- [创建流](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [创建Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint 和流](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint 和 Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

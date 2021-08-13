@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: c882c08dd2e87db207161dc4c2fa8e88125e6420
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d165b7857703a535e8971fed71b1c83b9f753d5bf26fd5f1b76fe583a6c61578
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464511"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979231"
 ---
-# <a name="dedicated-azure-support"></a>专用 Azure 支持
+# <a name="dedicated-azure-support"></a>Azure 专用支持
 
-有关 Azure 问题的帮助，请查看计费问题、技术支持和致电我们的"获取 Azure 支持 ["部分](https://go.microsoft.com/fwlink/?linkid=2081348)。
+有关 Azure 问题的帮助，请查看帐单问题、技术支持和致电我们的获取 Azure [支持部分](https://go.microsoft.com/fwlink/?linkid=2081348)。

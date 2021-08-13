@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6d072e4be2465c7744c0862b8b3e755274f3b03d0d6058c0c9f7bf23bef8abbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979519"
 ---
 # <a name="battery-wont-charge"></a>电池无法充电
 
-首先，确保连接安全。 强烈建议仅使用 Microsoft 正版或 Microsoft 许可的电源。
+首先，请确保连接安全。强烈建议仅使用 Microsoft 正版或 Microsoft 许可的电源。
 
 其次，尝试关闭 Surface 并至少充电 30 分钟。 然后将其重新打开以查看问题是否已修复。
 
