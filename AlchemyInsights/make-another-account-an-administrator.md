@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94a5d0347172ace52a874ada19b20e61f48f8cc43e5f849d4a8400a2288aeb88
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993199"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>在 Windows 10 中将标准用户帐户更改为管理员
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>将标准用户帐户更改为管理员Windows 10
 
-下面将了解如何在 Windows 10 中将标准用户帐户更改为管理员：
+下面将了解如何将标准用户帐户更改为管理员Windows 10：
 
-1. 如果你使用的是  >    >    >  Windows 10 企业 **&，** 请转到"开始设置" (其他人"或"其他人") 。
+1. 如果使用的是  >    >  **设置，&" ("**  >  其他人""帐户系列"Windows 10 企业版) 。
 2. 选择要成为管理员的帐户，然后选择"更改 **帐户**。
 3. 在 **帐户类型** 下， **管理员**，然后选择 **确定**。
 

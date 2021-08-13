@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954652"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>为什么我禁用了"添加预算"按钮？
 
@@ -27,7 +27,7 @@ ms.locfileid: "51822625"
 - 成本管理参与者
 - 所有者
 - 参与者
-- 仅企业客户：注册、部门、帐户作用域
+- Enterprise仅客户：注册、部门、帐户作用域
 - 注册管理员 (注册范围设置) 
 - 部门管理员 (部门范围内设置) 
 - 帐户所有者 (作用域设置预算) 

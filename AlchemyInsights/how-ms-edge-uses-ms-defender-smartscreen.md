@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge 如何使用 Microsoft Defender SmartScreen？
+title: 如何使用Microsoft Edge Microsoft Defender SmartScreen？
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926919"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge 如何使用 Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Microsoft Edge如何使用Microsoft Defender SmartScreen
 
-为了在 Web 上确保安全，Microsoft Edge 使用 Microsoft Defender SmartScreen 作为针对网站的早期警告系统，这些网站会遭受网络钓鱼攻击并通过集中式攻击来分发恶意软件。
+为保证 Web 安全，Microsoft Edge使用 Microsoft Defender SmartScreen 作为针对网站的早期警告系统，这些网站会遭受网络钓鱼攻击并通过集中式攻击来分发恶意软件。
 
-管理员可以使用组策略、Microsoft Intune 或移动设备管理配置 Microsoft Defender SmartScreen (MDM) 设置。 根据 Microsoft Defender SmartScreen 的设置，你可以向用户显示一个警告页面，让他们继续访问站点或完全阻止站点。
+管理员可以使用组Microsoft Defender SmartScreen MDM 策略、Microsoft Intune或移动设备管理 (配置) 策略。 根据设置网站Microsoft Defender SmartScreen，您可以向用户显示一个警告页面，让他们继续访问网站或完全阻止网站。
 
-若要了解更多信息，请参阅 [Microsoft Edge 对 Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) 和 Microsoft Defender [应用程序防护的支持](https://go.microsoft.com/fwlink/?linkid=2132839)。
+若要了解更多信息，[](https://go.microsoft.com/fwlink/?linkid=2132839)[请参阅Microsoft Edge和Microsoft Defender SmartScreen Microsoft Defender 应用程序防护。](https://go.microsoft.com/fwlink/?linkid=2133081)

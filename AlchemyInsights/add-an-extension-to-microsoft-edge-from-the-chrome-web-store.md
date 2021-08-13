@@ -1,5 +1,5 @@
 ---
-title: 从 Chrome Web 应用商店向 Microsoft Edge 添加扩展
+title: 向 Chrome Microsoft Edge添加扩展
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,18 +15,18 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505002"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954723"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>从 Chrome Web 应用商店向 Microsoft Edge 添加扩展
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>向 Chrome Microsoft Edge添加扩展
 
-若要从 Chrome Web 应用商店向 Microsoft Edge 添加扩展，请完成以下步骤：
+若要从 Chrome Web Microsoft Edge向应用商店添加扩展，请完成以下步骤：
 
-1. 转到 Chrome Web 应用商店。
+1. 转到Chrome Web Store。
 2. 在页面顶部的横幅中，选择"**允许来自其他应用商店的扩展"。**
 3. 选择要添加的扩展，然后单击"**添加到 Chrome"。**
 4. 在确认对话框中，仔细检查扩展可能所做的修改，然后单击"添加 **扩展"。**

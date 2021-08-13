@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985351"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive 保留和删除
 
-- 您可以 [将已删除的用户自己还原为 OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) 。 它们在回收站中的93天内。
+- 您可以[自己还原已删除OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)用户。 它们在回收站中的时间为 93 天。
 
-- 请参阅 [本文](https://docs.microsoft.com/onedrive/retention-and-deletion) 了解以下内容：
-    - 如何向另一个用户授予对已删除用户的 OneDrive 的访问权限。
-    - 当您为您的组织删除用户的 Microsoft 365 帐户时，用户的 OneDrive 会发生什么情况。
+- 请参阅 [本文以了解](https://docs.microsoft.com/onedrive/retention-and-deletion) ：
+    - 如何向其他用户授予对已删除用户权限OneDrive。
+    - 为组织删除OneDrive用户的帐户时，Microsoft 365会发生什么情况。
     - 如何配置自动访问委派。
-    - OneDrive 删除过程的工作原理。
+    - 删除OneDrive的工作方式。
 
-- 有关在 OneDrive 的回收站中还原项目的信息，请参阅 [还原已删除的文件或文件夹](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)。
+- 有关从回收站中还原项目的信息OneDrive，请参阅还原[已删除的文件或文件夹](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)。
 
-- 对安全性和合规性中心保留和保留感兴趣？
-    - [OneDrive 和 SharePoint 网站的保留策略](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- 对安全与合规中心保留和保留感兴趣？
+    - [网站和OneDrive网站的SharePoint策略](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     - [OneDrive 和 SharePoint 网站的电子数据展示保留](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
