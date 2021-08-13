@@ -1,5 +1,5 @@
 ---
-title: 2419-无法启用-审核
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007780"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>无法启用统一审核
 
-当您尝试为您的组织启用统一审核时，您可能会收到类似于以下的错误：
+当您尝试为组织启用统一审核时，您可能会收到类似如下的错误：
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -29,7 +29,7 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 若要解决此问题，请按照下列步骤操作：
 
-1. [连接到 Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)。
+1. [连接到 Exchange Online Powershell 。](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)
 
 2. 运行以下 cmdlet：
 
@@ -37,9 +37,9 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
    Enable-OrganizationCustomization
    ```
 
-3. 等待60分钟后，上一设置才会生效。
+3. 等待 60 分钟，前一设置生效。
 
-4. 在 Exchange Online PowerShell 中运行以下命令：
+4. 在 PowerShell 中Exchange Online命令：
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
