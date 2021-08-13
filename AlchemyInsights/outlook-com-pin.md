@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983833"
 ---
 # <a name="change-your-pin"></a>更改 PIN
 
-Outlook.com 不使用 PIN，但你可以使用 PIN 或 Windows Hello 登录你的电脑。 若要在 Windows 10 中更改 PIN，请执行以下操作：
+Outlook.com 不使用 PIN，但你可能会使用 PIN 或密码登录Windows Hello。 若要更改 PIN，Windows 10：
 
-1. 选择 "开始" 按钮或按键盘上的 Windows 键，然后选择 "**设置**  >  **帐户**  >  **登录选项**"。
-2. 在 " **PIN**" 下选择 "**更改**" 按钮。
-3. 输入你的当前 PIN，然后输入并确认你在下面的新 PIN。
+1. 选择"开始"按钮或按键盘Windows键，然后选择"设置  >  **帐户**  >  **登录选项"。**
+2. 选择 **"PIN"** 下的"更改 **"按钮**。
+3. 输入当前 PIN，然后在下方输入并确认新 PIN。
 
-[阅读有关 Windows Hello 的详细信息。](https://support.microsoft.com/help/17215/)
+[阅读有关Windows Hello。](https://support.microsoft.com/help/17215/)

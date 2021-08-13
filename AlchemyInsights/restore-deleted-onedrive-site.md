@@ -1,5 +1,5 @@
 ---
-title: 还原已删除的 OneDrive 网站
+title: 还原已删除OneDrive网站
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991273"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>还原已删除的 OneDrive 网站
+# <a name="restore-a-deleted-onedrive-site"></a>还原已删除OneDrive网站
 
-当您在 Microsoft 365 管理中心中删除用户时 (或通过 Active Directory 同步) 删除用户时，用户的 OneDrive 将保留在 OneDrive 管理中心中指定的天数。  (信息，请参阅 [设置已删除 OneDrive 用户的默认文件保留](https://docs.microsoft.com/onedrive/set-retention)时间。 ) 
+在 Microsoft 365 管理中心 (中删除用户时，或者通过 Active Directory 同步) 删除用户时，该用户的 OneDrive 将在 OneDrive 管理中心中指定的天数内保留。  (有关信息，请参阅为已删除的用户设置默认文件保留OneDrive[用户](https://docs.microsoft.com/onedrive/set-retention).) 
 
-* [还原已删除的 OneDrive 网站](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [还原已删除OneDrive网站](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-如果大量 OneDrive 文件被恶意软件删除、覆盖、损坏或感染，则可以将整个 OneDrive 还原到以前的时间。
+如果你的OneDrive文件被恶意软件删除、覆盖、损坏或感染，可以将整个OneDrive还原到上一次。
 
-* [还原你的 OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [还原OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
