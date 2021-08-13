@@ -1,5 +1,5 @@
 ---
-title: 对基于 URL 列表的策略使用 Microsoft Edge 的筛选器格式
+title: 对Microsoft Edge URL 列表的策略使用筛选器格式
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 440e27e066cb8b2e8ca7d1c9e907a8c9bbd2a8cb23592c231f343442ff9e06d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919449"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>对基于 URL 列表的策略使用 Microsoft Edge 的筛选器格式
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>对Microsoft Edge URL 列表的策略使用筛选器格式
 
-在 Microsoft Edge 版本77及更高版本中，可以将筛选器格式用于 [基于 URL 列表的策略](https://go.microsoft.com/fwlink/?linkid=2135179)。
+在 Microsoft Edge 77 及更高版本中，筛选器格式可用于基于 URL[列表的策略](https://go.microsoft.com/fwlink/?linkid=2135179)。

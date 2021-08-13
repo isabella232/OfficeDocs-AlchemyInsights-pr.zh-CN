@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919413"
 ---
 # <a name="using-email-profiles-with-intune"></a>通过 Intune 使用电子邮件配置文件
 
@@ -39,5 +39,5 @@ Intune 可用于在多个设备平台上为本机（内置）电子邮件客户�
 
 Android KNOX 电子邮件配置文件上的 KNOX 为管理员提供了一个选项，可以通过将每种内容类型都设置为“启用”来决定将哪些内容类型同步到设备。
 
-如果将任何内容类型的设置设置为**未配置**（默认），则不会自动同步该内容类型。 用户可直接在设备上手动启用所需的内容类型，但该配置被 Intune 策略设置覆盖，同时该内容类型的同步停止。
+如果将任何内容类型的设置设置为 **未配置**（默认），则不会自动同步该内容类型。 用户可直接在设备上手动启用所需的内容类型，但该配置被 Intune 策略设置覆盖，同时该内容类型的同步停止。
 

@@ -1,5 +1,5 @@
 ---
-title: 管理 Yammer 用户
+title: 管理Yammer用户
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 8b0c44ffd3dd1a9f8f2a021299dc8d9ada200636
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: db84609e28283da902d4a299bbf1fe164b74366f3818510eba5f10d2ebbdf4f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992902"
 ---
-# <a name="managing-yammer-users"></a>管理 Yammer 用户
+# <a name="managing-yammer-users"></a>管理Yammer用户
 
-1. 有关从 Microsoft 365 管理 Yammer 用户的信息，请参阅管理 [其生命周期中的 Yammer 用户](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 这包括以下详细信息：
+1. 有关从 Yammer 管理Microsoft 365的信息，请参阅管理[Yammer用户生命周期](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle)。 这包括以下详细信息：
 
   - 创建用户
 
   - 删除用户
 
-  - 从 Microsoft 365 管理 Yammer 用户
+  - 从Yammer管理Microsoft 365
 
-2. 有关从 Yammer 管理控制台管理用户的信息，请参阅"添加、阻止或删除 [Yammer](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users) 用户"。 这包括：
+2. 请参阅[添加、阻止或删除Yammer用户](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users)，了解从管理控制台管理Yammer用户。 这包括：
 
   - 邀请或删除用户
 
@@ -37,4 +37,4 @@ ms.locfileid: "50704704"
 
   - 导出用户列表
 
-3. 有关添加、删除和管理外部用户的信息，请参阅"将[外部邮件参与者添加到 Yammer 网络"。](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)
+3. 有关添加、删除和管理外部用户的信息，请参阅将外部消息传递参与者添加到Yammer[网络](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)。

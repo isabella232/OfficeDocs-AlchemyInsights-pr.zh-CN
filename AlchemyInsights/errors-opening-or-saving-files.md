@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: 827db0139d2793a5e4d850aeb5463dab272e4d64
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13a75338e3784d3df2ec93e8096380f85494317b7161040c7ad60ad830f9211d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813606"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978079"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>解决打开或保存 Word 文件时出错
 
 如果在打开或保存 Word 文档时遇到问题，请尝试执行以下操作：
 
-- [安装 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 有关最新 Office 更新的列表，请参阅 [最新更新](https://docs.microsoft.com/officeupdates/office-updates-msi)。
+- [安装Office更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。 有关最新更新Office，请参阅[最新更新](https://docs.microsoft.com/officeupdates/office-updates-msi)。
 - [排查 Word 中损坏的文档。](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
-- [修复 Office 应用程序](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
+- [修复Office应用程序](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)。
 - 如果文档包含修订，请使用 [Word](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) 中的建议，如果跟踪更改或注释过多，将减慢或停止响应，以解决问题。
 
-如果收到类似以下错误之一的错误，请使用注册表策略设置阻止文件时 Office 中的错误消息 [中的建议](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)：
+如果收到类似以下错误之一的错误，请使用注册表策略设置阻止文件时Office中的错误消息[中的建议](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)：
 
 - 你正在尝试打开注册表策略设置阻止的文件。
 - 你正尝试打开的文件类型 **\<File Type\>** 已被“信任中心”的“文件阻止”设置阻止。
