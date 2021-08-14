@@ -10,18 +10,18 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: acce676ebb9f4000794669ffb268e7b4fe057f77
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 800e0a30bb41302f484acb92210527bfd0a325dc699eea191e6eb0a3d1d4419f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959474"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>帐户被盗用时建议采取的步骤
 
 [视频：修复被盗用的帐户](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. 立即[重置用户密码](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)。 请勿通过电子邮件将新密码告知最终用户。
+1. 立即[重置用户密码](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)。请勿通过电子邮件将新密码告知最终用户。
 
 2. 删除邮箱级别的所有可疑[转发地址](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)。
 

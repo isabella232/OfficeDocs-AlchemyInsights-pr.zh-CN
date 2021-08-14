@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 10bc99634879bdbea5791ef194ab6a38ebf3db87
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: 3db5fc4f2be0bbf845dec15b53f1299653f97ed75e12b04e8041de5982f5a74a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945910"
 ---
 # <a name="fix-problems-with-the-download-installation-and-update-of-microsoft-edge"></a>修复 Microsoft Edge 的下载、安装和更新问题
 
-在尝试任何修复之前，请验证计算机操作系统是否与支持 Windows 10、8、8.1、7 32 位 （x86） 和 64 位 （x64） 以及 macOS 10.12 Sierra 及更高版本的 Microsoft Edge 兼容。 若要解决 Microsoft Edge 下载、安装和更新的问题，请按照以下说明操作：
+在尝试进行任何修复之前，请验证计算机操作系统是否与 Microsoft Edge 兼容，后者支持 Windows 10、8、8.1、7 32 位 (x86) 和 64 位 (x64) 以及 macOS 10.12 Sierra 及更高版本。若要修复 Microsoft Edge 下载、安装和更新方面的问题，请按照以下说明进行操作：
 
 1. 检查网络和 VPN：
     - 检查网络连接。

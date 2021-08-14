@@ -14,22 +14,22 @@ ms.custom:
 - "214"
 - "8000008"
 ms.assetid: 811f0aa9-d413-4d17-b631-7a788e1d1916
-ms.openlocfilehash: 2f13415cd8d9bdb0f4ede297655dae75ca4501f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67fb641ec34934116ed716ce824119476e64fe9e1c4d96e78a4d022f799763e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983371"
 ---
 # <a name="how-to-sign-out-of-outlookcom"></a>如何注销 Outlook.com
 
-1. 在右上角选择您的姓名或图片。
+1. 选择右上角的名称或图片。
 
-    如果在屏幕顶部看不到图片，请查看是否打开了 "ad 阻止"。 此设置有时会阻止图片显示。
+    如果你在屏幕顶部看不到图片，请检查是否打开广告阻止。 此设置有时会阻止图片显示。
 
-2. 选择 **"注销"**。
+2. 选择“注销”。
 
-    若要停止自动登录，请取消选择 " **让我** 登录到您输入密码的页面上的登录" 框。
+    若要自动停止登录，请取消选中在输入密码的页面上"保持我登录"框。
 
-若要了解详细信息，请参阅 how [to sign in or out Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)。
+若要了解更多信息，请参阅[如何登录或注销 Outlook.com。](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   

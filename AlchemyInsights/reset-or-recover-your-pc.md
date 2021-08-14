@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 62ca4dfffbc08040400400c384390c30a485865f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991489"
 ---
 # <a name="reset-or-recover-your-pc"></a>重置或恢复电脑
 
@@ -31,7 +31,7 @@ ms.locfileid: "51809537"
 
 如果无法打开“设置”，可从登录屏幕重置电脑：
 
-1. 按 **Windows 徽标键 + L** 转到登录屏幕；然后，按 **Shift** 键重启电脑，同时选择屏幕右下角的“**电源**”按钮 >“**重新启动**”。 此时将在 Windows 恢复环境 (WinRE) 中重新启动电脑。
+1. 按 **Windows 徽标键 + L** 转到登录屏幕；然后，选择屏幕右下角的“**电源**”按钮 >“**重启**”，同时按下 **Shift** 键以便重启电脑。此时将在 Windows 恢复环境 (WinRE) 中重新启动电脑。
 2. 在“**选择一个选项**”屏幕上，转到“**疑难解答 > 重置此电脑**”，然后选择其中一个选项。
 
 **更多还原或恢复选项**

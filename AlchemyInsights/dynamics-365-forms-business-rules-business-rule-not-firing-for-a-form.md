@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Forms 业务规则-表单无法触发业务规则
+title: Dynamics 365 Forms Business Rules - 不为窗体触发业务规则
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947217"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>不触发窗体的业务规则
+# <a name="business-rule-not-firing-for-a-form"></a>不为表单触发的的规则
 
-业务规则可能无法执行，因为业务规则中引用的字段不包含在表单中。 有关详细信息，请参阅 [您的业务规则是否无法触发窗体？](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)。
+无法业务规则，因为表单中业务规则字段不包含在表单中。 有关详细信息，请参阅你的[业务规则是否未为表单触发？。](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)
