@@ -1,5 +1,5 @@
 ---
-title: 8000049 Outlook.com 中缺少 Skype 图标
+title: 8000049 Skype.com 中缺少Outlook图标
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063510"
 ---
-# <a name="skype-icon-missing"></a>缺少 Skype 图标
+# <a name="skype-icon-missing"></a>Skype图标缺失
 
-我们已暂时将 Skype 图标从 Outlook.com 中删除作为设计刷新和功能更新的一部分，我们非常兴奋要推出。我们感谢你的耐心等待，我们为你准备新的和改进的体验。
+我们暂时删除了 Skype.com 中的 Outlook 图标，作为设计刷新和功能更新的一部分，我们很高兴推出。感谢你耐心等待，同时我们为你准备新的和改进的体验。
 
-您仍可以通过浏览器在 [web.skype.com](https://web.skype.com)中使用 Skype。
+你仍然可以在 Skype 浏览器使用[web.skype.com。](https://web.skype.com)
