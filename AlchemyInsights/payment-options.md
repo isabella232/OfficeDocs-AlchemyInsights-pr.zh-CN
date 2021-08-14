@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, jkinma
+ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee2de4b53729bb4dccc16352f612f15ecba5aa2b
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 18a95f5d98961b9450718ee97b81d97ca14967d1b703b2b7f034d15e46f1a1bd
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687920"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54500942"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Microsoft 365 商业版订阅的支付选项
   
@@ -35,7 +35,7 @@ ms.locfileid: "53687920"
   
 如果订阅费用高于一定的金额（此金额因服务位置而异），则可以选择使用支票或 EFT 按发票付款。较大数额的发票付款可能要求进行信用检查。如需进行信用检查，在购买订阅时会收到通知。如果同意接受联系，会收到一封电子邮件，其中包括有关申请信用审批的详细信息。信用检查通常会在两个工作日内完成。
 
-如果通过发票支付订阅，当账单可以查看时，则会收到一封电子邮件。 这封邮件不包含账单副本。 不过，可以选择[通过电子邮件接收账单副本](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email)。 账单中包含了关于付款选择以及付款地点的详细信息。 如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。 若要了解有关访问帐单的信息，请参阅[查看帐单或发票](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
+如果按发票支付订阅费用，你将在计费账单可供查看时收到电子邮件。此电子邮件不包含帐单的副本。但是你可以选择[以电子邮件方式接收帐单副本](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email)。计费帐单包括支付选项和支付路径的详细信息。如果购买订阅时输入了采购订单 (PO) 编号，则该编号会显示在帐单中。若要了解有关访问帐单的信息，请参阅[查看帐单或发票](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
   
 **其他信息**
   

@@ -1,5 +1,5 @@
 ---
-title: 在 SharePoint 或 OneDrive 中限制访问权限
+title: 限制访问SharePoint或OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 71cfef0cedcc17833b19ed5f050a6510fe1371b58de9054eace2f29a46b3e06d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942123"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>对 SharePoint 文件的 IRM 保护
+# <a name="irm-protection-to-sharepoint-files"></a>IRM 保护以SharePoint文件
 
 
-在 SharePoint Online 中，IRM 保护应用于列表和库级别的文件。 您的组织可以使用 IRM 保护之前，必须先设置权限管理。 IRM 依赖 azure 权限管理服务（来自 Azure 信息保护）来加密和分配使用限制。 一些 Microsoft 365 订阅包括 Azure 权限管理，但并非全部。 
+在 SharePoint Online 中，IRM 保护适用于列表和库级别的文件。 必须先设置权限管理，你的组织才能使用 IRM 保护。 IRM 依靠 Azure 信息保护的 Azure 权限管理服务来加密和分配使用限制。 某些Microsoft 365订阅包括 Azure 权限管理，但不是全部。 
 
 有关详细信息，请参阅：
 
-- [Office 应用程序和服务如何支持 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。
+- [应用程序Office服务如何支持 Azure 权限管理](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)。
 
-- [在 SharePoint 管理中心中设置 (IRM) 的信息权限管理](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)。
+- [在管理中心 中 (信息](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)权限) IRM SharePoint IRM 权限。
 
-- [IRM-启用 SharePoint 文档库和列表](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。
+- [支持 IRM SharePoint文档库和列表](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists)。
 
-- [Office 中的信息权限管理](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)。
+- [信息权限管理在Office。](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)
 
-- [Exchange Online 中的信息权限管理](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online)。
+- [信息权限管理在Exchange Online。](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online)
 
 
