@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 39ed7aac83b5b2e37a94901b80c80e892044dd6a076e55a0fb327d2dce7bd16e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809934"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943908"
 ---
 # <a name="project-to-a-pc"></a>投影到电脑
 
-在目标设备（投影目标）上，搜索“投影设置”以打开“**投影到这台电脑**”的“设置”页面。 然后，确保满足如下条件：
+在目标设备（投影目标）上，搜索“投影设置”以打开“**投影到这台电脑**”的“设置”页面。然后，请确保：
 - “当你说没问题时，某些 Windows 和 Android 设备可以投影到这台电脑上”下拉菜单设置为“**始终关闭**”。
 - “要求投影到这台电脑”下拉菜单设置为“**每次需要连接时**”。
 - “需要 PIN 才能进行配对”下拉菜单设置为“**从不**”。

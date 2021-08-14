@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a187fec34ef3eae485a8a880127b5f82a028edb7f0e9a276a41b5e33cad25ead
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942825"
 ---
 # <a name="self-service-purchase-of-powershell"></a>PowerShell 的自助购买
 
-若要使用 MSCommerce PowerShell 模块，需要将其安装在具有 TLS 1.2 的 Windows 10 设备上， (本地管理员权限) 。  导入并连接到 MSCommerce 模块。  当系统提示登录时，你将需要使用全局或帐单管理员角色凭据。  
+若要使用 MSCommerce PowerShell 模块，您需要在具有 TLS 1.2 (所需的本地管理员权限的 Windows 10 设备上安装该模块) 。  导入并连接到 MSCommerce 模块。  当系统提示登录时，你将需要使用全局或帐单管理员角色凭据。  
 
 如果没有 TLS 1.2，在尝试获取或更新策略时可能会收到以下错误：
 
