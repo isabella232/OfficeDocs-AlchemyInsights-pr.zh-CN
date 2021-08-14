@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1906"
-ms.openlocfilehash: ce04d7e30a7c46312d06eb1e2a15e267a93a8494
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 902a0ef2bef4e4cabfc4cd5bb335069b89fe5b932b104cd0f32dfee2266c33c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009886"
 ---
 # <a name="product-deactivated-notice-in-microsoft-365-apps"></a>Microsoft 365 应用中的“产品停用”通知
 
@@ -27,7 +27,7 @@ ms.locfileid: "51800528"
 
 - 打开 Office 应用，转到“**文件 > 帐户**”并注销所有帐户。 使用具有有效许可证的用户账户再次登录。 有关详细信息，请参阅[Office 中的账户](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9)。
 
-- 打开Office应用程序，然后转到 **文件 > 帐户 > 更新选项 > 立即更新**，以在受影响的计算机上更新 Office。 有关详细步骤，请参阅[安装 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
+- 打开Office应用程序，然后转到 **文件 > 帐户 > 更新选项 > 立即更新**，以在受影响的计算机上更新 Office。有关详细步骤，请参阅 [安装 Office 更新](https://support.office.com/article/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
 - 运行“[激活 疑难解答](https://aka.ms/SARA-OfficeActivation-Alchemy)”并重新启动计算机。
 
