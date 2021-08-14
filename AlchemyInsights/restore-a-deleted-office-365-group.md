@@ -1,5 +1,5 @@
 ---
-title: 还原已删除的 Microsoft 365 组
+title: 还原已删除的Microsoft 365组
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959016"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>还原已删除的 Microsoft 365 组
+# <a name="restore-a-deleted-microsoft-365-group"></a>还原已删除的Microsoft 365组
 
-可以在删除后 30 天内还原已删除的 Microsoft 365 组或 Microsoft Teams。
+可以在删除后Microsoft 365 30 Microsoft Teams还原已删除的组或组。
 
-1. 转到 [Microsoft 365](https://aka.ms/RestoreDeletedGroup) 管理中心，以登录到你已删除组和团队的列表。
+1. 转到[Microsoft 365 管理中心以](https://aka.ms/RestoreDeletedGroup)登录到你已删除的组和团队的列表。
 
     **注意：** 使用分配给租户管理员或组管理员角色的帐户登录。
 
-1. 选择要还原的已删除的 Microsoft 365 组/Teams，然后单击"**还原组"。**
+1. 选择要还原的Microsoft 365组/Teams，然后单击"还原 **组"。**
 
     如果由于 SMTP 地址冲突而无法还原组，请使用以下命令查找导致冲突的对象并删除 SMTP 地址：
 
@@ -37,4 +37,4 @@ ms.locfileid: "51645121"
 
     **注意：** 在某些情况下，可能需要 24 小时才能还原组及其所有数据。
 
-    有关详细信息，或了解如何使用 PowerShell 还原组，请参阅还原 [已删除的 Microsoft 365 组](https://go.microsoft.com/fwlink/?linkid=867802)。
+    有关详细信息，或了解如何使用 PowerShell 还原组，请参阅还原已删除Microsoft 365[组](https://go.microsoft.com/fwlink/?linkid=867802)。

@@ -1,5 +1,5 @@
 ---
-title: Windows 10 版本 1607 中的新增功能
+title: Windows 10版本 1607 中的新增功能
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003960"
 - "7016"
-ms.openlocfilehash: 369daf8dfea932746f957d19e2d58e3043cfd135
-ms.sourcegitcommit: e25893be57e1c4ced8e646d0fa3d0e8489880d7a
+ms.openlocfilehash: fc4f9cb1b04ae9bdebefe02d2f9d84216295a90f740b7ee8d0d7e92e478f3357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49693898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997808"
 ---
-# <a name="whats-new-in-windows-10-version-1607"></a>Windows 10 版本 1607 中的新增功能
+# <a name="whats-new-in-windows-10-version-1607"></a>Windows 10版本 1607 中的新增功能
 
-以下是 Windows 10 版本 1607 中的一些新增和更新的功能，也称为周年更新：
+下面是版本 1607 Windows 10更新和更新的一些功能，也称为周年更新：
 
 1. [部署](https://go.microsoft.com/fwlink/?linkid=2114462)
 2. [Windows 更新](https://go.microsoft.com/fwlink/?linkid=2114463)

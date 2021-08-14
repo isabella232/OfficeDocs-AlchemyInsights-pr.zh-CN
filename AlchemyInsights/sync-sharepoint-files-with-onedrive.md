@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: ea93bb6f3cbbc3424f5e006ffac482a7445c8164
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: a4a05e20833869941e3f7ff699ccd5b3f0bac6d6160baabd8f5d2924b6923edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981787"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>解答 SharePoint Online 中的“使用资源管理器打开”问题
 
@@ -34,5 +34,5 @@ ms.locfileid: "49086038"
 
 - 仅在 Internet Explorer 11 中支持“**使用资源管理器打开**”。 有关详细信息，请参阅 [终止对使用 Microsoft 365 应用版的 IE11 的支持](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)。 “**使用资源管理器打开**”在使用 Microsoft Edge、Google Chrome、Mozilla Firefox 浏览器的 Windows 中或在 Mac 平台上不起作用。 由于这一原因, “**资源管理器视图**”选项可能灰显。 
 
-- 新的库体验中未显示“**使用资源管理器打**”按钮。 选择右上角的“**查看**”下拉菜单（下拉菜单的名称随当前视图的更改而变化），然后选择“**在文件资源管理器中查看**”。
+- 在新的库体验中，不会显示“**使用资源管理器打开**”按钮。单击右上角的“**查看**”下拉菜单（下拉菜单的名称随当前视图的更改而变化），然后选择“**在文件资源管理器中进行查看**”。
 

@@ -1,5 +1,5 @@
 ---
-title: 适用于美国银行帐户编号的 DLP 规则不起作用
+title: 美国银行帐号的 DLP 规则不工作
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005008"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>包含美国银行帐户号的 DLP 问题
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>有关美国银行帐号的 DLP 问题
 
 **重要信息：** 在这段前所未有的时期，我们正在采取措施确保 SharePoint Online 和 OneDrive 服务高度可用，请访问 [SharePoint Online 临时功能调整](https://aka.ms/ODSPAdjustments)，获取详细信息。
 
-**包含美国银行帐户号的 DLP 问题**
+**有关美国银行帐号的 DLP 问题**
 
-您是否遇到 **数据丢失防护问题 (dlp) ** 在 O365 中使用 DLP 敏感信息类型时，不能处理包含 **美国银行帐号** 的内容？ 如果是这样，请确保您的内容包含在评估时 DLP 策略要查找的内容所需的信息。
+在 O365 中使用 DLP 敏感信息类型时 (**DLP**) 数据丢失防护功能是否无法用于包含美国银行帐号的内容？ 如果是，请确保您的内容包含 DLP 策略在评估时查找的内容的所需信息。
   
-例如，对于配置为可信度为85% 的 **美国银行帐户号** 策略，将对其进行评估，并且必须检测到规则才能触发以下条件：
+例如，对于置信水平为 85% 的 **"美国** 银行帐号"策略，将评估以下各项，并且必须检测到规则以触发：
   
-- **[格式：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 位
+- **[格式](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** ：8-17 个数字
 
-- **[Pattern：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 连续数字。
+- **[模式](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** ：8-17 个连续的数字。
 
 - **[校验和：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** 否，没有校验和
 
-- **[定义：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** 如果 DLP 策略在300个字符的邻近度内检测到此类型的敏感信息，则 DLP 策略75% 确信它检测到这种类型的敏感信息：
+- **[定义：](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** DLP 策略 75% 确信在 300 个字符的邻近度内检测到这种类型的敏感信息：
 
-  - 正则表达式 Regex_usa_bank_account_number 找到与该模式匹配的内容
+  - 正则表达式Regex_usa_bank_account_number查找与模式匹配的内容
 
   - 找到 Keyword_usa_Bank_Account 中的一个关键字。
 
-    例如，以下示例将触发 **美国银行帐户号** 策略：检查帐户78344011
+    例如，以下示例将针对 **美国** 银行帐号策略触发：Checking Account 78344011
 
-若要详细了解为你的内容检测 **美国银行帐号** 所需的内容，请参阅本文中的以下部分： [这些敏感信息类型对美国银行帐号的外观](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+有关内容需要检测 **美国** 银行帐号的信息，请参阅本文中的以下部分：敏感信息类型查找美国银行帐号 [的内容](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-使用不同的内置敏感信息类型，请参阅以下文章，了解其他类型所需的信息： [敏感信息类型查找的内容](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+使用不同的内置敏感信息类型，请参阅以下文章，了解其他类型的信息：敏感信息 [类型查找什么](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

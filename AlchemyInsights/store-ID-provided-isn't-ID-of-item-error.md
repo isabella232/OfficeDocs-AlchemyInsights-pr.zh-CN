@@ -1,5 +1,5 @@
 ---
-title: 提供的存储 ID 不是项目的 ID
+title: 提供的应用商店 ID 不是项目的 ID
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 0834850cb7be2d2005265a54130f95c393f514fd
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: fca2b4eb17e08232bc8a249ea275a6cbc25a3e8a29eeb159fc25f623d4f24390
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48785561"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981895"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>"提供的存储 ID 不是项目的 ID" 错误
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>"提供的应用商店 ID 不是项目的 ID"错误
 
-我们意识到此错误，我们正在推出应尽快解决的修补程序。
+我们已注意到此错误，并且即将推出一个应尽快解决的修补程序。
