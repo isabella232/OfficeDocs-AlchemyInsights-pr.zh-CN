@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 391ad9f0e19857a6959667c6a86b143f774156cd
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949377"
 ---
 # <a name="investigate-all-the-users-activities"></a>调查所有用户的活动
 
@@ -31,7 +31,7 @@ ms.locfileid: "51403265"
 
 1. 如果你对特定活动感兴趣，请从"活动 **"列表中选择它** 。 如果没有，默认情况下，将为所选用户返回所有活动。
 1. 指定日期范围，然后在"用户 **"框中，** 选择要调查的用户的用户名。 一次可以选择多个用户。
-1. 单击"搜索"。 活动显示在"结果 **"下**。 你将看到 IP 地址、用户和活动名称。
+1. 单击"搜索"。 这些活动出现在“**结果**”下。 你将看到 IP 地址、用户和活动名称。
 1. 若要下载结果，请选择"**导出结果"。**
 1. 若要查看详细信息，请选择活动，然后展开"**详细信息"。**
 

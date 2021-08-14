@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1284"
 - "6700008"
-ms.openlocfilehash: e931b2092ab049bc01c600344cbd4702848abcd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 35c82f8b91a4a0a75f8aa376771a20e6684620c55e8a06abe59db22cab945139
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990517"
 ---
 # <a name="use-teamviewer-to-remotely-administer-intune-devices"></a>使用 TeamViewer 远程管理 Intune 设备
 
@@ -31,12 +31,12 @@ ms.locfileid: "47798438"
 **第 1 部分：使用远程设备启动会话**
 
 1. 在“**所有设备**”下，选择要用来启动远程会话的设备。
-2. 从 **…更多**中，选择“**新建远程协助会话**”。
+2. 从 **…更多** 中，选择“**新建远程协助会话**”。
 3. 选择“**是**”可确认你想要建立远程会话。
     TeamViewer 服务确认“启动新远程会话”请求后，将在设备概述（或 Essentials）窗格的详细信息中看到“**启动远程协助**”选项。 选择“**查看更多**”以展开窗格并显示“远程协助”状态。
 4. 选择“**启动远程会话**”以在管理员端启动会话。
 5. 选择下载 TeamViewer 二进制文件（Windows），然后选择“**运行**”。<br/>
-    **注意**可以忽略打开到 TeamViewer 网站的任何 Web 浏览器页面。
+    **注意** 可以忽略打开到 TeamViewer 网站的任何 Web 浏览器页面。
 
 6. 确认对 TeamViewer 应用的请求，以便在设备上进行更改（仅限 Windows）。
 7. TeamViewer 应用程序启动并包含用于验证与远程设备的连接的会话代码。
@@ -46,13 +46,13 @@ ms.locfileid: "47798438"
 1. 打开 Intune 公司门户。
 2. 查找通知标志：“你的 IT 管理员正在请求控制此设备的远程协助会话”，然后选择通知。
 3. 选择下载 TeamViewer 应用程序，或者从 app store 中确认下载 TeamViewer 应用，然后选择“**运行**”。
-    **注意**可以忽略打开到 TeamViewer 网站的任何 Web 浏览器页面。
+    **注意** 可以忽略打开到 TeamViewer 网站的任何 Web 浏览器页面。
 
 4. 确认对 TeamViewer 应用的请求，以便在设备上进行更改（仅限 Windows）。
 5. TeamViewer 应用程序启动并包含用于验证与远程设备的连接的会话代码。
 6. 弹出窗口询问是否要允许开始会话。
 
-**注意**由 TeamViewer 服务生成的会话代码仅供一次性使用。 如果失去连接，则必须：
+**注意** 由 TeamViewer 服务生成的会话代码仅供一次性使用。 如果失去连接，则必须：
 
 1. 关闭远程设备和管理工作站上的 TeamViewer 应用程序实例。
 2. 关闭远程设备上的公司门户。

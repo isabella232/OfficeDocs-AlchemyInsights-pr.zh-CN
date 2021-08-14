@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook 网页中创建电子邮件签名
+title: 在电子邮件中创建Outlook 网页版
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 02f579a6b7570037261959419a6ea9586707b76e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3bb83a4f68c49b3d30843299e6b42b9e9b9226245ebd41e75831694b95839c46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949521"
 ---
-# <a name="create-an-email-signature-in-outlook-on-the-web"></a>在 Outlook 网页中创建电子邮件签名
+# <a name="create-an-email-signature-in-outlook-on-the-web"></a>在电子邮件中创建Outlook 网页版
 
 1. 登录 Outlook 网页版。
-2. 在顶部导航栏上，选择 **"设置**  >  **邮件"。**
-3. 在"**选项**"面板中的 **"邮件**"下，选择 **"布局**  >  **电子邮件签名"。**
+2. 在顶部导航栏上 **，选择"设置**  >  **邮件"。**
+3. 在"**选项"** 面板中的"**邮件"下**，选择"**布局**  >  **电子邮件签名"。**
 4. 在文本框中，键入签名并使用可用的格式选项更改其外观。
 
-**提示：** 不支持以 .gif 或 .jpg 格式) 格式插入图像文件，但可以从网页复制图像并将其粘贴到签名框中。 (
+**提示：** 不支持插入图像文件 (例如，为签名插入 .gif 或 .jpg 格式) ，但可以从网页复制图像并将其粘贴到签名框中。
 
-5. 如果希望签名显示在所有传出电子邮件（包括回复和转发）的底部，请选择"自动包含我撰写的新邮件 **的签名"。**
+5. 如果希望签名显示在所有传出电子邮件（包括答复和转发）的底部，请选择"自动将我的签名包括在我撰写的新邮件 **上"。**
 6. 单击“**保存**”。

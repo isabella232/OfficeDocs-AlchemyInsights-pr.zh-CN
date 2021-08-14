@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974335"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 应用消息 - 抱歉，组织中的另一个帐户已经登录
 
@@ -37,7 +37,7 @@ ms.locfileid: "51836233"
 
 如果问题仍然存在，请尝试以下步骤： 
 
-- 重置 Office 激活状态。 参见[重置 Microsoft 365 企业版应用激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
+- 重置 Office 激活状态。请参阅[重置 Microsoft 365 企业应用版的激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 有关详细信息，请参阅 Office 中的[抱歉，组织中的另一个帐户已在此计算机上登录](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)。
 
