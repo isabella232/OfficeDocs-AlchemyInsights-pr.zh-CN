@@ -14,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48d4ccbbc0ed3dc54cbcd17ae7b9040bfd9ecc426897c06b653bf40bc7d5e9b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952959"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>ADFS 联合证书即将到期
 
 若要解决此问题，请按照下列步骤操作：
   
-1. 安装 Microsoft Azure Active Directory 模块，Windows PowerShell在 (（如果尚未安装该模块) ）。 为此，请转到使用"管理[Azure AD Windows PowerShell"。](https://aka.ms/aadposh)
+1. 如果Microsoft Azure Active Directory模块Windows PowerShell，则 (安装模块以用于) 。 为此，请转到使用"管理[Azure AD Windows PowerShell"。](https://aka.ms/aadposh)
 
-2. 按照联合用户登录 [Microsoft 365、Azure](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)或 Intune 时 AD FS 中"方案 1： AD FS 令牌签名证书过期"部分中的步骤操作，从 AD FS 访问站点时出现问题。
+2. 按照联合用户登录[Microsoft 365、Azure 或 Intune 时来自 AD FS](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)的"方案 1： AD FS 令牌签名证书过期"部分中的步骤操作，从 AD FS 访问站点时出现问题。
 
 3. 按照更新或 [修复 Microsoft、Azure](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365)或 Intune 中的联合域设置中的步骤操作。
 
-    若要了解有关续订联合身份验证证书的信息，请参阅续订 [Microsoft 365](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)和 Azure Active Directory 的联合身份验证证书。
+    若要了解有关续订联合身份验证证书的更多信息，请参阅续订联合身份验证证书[Microsoft 365和Azure Active Directory。](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs)

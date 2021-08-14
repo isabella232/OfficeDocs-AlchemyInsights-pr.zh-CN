@@ -1,5 +1,5 @@
 ---
-title: 错误：你的新安装具有比当前版本更新的功能。 是否想要激活...
+title: 错误：你的新安装具有比当前版本更新的功能。是否想要激活...
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9825"
 - "9005394"
-ms.openlocfilehash: bc1c9be0a1ea5844dfaca341e37f929d4973d824
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 9641abfc844b12b7fad8cf7b6919101125f8f4805ed671da6cd2949d52716eab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897575"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978115"
 ---
-# <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>错误：你的新安装具有比当前版本更新的功能。 是否想要激活...
+# <a name="error-your-new-install-has-newer-features-than-your-current-version-do-you-want-to-activate"></a>错误：你的新安装具有比当前版本更新的功能。是否想要激活...
 
 若要修复此 Office 错误，请为你的 Office 版本选择自动化解决方案：
 
