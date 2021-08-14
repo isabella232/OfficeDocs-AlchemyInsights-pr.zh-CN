@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 2abdc805bf176eeac30e97b9cccf3cf9947b779abdae3c4566d354854a78b040
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868668"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>如何从信用卡付款更改为发票？
 
@@ -34,4 +34,4 @@ ms.locfileid: "54501086"
 6. 输入你的姓名、地址和电话号码。 还可以添加要显示在发票上的 PO 编号。
 7. 完成后，选择 **“保存”**。
 
-若要了解更多信息， [请参阅如何支付订阅费用](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+若要了解更多信息，请参阅 [如何支付订阅费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。

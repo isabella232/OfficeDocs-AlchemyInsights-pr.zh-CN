@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951663"
 ---
 # <a name="app-permission-policies"></a>应用权限策略
 
-使用 [应用程序权限策略](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)，您可以执行以下操作：
-- 作为管理员，您可以在 [Microsoft 团队管理中心](https://admin.teams.microsoft.com/policies/app-permission)中管理应用程序安装策略。
-- 使用全局策略控制组织中的 Microsoft 团队用户可使用的应用程序 [，或者创建和分配自定义策略](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) 以自定义和控制用户对应用程序的访问。 
+使用 [应用程序权限策略](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)，可以执行以下操作：
+- 作为管理员，你可以管理管理中心中的Microsoft Teams[策略](https://admin.teams.microsoft.com/policies/app-permission)。
+- 使用全局策略控制Microsoft Teams用户可用的应用，或创建和分配自定义策略以自定义和控制[](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy)用户对应用的访问权限。 
 > [!NOTE]
-> 组织范围内的应用设置将覆盖您创建并分配给用户的全局策略和任何自定义策略。
-- 您可以使用 [应用程序安装策略](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) 自定义 Microsoft 团队，以突出显示对用户最重要的应用程序。 
+> 组织范围的应用设置会覆盖全局策略以及您创建并分配给用户的任何自定义策略。
+- 可以使用应用[设置策略来](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)自定义Microsoft Teams，以突出显示对用户最重要的应用。 
 
 
-有关为租户创建应用程序策略的详细信息，请参阅：
-- [在 Microsoft 团队管理中心中管理应用](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [在 Microsoft 团队中管理应用程序权限策略](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [在 Microsoft 团队中管理自定义应用策略和设置](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+有关为租户创建应用策略的信息，请参阅：
+- [在管理中心Microsoft Teams应用](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [管理应用程序中的应用程序权限Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [在应用中管理自定义应用策略Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
