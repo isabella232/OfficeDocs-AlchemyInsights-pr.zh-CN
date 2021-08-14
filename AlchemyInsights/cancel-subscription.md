@@ -14,18 +14,18 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e21845680b384ee2255fc612db35e3344d1b877418063cb86721964104239ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819610"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931259"
 ---
 # <a name="cancel-subscription"></a>取消订阅
 
 基本信息页面中已选订阅已取消。 是否确定这正是要取消的订阅？
 
-仅当你是订阅所有者或帐户管理员时，才可在 Azure 门户中取消 Azure 订阅。 请按照以下步骤进行操作。
+只有当你是订阅所有者或帐户管理员时，才能在 Azure 门户中取消 Azure 订阅。请按照以下步骤进行操作。
 
 1. 从[Azure 门户的“订阅”页面](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)中选择你要取消的订阅。
 2. 选择“**概述**”，然后选择“**取消订阅**”。

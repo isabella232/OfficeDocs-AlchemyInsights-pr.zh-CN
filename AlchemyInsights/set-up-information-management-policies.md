@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 862dc76f71828ac727efcfe10656c218754ce25a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0e3de5591c064f7e121c206180b34ee34e985f872a5ee6209889ecad6eaa32c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921645"
 ---
 # <a name="set-up-information-management-policies"></a>设置信息管理策略
 
-1. 如果 SharePoint 网站包含子网站，请浏览到首要网站。
+1. 如果SharePoint网站具有子网站，请浏览到首要网站。
     
-2. 单击"设置"，然后单击"网站设置"。 如果网站是与 Microsoft 365 组连接的网站，请单击 " **设置**"，单击 " **网站内容**"，然后单击 " **网站设置**"。
+2. 单击"设置"，然后单击"网站设置"。 如果网站是连接Microsoft 365的网站，请单击"网站设置，然后单击"网站 **设置"。** 
     
-3. 在“网站集管理”**** 下，单击“网站集功能”****。
+3. 在“网站集管理”下，单击“网站集功能”。
     
-4. 在 " **就地记录管理**" 下，单击 " **激活**"。
+4. 在 **"就地记录管理"下**，单击"激活 **"。**
     
-有关详细信息，请参阅 [信息管理策略简介](https://go.microsoft.com/fwlink/?linkid=404239) 和 [创建和应用信息管理策略](https://go.microsoft.com/fwlink/?linkid=2003916)。
+有关详细信息，请参阅信息管理[策略简介和](https://go.microsoft.com/fwlink/?linkid=404239)[创建和应用信息管理策略](https://go.microsoft.com/fwlink/?linkid=2003916)。
   
 

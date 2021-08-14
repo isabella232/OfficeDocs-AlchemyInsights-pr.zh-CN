@@ -1,5 +1,5 @@
 ---
-title: 查看Wi-Fi Windows 10 中的网络密码
+title: 在Wi-Fi中查看网络Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990092"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>查看Wi-Fi Windows 10 中的网络密码
+# <a name="view-wi-fi-network-password-in-windows-10"></a>在Wi-Fi中查看网络Windows 10
 
-1. 确保你的 Windows 10 电脑已连接到 Wi-Fi网络。
+1. 确保你的Windows 10电脑已连接到Wi-Fi网络。
 
-2. 转到"设置 **>网络& Internet > 状态"，或** 单击或点击此处，让我们立即 [](ms-settings:network?activationSource=GetHelp)转到此处。) 
+2. 转到 **"设置 >网络& Internet > 状态"，或** 单击或点击"此处"，让我们 [](ms-settings:network?activationSource=GetHelp)立即转到此处。) 
 
 3. 单击“网络和共享中心”。
 

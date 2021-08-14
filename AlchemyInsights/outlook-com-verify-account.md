@@ -1,5 +1,5 @@
 ---
-title: 如何验证您的 Outlook.com 帐户
+title: 如何验证 Outlook.com 帐户
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d65ee2ec5507e3a691c5db6c44e5790ca60c47ac9b52e04f4c9052bf9503402d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961581"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>如何验证您的 Outlook.com 帐户
+# <a name="how-to-verify-your-outlookcom-account"></a>如何验证 Outlook.com 帐户
 
-通过双重验证，可以使其他人登录您的 Microsoft 帐户更困难，从而帮助保护您的计算机。 它使用两种不同的标识形式：您的密码和 contact 方法 (也称为安全信息) 。
+两步验证通过使其他人更难登录你的 Microsoft 帐户来帮助保护你。 它使用两种不同的标识形式：密码和联系人 (也称为安全) 。
   
-若要启用或禁用双步验证，请执行以下操作：
+打开或关闭两步验证：
   
-1. 转到 " [安全基础" 页](https://go.microsoft.com/fwlink/?linkid=842325) ，并使用你的 Microsoft 帐户登录。
-2. 选择 " **更多安全选项**"。
-3. 在 " **两步验证**" 下，选择 " **设置双重验证** " 并按照说明进行操作。
+1. 转到安全 [基础知识页面](https://go.microsoft.com/fwlink/?linkid=842325) ，然后使用你的 Microsoft 帐户登录。
+2. 选择 **"更多安全选项"。**
+3. 在 **"两步验证"** 下， **选择"设置两步验证** "并按照说明进行操作。
 
-如果启用双重验证，将始终需要两种形式的标识。 如果你丢失了 contact 方法，你的密码将不会返回你的帐户，并且可能需要30天才能重新获取访问权限。
+如果启用两步验证，则始终需要两种形式的标识。 如果丢失了联系人方法，则单独使用密码不会将你重新返回到你的帐户，并且可能需要 30 天才能重新获得访问权限。
   
-了解有关 [双重验证](https://go.microsoft.com/fwlink/?linkid=872270)的详细信息。
+详细了解 [两步验证](https://go.microsoft.com/fwlink/?linkid=872270)。
   

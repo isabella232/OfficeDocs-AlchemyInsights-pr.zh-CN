@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931223"
 ---
 # <a name="cancelling-reservation"></a>取消保留
 
@@ -61,7 +61,7 @@ ms.locfileid: "51819682"
 
 - 你购买了为期一年的 RI（每月支付 $10）
 - 在 4 月 7 日，你希望退款或交换此保留
-- 由于上次的付款发生在 7 天前，你将获得 (1-7/31) * $10 的退款。 （即 $7.74）
+- 由于上次的付款发生在 7 天前，你将获得 (1-7/31) * $10 的退款。(即 $7.74)
 - 所取消的未来付款是 $80。 目前没有退款处罚
 - 此取消将从你的 $50,000 退款限度中扣除 $87.74
 - 如果进行交换，则新购买的总额应大于 $87.74
