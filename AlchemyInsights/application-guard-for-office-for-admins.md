@@ -1,5 +1,5 @@
 ---
-title: 适用于管理员的 Office 应用程序防护
+title: 适用于管理员Office应用程序防护
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 4d1f136cc57b100084dd5ac137828ececb1a03b0
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970105"
 ---
-# <a name="application-guard-for-office-for-admins"></a>适用于管理员的 Office 应用程序防护
+# <a name="application-guard-for-office-for-admins"></a>适用于管理员Office应用程序防护
 
-Office 应用程序防护适用于拥有 Microsoft 365 E5 或 Microsoft 365 E5 移动性 + 安全性许可证的组织。 这些组织的用户必须在当前频道或每月企业频道上使用 Microsoft 365 企业应用版。
+具有Office或安全许可证的组织Microsoft 365 E5 Microsoft 365 E5应用程序防护。 这些组织的用户必须在当前频道或每月频道Microsoft 365企业应用Enterprise应用。
 
 > [!NOTE]
-> Office 应用程序防护要求首先在设备上 (MDAG) Microsoft Defender 应用程序防护。 有关将 MDAG 部署到多个设备的信息，请参阅["准备安装 Microsoft Defender 应用程序防护"。](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
+> 应用程序防护Office要求Microsoft Defender 应用程序防护 (MDAG) 先在设备上启用。 有关将 MDAG 部署到多台设备的信息，请参阅准备[安装Microsoft Defender 应用程序防护。](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)
 
-有关先决条件、设置、限制和 Office 应用程序防护疑难解答的详细信息，请参阅：
+有关针对应用程序防护的先决条件、设置、限制和疑难解答Office，请参阅：
 
-- [常见问题解答：Office 应用程序防护](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
-- [设置 Office 应用程序防护](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)
+- [常见问题解答：应用程序防护Office](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- [为应用程序设置应用程序Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)

@@ -1,5 +1,5 @@
 ---
-title: 401混合 FreeBusy
+title: 401 混合 - FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 401
 ms.assetid: 13bb2a1b-6433-4249-8b0f-c01e23e5d7f1
-ms.openlocfilehash: ce28f5612df65aeb909512d16c6ee9d423993ef1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aae8b25d4dd96ca63327a27e84b443a7e682fc6516b2f6b76820da6b125dc1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945291"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>混合环境中的日历忙/闲问题
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>混合环境中日历忙/闲问题
 
-如果用户在混合环境中查看日历的忙/闲信息时遇到问题，请重新运行 "混合配置" 向导。 有关 "混合配置" 向导的详细信息，请参阅 [混合配置向导](https://go.microsoft.com/fwlink/p/?linkid=528149)。
+如果用户在混合环境中看到日历忙/闲信息时遇到问题，请重新运行混合配置向导。 有关混合配置向导详细信息，请参阅混合 [配置向导](https://go.microsoft.com/fwlink/p/?linkid=528149)。
