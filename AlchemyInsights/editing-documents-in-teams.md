@@ -11,16 +11,16 @@ ms.custom: ''
 ms.assetid:
 - "9002312"
 - "4497"
-ms.openlocfilehash: 1259bb936e7789b784c5d7c5dc715801bf860a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4af4323e0a51c69f5689483508ff3196519030824806cb24a1157b61daefa2cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004036"
 ---
 # <a name="editing-documents-in-teams"></a>在 Teams 中编辑文档
 
-**重要信息**：有关更新信息请参阅[消息中心 ID：207443](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207443)。 
+**重要信息**：有关更新信息请参阅 [消息中心 ID：207443](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207443)。 
 
 对于在 Microsoft Teams 中使用 Office 文档的学生和教师，我们开始推出临时更改，在此更改中需要执行额外步骤才能编辑文档。 这是对当前行为的更改，当用户单击通道、对话或任务内部的“文件”选项卡中的文档时，允许用户直接进入编辑模式。
 
