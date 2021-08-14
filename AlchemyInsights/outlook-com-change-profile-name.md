@@ -1,5 +1,5 @@
 ---
-title: 在 Outlook.com 中更改您的配置文件名称
+title: 在 Outlook.com 中更改配置文件名称
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962445"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>在 Outlook.com 中更改您的配置文件名称
+# <a name="change-your-profile-name-in-outlookcom"></a>在 Outlook.com 中更改配置文件名称
 
 1. 转到 [你的 Microsoft 帐户信息](https://go.microsoft.com/fwlink/p/?linkid=860841)。
-2. 选择 " **编辑名称**"。
-3. 输入名字和姓氏，然后选择 " **保存**"。
+2. 选择 **"编辑名称"。**
+3. 输入名字和姓氏，**然后选择保存。**
 
-请允许长达24小时对你的配置文件名称所做的更改生效。
+请允许最多 24 小时对配置文件名称的更改生效。

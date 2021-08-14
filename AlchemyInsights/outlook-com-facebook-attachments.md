@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962301"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>无法从 Facebook 附加或上传文件
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>无法从 Facebook 附加或上载文件
 
-由于 Facebook 条款和条件中的更改，2019年10月23日之后，您将无法再直接从 Facebook 上传附件，并且 Facebook 将不再显示在你的云位置列表中。 
+由于 Facebook 条款和条件发生变化，2019 年 10 月 23 日之后，您无法再直接从 Facebook 上载附件，并且 Facebook 将不再显示在云位置列表中。 
 
-你可以在 [存储帐户](https://go.microsoft.com/fwlink/?linkid=2111075)中管理其他云位置的列表。
+你可以在你的帐户 管理其他云位置[存储列表](https://go.microsoft.com/fwlink/?linkid=2111075)。
 
-了解有关 [存储帐户](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)的详细信息。
+详细了解如何存储[帐户](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)。
   

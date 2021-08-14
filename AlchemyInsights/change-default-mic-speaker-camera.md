@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5616"
 - "9002537"
-ms.openlocfilehash: 03828723b28fc950160e56e1a72be49b4bfa2f70
-ms.sourcegitcommit: d822377ec76adf9ef6d13bc761a16c9900a3e7cb
+ms.openlocfilehash: c25e18df13f0a68b8bc5335845e5c1a3f7f84d7696fa925fbfc183b7ade53d60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52027313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989113"
 ---
 # <a name="change-your-default-mic-speaker-or-camera"></a>更改默认麦克风、扬声器或照相机
 
@@ -30,4 +30,4 @@ ms.locfileid: "52027313"
 
 1. 在 **照相机** 下，选择想要 Teams 使用的照相机，然后查看相机的视频预览。 
 
-**注意：** 如果电脑已连接了多个已认证设备，可以将其中一个设置为辅助铃声，并且它会在呼叫进入时响起。 在任何设备上接听传入电话，不限于响铃的设备。
+**注意：** 如果电脑已连接了多个已认证设备，可以将其中一个设置为辅助响铃设备，该设备会在来电时响铃。可在任何设备上接听来电，而不限于响铃的设备。

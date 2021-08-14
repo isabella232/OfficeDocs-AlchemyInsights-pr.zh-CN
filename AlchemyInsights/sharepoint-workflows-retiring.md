@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: cf85e4c45f1d88c3a643e298fac5d539cd127fdf
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: f5d177dead1785d278e71370113dd893c897b4616a2ca2b32cd5614133625065
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477436"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022459"
 ---
 # <a name="sharepoint-workflows-retiring"></a>SharePoint 工作流即将停用
 
-SharePoint 2010 工作流已停用。 建议迁移到 [Power Automate](https://docs.microsoft.com/power-automate/getting-started) 或其他受支持的解决方案。 
+SharePoint 2010 工作流已停用。建议迁移到 [Power Automate](https://docs.microsoft.com/power-automate/getting-started) 或其他受支持的解决方案。 
 
 重要日期：
 

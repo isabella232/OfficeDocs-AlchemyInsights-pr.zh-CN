@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: 6a3f02b69d160c7dce68ed03df59c0d7d1f32f0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7881d6837cb7d99180d2cc1b28d327ce12e4b836d33e4fca099569d4f72510fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989581"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>Teams 客户端不显示日历图标
 
@@ -27,6 +27,6 @@ Teams 中的日历选项卡需要通过 Exchange Web 服务访问 Exchange 邮�
 
 最后检查 [Teams 应用 – 应用设置策略](https://admin.teams.microsoft.com/policies/app-setup)，确保未从应用到该用户的策略中删除日历应用（最有可能是“全局(默认为组织范围)”）。
 
-若用户托管在本地，你需要确认混合配置正常。 请使用[混合配置向导](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent)排除故障。
+若用户托管在本地，你需要确认混合配置正常。请使用[混合配置向导](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent)排除故障。
 
 请注意，[Teams 需要 Exchange 2016 CU3 或更高版本](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)。

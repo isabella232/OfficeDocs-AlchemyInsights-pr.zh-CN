@@ -1,5 +1,5 @@
 ---
-title: 608混合设置的日历信息
+title: 608 混合设置的日历信息
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989545"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>混合环境中的日历忙/闲问题
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>混合环境中日历忙/闲问题
 
-如果用户在混合环境中查看日历的忙/闲信息时遇到问题，请重新运行 "混合配置" 向导。 有关 "混合配置" 向导的详细信息，请参阅 [混合配置向导](https://go.microsoft.com/fwlink/p/?linkid=528149)。
+如果用户在混合环境中看到日历忙/闲信息时遇到问题，请重新运行混合配置向导。 有关混合配置向导详细信息，请参阅混合 [配置向导](https://go.microsoft.com/fwlink/p/?linkid=528149)。
 
-有关混合环境中的疑难解答步骤，请参阅对 [混合部署进行故障排除](https://technet.microsoft.com/library/jj659053.aspx)。
+有关混合环境中疑难解答步骤，请参阅 [对混合部署进行故障排除](https://technet.microsoft.com/library/jj659053.aspx)。

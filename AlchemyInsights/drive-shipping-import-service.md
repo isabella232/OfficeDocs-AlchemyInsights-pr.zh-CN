@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: 85d6e723e56b01fd9914165d8c9740f3b055947d
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: ea9f78176bcc3208c01da5ccfaeb97af4373a5b5d1a4abc652422a0f85df7d9a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004180"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Microsoft 365 导入服务中的驱动器传送
 
@@ -34,8 +34,7 @@ ms.locfileid: "52721667"
 
 以下是几点注意事项:
 
-- 必须分配有 Exchange Online 中的邮箱导入导出角色，才能将 PST 文件导入到 Microsoft 365 邮箱。
-PST 超过 20GB 可能会影响性能。
+- 你必须分配有 Exchange Online 中的邮箱导入导出角色，才能将 PST 文件导入到 Microsoft 365 邮箱。对于大于 20GB 的 PST，性能可能会受到影响。
 
 - 仅支持将 2.5 英寸固态硬盘 (SSD) 或 2.5 英寸或 3.5 英寸 SATA II/III 内部硬盘。
 包含 PST 文件的硬盘必须使用 BitLocker 进行加密。

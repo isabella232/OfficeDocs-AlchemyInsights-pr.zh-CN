@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932739"
 ---
 # <a name="anonymous-sharing"></a>匿名共享
 
  **启用匿名访问**
   
-在新的 SharePoint 管理中心中，单击左窗格中的 " **共享** "。 
+在新建SharePoint管理中心 **，单击左侧** 窗格中的"共享"。 
   
-- 选择以下选项： **允许与经过身份验证的外部用户共享和使用匿名访问。**
+- 选择以下选项 **：允许与经过身份验证的外部用户共享和使用匿名访问。**
   
- (（可选），您可以将链接设置为在特定天数后过期，并选择收件人如何使用链接。 ) 
+ (（可选）可以将链接设置为在特定的天数后过期，并选择收件人如何使用链接。) 
     
  **匿名共享文件或文件夹**
   
-- 选择要共享的文件或文件夹，然后单击 " **共享**"。 
+- 选择要共享的文件或文件夹，然后单击"共享 **"。** 
     
-- 您希望此链接为谁工作？单击 " **任何人"。**
+- Who此链接是否适用于此链接？单击"**任何人"。**
   
- **注意**：无论用户不登录到 Microsoft 365 或 OneDrive **，都可以** 创建任何人都可以用来访问文档或文件夹的链接。 使用此代码可与公司内部或外部的任何人共享。 此外，还可以将此链接转发给任何人。 
+ **注意****：** 任何人创建一个链接，任何人都可以使用该链接访问文档或文件夹，即使他们未登录到 Microsoft 365 或 OneDrive。 使用它与公司内外的任何人共享。 此链接也可以转发给任何人。 
     
 
