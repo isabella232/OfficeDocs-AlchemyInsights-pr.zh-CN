@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
-ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
+ms.openlocfilehash: 0376f7c73e05a2b86a18e66ff14f661f1b62f27a30c1b7d3d5890c64621d7f5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53187711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956613"
 ---
 # <a name="teams-client-crashing"></a>Teams 客户端崩溃
 
@@ -33,13 +33,13 @@ ms.locfileid: "53187711"
     - 浏览到计算机上的 %appdata%\Microsoft\Teams\ 文件夹，然后删除该目录中的所有文件。
     - [下载并安装 Teams 应用](https://www.microsoft.com/microsoft-teams/download-app)，如有可能，请以管理员身份安装 Teams（右键单击 Teams 安装程序，然后选择“**以管理员身份运行**”(如果有)）。
 
-如果 Teams 客户端仍出现崩溃，请尝试重现问题。 如果可以：
+如果 Teams 客户端仍然崩溃，请尝试重现此问题。如果可以，请执行以下操作：
 
 1. 请使用步骤记录器捕获步骤。
     - 关闭所有不必要的或机密的应用程序。
     - 启动步骤记录器并在使用受影响的用户帐户登录时重现该问题。
     - [收集捕获记录的重现步骤的 Teams 日志](/microsoftteams/log-files)。 **注意**：请确保捕获受影响用户的登录地址。
-    - 收集转储和/或故障存储桶信息(Windows)。 在发生崩溃的计算机上启动 Windows Powershell，然后运行以下命令（在每个命令之后按 Enter）：
+    - 收集转储和/或故障存储桶信息 (Windows)。在发生崩溃的计算机上启动 Windows Powershell，然后运行以下命令（在每个命令之后按 Enter）：
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
     `notepad .\FaultBuckets.txt`

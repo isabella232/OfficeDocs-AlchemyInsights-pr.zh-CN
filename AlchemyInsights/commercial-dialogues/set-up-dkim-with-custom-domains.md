@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994780"
 ---
 # <a name="set-up-dkim-with-custom-domains"></a>使用自定义域设置 DKIM
 
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **DomainGUID** 是自定义域的自定义 MX 记录中 **.mail.protection.outlook.com** 左侧的文本 (例如，域域的 contoso-com **contoso.com) 。** **InitialDomain** 是注册 Office 365 域时所使用的域 (例如，contoso.onmicrosoft.com) 。 
+> **DomainGUID** 是自定义域的自定义 MX 记录中 **.mail.protection.outlook.com** 左侧的文本 (例如，域域的 contoso-com **contoso.com) 。** **InitialDomain** 是注册域时所使用的域，Office 365 (，例如 **contoso.onmicrosoft.com) 。**
 
-有关 DNS 记录详细信息，请参阅在任何 DNS 托管提供商处为 [Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)创建 DNS 记录。
+有关 DNS 记录详细信息，请参阅在任何[DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)托管提供商上为 DNS Office 365。

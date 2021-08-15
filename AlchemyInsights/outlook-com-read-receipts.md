@@ -1,5 +1,5 @@
 ---
-title: Outlook.com 中的已读回执
+title: 在 Outlook.com 中读取回执
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983407"
 ---
 # <a name="read-receipts"></a>已读回执
 
-您不能在 Outlook.com 中请求已读回执，但可以请求使用 Outlook for Windows 发送的 Outlook.com 邮件的已读回执。 若要了解如何操作，请参阅 [添加和请求已读回执和传递通知](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)。
+你不能在 Outlook.com 中请求已读回执，但可以请求使用 Outlook.com for Outlook for Windows 发送的已读回执。 若要了解如何操作，请参阅 [添加和请求已读回执和送达通知](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)。
   
-若要选择 Outlook.com 如何响应阅读回执请求，请转到 "已 [读回执设置](https://outlook.live.com/mail/options/mail/handling/readReceipts)"。
+若要选择 Outlook.com 如何响应已读回执请求，请转到"[已读回执设置"。](https://outlook.live.com/mail/options/mail/handling/readReceipts)

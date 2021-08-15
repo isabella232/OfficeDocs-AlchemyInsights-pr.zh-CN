@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709240"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960105"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>与 Outlook Customer Manager 共享问题
+# <a name="problems-sharing-with-outlook-customer-manager"></a>与客户经理Outlook问题
 
-如果与 Outlook Customer Manager 共享问题，我们建议您首先尝试清除浏览器缓存。 例如，在Internet Explorer中，您将：
+如果你与客户经理Outlook，我们建议你先尝试清除浏览器缓存。 例如，在Internet Explorer中，您将：
 
-1. 转到"**浏览**  >  **历史记录**>**和数据库下的"设置常规**  >  **设置"。**
+1. 转到浏览 **历史记录设置**  >  **数据库**> 设置"下转到"常规  >  **"页面**。
 2. 删除网站"outlookapps.com"的缓存文件。
 3. 重新启动 Outlook。
 
-有关共享的信息，请参阅[Outlook Customer Manager 中的"共享信息"。](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
+有关共享的信息，请参阅在 Outlook [Customer Manager 中共享信息](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)。

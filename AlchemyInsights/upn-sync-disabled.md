@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782141"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038102"
 ---
 # <a name="upn-sync-disabled"></a>UPN 同步已禁用
 
@@ -27,6 +27,6 @@ ms.locfileid: "51782141"
   
 对于在 2016 年 3 月 30 日或之后开始同步到 Azure AD 的组织，将自动启用 UPN 软匹配。
   
-若要了解有关在 UPN 和其他同步功能上启用软匹配功能的信息，请参阅 [Azure AD Connect 同步服务功能](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)。
+若要了解有关在 UPN 和其他同步功能上启用软匹配的信息，请参阅[Azure AD 连接同步服务功能](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)。
   
 

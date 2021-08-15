@@ -1,5 +1,5 @@
 ---
-title: 将文件上传到 OneDrive 或 SharePoint
+title: Upload文件OneDrive或SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 1bfe006ff6111581ebf85f0c599e65961e8289c0
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: ace337c536b7691edafbed72115b10904eb5f6943434ad716e6d7d948e625a47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038210"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>将文件上传到 OneDrive 或 SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload文件OneDrive或SharePoint
 
-您可以将文件上传到 SharePoint Online 中的文档库，方法是将这些文件从您的计算机中拖放到文档库中。 使用 OneDrive，可以在计算机和云之间同步文件，以便可以从任何位置访问文件。 您还可以直接在文件资源管理器中处理已同步的文件，并在脱机时访问文件。 有关上载和同步的详细信息，请访问下面的链接。
+您可以将文件上载到 SharePoint Online 中的文档库，只需从计算机中拖动文件并将其放入文档库即可。 使用 OneDrive，可以在计算机和云之间同步文件，以便可以从任何位置访问文件。 还可以直接在文件资源管理器中处理已同步的文件，即使处于脱机状态，也可以访问文件。 有关上传和同步的详细信息，请访问以下链接。
 
-- [将文件夹或文件上传到库](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Upload文件夹或文件到库](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [使用同步上传](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Upload同步](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
 - [文件限制 (无效字符、文件上载大小、路径长度等。) ](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
