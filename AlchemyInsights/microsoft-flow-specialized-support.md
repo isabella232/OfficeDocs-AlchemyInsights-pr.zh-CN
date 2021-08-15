@@ -1,5 +1,5 @@
 ---
-title: Microsoft 流专用支持
+title: Microsoft Flow专门支持
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975919"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft 流专用支持
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow专门支持
 
-若要获取专业 Microsoft 流支持，请转到新的 [Power platform 管理中心](https://aka.ms/flowadminsupport)。 新门户提供了针对 Microsoft 流和其他电源平台产品进行优化的协助支持的更直接途径。
+有关Microsoft Flow支持，请转到新的[Power 平台管理中心](https://aka.ms/flowadminsupport)。 新门户提供了更直接的辅助支持路径，该支持已针对 Microsoft Flow和其他 Power 平台产品进行了优化。
 
 了解更多：
-- [有关 Microsoft 流免费许可证的信息](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [组织中的流程常见问题解答](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [包含 Microsoft 流的 microsoft 365 和 Dynamics 365 计划](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft 流量帐单和计量问题](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [有关免费Microsoft Flow的信息](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow组织常见问题解答](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365和 Dynamics 365 计划，包括Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow计费和计费问题](https://go.microsoft.com/fwlink/?linkid=2072612)

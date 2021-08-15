@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12064"
 - "9006408"
-ms.openlocfilehash: e75feb99bfc34e27929fb4c1120f4b932b42ef8d
-ms.sourcegitcommit: 34cf91e5a1063154e9ad37bfb99e81cefd7a1b54
+ms.openlocfilehash: 31924446f76ae8354773c8608968dca4ff3e24cf389f95ad02713e601fb7ff47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53111197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986917"
 ---
 # <a name="issues-related-to-office-scripts"></a>与 Office 脚本相关的问题
 
@@ -32,9 +32,9 @@ ms.locfileid: "53111197"
 - Office 365 A3
 - Office 365 A5
 
-对 Office 脚本设置的更改最多可能需要 48 小时才能生效。 有关详细信息，请参阅[管理 Office 脚本设置](/microsoft-365/admin/manage/manage-office-scripts-settings)。
+对 Office 脚本设置的更改最多可能需要 48 小时才能生效。有关详细信息，请参阅 [管理 Office 脚本设置](/microsoft-365/admin/manage/manage-office-scripts-settings)。
 
-由于 Office 脚本适用于 Power Automate，因此建议查看现有数据丢失防护 (DLP) 策略，以确保组织数据在用户使用 Office 脚本时受到保护。 有关详细信息，请参阅[数据丢失防护 (DLP) 策略](/power-automate/prevent-data-loss)。
+由于 Office 脚本适用于 Power Automate，因此建议查看现有的数据丢失防护 (DLP) 策略，以确保组织数据在用户使用 Office 脚本时受到保护。有关详细信息，请参阅 [数据丢失防护 (DLP) 策略](/power-automate/prevent-data-loss)。
 
 有关详细信息，请参阅：
 

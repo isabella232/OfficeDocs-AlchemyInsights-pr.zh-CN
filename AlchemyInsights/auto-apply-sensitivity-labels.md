@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969270"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>自动应用敏感度标签
 
 敏感度标签可以手动应用于用户的内容，也可以将其配置为自动应用于内容。
 
-自动应用敏感度标签无需培训用户如何对内容进行分类，也无需通知他们策略配置。
+自动应用敏感度标签无需培训用户如何对内容进行分类，也无需通知用户策略配置。
 
 若要自动应用标签，需要执行以下操作：
 
 - Azure 信息保护 P2 订阅
-- [下载并安装 Azure 信息保护统一标记客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [下载并安装 Azure 信息保护统一标签客户端](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 我们正在致力于提供将来不需要 Azure 信息保护统一标签客户端的本机支持。
 
-目前，仅 Windows 支持统一标记客户端。  Mac、iOS 和 Android 尚不支持此功能。
+目前，只有Windows支持统一标签客户端。  Mac、iOS 和 Android 尚不支持此功能。
 
 有关敏感度标签和自动将其应用于内容的信息，请参阅：
 
