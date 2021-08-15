@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013738"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>Apple 自动设备注册同步错误
 
-"我们检测到你拥有一个或多个 ADE/DEP 令牌，这些令牌在错误状态中。 在解决每个受影响的令牌的错误状态之前，ADE 功能不会像预期一样工作。"。
+"我们检测到你拥有一个或多个 ADE/DEP 令牌，它们的状态为错误。 在解决每个受影响的令牌的错误状态之前，ADE 功能将不能正常工作。"。
 
 此错误可能以多种方式显示，包括：
 
@@ -29,7 +29,7 @@ ms.locfileid: "50448912"
 2. 注册配置文件分配可能失败
 3. 设备可能无法成功完成 ADE 注册
 
-检查 Intune 控制台中"设备注册设备>注册设备> Apple 注册> **注册计划令牌** 下报告的同步错误。
+检查在 Intune 控制台中"设备""注册设备>注册设备> Apple 注册> **注册计划令牌"中报告的同步错误**。
 
 同步错误的最常见原因之一是当前令牌过期。 在许多情况下，受影响令牌的续订将解决问题。
 
