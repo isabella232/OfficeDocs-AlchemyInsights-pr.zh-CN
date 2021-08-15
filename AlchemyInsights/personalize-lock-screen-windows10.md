@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9787"
 - "9005401"
-ms.openlocfilehash: deeb46260003c855e9c51d09dbd053d0461948ba
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 32a940622bea3d687221f5a9dd0b94015978b8ed2b871b0851baa8bdb0fa5357
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982543"
 ---
 # <a name="personalize-your-lock-screen-in-windows-10"></a>对 Windows 10 中的锁屏进行个性化设置
 
@@ -40,4 +40,4 @@ ms.locfileid: "50897421"
 
 1. 请确保 **“在登录屏幕上显示锁屏背景图片”** 处于开启状态。
 
-1. 返回到 **“设置”**，然后选择 **“隐私”**。 选择 **“背景应用”**，并确保 **“允许应用在后台运行”** 已选中。
+1. 返回到“**设置**”，然后选择“**隐私**”。选择“**后台应用**”，并确保选中“**允许应用在后台运行**”。

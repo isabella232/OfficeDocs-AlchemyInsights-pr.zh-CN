@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017806"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>更改本地帐户或 Microsoft 帐户的名称
 
-如果你使用用户名和密码登录 Windows 10，则使用本地帐户。 
+如果只需使用用户名和密码登录Windows 10，则使用本地帐户。 
 
 **更改本地帐户的名称**：
 
@@ -37,7 +37,7 @@ ms.locfileid: "51818926"
 
 **若要更改 Microsoft 帐户，显示名称：**
 
-每次登录显示名称，都可以使用你的密码。 这也是你在 Windows 10 设备上看到的名称，也是你在发送电子邮件时看到的名称。 此名称可能不同于本地帐户显示名称。 下面将了解如何更改显示名称：
+每次登录显示名称，都可以使用你的密码。 这也是你在设备上看到的名称Windows 10，也是用户发送电子邮件时看到的名称。 此名称可能不同于本地帐户显示名称。 下面将了解如何更改显示名称：
 
 1. 登录到 Microsoft **帐户网站上** 你的信息 [页面](https://account.microsoft.com/)。
 

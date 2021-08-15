@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: e0045b5ed586ac9a6931c17a0eee8ab47c1ce027
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750b694e6979a80da394c4ca0a6d2e96dd4bf8221918e5f421ea01b0b588157e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799619"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982399"
 ---
 # <a name="refunds-and-cancellations"></a>退款和取消
 
@@ -27,4 +27,4 @@ ms.locfileid: "51799619"
 
 - 有关取消，请参阅[取消或关闭 Microsoft 订阅的定期计费功能](https://support.microsoft.com/help/4027815)。
 
-**注意**：如果在关闭定期计费后看到费用，则可能是在到期日期之后才将其关闭。 [了解详细信息](https://support.microsoft.com/help/10640)。 
+**注意**：如果在关闭定期计费后看到费用，则可能是在到期日期之后才将其关闭。[了解详细信息](https://support.microsoft.com/help/10640)。 

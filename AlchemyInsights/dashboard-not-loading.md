@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002929"
 - "5608"
-ms.openlocfilehash: e800db4165a770f9980d2178dbad8ec2fc898858
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 13d9e5718051ecadbfc7e8c875d37ca2d2cdd24e48a5e9a391d578aa7c3cc2d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005584"
 ---
 # <a name="dashboard-not-loading"></a>仪表板未加载
 
 **症状：**
 
-仪表板可能卡在了加载旋转图标中，或者可能显示通用错误消息： “出现了错误。 请查看技术详细信息获取更多信息。 "
+仪表板可能会卡在加载旋转图标的画面中，或者可能会显示通用错误消息：“出现问题。请查看技术详细信息以了解详情。”
 
 **疑难解答指南**：
 

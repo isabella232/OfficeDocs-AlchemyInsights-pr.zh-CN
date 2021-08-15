@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005512"
 ---
 # <a name="delete-a-profile"></a>删除配置文件
 
-若要删除配置文件，请执行以下步骤。
+若要删除配置文件，请使用以下步骤。
   
-1. 在 Outlook 中，选择 " **文件** \> **帐户设置**" " \> **管理配置文件**"。
+1. In Outlook， select **File** \> **Account 设置** Manage \> **Profiles**.
 
-2. 选择 " **显示配置文件**"。
+2. 选择 **"显示配置文件"。**
 
-3. 在 " **邮件** " 对话框中，选择要删除的配置文件，然后单击 " **删除**"。
+3. 在"**邮件**"对话框中，选择要删除的配置文件，然后单击"删除 **"。**
 
     > [!NOTE]
-    > Outlook 可能会警告您删除您的配置文件将删除脱机数据。 您不会丢失存储在 Outlook 数据文件 ( .pst) 或存储在您的联机帐户中的任何信息（例如 Outlook.com、Exchange 或 Microsoft 365 帐户）的任何信息。
+    > Outlook可能会警告你，删除配置文件将删除脱机数据。 不会丢失存储在 Outlook 数据文件 (.pst) 中或联机帐户（例如 Outlook.com、Exchange 或 Microsoft 365 帐户）中存储的任何信息。
   
-有关 **outlook For mac** 配置文件管理的信息，请参阅 [在 Outlook For mac 中管理配置文件或标识](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) 或使用以下步骤。
+有关 **Outlook for Mac** 管理的信息，请参阅管理配置文件或 [Outlook for Mac中的标识](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx)或使用以下步骤。
   
-1. 在查找器中，打开 " **应用程序** " 文件夹。
+1. 在 Finder 中，打开“应用程序”文件夹。
 
-2. 按住 Ctrl 键的同时单击或右键单击 " **Microsoft Outlook**"，然后选择 " **显示包内容**"。
+2. 按住 Ctrl 并单击或右键单击“Microsoft Outlook”，然后选择“显示包内容”。
 
-3. 选择 " **内容** \> **共享支持**"，然后启动 **Outlook 配置文件管理器**。
+3. 选择 **"内容** \> **共享支持"，** 然后启动 **Outlook配置文件管理器"。**

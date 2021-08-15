@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9214"
 - "9005302"
-ms.openlocfilehash: 6447137fca9b2d48508f4e240a438c7f851c103c
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
+ms.openlocfilehash: 07d24290fc3b13cce7a931c4cff15176c080b4413489ba1935b6886939ea3874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982363"
 ---
 # <a name="remove-the-background-service-for-microsoft-search-in-bing"></a>删除必应中的 Microsoft 搜索的背景服务
 
@@ -26,9 +26,9 @@ ms.locfileid: "50753384"
 
 1. 要还原到原始搜索引擎设置，请执行下列操作：
 
-    a. 将 **使用必应作为默认搜索引擎[ 切换开关设为](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)关**。
+    a. 将 **“使用必应作为默认搜索引擎”[切换开关](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome)设为“关”**。
 
-    b. [转到 Microsoft 365 管理中心](https://docs.microsoft.com/deployoffice/microsoft-search-bing#configure-the-setting-in-the-microsoft-365-admin-center-to-allow-the-extension-to-be-installed) 并清除影响你组织中所有用户的设置。
+    b. [转到 Microsoft 365 管理中心](https://docs.microsoft.com/deployoffice/microsoft-search-bing#configure-the-setting-in-the-microsoft-365-admin-center-to-allow-the-extension-to-be-installed)并清除影响你组织中所有用户的设置。
 
 2. 要从单个设备中删除背景服务，请执行下列任务：
 

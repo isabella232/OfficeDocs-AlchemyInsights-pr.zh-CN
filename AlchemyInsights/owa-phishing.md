@@ -1,5 +1,5 @@
 ---
-title: 处理 Outlook.com 中的网络钓鱼
+title: 在 Outlook.com 中处理网络钓鱼
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: b84527f58cfd5101c5a63510cc46bb115ab862cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0b797e22a95a5ea532cd6497dd647adf608e52d09bdaf2a13124ecdfe15d5bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982651"
 ---
-# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>如何在 web 上的 Outlook 中处理仿冒电子邮件
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>如何处理电子邮件中的网络钓鱼Outlook 网页版
 
-"仿冒骗局" 是一种看似合法的电子邮件，但实际上是企图盗取您的个人信息或金钱。 欺诈者还可以使用一种称为 "哄骗" 的技术，使其显示为似乎已收到来自自己的电子邮件。
+欺诈邮件是看似合法但实际试图窃取个人信息或金钱的电子邮件。 欺诈者还可使用一种称为欺骗的技术，使其看起来就像从你自己收到电子邮件一样。
 
-如果您收到的电子邮件看起来像仿冒欺诈，可以通过选择该邮件，然后选择 "**垃圾**邮件仿冒" 来报告它  >  **Phishing**。
+如果收到类似于欺诈邮件的电子邮件，可以通过选择该邮件，然后选择"垃圾邮件网络钓鱼"**来**  >  **报告该邮件**。
 
-*注意：* 将邮件标记为网络钓鱼时，它将仅报告发件人。它不会阻止发件人将来向您发送邮件。 若要阻止发件人，需要将发件人添加到阻止发件人列表。 有关详细信息，请参阅在 [Outlook 网页版中阻止发件人或取消阻止发件人](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)。
+*注意：* 当您将邮件标记为网络钓鱼时，它将仅报告发件人。 它不会阻止该发件人将来向您发送邮件。 若要阻止发件人，您需要将发件人添加到阻止的发件人列表。 有关详细信息，请参阅阻止发件人或取消阻止发件人[Outlook 网页版。](https://support.office.com/article/9bf812d4-6995-4d19-901a-76d6e26939b0)
 
-了解有关如何 [在 web 上的 Outlook 中识别可疑邮件](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206)的详细信息。
+了解有关如何在邮件中[识别可疑邮件Outlook 网页版。](https://support.office.com/article/3d44102b-6ce3-4f7c-a359-b623bec82206)

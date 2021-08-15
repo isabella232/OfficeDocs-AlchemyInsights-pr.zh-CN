@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: e5133f0fedbc5fe8feb25aa0e869234619bd5b94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b242c2d011a578f2987f4722addebd34c558abfe88981387d8bcc3f7550e53b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033232"
 ---
 # <a name="configuring-migration-manager"></a>配置迁移管理器
 
-迁移管理器通过将一台或多台计算机或虚拟机 (VM) 配置为迁移“代理”，集中管理大型文件共享迁移。 有关详细信息，请参阅：
+迁移管理器通过将一台或多台计算机或虚拟机 (VM) 配置为迁移“代理”来集中管理大型文件共享迁移。若要了解详细信息，请参阅：
 
 - [设置迁移管理器客户端](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 

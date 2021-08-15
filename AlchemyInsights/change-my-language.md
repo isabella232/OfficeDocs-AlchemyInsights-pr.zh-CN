@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: defba7a3408ad86d4a74892124380f1a689cb88248e3443a6ba45e040bbe11a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818962"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018022"
 ---
 # <a name="change-my-language"></a>更改语言
 
-Outlook 应用会自动翻译为设备设置为的语言。 
+应用Outlook自动翻译为设备设置为的语言。 
 
- (请参阅 [Outlook .) 中](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated)支持的语言列表 
+ (请参阅[.Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 中支持的语言列表 
 
 **更改设备上的语言：** 
 
 **在 Android 上**： 
 
-- 设备设置>语言和输入 
+- 设备设置 >语言和输入 
 
 **在 iOS 上**： 
 
-- 设备设置>常规>语言&区域 
+- 设备设置 >常规>语言&区域 
