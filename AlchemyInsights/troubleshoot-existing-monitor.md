@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: c4d2bb64b6b5ea79d4cd585e2be85c3c17e0f76f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ecfb4e90f2d58654ec43a35e901ea4421e0e94fa95995ef890abc8af2d99ec7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981067"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>现有监视器疑难解答
 
@@ -25,7 +25,7 @@ ms.locfileid: "51824569"
 
 **刷新监视器的显示：**
 
-同时按以下键：Windows 键 + Ctrl + Shift + B。这将刷新与图形驱动程序的通信。 监视器将暂时闪烁，几秒钟后将返回。
+同时按以下键：Windows键 + Ctrl + Shift + B。这将刷新与图形驱动程序的通信。 监视器将暂时闪烁，几秒钟后将返回。
 
 **监视器硬件疑难解答：**
 

@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f954d85a6b682a5e683e7216b71e694e8013e9a6145b9c7f119d3b2a5b78965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990625"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>将文件夹或文件上传到 SharePoint 文档库
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Upload文件夹或文件SharePoint文档库
 
-若要上传文件夹，您需要使用 Microsoft Edge、Google Chrome 或 Mozilla FireFox。 您不能在经典库体验中上传文件夹，也不能使用 Internet Explorer 10 或11。
+若要上传文件夹，你需要使用 Microsoft Edge、Google Chrome 或 Mozilla FireFox。 你不能在经典库体验中上传文件夹，或者使用 Internet Explorer 10 11。
   
-1. 打开要在其中上载文件夹或文件的文档库。
+1. 打开要上载文件夹或文件的文档库。
     
-2. 在您的计算机上打开文件资源管理器，然后浏览到要上载的一个或一些文件。
+2. 在计算机上打开文件资源管理器并浏览到要上载的文件夹或文件。
     
-3. 将文件夹或文件拖到文档库。 如果您未看到上载的项目出现在库中，请刷新页面。 
+3. 将文件夹或文件拖动到文档库。 如果库中未显示您上载的项目，请刷新页面。 
     
-如果不想通过在 windows 之间拖动项目上传，则还可以使用文档库中的 " **上载** " 按钮来选择要上载的一个或一些文件。 
+如果您不想在窗口之间拖动项目来上载，您还可以使用文档库中的 **Upload** 按钮选择要上载的文件夹或文件。 
   
 
