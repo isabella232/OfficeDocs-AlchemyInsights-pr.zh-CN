@@ -1,5 +1,5 @@
 ---
-title: 322当用户在发送问题时遇到的问题
+title: 322 用户在发送时遇到问题
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
@@ -12,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b51593d9d288dd6cdcdf39c0788e378a24197b8cd9f8780759af6d7462843a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001247"
 ---
 # <a name="a-user-is-having-issues-sending-email-messages"></a>用户在发送电子邮件时遇到问题
 
-你似乎有邮件流问题。 我们有一些诊断功能，可帮助确定许多常见的邮件流问题。 单击下面的 " **运行诊断** "。
+看起来你有邮件流问题。 我们具有可帮助识别许多常见邮件流问题的诊断。 单击 **下面的"运行诊断** "。
