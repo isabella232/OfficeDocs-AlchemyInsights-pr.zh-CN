@@ -1,5 +1,5 @@
 ---
-title: 终端服务器或 RDS 上的 Office 2019
+title: Office服务器或 RDS 上安装 2019
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24691e0b523fad22f0b6ee3ed07ff08afd5b81d12c787f843aa94c5b6835915b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011542"
 ---
 # <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>部署 Office 2019 以在 RDS、终端服务器或 VDI 上共享使用
 
-如果 RDS 服务器上已使用任何其他 Office 计划安装了 Office，请卸载它。 例如，转到"**控制面板**  >  **""卸载程序"。** 如果遇到问题，使用 Microsoft 支持和恢复助手 [卸载](https://aka.ms/SARA-OfficeUninstall-Alchemy)。 
+如果Office任何其他计划安装在 RDS 服务器上，Office卸载它。 例如，转到"**控制面板**  >  **""卸载程序"。** 如果遇到问题，使用[Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy)支持和恢复助手 卸载。 
 
-使用 Office 部署工具 (ODT) 安装 Office。 有关详细步骤，请参阅[部署 Office 2019。](https://docs.microsoft.com/deployoffice/office2019/deploy)
+使用 Office 部署工具 (ODT) 安装Office。 有关详细步骤，请参阅[Deploy Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy)。
 
-有关激活，请参阅 [Office 批量激活概述](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)。
+有关激活，请参阅[批量激活Office。](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
