@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029794"
 ---
 # <a name="file-open-read-only"></a>文件打开只读
 
@@ -36,13 +36,13 @@ ms.locfileid: "51813174"
   
 来自 Internet 和其他可能不安全的位置的文件可能包含病毒、蠕虫或其他可能损害计算机的恶意软件。 这通常也是你下载的电子邮件附件或文件的情况。 为了帮助保护计算机，这些可能不安全的位置中的文件在受保护的视图中打开。 通过使用受保护的视图，您可以读取文件并查看其内容，同时降低风险。 有关受保护的视图以及如何更改设置的信息，请参阅本文： [什么是受保护的视图？](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **OneDrive 是否已满？**
+ **是否OneDrive已满？**
   
-如果文件存储在 OneDrive 上且 OneDrive 存储空间已满，那么在分配的空间不足之前，无法保存文档。 可以通过单击通知中心中的 OneDrive 图标并选择"管理存储"来检查 OneDrive 上的可用空间，也可以转到 、登录并记下屏幕左下角的已用空间 [https://onedrive.live.com](https://onedrive.live.com) 量。
+如果文件存储在OneDrive且您的 OneDrive 存储空间已满，您将无法保存文档，直到您分配的空间不足。 可以通过单击通知中心的 OneDrive 图标并选择"管理存储"来检查 OneDrive 上的可用空间，也可以转到 、登录并记下屏幕左下角的已用空间 [https://onedrive.live.com](https://onedrive.live.com) 量。
   
- **Office 是否激活？**
+ **是否Office激活？**
   
-如果未激活 Office，或者你的订阅已过期，则你可能处于只读的缩减功能模式。 若要了解如何激活 Office，请参阅：Office 中的未授权产品和 [激活错误](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)。
+如果未Office，或者订阅已过期，则您可能处于只读的缩减功能模式。 若要了解如何激活Office，请参阅：未授权的产品和激活错误[Office。](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
  **如果所有其他失败...**
   
@@ -50,6 +50,6 @@ ms.locfileid: "51813174"
     
 - 安装 Office 更新
     
-- 执行 Office 的联机修复
+- 执行联机修复Office
     
 

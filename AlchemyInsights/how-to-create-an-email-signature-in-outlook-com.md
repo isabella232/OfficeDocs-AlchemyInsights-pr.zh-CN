@@ -14,18 +14,18 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: 8d1ecd2bf8adbce205ff54e10895f744cb718d52
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: fa0d579c3211c07f42d8ca959cb548579750fea227f6c4911cea099ca66c1bca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993487"
 ---
 # <a name="how-to-create-an-email-signature"></a>如何创建电子邮件签名
 
-转到 " [撰写和答复设置](https://go.microsoft.com/fwlink/?linkid=2006164) " (**设置** \> **查看所有 Outlook 设置** \> **撰写和回复**) 。
+转到撰写和回复 [设置](https://go.microsoft.com/fwlink/?linkid=2006164)**(设置** \> **查看Outlook撰写** \> **和** 答复) 。
   
  **注意：** 每个帐户只能有一个签名。
   
-了解有关如何 [在 Outlook.com 中创建和添加电子邮件签名的](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)详细信息。
+详细了解如何在[Outlook.com 中创建和添加电子邮件签名](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy)。
 
