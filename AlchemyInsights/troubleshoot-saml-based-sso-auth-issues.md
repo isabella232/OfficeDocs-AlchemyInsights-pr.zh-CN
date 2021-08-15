@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "9409"
-ms.openlocfilehash: c053e252edfcc51c95214c4bff4aded2bded2e23
-ms.sourcegitcommit: 60c504f3ac187eaf1141b3ba701d9e0633bdd968
+ms.openlocfilehash: f64d668c01640c65e7c58940b54e98d6d2aa3c09ab11b55e4fd560874740e3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50552278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039380"
 ---
 # <a name="troubleshoot-saml-based-sso-authentication-issues"></a>解决基于 SAML 的 SSO 身份验证问题
 
-大多数用户都能够通过以下建议步骤来解决其基于 SAML 的 SSO 身份验证问题：
+大多数用户可以使用下列建议步骤来解决其基于 SAML 的 SSO 身份验证问题：
 
 **建议的步骤**
 1. 查找 [当前错误代码信息](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information)。
-1. 请参阅 [调试 Azure Active Directory 中基于 SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 的单一登录应用程序，以解决身份验证错误。
-1. 请参阅文章 ["单一 Sign-On SAML](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol) 协议"，了解 Azure Active Directory (Azure AD) 支持单一 Sign-On (SSO) 的 SAML 2.0 身份验证请求和响应。
+1. 请参阅[调试应用程序中基于 SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues)的单一登录Azure Active Directory解决身份验证错误。
+1. 请参阅 Single [Sign-On SAML 协议](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)一文，了解 Azure A) D Azure Active Directory (支持单一 Sign-On (SSO) 的 SAML 2.0 身份验证请求和响应。
 
 

@@ -1,5 +1,5 @@
 ---
-title: Windows 10 中的音频问题疑难解答
+title: 解决音频问题Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039416"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Windows 10 中的音频问题疑难解答
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>解决音频问题Windows 10
 
 **运行音频疑难解答程序**
 
@@ -55,12 +55,12 @@ ms.locfileid: "51833281"
 
 2. 在 **"声音、视频和游戏** 控制器"下，选择你的声卡，打开它 **，选择驱动程序** 选项卡，然后选择 **更新驱动程序**。
 
-**注意**：如果 Windows 找不到新驱动程序，请从设备制造商的网站上查找一个驱动程序，并按照其说明进行操作。
+**注意**：Windows找不到新驱动程序，请从设备制造商网站上查找一个驱动程序，然后按照其说明进行操作。
 
 **重新安装驱动程序**
 
 如果无法通过设备管理器更新或在制造商网站上查找新驱动程序，请尝试以下步骤：
 
-1. 在设备管理器中，右键 (或长按) 音频驱动程序，**然后选择卸载。** 重启设备，Windows 将尝试重新安装驱动程序。
+1. 在设备管理器中，右键 (或长按) 音频驱动程序，**然后选择卸载。** 重新启动设备，Windows尝试重新安装驱动程序。
 
-2. 如果重新安装驱动程序不起作用，请尝试使用 Windows 随附的通用音频驱动程序。 在设备管理器中，右键单击 (或长按) 你的音频驱动程序 > 更新驱动程序 **软件** 浏览我的计算机以查找驱动程序  >  **软件**  >  **""** 从我的计算机上的设备驱动程序列表选取"，选择"高清晰度音频设备"，选择"下一步"，然后按照说明安装它。
+2. 如果重新安装驱动程序不起作用，请尝试使用附带该驱动程序的通用音频Windows。 在设备管理器中，右键单击 (或长按) 你的音频驱动程序 > 更新驱动程序 **软件** 浏览我的计算机以查找驱动程序  >  **软件**  >  **""** 从我的计算机上的设备驱动程序列表选取"，选择"高清晰度音频设备"，选择"下一步"，然后按照说明安装它。
