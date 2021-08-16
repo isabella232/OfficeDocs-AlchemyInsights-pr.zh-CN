@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9826"
 - "9005394"
-ms.openlocfilehash: 4469a0b6a34cf2f634d1c715a7ba952f3221f272
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: efa38413c3081f4a8ad94d5ec56a951dc967028e096c5f7978251ddf33bfe13c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043754"
 ---
 # <a name="error-most-of-the-features-have-been-disabled-because-this-product-requires-an-update"></a>错误：由于此产品需要更新，大部分功能已被禁用。
 

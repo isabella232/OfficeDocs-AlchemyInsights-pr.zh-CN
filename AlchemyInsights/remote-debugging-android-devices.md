@@ -1,5 +1,5 @@
 ---
-title: 使用 Microsoft Edge 从开发计算机远程调试 Android 设备
+title: 使用 Microsoft Edge从开发计算机远程调试 Android 设备
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - "6983"
 - "10186"
 - "9005827"
-ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 1e7eca331ad0077d3c05e2a734ad02800192d4073efd9fc17431e11b7e691883
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024052"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>使用 Microsoft Edge 从开发计算机远程调试 Android 设备
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>使用 Microsoft Edge从开发计算机远程调试 Android 设备
 
 若要从计算机远程调试 Android 设备上的实时内容：
 

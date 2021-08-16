@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9823"
 - "9005394"
-ms.openlocfilehash: da077177859386961889b453726eb9f8f1c344fe
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 962ba829ab770c3b4d51262a2bc123399cce0a03c585e886d1aa5701da284c7d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043826"
 ---
 # <a name="error-we-couldnt-verify-your-subscription-please-make-sure-that-youre-connected-to-the-internet"></a>错误：我们无法验证你的订阅。 请确保你已连接到 Internet。
 
