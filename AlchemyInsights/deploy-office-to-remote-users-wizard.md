@@ -1,5 +1,5 @@
 ---
-title: 将 Office 部署到远程用户向导
+title: 将Office部署到远程用户向导
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49617221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031432"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>将 Office 部署到远程用户向导
+# <a name="deploy-office-to-remote-users-wizard"></a>将Office部署到远程用户向导
 
-现在，远程工作已是标准，用户需要在未连接到内部网络或使用自己的设备时接收组织的 Office 设置。
+现在，远程工作已是标准，用户需要在未连接到内部网络Office或在使用其自己的设备时接收组织的远程设置。
 
-使用 ["将 Office 部署到远程用户](https://go.microsoft.com/fwlink/?linkid=2149564) "向导创建自定义 Office 安装，然后向用户发送生成的 PowerShell 脚本，该脚本将随配置无缝安装 Office。
+使用["Office](https://go.microsoft.com/fwlink/?linkid=2149564)远程用户"向导创建自定义 Office 安装，然后向用户发送生成的 PowerShell 脚本，该脚本Office配置进行无缝安装。

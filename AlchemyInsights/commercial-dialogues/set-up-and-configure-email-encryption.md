@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: ca9be1c329fcac4dc5ea988bbce31cf27d70e199
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fc4caf4426a6bd4b238727dfc56f21eb3a56d4eea8251c17611ea430e1a9ce05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070422"
 ---
 # <a name="set-up-and-configure-email-encryption"></a>设置和配置电子邮件加密
 
-有关 Office 365 邮件加密的信息，请参阅 [Office 365 邮件加密](https://docs.microsoft.com/microsoft-365/compliance/ome)。
+有关此Office 365 邮件加密[的信息，请参阅](https://docs.microsoft.com/microsoft-365/compliance/ome)Office 365 邮件加密。
 
