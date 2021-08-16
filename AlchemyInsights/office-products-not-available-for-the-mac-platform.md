@@ -1,5 +1,5 @@
 ---
-title: Office 产品不适用于 Mac 平台
+title: Office Mac 平台不可用的产品
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 7ea579188d8b28f4af47e03e09e9767d9d84e5e7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d8de790de60a3d656f46248a73e56fbd195018bbec9bc234a39bca5a162e9b21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076227"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Office 产品不适用于 Mac 平台
+# <a name="office-products-not-available-for-the-mac-platform"></a>Office Mac 平台不可用的产品
 
-Visio、Project、Publisher 和 Access 不可用于 Mac 平台，但 Visio Online 和 Project Online 可用，并且在所有平台上都可用。
+Visio、Project、Publisher 和 Access 不适用于 Mac 平台，但是 Visio Online 和 Project Online 在所有平台上均可用且可用。
   
