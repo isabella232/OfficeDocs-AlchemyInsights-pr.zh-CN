@@ -1,5 +1,5 @@
 ---
-title: 团队升级指南
+title: Teams升级指南
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48334099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998681"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>团队使用的计算机资源超过预期
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams使用的计算机资源多于预期
 
-Microsoft 的主要关注方面是出色的性能和用户体验。 团队启动时间已得到改进，我们将继续改进团队，包括总体资源消耗量。  
+Microsoft 最关心的就是出色的性能和用户体验。 Teams启动时间一直在改进，我们将继续改进Teams，包括整体资源消耗。  
 
-有关团队和资源使用的信息，请参阅[在固定到 4k/HDR 监视器的便携式计算机上的视频会议过程中](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)， [Microsoft 团队使用内存](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)和团队的速度缓慢。
+有关内存Teams的信息，请参阅 Microsoft Teams 如何使用内存Teams[](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)在笔记本电脑固定到[4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k)监视器的视频会议期间速度很慢。

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea3e8f23c07103e604fc6b264047582b9c3e26b6b73237adc30eba574e06cfd3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049298"
 ---
-# <a name="4c7-error-in-microsoft-teams"></a>Microsoft Teams 中的 4c7 错误
+# <a name="4c7-error-in-microsoft-teams"></a>4c7 错误Microsoft Teams
 
-发生此错误是因为 Microsoft Teams 需要表单身份验证。 在将 Active Directory 联合身份验证服务 (AD FS) 时，默认情况下不会为 Intranet 启用表单身份验证。 如果 Windows 集成身份验证失败，系统将提示你使用表单身份验证登录。
+发生此错误的原因是Microsoft Teams表单身份验证。 在将 Active Directory 联合身份验证服务 (AD FS) 时，默认情况下不会为 Intranet 启用表单身份验证。 如果Windows身份验证失败，系统将提示你使用表单身份验证登录。
 
 若要解决此问题，请通过使用本地 Active Directory 副本的计算机上 AD FS Microsoft 管理控制台 (MMC) 管理单元启用表单身份验证。 为此，请按照下列步骤操作： 
 
