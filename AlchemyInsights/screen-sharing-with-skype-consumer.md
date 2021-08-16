@@ -1,5 +1,5 @@
 ---
-title: 与 Skype 消费者共享屏幕
+title: 与使用者进行Skype共享
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000009"
 - "1433"
-ms.openlocfilehash: 67ac7d31e3e0aafe088bf05867b1cb1e55ccf77b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fba3e5f95414ed7215417cfac364d62781cd02436df8b741479d136a606df757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052808"
 ---
-# <a name="screen-sharing-with-skype-consumer-users"></a>与 Skype 消费者用户进行屏幕共享
+# <a name="screen-sharing-with-skype-consumer-users"></a>与使用者用户Skype屏幕共享
 
-有关如何共享你的计划的一般说明、了解共享限制以及进行资源疑难解答，请参阅在 Skype for Business 中共享 [你的屏幕](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)。  
+有关如何共享程序的一般说明、有关共享限制的信息以及资源疑难解答，请参阅在 Skype for Business 中[共享你的Skype for Business。](https://support.microsoft.com/office/share-and-present-content-from-skype-meetings-app-skype-for-business-web-app-234b0c06-a88d-4707-904c-4fd6c571fc01)  
 
-目前，Skype for Business 用户无法屏蔽与 Skype 消费者用户共享。 请单击此处 [，](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users) 提供有关启用与 Skype 消费者用户屏幕共享的反馈。 
+目前Skype for Business用户无法屏蔽与使用者Skype共享。 请单击此处[，](https://www.skypefeedback.com/forums/299913-generally-available/suggestions/12335259-enable-screen-sharing-to-consumer-skype-users)提供有关启用与消费者用户共享的屏幕Skype反馈。 

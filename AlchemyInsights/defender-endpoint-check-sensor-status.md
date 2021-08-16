@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: a53a0109c3b974806d04135dd2c102de81ec560f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: 4943287fe010aacc456670105761b0e8e6b4269ce24086bc5000c9ccc916c8f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52627227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994207"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender Endpoint 检查传感器状态
 
@@ -35,7 +35,7 @@ ms.locfileid: "52627227"
 - **配置错误** 设备，这些设备可能将部分传感器数据报告给 Defender for Endpoint 服务，但存在需要更正的配置错误。 配置错误的设备可能具有下列问题之一或多个问题组合：
 
     - 没有传感器数据 - 设备已停止发送传感器数据。 设备可能会触发有限的警报。
-    - 受损的通信 - 与设备通信的能力受损。 发送文件进行深度分析、阻止文件、从网络隔离设备以及其他需要与设备通信的操作可能工作不正常。
+    - 受损的通信 - 与设备通信的能力受损。发送文件进行深度分析、阻止文件、将设备与网络隔离以及其他需要与设备通信的操作可能无法正常进行。
 - **非活动** 设备，这些设备已停止向 Defender for Endpoint 服务报告。
 
 可以使用导出功能下载 CSV 格式的整个列表。
