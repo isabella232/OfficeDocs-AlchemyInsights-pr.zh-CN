@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015610"
 ---
 # <a name="how-to-disable-external-groups"></a>如何禁用外部组
 
-Yammer external 消息类将 Exchange 传输规则应用 (Etr) ，这是一组用于防止公司信息被共享的主动控制。 为了限制用户创建外部组，您需要将 Exchange 传输规则配置 (ETR) ，然后将 Yammer 配置为使用 Exchange 传输规则来阻止外部邮件。
+Yammer传输规则Exchange传输规则 (ETR) ，这是一组防止共享公司信息的主动控制措施。 为了限制用户创建外部组，您需要配置 Exchange 传输规则 (ETR) ，然后将 Yammer 配置为使用 Exchange 传输规则阻止外部邮件。
   
-在 Exchange Online 管理中心中创建规则后，请按照以下步骤设置 ETR 以在 Yammer 中应用：
+在管理中心内创建规则Exchange Online，请按照以下步骤将 ETR 设置为应用于Yammer：
   
-- 以经验证的管理员身份登录到 Yammer，并在 **Yammer 管理中心**中，转到 "C **Content And security \> security Settings"。**
+- 以已Yammer管理员的身份登录，在 Yammer 管理中心中，转到"C 内容和安全 **\> 设置"。**
 
-- 在 " **外部邮件**" 下，选择 "在 **Yammer 中 (Etr) 强制实施 Exchange Online exchange 传输规则"。**
+- 在 **"外部消息"** 下，选择"Exchange Online Exchange **中的 (传输规则) ETR Yammer。**
 
 - 选择“**保存**”。
 
-有关详细信息，请参阅在 [Yammer 网络中禁用外部消息](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
+有关详细信息，请参阅在网络[网络中禁用Yammer消息](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
   

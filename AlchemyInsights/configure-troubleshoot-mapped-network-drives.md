@@ -1,5 +1,5 @@
 ---
-title: 如何配置映射的网络驱动器并对其进行疑难解答
+title: 如何配置映射的网络驱动器并排除故障
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,15 +14,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: 604340aadadaa2f268dd72320a8c5efcb9abe984
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1e9d007024fa3edce359123425df2b8209a5e131162832a16c651ff3fd6b5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48278404"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044438"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>如何配置映射的网络驱动器并对其进行疑难解答
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>如何配置映射的网络驱动器并排除故障
 
-将库映射为网络驱动器是临时的，并且仅支持通过 Internet Explorer 实现。 而是 [使用新的 OneDrive 同步客户端同步 SharePoint 文件](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) ，该客户端 [根据需要提供文件](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)。 无需本地存储空间即可访问所有 OneDrive 中的文件。
+将库映射为网络驱动器是临时的，并且仅支持通过 Internet Explorer 实现。 相反[，SharePoint新](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88)客户端同步OneDrive 同步文件[随需要客户端](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)。 无需本地存储空间即可访问所有 OneDrive 中的文件。
 
 * [对连接到 SharePoint Online 的映射的网络驱动器进行故障排除](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
