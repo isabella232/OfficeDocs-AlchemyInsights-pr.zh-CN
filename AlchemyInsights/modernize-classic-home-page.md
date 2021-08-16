@@ -1,5 +1,5 @@
 ---
-title: 现代化的经典主页
+title: 现代化经典主页
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026068"
 ---
-# <a name="modernize-the-classic-home-page"></a>现代化的经典主页
+# <a name="modernize-the-classic-home-page"></a>现代化经典主页
 
-经典 SharePoint 团队网站主页的最新更新将影响经典团队网站的主页 (STS # 0) 当主页 *仅包含现成的默认 web 部件* （如入门、文档库和新闻源）时。
+当主页仅包含开箱即用的默认 *Web* 部件（如入门、文档库和新闻源）时，对经典 SharePoint 团队网站主页的最新更新会影响经典团队网站 (STS#0) 的主页。
 
-在 [此处](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)查看更改的指导。 
+在此处查看更改 [的演练](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)。 
 
-**注意：包含自定义内容的经典工作组网站不会自动更新。**
+**注意：包含自定义内容的经典团队网站不会自动更新。**
 
-* 了解有关在 [经典主页现代化](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)的更新条件的详细信息。
+* 在经典主页现代化 中了解有关 [更新条件的信息](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)。
 
-* [升级不属于自动现代化的其他主页](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)。
+* [升级不是自动现代化功能一部分的其他主页](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)。
 
-* 使用 SharePoint 模式和做法在特定网站上禁用此升级 [ (PnP) PowerShell cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)。
+* 使用 PnP SharePoint [PowerShell cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)禁用 (特定) 升级。

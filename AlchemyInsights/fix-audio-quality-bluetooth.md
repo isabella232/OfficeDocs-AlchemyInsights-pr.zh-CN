@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11508"
 - "9005365"
-ms.openlocfilehash: 20627d950af44b799a23a6d1f177f71cca7f275b
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: 04073a0adbd9ce47e36bb59c7363c5e11a04cede5e339e1876eb6aa374b3762c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068838"
 ---
 # <a name="fix-the-audio-quality-of-my-bluetooth-device"></a>修复蓝牙设备的音频质量
 
@@ -26,7 +26,7 @@ ms.locfileid: "52721668"
 
 - 确保通过蓝牙设备播放音频。 选择 **开始** 按钮，然后选择 **设置** > **系统** > **声音**。 在 **选择输出选择**，选择蓝牙音频设备。
 
-- 暂停可能使用蓝牙的其他内容，例如通过蓝牙共享文件。 有关详细信息，请参阅 [修复 Windows 10 中的声音问题](https://support.microsoft.com/zh-CN/help/4026994)。
+- 暂停可能使用蓝牙的其他内容，例如通过蓝牙共享文件。 有关详细信息，请参阅 [修复 Windows 10 中的声音问题](https://support.microsoft.com/en-us/help/4026994)。
 
 - 已选中验证确保蓝牙设备的最佳音频质量：
     1. 在任务栏右侧，选择 **音量** 然后选择 V 形图标以选择播放设备。

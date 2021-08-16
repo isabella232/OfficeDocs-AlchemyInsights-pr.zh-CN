@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9799"
 - "9005399"
-ms.openlocfilehash: 31ec4f543d6b6bd0ae7e88911b6c3de4e46206b0
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: a24840cdc823eb3c9a52fcb02839310c15a96dc4026bb43169683db3c80a7be0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099747"
 ---
 # <a name="need-help-with-my-wi-fi-password"></a>需要帮助解决Wi-Fi密码问题
 
@@ -38,7 +38,7 @@ ms.locfileid: "50897600"
 
 遗憾的是，如果你当前未使用该 Wi-Fi 网络，则不能查找 Wi-Fi 密码。 有关路由器的更多帮助，请与路由器制造商联系或访问他们的支持网站。
 
-如果路由器是新的，可能会发现 Wi-Fi 名称和密码列在路由器上或路由器的原始盒子上。 凭据显示为：
+如果路由器是新的，可能会发现 Wi-Fi 名称和密码列在路由器上或路由器的原始盒子上。凭据显示为：
 
 网络 SSID：XXXXXXX 网络密钥：XXXXXXXX
 
