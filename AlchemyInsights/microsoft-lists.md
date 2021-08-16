@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: c1e2e6edaa3df301da0a7f5acb4197a5221bc5058e5c8158001e1f97692bcba4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098016"
 ---
 # <a name="microsoft-lists"></a>Microsoft 列表
 
@@ -26,7 +26,7 @@ Microsoft 正在启动 Microsoft 列表的第一阶段，它是一个 Microsoft 
   
 现在，任何拥有 SharePoint 许可证的用户都可以使用该功能，并且可以从“应用启动器”访问列表图标。
 
-作为 Microsoft 365 中的全局管理员或 SharePoint 管理员，您可以控制 Microsoft 列表的设置。 可执行下列操作：
+作为 Microsoft 365 中的全局管理员或 SharePoint 管理员，你可以控制 Microsoft Lists 的设置。你可以：
 
 - 禁止创建个人列表（禁止用户将新列表保存到“我的列表”）。
 - 禁用与组织无关的内置列表模板。
