@@ -13,16 +13,16 @@ ms.collection: Adm_O364
 ms.custom:
 - "9004219"
 - "10871"
-ms.openlocfilehash: 1e55d9d579c389dfe731f887a2a08c6234de2787
-ms.sourcegitcommit: 254b25150fa326628084d08479b0e7dd8b7d479a
+ms.openlocfilehash: 398496448089d4480119a2eb21221dc11f13c6c1f3bcbd931d6c18033f2e734e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51590265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987529"
 ---
 # <a name="identify-windows-virtual-desktop-issues"></a>识别 Windows 虚拟桌面问题
 
-Windows 虚拟桌面诊断仅使用一个 PowerShell cmdlet，但包含许多可选参数，可帮助缩小和隔离问题。 首先，请执行以下操作： 
+Windows 虚拟桌面诊断仅使用一个 PowerShell cmdlet，但包含许多可选参数，可帮助缩小和隔离问题。若要开始，请执行以下操作： 
 
 1. 下载并导入 Windows Virtual Desktop PowerShell 模块。 有关详细信息，请参阅 [用于 Windows PowerShell 的 Windows Virtual Desktop cmdlet](https://docs.microsoft.com/powershell/windows-virtual-desktop/overview)。
 

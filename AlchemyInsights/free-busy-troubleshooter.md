@@ -1,5 +1,5 @@
 ---
-title: 607闲/忙疑难解答
+title: 607 忙/闲疑难解答程序
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987673"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a> (闲/忙) 的日历可用性的故障排除步骤
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>日历可用性疑难解答步骤 (忙/闲) 
 
-通常，解决忙/闲问题的最佳工具是 [Exchange 远程连接分析器 (RCA) ](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) ，以查看其故障发生的位置。 RCA 将详细记录已运行的内容和失败的特定错误消息，您可以查找这些解决方案。 它还包含指向 [Microsoft 支持和恢复助手](https://diagnostics.office.com/)的链接。
+通常，解决忙/闲问题的最佳工具是 Exchange [RCA](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) (RCA) 查看故障位置。 RCA 将提供有关有效操作以及特定错误消息失败的详细记录，您可以查找这些错误消息以查找解决方案。 它还具有指向 Microsoft 支持和恢复助手[的链接](https://diagnostics.office.com/)。
 
-另一个有用的工具是，如果用户具有 Outlook， [outlook 的日历检查工具适用于 outlook](https://www.microsoft.com/download/details.aspx?id=28786) 。
+另一个适合尝试的工具是日历检查工具[Outlook（](https://www.microsoft.com/download/details.aspx?id=28786)如果用户已Outlook）。

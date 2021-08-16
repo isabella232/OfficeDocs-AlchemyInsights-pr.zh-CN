@@ -14,15 +14,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: ef2ed382c187e899bf20295a7aa9fe0b8f619a75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 820730e9a1cf52e979818f52045b5dfc4ff2fc8e6f43adf695182ff5d148f4b3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984523"
 ---
-# <a name="change-your-email-address"></a>更改您的电子邮件地址
+# <a name="change-your-email-address"></a>更改电子邮件地址
 
-若要更改 Outlook.com 电子邮件地址，您需要添加另一个电子邮件地址，并使其成为您的主电子邮件别名。
+若要更改 Outlook.com 电子邮件地址，需要添加另一个地址，并作为主电子邮件别名。
   
-按照在 [Outlook.com 中添加或删除电子邮件别名](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)中的说明进行操作。
+按照在[Outlook.com 中添加或删除电子邮件别名中的说明操作](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)。

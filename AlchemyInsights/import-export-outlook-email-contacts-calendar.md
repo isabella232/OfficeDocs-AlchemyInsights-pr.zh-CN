@@ -1,5 +1,5 @@
 ---
-title: 1221-导入-导出-outlook-电子邮件-联系人-日历
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987349"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>导入和导出 Outlook 电子邮件、联系人和日历项目
 
@@ -29,6 +29,6 @@ ms.locfileid: "47778933"
 
     这将启动“导入和导出向导”。
 
-有关 Outlook 的一组完整的导入和导出说明，请参阅  [本文](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)。
+有关适用于此内容的完整导入和导出Outlook，请参阅[本文](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef)。
 
-如果你是管理员，并且想要将多个 PST 文件批量导入到 Microsoft 365 邮箱，请参阅 [本文](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)。
+如果你是管理员，并且想要将多个 PST 文件批量导入到Microsoft 365邮箱，请参阅[本文](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)。
