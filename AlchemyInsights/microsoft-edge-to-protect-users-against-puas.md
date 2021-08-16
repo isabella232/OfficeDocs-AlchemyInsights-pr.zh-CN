@@ -1,5 +1,5 @@
 ---
-title: 使用 Microsoft Edge 保护用户免受 PUA 攻击
+title: 使用Microsoft Edge保护用户免受 PUA
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49652118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000490"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>使用 Microsoft Edge 保护用户免受 PUA 攻击
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>使用Microsoft Edge保护用户免受 PUA
 
-Microsoft Edge 版本 80.0.361.50 及更高版本阻止下载可能不需要的应用程序 (PUA) URL。 若要启用此功能，请执行下列操作：
+Microsoft Edge版本 80.0.361.50 及更高版本阻止下载可能不需要的应用程序 (PUA) URL。 若要启用此功能，请执行下列操作：
 
-1. 转到 **浏览器中**  >  **的设置隐私** 和服务。
+1. 转到 **设置**  >  **隐私和服务**"。
 
-2. 向下滚动到" **服务** "部分，并确保 **Microsoft Defender SmartScreen** 和 **阻止可能不需要的应用** 已打开。
+2. 向下滚动到"**服务"** 部分，并确保 **"Microsoft Defender SmartScreen****阻止可能不需要的应用**"已打开。
 
-    下次 Microsoft Defender SmartScreen 检测到 PUA 时，它将阻止它并相应地通知你。
+    下次Microsoft Defender SmartScreen PUA 时，它将阻止它并通知你。
 
     若要了解更多信息，[请参阅如何阻止与 PUA 关联的 URL。](https://go.microsoft.com/fwlink/?linkid=2133024)

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 611a4df473458abc0ab0c65442f2141763f7b868
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5f881ad72d2a0f76c8659d6b1044bf6a18464fa8d65c079e44eb1a2afd4431
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065382"
 ---
 # <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>在 Outlook 中添加加载项时，多个用户收到“拒绝访问”错误
 
-可以指定组织中的哪些管理员有权安装和管理适用于 Outlook 的加载项。 还可以指定组织中的哪些用户有权安装和管理供其自己使用的加载项。
+你可以指定组织中的哪些管理员有权安装和管理适用于 Outlook 的加载项。也可以指定组织中的哪些用户有权安装和管理其自用的加载项。
 
 有关详细信息，请参阅[指定可安装和管理 Outlook 加载项的管理员和用户](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)。
 
