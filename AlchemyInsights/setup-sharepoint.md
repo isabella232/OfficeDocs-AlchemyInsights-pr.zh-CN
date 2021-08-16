@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023440"
 ---
 # <a name="set-up-sharepoint"></a>设置 SharePoint
 
-[SharePoint 安装指南](https://go.microsoft.com/fwlink/?linkid=2071425)可帮助您设置 SharePoint 文档存储和内容管理、创建网站、配置外部共享、迁移数据和配置高级设置，并推动组织中的用户接洽和通信。
+SharePoint[设置](https://go.microsoft.com/fwlink/?linkid=2071425)指南可帮助你设置 SharePoint 文档存储和内容管理、创建网站、配置外部共享、迁移数据和配置高级设置，以及推动组织内部的用户参与和通信。
 
-您将按照以下步骤操作，以配置内容共享权限策略、选择迁移同步工具以及为您的 SharePoint 环境启用安全设置。
+您将按照配置内容共享权限策略的步骤操作，选择迁移同步工具，以及为您的 SharePoint 环境启用安全设置。

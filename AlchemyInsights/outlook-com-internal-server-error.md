@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024520"
 ---
 # <a name="internal-server-errors-in-outlookcom"></a>Outlook.com 中的内部服务器错误
 
-哦不！ 如果您看到 "错误 500" 或 "内部服务器错误" 消息，则表示它是我们，而不是你-抱歉。
+哦不！ 如果看到"错误 500"或"内部服务器错误"消息，请告诉我们而不是您-对此表示抱歉。
 
-签出 " [Office 服务状态" 页](https://portal.office.com/servicestatus) 以确保不会发生任何其他操作，但最好的解决方案是在几分钟内休息一下，然后按 **CTRL** 和 **F5**刷新浏览器。
+请查看"Office [](https://portal.office.com/servicestatus)服务状态"页以确保没有任何其他内容，但最佳解决方案是休息几分钟，然后按 **Ctrl** 和 **F5** 刷新浏览器。

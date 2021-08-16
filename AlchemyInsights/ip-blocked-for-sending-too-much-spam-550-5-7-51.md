@@ -1,5 +1,5 @@
 ---
-title: '1264 IP 被阻止发送太多垃圾邮件 (550 5.7.51) '
+title: '1264 IP 被阻止发送过多垃圾邮件 (550 5.7.51) '
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099240"
 ---
-# <a name="access-denied-banned-sender"></a>拒绝访问，禁止发件人
+# <a name="access-denied-banned-sender"></a>访问被拒绝，已禁止发件人
 
- **错误**：来自远程服务器的 SMTP 错误，来自 RCPT to command， *host： com.mail.protection.outlook.com* (*xxx.xxx.xxx.xxx*) reason： 550 5.7.511 拒绝访问，禁止发件人 [*xx.xxx.x.xxx*]。 
+ **错误**：来自远程服务器的 SMTP 错误，用于 RCPT TO 命令，主机 *：xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) 原因：550 5.7.511 访问被拒绝，已禁止发件人 [*xx.xxx.x.xxx*]。 
 
-如果您在向 Microsoft 365 收件人发送电子邮件时收到此错误，请从阻止的发件人列表中删除受影响的帐户 [https://sender.office.com](https://sender.office.com) 。
+如果在向某个收件人发送电子邮件时收到此错误Microsoft 365，请从 的阻止的发件人列表中删除受影响的帐户 [https://sender.office.com](https://sender.office.com) 。
