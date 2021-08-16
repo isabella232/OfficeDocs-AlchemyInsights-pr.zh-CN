@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051764"
 ---
 # <a name="set-up-one-monitor"></a>设置一个监视器
 
 **检查电脑的项目设置**
 
-1. 通过同时按以下键打开项目设置：Windows 键 (Windows 徽标"开始") + P。
+1. 通过同时按以下键打开项目设置：Windows键 (Windows徽标"开始") + P。
 2. 选择 **"仅复制****、扩展**"或"**仅第二个屏幕"，** 具体取决于你的首选项。
 
 **注意：** 如果你的电脑只有一个显示端口 (如 HDMI 或 VGA) ，则需要一个扩展坞或 USB 适配器来设置多个监视器。
