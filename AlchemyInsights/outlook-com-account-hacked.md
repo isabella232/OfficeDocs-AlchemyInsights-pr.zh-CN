@@ -1,5 +1,5 @@
 ---
-title: 8000039 Outlook.com 帐户的攻击
+title: 8000039 Outlook.com 帐户被黑客攻击
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "773"
 - "8000039"
 ms.assetid: e1930bba-edf7-47cb-b81e-f60d8a2535a8
-ms.openlocfilehash: b7f72921e6eddddff0fa9e95dd28006a50780c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17129583b48db457d8cec814b8fde19888a720e4878ba35d60088e381d63927c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096540"
 ---
-# <a name="outlookcom-account-hacked"></a>Outlook.com 帐户的攻击
+# <a name="outlookcom-account-hacked"></a>Outlook.com 帐户被黑客攻击
 
-如果你的帐户受到攻击，请按照我的 [Outlook.com 帐户](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy) 中的说明受到攻击，以恢复你的帐户。
+如果你的帐户已被黑客攻击，请按照[My Outlook.com 帐户中](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)的说明进行黑客攻击，以恢复你的帐户。
   
-了解有关 [Microsoft 365 订阅者的高级 Outlook.com 安全性的](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)详细信息。
+详细了解适用于订阅[者的高级 Outlook.com Microsoft 365。](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)
   
