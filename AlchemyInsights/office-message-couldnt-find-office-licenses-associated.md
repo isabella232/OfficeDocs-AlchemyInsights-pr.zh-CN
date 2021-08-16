@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064917"
 ---
 # <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 应用消息 - 不能找到关联的 Office 许可证
 
@@ -37,7 +37,7 @@ ms.locfileid: "51836197"
 
 如果问题仍然存在，请尝试以下步骤：
 
-- 重置 Office 激活状态。 参见[重置 Microsoft 365 企业版应用激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
+- 重置 Office 激活状态。请参阅[重置 Microsoft 365 企业应用版的激活状态](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state)。
 
 - 检查防火墙、防病毒软件和代理设置，确认它们不会阻止 Microsoft 365 应用访问 Internet。 
 

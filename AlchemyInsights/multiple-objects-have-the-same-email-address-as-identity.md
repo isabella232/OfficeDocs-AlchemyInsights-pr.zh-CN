@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724605"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011902"
 ---
 # <a name="multiple-objects-have-the-same-email-address-as-identity"></a>多个对象的电子邮件地址与标识相同
 
 **多个对象**
 
-发生此错误的常见原因之一是，如果有多个对象的电子邮件地址与标识相同，则无法正确路由 Outlook Web Access 请求。 若要查找这些对象，请运行以下命令：
+发生此错误的常见原因之一是，如果有多个对象以同一电子邮件地址作为标识，则无法正确路由 Outlook Web Access 请求。要查找这些对象，请运行以下命令：
 
 · Get-Recipient <email address>
 

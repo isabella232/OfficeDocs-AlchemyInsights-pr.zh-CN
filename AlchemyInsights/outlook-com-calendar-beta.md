@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064554"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>新的日历经验即将 Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Outlook.com 即将提供的新日历体验
 
-新的外观使从邮件体验到日历的最佳设计和学习。
+新外观将最佳设计和学习从邮件体验引入日历。
 
-你将享受新式设计，以减少视觉杂乱，并为你提供更快的浏览日历的方法。 此外，从电视节目到体育团队和活动，查找你喜欢的活动的有趣的日历也更容易。
+您将享受新式设计，可减少视觉混乱，并更快地导航日历。 还可以更轻松地查找你最喜爱的活动（从电视节目到运动队和活动）的有趣日历。
 
-我们扩展了事件图标的集合，并更新了现有的外观，现在我们可以自动将相关的图标添加到您的活动中，以便您可以轻松地查看进展情况。
+我们扩展了事件图标集合并更新了现有图标的外观，现在自动将相关图标添加到你的事件，以便你可以轻松一目了然地查看所发生事件。
 
-您可以通过 [Outlook.com 日历 UserVoice 频道](https://go.microsoft.com/fwlink/?linkid=2103075)提供有关新功能的反馈。
+可以通过[Outlook.com 日历 UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075)频道提供有关新功能的反馈。
