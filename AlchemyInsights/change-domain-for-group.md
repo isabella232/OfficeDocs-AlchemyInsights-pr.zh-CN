@@ -1,5 +1,5 @@
 ---
-title: 更改 Microsoft 365 组的域
+title: 更改组Microsoft 365域
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071034"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>更改 Microsoft 365 组的域
+# <a name="change-the-domain-for-microsoft-365-group"></a>更改组Microsoft 365域
 
-如果要在创建期间更改 Microsoft 365 组的域，请按照选择创建 [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)组时使用的域中的步骤操作。
+如果要在创建期间更改 Microsoft 365 组的域，请按照选择创建组时使用的域[Microsoft 365步骤。](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
   
-创建 Microsoft 365 组后，当前无法更改域。 唯一的方法就是创建新的 Microsoft 365 组，并在必要时删除旧组 (可以通过 [Exchange](https://outlook.office365.com/ecp.aspx) 管理中心邮箱添加其他) 。
+创建Microsoft 365组后，当前无法更改域。 唯一的方法就是新建一Microsoft 365组，并在必要时删除旧组 (可以通过管理中心邮箱添加Exchange[电子邮件地址](https://outlook.office365.com/ecp.aspx)) 。

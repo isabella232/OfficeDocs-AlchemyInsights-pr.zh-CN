@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814578"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101292"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>无法安装或运行电子数据展示导出工具？
 
@@ -44,7 +44,7 @@ ms.locfileid: "51814578"
 
 - 你的组织可以连接到 Azure 中的终结点，即 **\* .blob.core.windows.net (** 通配符表示导出作业应用程序的唯一) 。
 
-- 在 Microsoft 365 安全与合规中心内分配了"导出 &amp; "角色。 默认情况下，仅向电子数据展示管理员角色组分配此角色。 请参阅 [分配电子数据展示权限](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)。
+- 在安全与合规中心内，Microsoft 365 &amp; 导出角色。 默认情况下，仅向电子数据展示管理员角色组分配此角色。 请参阅 [分配电子数据展示权限](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)。
 
 有关详细信息，请参阅导出 [内容搜索结果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
 

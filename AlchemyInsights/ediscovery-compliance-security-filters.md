@@ -1,5 +1,5 @@
 ---
-title: 内容搜索/导出期间未返回任何结果
+title: 在内容搜索/导出期间未返回任何结果
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727213"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101256"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>内容搜索/导出期间未返回任何结果
+# <a name="no-results-returned-during-content-searchexport"></a>在内容搜索/导出期间未返回任何结果
 
 如果遇到以下电子数据展示方案的问题：
 
-- 内容搜索/导出不会返回任何数据或意外数据
+- 内容搜索/导出不返回任何数据或意外数据
 - 电子数据展示搜索或导出失败
 
-这可能是由于某些合规性安全筛选器由特定管理员设置，未传达给所有管理员。
+这可能是由于特定管理员设置且未传达给所有管理员的某些合规性安全筛选器。
 
 若要解决此问题，请检查是否有可能导致这些问题的合规性安全筛选器：
 
-1. 连接到安全与合规中心 Powershell
+1. 连接安全与合规中心 Powershell
 2. 运行以下命令let：
 
     `$org = “yourdomain.com”`
