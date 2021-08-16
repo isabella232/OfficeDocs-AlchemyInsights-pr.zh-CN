@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 4e753ec1c6cf8a6512150ccd8c5e881fe7c11704ff21ca15685a505a8f106da2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403625"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995387"
 ---
 # <a name="about-built-in-alerts"></a>关于内置警报
 
-Microsoft 365 包含一些内置的警报，用于保护你的系统。 以下是有关这些帐户的一些信息：
+Microsoft 365一些内置警报来保护系统。 以下是有关这些帐户的一些信息：
 
 - 内置警报是发送到全局管理员的电子邮件 *，Office365Alerts@microsoft.com。* 主题行是低严重性警报 <name of alert policy> ：。
 - 当有人进行可疑操作时，会发送这些警报电子邮件。 例如，会创建转发或重定向电子邮件的收件箱规则，向邮箱授予权限，从 SharePoint 中批量共享或删除文件，或者存在电子数据展示活动或电子邮件延迟。
