@@ -14,12 +14,12 @@ ms.custom:
 - "5508"
 - "9000127"
 - "5507"
-ms.openlocfilehash: 5be1ac4c8a4044adbc7d37c32ba7b3cb67c6cc25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f72d6ce6931b39d5d4a4835cee0ed2952407b13187213cca5bd483acb1e192bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077642"
 ---
 # <a name="mc210173---sharepoint-designer-new-custom-form-feature-deprecation"></a>MC210173 - SharePoint Designer 新自定义窗体功能弃用
 
@@ -29,6 +29,6 @@ ms.locfileid: "51831796"
 
 以前曾利用 SharePoint Designer 创建自定义窗体的用户可以使用 [PowerApps](https://docs.microsoft.com/powerapps/maker/canvas-apps/customize-list-form) 来实现此目的。
 
-PowerApps 是一款简单而强大的工具，它使用户可以在 SharePoint Online Modern 体验中操作，直接从浏览器窗口创建和编辑 SharePoint 列表和文档库的自定义窗体。 PowerApps 不需要传统编码知识或下载任何其他应用（如 InfoPath）。
+PowerApps 是一款简单而强大的工具，它使用户可以在 SharePoint Online Modern 体验中进行操作，从而直接从浏览器窗口创建和编辑 SharePoint 列表和文档库的自定义窗体。PowerApps 不需要传统编码知识或下载任何其他应用（如 InfoPath）。
 
 **注意**：SharePoint Online Classic 用户需要暂时切换到 Modern 体验以便访问和使用 PowerApps；但是，SharePoint Online Classic 体验用户可以访问在 PowerApps 中创建的所有自定义窗体。

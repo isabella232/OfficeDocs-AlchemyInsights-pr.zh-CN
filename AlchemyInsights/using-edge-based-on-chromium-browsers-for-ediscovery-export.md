@@ -1,5 +1,5 @@
 ---
-title: 使用基于 Chromium 浏览器的 Microsoft Edge 进行 Ediscovery 导出
+title: 使用Microsoft Edge Ediscovery Chromium的浏览器
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a583896b5aa8e73be5e932a729c380acc8092e73b2151647c999f9a7b69669b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998376"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>使用基于 Chromium 浏览器的 Microsoft Edge 进行 Ediscovery 导出
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>使用Microsoft Edge Ediscovery Chromium的浏览器
 
-由于最近的更改，默认情况下，Microsoft Edge ClickOnce不再启用支持。 若要继续使用 Microsoft 365 电子数据展示导出工具，你将需要使用 Microsoft Internet Explorer或在 Microsoft Edge ClickOnce支持。 
+由于最近的更改，Microsoft Edge浏览器将不再ClickOnce启用支持。 若要继续使用 Microsoft 365 电子数据展示导出工具，你将需要使用 Microsoft Internet Explorer 或在 Microsoft Edge 中启用 ClickOnce 支持。 
 
-若要启用ClickOnce Chromium 在 Microsoft Edge 中启用支持： 
-1. 在 Microsoft Edge 浏览器中，访问 edge://flags/#edge-click-once。
+若要在ClickOnce中启用Microsoft Edge支持，Chromium： 
+1. 在浏览器Microsoft Edge，请访问 edge://flags/#edge-click-once。
 2. 对于 ClickOnce 支持选项，将值从“**默认**”或“**已禁用**”更改为“**已启用**”。 
 3. 在浏览器窗口底部，选择"重新启动 **"。** <br>
- 更改将在重启 Microsoft Edge 后生效。 
+ 更改将在重启后生效Microsoft Edge。 
 
 有关这一点以及安装导出工具的步骤的信息，请参阅： [ 导出内容搜索结果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)。
