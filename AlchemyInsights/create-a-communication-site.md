@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069552"
 ---
 # <a name="create-a-communication-site"></a>创建通信网站
 
-若要在 SharePoint Online 中创建通信网站，请完成以下步骤： 
+若要在 SharePoint Online 创建通信网站，请完成以下步骤： 
   
-1. 在页面的左上角，单击应用启动器并选择 "SharePoint" 图块。 如果看不到 SharePoint 磁贴，请单击 " **网站** " 或 " **所有应用程序** " （如果 sharepoint 不可见）。 
+1. 在页面的左上角，单击应用启动器并选择SharePoint磁贴。 如果看不到"网站"磁贴，SharePoint"**站点**"或"所有SharePoint"。 
     
-2. 在 SharePoint 页面顶部，单击 " **创建网站** "，然后选择 " **通信网站**"。 按照 "网站创建向导" 中的步骤操作。 
+2. 在"网站"页面SharePoint，单击"**创建网站"，** 然后选择"**通信网站"。** 按照网站创建向导中的步骤操作。 
     
- **注意**：如果看不到 " **创建网站**" 选项，可能会禁用自助式网站创建。 请与组织中 Microsoft 365 的人员联系，以创建工作组网站。 如果你是租户管理员，请参阅 [在 SharePoint Online 中管理网站创建可为你的组织启用自助式网站创建。](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **注意**：如果看不到"创建网站"选项，自助式网站创建可能会禁用。 请与组织中管理Microsoft 365人员联系，以创建团队网站。 如果你是租户管理员，请参阅在 SharePoint Online 中管理网站创建，为组织启用[自助式网站创建。](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **注意：** 如果您尝试创建通信网站，并且 URL 是使用随机数字追加的，则在 SharePoint 环境中可能已存在具有相同 URL 的网站，或者该网站已删除且仍存在于 (回收站) 的已删除网站中。 使用 [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) 可评估回收站并 [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) 从回收站中删除网站。 
+ **注意：** 如果您尝试创建通信网站，并且 URL 被附加到随机数字，则可能是 SharePoint 环境中已存在或已删除且仍存在于已删除网站 (回收站) 中的同一 URL 的网站。 用于 [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) 评估回收站并从回收站 [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) 中删除网站。 
   
 

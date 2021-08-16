@@ -1,5 +1,5 @@
 ---
-title: 验证 Yammer 租户是否位于本机模式下
+title: 验证你的Yammer租户是否位于本机模式下
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 97deabc8abadac8d2f3e93de0b4a3f7feb0fb4d9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: de5e808de41463381972eacd3ce477bb34f7094fabc1b94e438964c350a78c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070242"
 ---
-# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>验证 Yammer 租户是否位于本机模式下
+# <a name="verify-your-yammer-tenant-is-in-native-mode"></a>验证你的Yammer租户是否位于本机模式下
 
-此为可选步骤。 在本机模式下，所有 Yammer 用户都使用 Azure Active Directory (Azure AD) ，所有组都是 Microsoft 365 组，所有文件都存储在 SharePoint Online 中。 Yammer 租户必须进入本机模式，才能启用通信合规性策略，以扫描和识别 Yammer 中私人消息和社区对话中的有风险对话。  
+此为可选步骤。 在本机模式下，Yammer用户都Azure Active Directory (Azure AD) ，所有组都是 Microsoft 365 组，所有文件都存储在 SharePoint Online 中。 你的Yammer租户必须已进入本机模式，才能启用通信合规性策略，以扫描和识别私人消息中的有风险对话以及 Yammer。  
   
-有关在本机模式下配置 Yammer 的信息，请参阅 [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129829) 中的 Yammer 本机模式概述和为 [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2129772)的本机模式配置 Yammer 网络。
+有关在本机模式下配置 Yammer 的信息，请参阅 Microsoft 365 中的[Yammer 本机](https://go.microsoft.com/fwlink/?linkid=2129829)模式概述和为 Microsoft 365 的本机模式配置 Yammer[网络](https://go.microsoft.com/fwlink/?linkid=2129772)。
