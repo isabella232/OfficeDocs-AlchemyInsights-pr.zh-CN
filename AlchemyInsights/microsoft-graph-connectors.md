@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027292"
 ---
 # <a name="microsoft-graph-connectors"></a>Microsoft Graph 连接器
 
@@ -27,4 +27,4 @@ ms.locfileid: "47724893"
 - [由 Microsoft 提供的连接器](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
 - [由合作伙伴提供的连接器](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-有关详细信息，请参阅  [Microsoft Graph 连接器概述](https://docs.microsoft.com/microsoftsearch/connectors-overview)。
+有关详细信息，请参阅[Microsoft Graph 连接器概述](https://docs.microsoft.com/microsoftsearch/connectors-overview)。

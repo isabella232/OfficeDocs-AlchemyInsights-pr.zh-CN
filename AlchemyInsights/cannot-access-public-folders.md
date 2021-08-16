@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996620"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook 无法连接到公用文件夹
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook无法连接到公用文件夹
 
 如果公用文件夹访问对一些用户没有用，请尝试以下操作：
 
-连接到 EXO PowerShell，并针对问题用户帐户配置 DefaultPublicFolderMailbox 参数，以匹配工作用户帐户上的参数。
+连接 EXO PowerShell，并针对问题用户帐户配置 DefaultPublicFolderMailbox 参数，以匹配工作用户帐户上的参数。
 
 示例：
 
@@ -33,9 +33,9 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 等待至少一小时，更改生效。
 
-如果问题仍然存在， [请按照此过程使用](https://aka.ms/pfcte) Outlook 解决公用文件夹访问问题。
+如果问题仍然存在，请按照此过程[使用](https://aka.ms/pfcte)Outlook 解决公用文件夹访问Outlook。
  
-**若要控制哪些用户可以使用 Outlook 访问公用文件夹**：
+**若要控制哪些用户可以使用 Outlook：**
 
 1.  使用 Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true 或 $false  
       
@@ -45,6 +45,6 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**注意** 此过程只能控制与适用于 Windows 客户端的 Outlook 桌面的连接。 用户可以继续使用 OWA 或 Outlook for Mac 访问公用文件夹。
+**注意** 此过程只能控制与客户端Outlook桌面Windows连接。 用户可以继续使用 OWA 或 Outlook for Mac。
  
-有关详细信息，请参阅 [宣布支持受控连接到 Outlook 中的公用文件夹](https://aka.ms/controlpf)。
+有关详细信息，请参阅宣布支持受控连接到公用文件夹[Outlook。](https://aka.ms/controlpf)

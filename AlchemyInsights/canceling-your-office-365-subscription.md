@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996584"
 ---
 # <a name="canceling-your-subscription"></a>取消订阅？
 
 我们抱歉地看到您去，但是如果您想要取消订阅，以下是您的选项：
   
 - 如果你分配的许可证少于 25 个，可以在线取消订阅。 转到" **计费** \> **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页，并找到要取消的订阅。 选择三个点（更多操作），然后选择“**取消订阅**”。
-- 如果分配给用户的许可证超过 25 个，请致电支持人员 [取消订阅](https://go.microsoft.com/fwlink/p/?linkid=518322)。
+- 如果分配给用户的许可证超过 25 个，请将其减少为小于 25 个，以取消订阅或致电 [支持人员取消订阅](/microsoft-365/business-video/get-help-support)。
   
 **退款：任何按比例计算退款将在下一个计费周期内退回给你。**
 

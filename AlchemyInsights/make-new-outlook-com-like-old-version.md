@@ -1,5 +1,5 @@
 ---
-title: 如何使新的 Outlook.com 看起来像旧的
+title: 如何使新的 Outlook.com 看起来像旧网站
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067074"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>如何使新的 Outlook.com 看起来像旧版本
 
-下面是您可以更改的一些设置，使新的 Outlook.com 看起来像旧版本：
+你可以更改以下一些设置，使新的 Outlook.com 看起来像旧版本：
 
-1. 转到 " [布局设置](https://outlook.live.com/mail/options/mail/layout)"。
-1. 在 **"重点收件箱**" 下，选择 **不排序我的邮件**。
-1. 在 " **邮件组织**" 下，选择 **"最新邮件在顶部**"。
-1. 在 "**发件人图像**" 下，选择 "**不显示发件人图像**
-1. 在 **阅读窗格**中，选择 " **隐藏阅读窗格**"。
-1. 在 " **邮件预览文本**" 下，选择 " **显示预览文本**"。
-1. 在 " **内联预览**" 下，选择 " **不在邮件列表中显示附件**"。
+1. 转到布局 [设置](https://outlook.live.com/mail/options/mail/layout)。
+1. 在 **"重点收件箱**"下 **，选择"不对邮件进行排序"。**
+1. 在 **"邮件组织"** 下，**选择顶部的"最新邮件"。**
+1. 在 **"发件人图像**"下 **，选择"不显示发件人图像"。**
+1. 在 **"阅读窗格"** 下，选择 **"隐藏阅读窗格"。**
+1. 在 **"邮件预览文本"下**，选择 **"显示预览文本"。**
+1. 在 **"内联预览"** 下 **，选择"在邮件列表中不显示附件"。**
 
-若要更改您的邮件设置使您的收件箱的外观和行为符合您的要求，请参阅 [在 Outlook.com 中更改邮箱的外观和新的 Outlook 网页](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)。
+若要更改邮件设置，使收件箱的外观和行为方式与预期方式相同，请参阅在[Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)中更改邮箱的外观和Outlook 网页版。

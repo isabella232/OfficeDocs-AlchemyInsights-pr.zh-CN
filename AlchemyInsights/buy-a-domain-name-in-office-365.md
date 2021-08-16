@@ -11,12 +11,12 @@ ms.custom:
 - "9002245"
 - "4349"
 ms.assetid: ''
-ms.openlocfilehash: 342c700d40a119a0103893a6e51cfa61ece41ff9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6c7e3717ceb9690db6dc7dacbe7469a698d2ed128deb5843291687814ba302e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996728"
 ---
 # <a name="buy-a-domain-name-in-microsoft-365"></a>在 Microsoft 365 中购买域名
 
@@ -24,7 +24,7 @@ ms.locfileid: "47685012"
 
 - 将在包含由 Microsoft 管理的 DNS 记录的帐户中自动添加和配置域（无法更改 NS 记录）。
 
-- 可添加其他 DNS 记录来支持你的网站。  从[域](https://admin.microsoft.com/AdminPortal/Home#/Domains)中单击你的域，然后单击“DNS 管理”****。
+- 可添加其他 DNS 记录来支持你的网站。  从[域](https://admin.microsoft.com/AdminPortal/Home#/Domains)中单击你的域，然后单击“DNS 管理”。
 
 - 如果需要，可在域购买后 60 天内将域转移到其他注册机构。
 
