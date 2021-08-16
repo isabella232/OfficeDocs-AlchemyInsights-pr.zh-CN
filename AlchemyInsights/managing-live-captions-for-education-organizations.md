@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812753"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066678"
 ---
 # <a name="managing-live-captions-for-education-organizations"></a>管理教育版的实时字幕
 
-我们建议教育版的组织管理为了学生和教师的安全，以及教师，进而考虑使用策略包。 有关详细信息，请参阅：  
+建议教育机构的管理员考虑使用策略包来保障学生和教师的安全。有关详细信息，请参阅：  
 
 - [Microsoft Teams 中的策略包](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)。  
     

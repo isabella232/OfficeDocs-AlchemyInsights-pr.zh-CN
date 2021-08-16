@@ -1,5 +1,5 @@
 ---
-title: 租户之间的转移域
+title: 在租户之间传输域
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7305"
-ms.openlocfilehash: d696c9d095fb6b2b374d8c5872e94cc7e32dceb8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 942ca306951fdd8e971ea27da88af5601325185b7c169b4df3dfd9e43e1650c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560550"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048614"
 ---
-# <a name="transfer-domain-between-tenants"></a>租户之间的转移域
+# <a name="transfer-domain-between-tenants"></a>在租户之间传输域
 
-可以手动从一个租户中删除自定义域（如 forthcoffee.com），然后在新的租户中进行验证。
+可以从一个租户 forthcoffee.com 自定义域（如自定义域）然后在新租户中进行验证。
 
-按照以下步骤 [删除域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)。 然后在新租户中，转到 "**设置**  >  **域**" "  >  **添加域**"。
+按照以下步骤删除 [域](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)。 然后，在新租户中，转到 **设置**  >  **域**  >  **添加域"。**
 
-有关更复杂的方案，请参阅 [Microsoft 365 租户到租户迁移](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)。
+有关更复杂的方案，请参阅Microsoft 365[租户到租户的迁移](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations)。
 
 **另请注意**：
-- 无法在租户之间删除或移动初始 onmicrosoft.com 域。
-- 无法在租户之间移动从 Microsoft 购买的自定义域。
+- 无法删除 onmicrosoft.com 初始域，也不能在租户之间移动。
+- 从 Microsoft 购买的自定义域无法在租户之间移动。

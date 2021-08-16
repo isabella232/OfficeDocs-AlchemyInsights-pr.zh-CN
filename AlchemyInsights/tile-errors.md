@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 880002a3aba20d363e892a8adafcc9b469f9c748
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3d6bd0d9eb5cbb4ed35a19c453f255aba1c7de361278f113499364241c600675
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039488"
 ---
 # <a name="tile-errors"></a>磁贴错误
 
-- “加载模型时发生意外错误。” 请稍后重试。
+- “加载模型时发生意外错误。”请稍后重试。
 
-- “无权查看此磁贴。” 请联系仪表板所有者。
+- “无权查看此磁贴。”请与仪表板所有者联系。
 
-- “数据形状必须包含至少一组输出数据的组或计算。” 请联系仪表板所有者。
+- “数据形状必须包含至少一个输出数据的组或计算。”请与仪表板所有者联系。
 
 - “由于查询为空，因此没有任何数据可显示。” 尝试将字段列表中的某些字段添加到视觉对象，然后将其重新固定。
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: bdf94220de45d92f63e56501ea4e35389224d25c
-ms.sourcegitcommit: 475a9eaa095812091991857df6cf6490a8bbe179
+ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030748"
 ---
 # <a name="do-site-discovery"></a>进行站点发现
 
@@ -44,7 +44,7 @@ ms.locfileid: "50529192"
 收集站点数据后，我们建议采用以下 4 步过程来分析数据：
 1. 依次按域和 URL 对数据进行排序。
 2. 定义要为 Internet Explorer 模式配置的“应用”的边界。 您希望包含定义应用的所有网站和 Web 控件，但不想包含额外的网站和控件。 某些网站可能很简单，*https://contoso.com/app1* 而其他网站可能需要你定义多个网站和页面。
-3. 测试应用以验证它是否未在本机工作。 许多站点在检测到新式浏览器时将提供新式内容，并且仅在检测到 Internet Explorer 时才提供旧版内容。
+3. 测试应用以验证它是否未在本机工作。许多站点都会在检测到新式浏览器时将提供新式内容，并且仅在检测到 Internet Explorer 时才提供旧版内容。
 4. 如果应用未通过测试，请将该应用添加到企业站点列表中。
 
 > [!NOTE]

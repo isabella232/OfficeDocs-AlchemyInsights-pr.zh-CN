@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49897700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056372"
 ---
 # <a name="grant-permissions"></a>授予权限
 
-1. 授予租户 **范围的** 管理员同意：请参阅向应用程序 [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent)授予租户范围的管理员同意，获取有关从 Azure 门户、使用 Azure AD PowerShell 或同意提示本身授予租户范围的管理员同意的分步说明。
-1. 代表特定用户授予 **同意：管理员** 还可使用 Microsoft [Graph API](https://docs.microsoft.com/graph/use-the-api)代表单个用户授予对委派权限的同意，而不是授予整个组织的同意。 有关详细信息，请参阅"[代表用户获取访问权限"。](https://docs.microsoft.com/graph/auth-v2-user)
+1. **授予租户范围的** 管理员同意：请参阅向应用程序 [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent)授予租户范围的管理员同意，获取使用 Azure AD PowerShell 从 Azure 门户或许可提示本身授予租户范围内管理员同意的分步说明。
+1. 代表特定用户授予同意：管理员还可使用[Microsoft Graph API](https://docs.microsoft.com/graph/use-the-api)代表单个用户授予委派权限的许可，而不是为整个组织授予同意。 有关详细信息，请参阅代表 [用户获取访问权限](https://docs.microsoft.com/graph/auth-v2-user)。
