@@ -15,19 +15,19 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: dae240765f1a0c5b0fa6391464fbfe0721dd6a09
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045848"
 ---
 # <a name="cancel-power-bi"></a>取消Power BI
 
 Power BI中可以取消Microsoft 365 管理中心。
 
 1. In the admin center， go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.
-2. 在“**产品**”选项卡上，找到要取消的订阅。 选择三个点（更多操作），然后选择“**取消订阅**”。
+2. 在“**产品**”选项卡上，找到要取消的订阅，选择三个点（更多操作），然后选择“**取消订阅**”。
 3. 在“**取消订阅**”窗格中，选择取消原因。可选择提供任何反馈。
 4. 选择“**保存**”。
 

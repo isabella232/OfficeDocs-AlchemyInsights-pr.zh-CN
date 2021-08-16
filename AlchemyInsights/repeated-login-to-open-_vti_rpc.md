@@ -1,5 +1,5 @@
 ---
-title: 重复登录以打开 _vti_rpc
+title: 重复登录以打开_vti_rpc
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,14 +15,14 @@ ms.custom:
 - "280"
 - "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 1ef60f663a04045e4cd00463e59dcbf1f2f92122
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fb0675a4a8b38e4d9a4012b8398291150940b34fcc81a2bbf96942d3fa9ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053024"
 ---
-# <a name="repeated-login-to-open-_vti_rpc"></a>重复登录以打开 _vti_rpc
+# <a name="repeated-login-to-open-_vti_rpc"></a>重复登录以打开_vti_rpc
 
-使用 Office 2016 处理 OneDrive 文件时，您可能会看到以下消息： "告诉我们要用于打开 _vti_rpc 的帐户。" 此问题已在版本 1708 (16.0.8431.2094) 中得到解决。 若要解决此问题，请更新到 Office 的最新版本。 选择**File** "立即更新" "文件 \> **帐户** \> **更新选项**" \> **Update Now**。
+使用 OneDrive 2016 Office文件时，您可能会看到以下消息："告诉我们要用于打开 _vti_rpc 的帐户"。 This problem was fixed in version 1708 (16.0.8431.2094) . 若要解决此问题，请更新到最新版本的 Office。 选择 **"** \> **文件** \> **""帐户更新选项** \> **""现在更新"。**
   

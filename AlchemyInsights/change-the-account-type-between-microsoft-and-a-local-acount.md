@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968583"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>更改登录时使用的帐户类型
 
-下面将了解如何更改用于登录 Windows 10 的帐户类型：
+下面将了解如何更改用于登录帐户的帐户Windows 10：
 
-1. 选择 **开始**  >  **设置**  >  **帐户**  >  **你的信息**。
+1. 选择 **开始**  >  **设置**  >    >  **帐户你的信息**。
 2. 如果你使用的是未链接到电子邮件地址的本地帐户，但希望使用 Microsoft 帐户，请选择" **改为使用 Microsoft** 帐户登录"。
 3. 如果你使用的是链接到电子邮件地址的 Microsoft 帐户，但想要使用本地帐户，请选择"改为 **使用本地帐户登录"。**
 4. 如有必要，请输入密码，然后选择 **下一步**。

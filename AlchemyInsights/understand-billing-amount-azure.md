@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020074"
 ---
 # <a name="understand-billing-amount"></a>了解帐单金额
 
@@ -54,7 +54,7 @@ Azure 免费帐户优惠包括 $200 的 Azure 额度（在注册前 30 天内使
 
 **Azure 免费帐户如何与企业协议（EA）客户一起工作？**  
 
-此优惠对 EA 客户不可用。 但是如果客户拥有免费的帐户，并在稍后转换为 EA 层级，则免费帐户的权益将从注册免费帐户起的 12 个月内继续进行。
+此产品/服务不适用于 EA 客户。但是如果客户拥有免费的帐户，并在稍后转换为 EA 层级，则免费帐户的权益将从注册免费帐户起持续 12 个月。
 
 **免费层级提供的服务是否将耗费初始的 $200 额度？**  
 

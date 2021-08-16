@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019498"
 ---
 # <a name="authentication-issues"></a>身份验证问题
 
@@ -75,14 +75,14 @@ API 服务（如 Microsoft Graph）检查接收的访问令牌中的 *aud* 声�
 - [使用 MSAL 处理条件访问质询](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Azure Active Directory 条件访问开发人员指南](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_对 Azure Active Directory 身份验证库 (ADAL) 和 Azure AD Graph API (AAD Graph) 的支持终止_* _
+***对 Azure Active Directory 身份验证库 (ADAL) 和 Azure AD Graph API (AAD Graph) 的支持终止***
 
 - 自 2020 年 6 月 30 日起，我们将不再向 Azure Active Directory 身份验证库 (ADAL) 和 Azure AD Graph API (AAD Graph) 添加任何新功能。 我们将继续提供技术支持和安全更新，但不再提供功能更新。
 - 自 2022 年 6 月 30 日起，我们将终止对 ADAL 和 Azure AD Graph 的支持，并且将不再提供技术支持或安全更新。
     - 此时间之后，在现有 OS 版本上使用 ADAL 的应用将继续工作，但将不会获得任何技术支持或安全更新。
     - 此时间之后，使用 Azure AD Graph 的应用将不再接收来自 AAD Graph 终结点的响应。
 
-_ *ADAL 迁移**
+**ADAL 迁移**
 
 我们建议更新到具有最新功能和安全更新的 [Microsoft 身份验证库 (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)。 此建议是在 Microsoft 在支持结束截止期限之前将其应用程序迁移到 MSAL 的背景下提出的。 Microsoft 应用向 MSAL 迁移的目标时确保应用能够从 MSAL 的持续安全和功能改进中获益。
 
