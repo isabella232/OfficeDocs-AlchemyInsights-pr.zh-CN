@@ -1,5 +1,5 @@
 ---
-title: 973迁移 StalledDueTo * 规则
+title: 973 迁移 StalledDueTo* 规则
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "973"
 - "3500008"
 ms.assetid: e8448771-3828-43d0-b17d-0c2c87377bf2
-ms.openlocfilehash: 5c1127878dfe2c4a2c79712eceaa9181e95c794a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 41852cb864ee3c6e9919039f9228eb5f12bbdaa7aa2ed86d2c1b654bd84c65c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674136"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992317"
 ---
-# <a name="stalleddueto-errors-during-migration"></a>迁移过程中的 StalledDueTo 错误
+# <a name="stalleddueto-errors-during-migration"></a>迁移期间出现 StalledDueTo 错误
 
-您可能会看到以 "StalledDueTo ..." 开头的各种错误。在迁移到 Exchange Online 的过程中。 这些错误中的很多都完全正常。 有关详细信息，请参阅 [Exchange Online 迁移中的基于资源的限制和优先级](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)。
+你可能会看到以"StalledDueTo..."开头的各种错误。迁移至 Exchange Online。 其中许多错误完全正常。 有关详细信息，请参阅资源[迁移中的基于资源Exchange Online和优先顺序](https://techcommunity.microsoft.com/t5/exchange-team-blog/resource-based-throttling-and-prioritization-in-exchange-online/ba-p/608020)。

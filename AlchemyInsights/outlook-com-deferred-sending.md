@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041396"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>延迟或计划发送电子邮件
 
-抱歉，您无法推迟或计划在移动应用程序或 web 浏览器中发送电子邮件。 为此，请使用 [outlook For Windows 或 outlook For Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)。
+抱歉，你不能延迟或安排在移动应用或 Web 浏览器中发送电子邮件。 为此，请对 Outlook[或 Windows Outlook for Mac。](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook)
 
 **撤消发送**
 
-您可以将您的 Outlook.com 设置更改为最长在10秒内延迟发送邮件。 在此期间，您可以取消发送邮件。 若要启用此功能，请打开 " [撤消发送](https://outlook.live.com/mail/options/mail/messageContent/undoSend) 设置"。
+你可以更改 Outlook.com 设置，以将发送邮件延迟最多 10 秒。 可以在此期间取消发送邮件。 若要启用此功能，请打开" [撤消发送"](https://outlook.live.com/mail/options/mail/messageContent/undoSend) 设置。
 
-了解有关 [在 Outlook.com 中撤回电子邮件的](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)详细信息。
+详细了解如何[调用 Outlook.com 中的电子邮件](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)。
