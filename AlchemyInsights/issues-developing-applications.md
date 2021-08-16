@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49950689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013414"
 ---
 # <a name="issues-developing-applications"></a>开发应用程序的问题
 
@@ -30,7 +30,7 @@ ms.locfileid: "49950689"
 - [我不知道如何向我的应用程序授予权限](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
 - [我不了解委派和应用程序权限的区别](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***对 Azure Active Directory 身份验证库 (ADAL) 和 Azure AD Graph API (AAD Graph) 的支持终止** _
+***对 Azure Active Directory 身份验证库 (ADAL) 和 Azure AD Graph API (AAD Graph) 的支持终止***
 
 - 自 2020 年 6 月 30 日起，我们将不再向 Azure Active Directory 身份验证库 (ADAL) 和 Azure AD Graph API (AAD Graph) 添加任何新功能。 我们将继续提供技术支持和安全更新，但不再提供功能更新。
 
@@ -40,7 +40,7 @@ ms.locfileid: "49950689"
 
     - 此时间之后，使用 AAD Graph 的应用将不再接收来自 AAD Graph 终结点的响应。
 
-_ *ADAL 迁移**
+**ADAL 迁移**
 
 如果正在使用 Microsoft 应用，我们建议更新到具有最新功能和安全更新的 Microsoft 身份验证库 (MSAL)。 此建议是在 Microsoft 启动在支持结束截止日期之前将其应用迁移到 MSAL 的过程背景下提出的。 
 

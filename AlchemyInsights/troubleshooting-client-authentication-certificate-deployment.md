@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020794"
 ---
 # <a name="troubleshooting-client-authentication-certificate-deployment"></a>客户端身份验证故障排除证书部署
 
@@ -44,7 +44,7 @@ ms.locfileid: "47658976"
 
 **用户设备无法再从 NDES 接收 SCEP 证书。**
 
-在 NDES 连接器安装过程中，颁发给 NDES 服务器和指定的客户端身份验证证书可能已过期或缺失。 要解决这一问题，请执行以下操作： 
+颁发给 NDES 服务器并在 NDES 连接器安装过程中指定的客户端身份验证证书可能已过期或缺失。若要解决此问题，请执行以下操作： 
  
 1. 卸载 NDES 连接器。  
 2. 使用以上详细信息，请求新客户端身份验证或服务器身份验证证书： 

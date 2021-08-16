@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1788"
 - "9000213"
-ms.openlocfilehash: f2f4d458d30960d387fed158d718a963e72d4f3e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a08539f4fb9824b6ab020416cbade061e06c24ea3414078981e39c2c10f4beee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50736192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017374"
 ---
 # <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>从 OneDrive 或 SharePoint 下载文件和文件夹
 
-只需单击几次，即可从 Microsoft OneDrive，或从 Microsoft 365 中的 SharePoint 或 SharePoint Server 2019 中下载文件和文件夹。 有关详细信息，请参阅 [从 OneDrive 或 SharePoint 下载文件和文件夹](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)。
+只需单击几次，即可从 Microsoft OneDrive，或从 Microsoft 365 中的 SharePoint，或 SharePoint Server 2019 中将文件和文件夹下载到你的电脑。若要了解详细信息，请参阅[从 OneDrive 或 SharePoint 下载文件和文件夹](https://support.microsoft.com/office/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)。
