@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978763"
 ---
-# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>SharePoint Online 中公司名称提取的更改
+# <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>在 SharePoint Online 中公司名称提取的更改
 
-从 2019 年 11 月 15 日开始，我们将从 [SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)中删除公司名称提取。 SharePoint 中的公司名称提取允许搜索系统使用预先填充的字典或"公司包含"或"公司排除"列表，从一组特定条件下的内容中提取公司名称。 尽管公司名称提取已成为从 SharePoint Online 中的内容派生一个或多个公司名称的依赖解决方案，但字典及其基础功能集已过时。
+从 2019 年 11 月 15 日开始，我们将从[SharePoint Online 中删除公司名称提取](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online)。 SharePoint中的公司名称提取允许搜索系统使用预填充的字典或"公司包含"或"公司排除"列表，从一组特定条件下的内容中提取公司名称。 尽管公司名称提取已成为从 SharePoint Online 中的内容派生一个或多个公司名称的依赖解决方案，但字典及其基础功能集已过时。
 
 - [如何知道是否对属性启用了公司名称提取？](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
