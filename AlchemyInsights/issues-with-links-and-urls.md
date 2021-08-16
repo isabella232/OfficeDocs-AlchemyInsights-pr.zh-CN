@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707872"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054788"
 ---
 # <a name="issues-with-links-and-urls"></a>链接和 URL 的问题
 
-重定向 URI/答复 URL（两个表达式可以互换）是 Microsoft 身份平台用于返回应用请求的令牌的 URL。 有关这些 URL 的信息，请参阅以下文章：
+重定向 URI/答复 URL（两个表达式可以互换）是 Microsoft 身份平台用于返回应用请求的令牌的 URL。有关这些 URL 的信息，请参阅以下文章：
 
 - [身份验证流和应用程序方案](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - 有关每个方案 **应用注册** 页面中重定向 URI 的信息。
 - [重定向 URI/答复 URL 限制和限度](https://docs.microsoft.com/azure/active-directory/develop/reply-url)

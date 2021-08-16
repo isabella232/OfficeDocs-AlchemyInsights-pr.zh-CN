@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016618"
 ---
 # <a name="perform-an-ediscoverycontent-search-and-export"></a>执行电子数据展示/内容搜索和导出
 
 下面将了解如何搜索组织中的内容并导出内容：
 
-1. 转到安全与 [&](https://go.microsoft.com/fwlink/?linkid=2086958)合规中心，然后导航到 **"搜索**  >  **内容搜索**" + "  >  **新建搜索"。**
+1. Go to the [Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2086958) and navigate to **Search**  >  **Content Search**+ New  >  **search**.
 1. 输入要搜索的关键字和条件。
-1. 在页面底部，指定要搜索的位置 (例如电子邮件、Teams 消息、SharePoint) 或单击"所有 **位置"。**
-1. 单击 **"保存&运行。** 命名搜索查询，然后单击"保存 **"。** 查询将运行并显示结果。
+1. 在页面底部，指定要搜索 (的位置，如电子邮件、Teams、SharePoint网站) ，或单击"所有位置 **"。**
+1. 单击 **"保存&运行 "。** 将搜索查询命名，然后单击"保存 **"。** 查询将运行，并将显示结果。
 
-若要了解如何导出搜索结果，请参阅"[导出内容搜索结果"。](https://go.microsoft.com/fwlink/?linkid=2102118)
+若要了解如何导出搜索结果，请参阅导出 [内容搜索结果](https://go.microsoft.com/fwlink/?linkid=2102118)。
 

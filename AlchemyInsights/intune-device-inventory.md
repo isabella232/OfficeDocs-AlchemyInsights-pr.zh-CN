@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014062"
 ---
 # <a name="intune-device-inventory"></a>Intune 设备清单
 
@@ -30,7 +30,7 @@ ms.locfileid: "47667868"
 
 **常见问题解答**
 
-问：我没有收到注册了 Intune 的 Windows 设备上存在的应用程序的完整清单。 这是为什么？
+问：我没有收到注册了 Intune 的 Windows 设备上存在的应用程序的完整清单。为什么会出现这种情况？
 
 答：此时，仅列出被标识为公司设备的 Windows 10 电脑的新式应用。 Intune 不会收集有关在这些设备上安装的 Win32 应用的信息。
 

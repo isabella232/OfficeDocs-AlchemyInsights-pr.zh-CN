@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01124fa426d2f2beaed81d646773efdf155f5f0d45a9c585f80913b111fa9598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016258"
 ---
 # <a name="how-to-create-a-file-request"></a>如何创建文件请求
 
-OneDrive 中的文件请求功能允许你选择一个文件夹，其他人可以使用你发送的链接上传文件。 请求文件的用户无法查看文件夹中的内容，他们只能将文件上载到文件夹中。
+文件请求功能OneDrive允许你选择一个文件夹，其他人可以使用你发送的链接上传文件。 请求文件的用户无法查看文件夹中的内容，他们只能将文件上载到文件夹中。
 
-**注意**：管理员必须在 OneDrive [中](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) 启用"任何人"链接，文件请求才能正常工作。
+**注意**：管理员必须在文件 [请求](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)OneDrive启用"任何人"链接。
 
 - 有关详细信息，请参阅创建 [文件请求](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)。
