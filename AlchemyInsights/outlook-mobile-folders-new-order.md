@@ -1,5 +1,5 @@
 ---
-title: 以新顺序排列的 Outlook 移动文件夹
+title: Outlook新顺序的移动文件夹
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000238"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>我的文件夹采用新的顺序
+# <a name="my-folders-are-in-a-new-order"></a>我的文件夹按新顺序排列
 
-将收藏夹和组添加到 Outlook for iOS 和 Outlook for Android 后，您可能会注意到您的文件夹是一个新的订单。 如果你有收藏夹，你将在边栏顶部看到 "收藏夹" 部分。 您可以使用靠近侧栏顶部的铅笔图标添加收藏夹。 这将使你最重要的所有文件夹和组位于最前面，以便你可以轻松访问它们。
+在 iOS 和 Android Outlook收藏夹和组后，你可能会注意到文件夹按新顺序排列。 如果你有收藏夹，你将在边栏顶部看到收藏夹部分。 可以使用靠近边栏顶部的铅笔图标添加收藏夹。 这样，你所有最重要的文件夹和组都可以在最上面轻松访问它们。

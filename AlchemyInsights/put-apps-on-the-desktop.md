@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fef1b01647ca0a2828f6b1f09bc9850b54da777edd04d2fd76e6c79579fbefcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075105"
 ---
 # <a name="put-apps-on-the-desktop"></a>将应用置于桌面上
 
 在"开始"菜单中搜索应用，然后按住鼠标左键，将图标移动到桌面，获取应用图标。
 
-还可以按 Windows **键 + R，** 然后在此命令中键入：
+还可以按"Windows **键 + R"，** 然后键入以下命令：
 
 `shell:appsfolder`
 
