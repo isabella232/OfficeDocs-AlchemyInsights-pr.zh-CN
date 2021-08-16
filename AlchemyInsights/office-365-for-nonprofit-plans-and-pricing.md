@@ -16,16 +16,16 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 91911353be373c305d1d042883618cb1b78aa27f196eb35a21d031113b61c4fb
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295600"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502526"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365非营利组织版计划和定价
 
-合格的非营利组织可以以Microsoft 365方式接收非盈利组织或以重大折扣升级到高级功能。 若要获得非盈利Microsoft 365资格，你必须在你的国家/地区保留公认的种族[](https://go.microsoft.com/fwlink/p/?LinkID=330253)状态，并签署 Microsoft 非不良策略。 Microsoft 保留随时验证资格的权利，并保留对符合条件的组织暂停服务的权利。
+合格的非营利组织可以以Microsoft 365或以重大折扣升级到高级功能来接收非盈利组织版。 若要有资格参加Microsoft 365性计划，你必须在你的国家/地区保持公认的[](https://go.microsoft.com/fwlink/p/?LinkID=330253)种族状态，并签署 Microsoft 非不良策略。 Microsoft 保留随时验证资格的权利，并保留对符合条件的组织暂停服务的权利。
   
 有关详细信息，请参阅 [常见问题解答](https://products.office.com/nonprofit/office-365-nonprofit)。
   

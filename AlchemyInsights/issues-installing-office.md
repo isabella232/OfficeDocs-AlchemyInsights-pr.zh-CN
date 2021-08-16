@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: d466e4dc26379509c4bf3b34d9d7b39c5d3c4c19
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013126"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>安装 Office 时出现的问题的解决方案
 
@@ -30,7 +30,7 @@ ms.locfileid: "51833101"
 - 使用支持和恢复助手 (SaRA) 清除所有先前的 Office 痕迹并重新安装。 
 
     - 下载并安装[支持和恢复助手](https://aka.ms/SARA-OfficeUninstall-Alchemy)。 打开支持和恢复助手后，从“**卸载 Office 产品**”中选择想要卸载的版本（如果有），然后单击“**下一步**”。 继续浏览屏幕，在出现提示时重启计算机。 重新启动后，SaRA 将自动重新打开以完成卸载过程。
-    - 使用 SaRA [重新安装 Office](https://aka.ms/sara-officeinstall)。 **注意**：要使用 SaRA 设置 Visio 或 Project，请使用“[安装 Visio](https://aka.ms/SaRA-VisioSetupScenario)”或“[安装 Project](https://aka.ms/SaRA-ProjectSetupScenario)”。  
+    - 使用 SaRA [重新安装 Office](https://aka.ms/sara-officeinstall)。**注意**：要使用 SaRA 设置 Visio 或 Project，请使用“[安装 Visio](https://aka.ms/SaRA-VisioSetupScenario)”或“[安装 Project](https://aka.ms/SaRA-ProjectSetupScenario)”。  
 
 - [使用 Office 脱机安装程序](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)安装 Office。
 
