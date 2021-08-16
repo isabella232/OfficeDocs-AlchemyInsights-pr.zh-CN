@@ -10,27 +10,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28ebe2b1375b142ca63dc686c7afbbe88abfd539a93780cff3861f80de40b411
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021838"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>有关在终端服务器上安装办公室的问题的解决方案
 
-若要使用共享计算机激活，必须拥有包含 Microsoft 365 企业应用版订阅。
+若要使用共享计算机激活，必须拥有包含共享计算机Microsoft 365 企业应用版。
   
 - 验证共享计算机激活是否已启用
 - 验证激活是否成功
 - 查看共享计算机激活的错误消息：
-- "在共享计算机方案中，我们找到的产品无法用于激活 Office"
+- "我们在你的帐户中找到的产品不能用于在共享计算机Office激活"
   
-此错误意味着你没有包含 Microsoft 365 企业应用版订阅。
+此错误意味着你未订阅包含Microsoft 365 企业应用版。
 
 "未授权产品"
 
-- 检查用户是否分配有 Microsoft 365 企业应用版许可证。
+- 检查用户是否分配有用户许可证Microsoft 365 企业应用版。
 - 检查用户是否使用其用户帐户登录。
 - 确认共享计算机和 Internet 之间具有可靠连接。
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 服务运行状况
+title: " Microsoft 365 服务运行状况"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098448"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 服务运行状况
+# <a name="microsoft-365-service-health"></a> Microsoft 365 服务运行状况
 
 
 从服务运行状况仪表板检查任何 [服务的服务运行状况](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)。 通过选择 **右上角的新** 管理中心，你将看到新的服务运行状况选项。
@@ -30,4 +30,4 @@ ms.locfileid: "51794462"
 
 - 选择 **"** 历史记录"查看组织的服务运行状况历史记录。 
 
-有关详细信息，请参阅 [如何检查 Microsoft 365 服务运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
+有关详细信息，请参阅[如何检查Microsoft 365运行状况](https://docs.microsoft.com/office365/enterprise/view-service-health)。 
