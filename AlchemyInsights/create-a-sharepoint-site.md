@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080880"
 ---
 # <a name="create-a-sharepoint-site"></a>创建 SharePoint 网站
 
-在 SharePoint 管理中心中创建或管理 [活动网站](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) 中的网站。 有关详细信息，请参阅在 [新 SharePoint 管理中心中管理网站](https://docs.microsoft.com/sharepoint/manage-site-creation)。 
+从管理中心[的活动站点](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true)创建SharePoint管理网站。 有关详细信息，请参阅管理[新网站管理SharePoint中的网站](https://docs.microsoft.com/sharepoint/manage-site-creation)。 
 
-## <a name="tips"></a>几点
+## <a name="tips"></a>使用技巧：
 
-- 您 **无法** 使用与现有网站相同的 URL 创建网站。 如果您删除了某个网站，并且希望重新使用该 URL，则可能是已删除的网站仍存在于 " [已删除的网站](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)" 下。 需要永久删除网站以重新使用 URL。 若要使用 Powershell 完全删除站点，请参阅 [remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。
-- 某些用户可能不能创建网站。 [请参阅在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)。
-- 在 **创建** 比预期更长的时间，网站可能会变得被卡住。 如果在你首次看到此问题后过去已经超过24小时，请记录一个支持票证。 在许多情况下，我们已经在研究解决方案。 请至少为我们提供24小时的时间来完成解决方案。
+- 您不能 **使用** 现有网站的相同 URL 创建网站。 如果已删除网站并且希望重新使用该 URL，则已删除的网站可能仍存在于"已删除网站 ["下](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true)。 网站将需要永久删除，以重新使用该 URL。 若要使用 Powershell 完全删除网站，请参阅 [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet 示例。
+- 某些用户可能无法创建网站。 [请参阅在 SharePoint Online 中管理网站创建](https://docs.microsoft.com/sharepoint/manage-site-creation)。
+- 网站可能卡在"创建 **时间超过** 预期"。 如果自你第一次看到此问题以来超过 24 小时，请记录支持票证。 在许多情况下，我们已经在研究解决方案。 请给我们至少 24 小时才能完成解决方案。

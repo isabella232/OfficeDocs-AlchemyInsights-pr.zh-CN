@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001732"
 - "3834"
-ms.openlocfilehash: 10224171bf81cd31b2d90afb30887539aa7b4e58
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6c6983ee723312564c8fcf1252267938aa4ea0916014a6bd81188308f4cdb488
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055652"
 ---
 # <a name="help-enabling-school-data-sync"></a>帮助启用学校数据同步
 
-需要帮助以启用学校数据同步？ 你知道你可以从 Microsoft 365 FastTrack 程序获取帮助吗？
+需要有关启用学校数据同步的帮助？你是否知道你有资格从 Microsoft 365 FastTrack 计划中获得帮助？
 
 请访问 [FastTrack 中心](https://www.microsoft.com/fasttrack)，提交帮助请求，为组织启用学校数据同步。

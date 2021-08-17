@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 76d389698f082608d2cf7e2f21033f764757873be24e330c0596e053b4a85ea6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d44d64b39e1fee2348f9831e153cab7805c1e8b4fd4bc6effa0968c71666d13
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943113"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890932"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>限制可上载到 Stream 的用户
 
 作为组织，你可能希望限制可以上载视频的员工。 默认情况下，您组织中的每个人都可以上载视频。
 
-- [限制可在 Microsoft Stream 中创建内容的员工](/stream/restrict-uploaders)
+- [限制可在 Microsoft Stream 中创建内容的员工](https://docs.microsoft.com/stream/restrict-uploaders)
