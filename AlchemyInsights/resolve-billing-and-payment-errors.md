@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5853ffad9ce1f19d2cbbf107b83ae485512ec539328fc609b507e41e1a22c9e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110454"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>解决计费和付款错误
 
@@ -25,7 +25,7 @@ ms.locfileid: "51830684"
 
 - **计费金额** 与你预期的不同。
 - 已从订阅中添加或删除许可证。 如果在中期更改许可证，这将反映在以下发票中。 对于上一个服务期，可能会显示信用额度和重新开出的账单，以应对此更改。
-- 订阅已取消。 取消后会收到发票，显示未清余额减去所有信用额度。
+- 订阅已取消。取消后会收到发票，显示未清余额减去所有信用额度。
 - 订阅续订了一个新期限，而许可证价格已更改。
 - 有关发票的详细信息，请参阅：[了解发票。](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
 - **处理信用卡付款时遇到问题**
