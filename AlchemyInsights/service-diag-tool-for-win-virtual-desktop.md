@@ -1,5 +1,5 @@
 ---
-title: Windows 虚拟桌面的服务诊断工具
+title: Windows Virtual Desktop 的服务诊断工具
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49665812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052376"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Windows 虚拟桌面的服务诊断工具
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Windows Virtual Desktop 的服务诊断工具
 
-Windows 虚拟桌面 (WVD) 提供了一个诊断工具，使管理员可以通过单个界面识别错误。 只要分配有 WVD 角色的某人使用 WVD，此工具就会记录诊断相关信息。 每个日志都包含有关活动所涉及的 WVD 角色的信息、会话期间出现的错误消息以及租户和用户相关信息。 可以将 Azure Log Analytics 配置为捕获诊断工具创建的活动日志。 操作步骤如下：
+Windows Virtual Desktop （WVD） 提供一种诊断工具，使管理员能够通过单个界面识别错误。 每当分配了 WVD 角色的某人使用 WVD 时，此工具将记录与诊断相关的信息。 每个日志都包含有关活动所涉及的 WVD 角色的信息、会话期间出现的错误消息，以及租户和用户的信息。 可以将 Azure Log Analytics 配置为捕获诊断工具创建的活动日志。 操作步骤如下：
 
-1. 使用 Azure 门户或 [Azure](https://go.microsoft.com/fwlink/?linkid=2129500) [PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501)创建 Log Analytics 工作区。
-1. [将 Windows 计算机连接到 Azure Monitor。](https://go.microsoft.com/fwlink/?linkid=2129913) 获取工作区的工作区 ID 和主键。 安装向导需要此信息来正确配置代理并确保它可以与 Azure Monitor 通信。
-1. [将诊断数据推送到工作区](https://go.microsoft.com/fwlink/?linkid=2128284)。 可以将诊断数据从 WVD 租户推送到工作区的 Log Analytics。
-1. [识别并诊断与](https://go.microsoft.com/fwlink/?linkid=2128338) WVD 相关的内部或外部问题。
+1. 使用 Azure 门户或 Azure PowerShell [或](https://go.microsoft.com/fwlink/?linkid=2129500) 创建 [分析](https://go.microsoft.com/fwlink/?linkid=2129501)。
+1. [将 Windows 计算机连接到 Azure 监视器](https://go.microsoft.com/fwlink/?linkid=2129913)。 获取工作区 ID 和工作区的主键。 设置向导需要此信息来正确配置代理，并确保其可以使用 Azure 监视器进行通信。
+1. [将诊断数据推送到工作区](https://go.microsoft.com/fwlink/?linkid=2128284)。 您可以将诊断数据从 WVD 租户推送到工作区的日志分析。
+1. [确定和诊断与](https://go.microsoft.com/fwlink/?linkid=2128338) WVD 相关的内部或外部问题。
 
-若要了解有关为 WVD 配置服务诊断工具的信息，请参阅"对诊断功能[使用日志分析"。](https://go.microsoft.com/fwlink/?linkid=2128084)
+若要了解有关为 WVD 配置服务诊断工具的信息，请参阅对诊断功能[使用 Log Analytics。](https://go.microsoft.com/fwlink/?linkid=2128084)

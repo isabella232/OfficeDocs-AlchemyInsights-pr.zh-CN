@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 9465ee400b8043cf0adb9638819e26b9cc5fe15c0d4c73d13a1f4fc237b2e6ea
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952491"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883041"
 ---
 # <a name="admin-password-reset"></a>管理员密码重置
 
@@ -29,4 +29,4 @@ ms.locfileid: "53952491"
 
 - 其他管理员可以从 **“用户”>[“活动用户”](https://portal.office.com/adminportal/home#/users)** 中重置密码；选择帐户，然后单击钥匙图标。  或者，如果你的凭据已缓存，则可以[创建一个新的管理员帐户](https://portal.office.com/adminportal/home#/users)，使用该帐户登录，然后重置自己的管理员密码。
 
-有关更多密码重置方案，请尝试[重置 Office 365 商业版密码](/microsoft-365/admin/add-users/reset-passwords)或打开支持用例以获取帮助。
+有关更多密码重置方案，请尝试[重置 Office 365 商业版密码](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)或打开支持用例以获取帮助。

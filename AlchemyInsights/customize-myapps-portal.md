@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7773"
 - "9004350"
-ms.openlocfilehash: e2d7cc165fce8be2e2c15d7d806917e309395d45
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 9e294377f5f15251daf1a578390552d5e707b2887a3c8818ddb290821aafc028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079837"
 ---
 # <a name="customize-myapps-portal"></a>自定义 MyApps 门户
 
@@ -28,6 +28,6 @@ ms.locfileid: "49911551"
 4. 可以通过 Office 门户修改“应用程序启动器”，但不能通过 MyApplications 门户。
 5. 有关如何自定义应用程序徽标的信息，请参阅[使用自定义徽标](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure#use-a-custom-logo)。
 6. 要自定义应用程序的 URL，可以尝试以下步骤之一：
-    - 使用企业应用程序的“**集合**”功能。 （这将根据您的配置为您提供一个 URL，例如：https://myapps.microosft.com/customAppName.com 或类似的 URL。）
+    - 使用企业应用程序的“**集合**”功能。（这将根据你的配置为你提供一个 URL，例如：https://myapps.microosft.com/customAppName.com 或类似的 URL。）
     - 在企业应用程序中尝试指向特定 URL 的自定义应用程序。
 7. 有关如何配置应用程序以将用户定向到自定义主页的信息，请参阅[使用 Azure AD 应用程序代理设置已发布应用程序的自定义主页](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page)。
