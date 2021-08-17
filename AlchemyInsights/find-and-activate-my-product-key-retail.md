@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068874"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320979"
 ---
 # <a name="retail-prepaid-card"></a>零售预付费卡
 
 如果你从零Microsoft 365 商业标准版购买产品，请使用以下步骤来延长到期日期或向现有订阅添加许可证。
 
-> [!NOTE]
-> 若要使用产品密钥来延长到期日期或将许可证添加到现有 Microsoft 365 商业标准版 订阅，您需要为同一个 Microsoft 365 订阅提供新的和未使用的密钥。 输入原始 Microsoft 365 产品密钥不起作用，因为已兑换的密钥不能再次使用。
+**注意**：若要使用产品密钥来延长到期日期或将许可证添加到现有 Microsoft 365 商业标准版 订阅，你需要为同一个 Microsoft 365 订阅使用新的和未使用的密钥。 输入原始 Microsoft 365 产品密钥不起作用，因为已兑换的密钥不能再次使用。
 
 1. 在管理中心中，转到“**账单**” > **“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”** 页面。
 2. 查找要扩展或添加许可证的订阅。 选择["延长结束日期"](https://go.microsoft.com/fwlink/p/?linkid=842054)[或添加更多许可证](https://go.microsoft.com/fwlink/p/?linkid=842054)。

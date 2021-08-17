@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7909"
 - "9003233"
-ms.openlocfilehash: d4cbe80c3e8f0ce32fcbe89e852f24efd6f50575
-ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.openlocfilehash: b044e69cef177c5a1ad38c2d27a297d90ba7f55e7b2e75fff2e390869241f325
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49886782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057884"
 ---
 # <a name="domain-controller"></a>域控制器
 
@@ -34,6 +34,6 @@ ms.locfileid: "49886782"
 
 **无法禁用 AAD-DS**
 
-AAD-DS 无法禁用。 如果你想停止使用托管域，必须将其删除。
+AAD-DS 无法暂停。如果要停止使用托管域，则必须将其删除。
 
 如果你遇到问题，想要解决常见错误消息或想查看相关的疑难解答步骤，请参阅 [Azure Active Directory 域服务疑难解答](https://docs.microsoft.com/azure/active-directory-domain-services/troubleshoot)。

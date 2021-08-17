@@ -12,21 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de1edf14389c6747272d4e1f8d8e0955a86269c433106bc8ce25129e78581ea7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034960"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898234"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>修复 Microsoft Defender for Office 365
 
-以下是 Microsoft Defender for Office 365 的常见问题的一Office 365：
+以下是 Microsoft Defender for Office 365 常见问题的一Office 365：
 
-- **邮件延迟：** 如果遇到邮件传递延迟的问题，则希望使用"附件"策略中的"动态传递保险箱选项。 若要了解更多信息，请参阅动态[传递保险箱附件策略。](https://go.microsoft.com/fwlink/?linkid=2094106)
-- **报告误报或负结果：** 使用此链接向 Microsoft 报告消息 [：Microsoft Defender 响应门户](https://go.microsoft.com/fwlink/?linkid=2092835)。
-- **启用保险箱链接保护：**
-    1. 登录到安全[Office 365&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-    2. 转到威胁 **管理**  >  **策略**  >  **保险箱链接。**
-    3. 在 **"应用于特定收件人的策略"下**，打开配置的策略。
-    4. 在 **设置"** 下，**选择"将安全链接应用于在组织内部发送的邮件"。**
+- **邮件延迟**：
+
+  电子邮件传递延迟可能是由邮件保险箱附件扫描导致。 有关详细信息，请参阅附件[保险箱设置](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)。
+
+- **报告误报或负结果**：
+
+  有关详细信息，请参见[向 Microsoft 报告邮件和文件](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)。
+
+- **启用保险箱链接保护**：
+
+  1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> ， go to Email & **Collaboration** Policies \> **& Rules** \> **Threat policies** \> **保险箱 Links** in the **Policies** section.
+
+     若要直接转到"链接 **保险箱，** 请使用 <https://security.microsoft.com/safelinksv2> 。
+
+  2. On the **保险箱 Links** page， select the policy by clicking on the name of the policy.
+  3. 在出现的详细信息飞出中，执行下列任一步骤：
+     - 若要添加新策略，请选择" **+ 创建"。** 向导将启动，帮助你定义策略设置。
+     - 若要编辑现有策略，请通过单击该策略的名称来选择该策略。 在出现的详细信息飞出控件中，选择"保护设置 **"****部分中的"编辑**"。
+  4. 在" **保护设置"** 页上，配置以下设置：
+     - 打开 选择 **邮件中未知潜在恶意 URL 的操作**。
+     - 选择 **"将安全链接应用于在组织内部发送的邮件"。**
+
+  有关详细信息，请参阅在[Microsoft Defender 保险箱设置链接策略Office 365。](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

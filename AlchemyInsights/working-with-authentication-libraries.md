@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9775"
 - "9004342"
-ms.openlocfilehash: f9f54ed2bfc5841df66d3e714112b9307455c182
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b667e699e1595b21d80788123de13daffbe79a35b1671e9d35eaa6cd980693db
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083076"
 ---
 # <a name="working-with-authentication-libraries"></a>使用身份验证库
 
@@ -44,7 +44,7 @@ ms.locfileid: "50897428"
 
 1. [请阅读 ADAL 常见问题解答](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)。
 2. [了解如何在不同平台上迁移应用](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#migration-guidance)。
-3. 如果在阅读完应用平台的指南后还有其他问题，可以在 [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html)上以 [azure-ad-adal-deprecation] 为标签发帖，或者在库的 GitHub 储存库中开一个问题。 请参阅 **MSAL 概述** 文章中的[语言和框架](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks)部分，以获取每个库的报告链接。
+3. 如果在阅读完应用平台的指南后还有其他问题，可以在 [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-adal-deprecation.html)上以 [azure-ad-adal-deprecation] 为标签发帖，或者在库的 GitHub 储存库中开一个问题。 请参阅 **MSAL 概述** 文章中的 [语言和框架](https://docs.microsoft.com/azure/active-directory/develop/msal-overview#languages-and-frameworks)部分，以获取每个库的报告链接。
 4. **如果需要帮助了解哪些应用程序使用 ADAL**，我们建议查看所有应用程序的源代码。 如果适用，请联系任何独立软件供应程序 (ISV) 或应用程序供应程序。 Microsoft 支持部门也可提供租户内所有非 Microsoft ADAL 应用的列表。
 
 

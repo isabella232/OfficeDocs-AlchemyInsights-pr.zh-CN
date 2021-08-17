@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967935"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898310"
 ---
 # <a name="find-a-specific-quarantined-message"></a>查找特定的隔离邮件
 
-1. 转到安全 [与&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-2. 转到"**威胁管理**  >  **""审阅**  >  **隔离"。**
-3. 选择"**搜索"。**
-4. 通过选中条件旁边的复选框来选择条件的任意组合 (此时不能使用通配符) 。
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to Email & **Collaboration** \> **Review** \> **Quarantine**.
+
+   若要直接转到隔离 **页面，** 请使用 <https://security.microsoft.com/quarantine> 。
+
+2. 在"**隔离**"页上，验证是否 **选择了"电子邮件**"选项卡，然后单击"筛选 **"。**
+3. 选择任意属性组合以筛选和查找邮件。
+
+有关详细信息，请参阅下列主题：
+
+- [以用户身份查找并释放隔离的邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [以管理员身份管理隔离的邮件和文件](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
