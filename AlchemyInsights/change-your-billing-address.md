@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 133b4dab80a69c7c47e1193e6109551ca665552fbf9168dde8be14096336efe5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498962"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898882"
 ---
 # <a name="change-your-billing-address"></a>更改帐单邮寄地址
 
@@ -35,7 +35,7 @@ ms.locfileid: "54498962"
 3. 在"**付款方式详细信息"页上**，单击"编辑 **"。**
 4. 更新帐单邮寄地址，然后单击"保存>**完成"。**
 
-有关地址和通知更改详细信息，请参阅更改适用于企业Microsoft 365[帐单地址](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)。
+有关地址和通知更改详细信息，请参阅更改适用于企业Microsoft 365[帐单地址](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)。
 
 **更改计费帐户信息**
 

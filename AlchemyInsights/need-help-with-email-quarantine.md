@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: f094d5fec9c85a7db0a3757177c3866f25e7b2227b05a41bcd554b1dda092517
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bc10199fe98460f55519e56dbacd7d49f09df89be6d677c4fe2b6b95f529e26d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54077362"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889716"
 ---
 # <a name="need-help-with-email-quarantine"></a>需要有关电子邮件隔离的帮助？
 
-- 若要 **查看电子邮件并将其解除隔离**，请转到 [Office 365 安全与合规中心中的隔离页面](https://protection.office.com/quarantine)。有关详细说明，请参见 [此处](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages)。
-- 如果邮件被 **错误地隔离（误报）**，请在“隔离”页面选择该邮件后，单击“向 Microsoft 报告邮件以便分析”。 
-- 在“隔离原因”字段下，查找 **隔离邮件的原因**。
-- **在隔离中丢失了电子邮件？** 最终用户无法解除某些隔离的电子邮件。 这些邮件可能被分类为高度可疑的仿冒电子邮件、恶意软件或由传输操作发出。 管理员可以[查看、解除或删除这些邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)。 
+- 要 **以最终用户身份从隔离区中查看和释放电子邮件**，请转到位于“**查看**”\>“**隔离**”的 Microsoft 365 Defender 门户中的 **隔离** 页面，或直接在 <https://security.microsoft.com/quarantine> 处操作。 有关详细说明，请参阅 [查看隔离邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user#view-your-quarantined-messages)。
+- 如果邮件遭到 **错误隔离（误报）**，请从列表中选择邮件，然后单击“**向 Microsoft 报告邮件以进行分析**”。
+- 在 **隔离原因** 字段下，查找 **隔离邮件的原因**。
+- **隔离区中缺少电子邮件？** 最终用户无法查看或释放某些隔离的电子邮件。 这些邮件可能是归类为高可信度网络钓鱼、恶意软件或由邮件流规则（也称为传输规则）进行分类。 管理员可以查看、释放或删除这些邮件。 有关详细信息，请参阅 [在 EOP 中以管理员身份管理已隔离邮件和文件](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)。

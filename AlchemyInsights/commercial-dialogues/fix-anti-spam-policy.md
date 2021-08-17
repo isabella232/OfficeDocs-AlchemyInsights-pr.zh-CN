@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988237"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898846"
 ---
 # <a name="fix-anti-spam-policy"></a>修复反垃圾邮件策略
 
-租户中的自定义反垃圾邮件策略影响此邮件。 若要查看策略，请执行下列操作：
+您的一个反垃圾邮件策略影响此邮件。 若要查看策略，请执行以下步骤：
 
-1. 转到安全 [Office 365安全&](https://go.microsoft.com/fwlink/p/?linkid=2077143)中心，然后转到威胁 **管理**  >  **策略**  >  [反垃圾邮件](https://go.microsoft.com/fwlink/?linkid=2101518)。
-2. 在"**自定义**"选项卡上，选择"**默认垃圾邮件** 筛选器策略"或您可能已创建任何其他自定义策略，然后选择"编辑 **策略"。**
-3. 展开" **垃圾邮件属性"** 选项并查看" **标记为垃圾邮件"** 设置。
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> ， go to Email & **Collaboration** Policies \> **& Rules** \> **Threat policies** \> **Anti-spam** in the **Policies** section.
 
-有关配置垃圾邮件筛选器策略的信息，请参阅配置 [自定义垃圾邮件筛选器策略设置](https://go.microsoft.com/fwlink/?linkid=2101054)。
+   若要直接转到“**反垃圾邮件策略**”页面，请使用 <https://security.microsoft.com/antispam>。
+
+2. 在"**反垃圾邮件** (策略"页上，单击策略名称"类型为自定义反垃圾邮件策略"或"名称为反垃圾邮件入站策略" (**默认** 策略) ) 。）
+
+3. In the details flyout that appears， click **Edit spam threshold and properties** in the Bulk email threshold & spam properties **section，** select **Edit actions**， and the review the Mark **as spam** settings.
+
+有关详细信息，请参阅[在 EOP 中配置反垃圾邮件策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)。

@@ -15,12 +15,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0e4c2607c5105d2811ed077dc269ae75f066efe1dd45bbb9936b2336a370a052
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd1b749a5798bcf0b42d12bfe0add2a7b3933f4dec2225bfd1d030a29f3edb0a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53976531"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889820"
 ---
 # <a name="manage-subscription-renewal"></a>管理订阅续订
 
@@ -31,5 +31,5 @@ ms.locfileid: "53976531"
 3. 在 **“编辑定期计费”** 窗格中，选择 **“打开”**、**“打开，更新一次”**，或 **“关闭”**。
 4. 选择“**保存**”。
 
-请参阅[打开或关闭定期计费](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)了解详细信息。
+请参阅[打开或关闭定期计费](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)了解详细信息。
 

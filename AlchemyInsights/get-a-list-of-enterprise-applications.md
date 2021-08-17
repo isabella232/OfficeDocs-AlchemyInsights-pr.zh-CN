@@ -1,5 +1,5 @@
 ---
-title: 获取企业应用程序列表
+title: 获取应用程序Enterprise列表
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51379801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116718"
 ---
-# <a name="get-a-list-of-enterprise-applications"></a>获取企业应用程序列表
+# <a name="get-a-list-of-enterprise-applications"></a>获取应用程序Enterprise列表
 
 1. 若要获取企业应用程序 **列表 (所有** 应用程序，或者通过 Powershell 命令按显示名称、ID、标识符 URI 等 ) 进行筛选，请参阅 [Get-AzureADApplication (AzureAD)](https://docs.microsoft.com/powershell/module/azuread/get-azureadapplication)。
 2. 若要从所有对象 (或按 ID) Powershell 命令筛选的服务主体对象列表，请参阅 [Get-AzureADServicePrincipal (AzureAD) ](https://docs.microsoft.com/powershell/module/azuread/get-azureadserviceprincipal)。
@@ -52,9 +52,9 @@ ms.locfileid: "51379801"
 
 7. **需要导出未使用的 Azure 应用列表** – 审核报告
 
-    如果你拥有 Azure AD Premium 许可证，Azure AD 最多只能显示 30 天的应用程序日志。
+    Azure AD 最多只能显示 30 天的应用程序日志，Azure AD Premium许可证。
     有两个选项可以保留数据超过 30 天。 可以使用 Azure [AD 报告 API](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) 以编程方式检索数据，并存储到数据库中。 或者，你可以将审核日志集成到第三方 SIEM 系统中。
 
     还可以下载 Azure Active directory 下的所有应用程序和拥有的应用程序的应用列表>应用注册>下载>所有应用程序/拥有的应用程序。
 
-    若要通过 MS Graph 获取应用程序列表，请参阅[列出应用程序 - Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list)和应用程序资源类型[- Microsoft Graph v1.0。](https://docs.microsoft.com/graph/api/resources/application)
+    若要通过 MS Graph 获取应用程序列表，请参阅列出应用程序[- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list)和应用程序资源类型 - Microsoft Graph [v1.0。](https://docs.microsoft.com/graph/api/resources/application)
