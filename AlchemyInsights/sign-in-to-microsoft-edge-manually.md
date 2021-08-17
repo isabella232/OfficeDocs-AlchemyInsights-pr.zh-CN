@@ -1,5 +1,5 @@
 ---
-title: 手动登录到 Microsoft Edge
+title: 手动登录Microsoft Edge登录
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050756"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>手动登录到 Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-manually"></a>手动登录Microsoft Edge登录
 
 如果用户在首次运行体验期间未自动登录，则用户可以通过浏览器的设置或标识飞出区手动登录。 若要管理登录，请使用以下策略：
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - 确保用户在 Microsoft Edge 中始终具有工作配置文件。
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - 确保用户始终在工作Microsoft Edge。
 2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - 限制登录一组受信任帐户。
 3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - 禁用登录或强制用户登录。
 
