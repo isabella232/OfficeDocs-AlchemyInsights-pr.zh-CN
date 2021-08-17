@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927135"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892589"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – 音频会议
 
-在启用或设置[ Microsoft Teams 中的音频会议](/microsoftteams/set-up-audio-conferencing-in-teams)方面需要帮助？  最近是否已创建用户？ 如果是这样，你将需要几个小时的时间让设置生效。
+在启用或设置[ Microsoft Teams 中的音频会议](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)方面需要帮助？  最近是否已创建用户？ 如果是这样，你将需要几个小时的时间让设置生效。
 
-如果[已经购买许可证](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)，请验证用户是否获得了Microsoft 365音频会议的许可，并拥有默认收费号码。
+如果[已经购买许可证](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)，请验证用户是否获得了Microsoft 365音频会议的许可，并拥有默认收费号码。
 
 1. 转到“[活动的用户](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)”，并随后选择有问题的用户。
 
 2. 根据管理中心的版本，选择“**许可证和应用程序**”或点击“**产品许可证**”上的“**编辑**”。
 
-3. 确确认用户已选择适用于 **Microsoft 365 音频会议，Microsoft Teams**，和 **Skype for Business Online (计划 2)** 的许可证。 如果未显示 **Microsoft 365 音频会议** 许可证，则需先 [购买附加许可证](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) 。
+3. 确确认用户已选择适用于 **Microsoft 365 音频会议，Microsoft Teams**，和 **Skype for Business Online (计划 2)** 的许可证。 如果未显示 **Microsoft 365 音频会议** 许可证，则需先 [购买附加许可证](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) 。
 
 4. 用户 **管理中心** 单击“**显示全部**”，并随后单击 **Teams**。
 

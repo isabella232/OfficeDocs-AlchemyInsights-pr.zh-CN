@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082392"
 ---
 # <a name="change-a-users-email-address"></a>更改用户的电子邮件地址
 
 更改某人的电子邮件地址很简单！ 按以下步骤操作即可：
   
-1. 在 Microsoft 365 管理中心中，转到"用户 ["页面，](https://go.microsoft.com/fwlink/p/?linkid=834822)**或选择"** 用户 \> **""活动用户"。**
+1. In the Microsoft 365 管理中心， go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page， or choose **Users** \> **Active Users**.
     
 2. 选择该用户。
     

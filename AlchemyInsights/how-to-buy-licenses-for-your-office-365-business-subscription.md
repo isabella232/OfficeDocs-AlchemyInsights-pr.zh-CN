@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: aa7eb7f5d3136e158c13ee2948979a4545cae5a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892529"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313101"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>如何购买订阅Microsoft 365 商业应用版许可证
 
@@ -28,7 +28,7 @@ ms.locfileid: "57892529"
 **观看视频，** 了解如何执行这一此操作：[购买新的许可证](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
 1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
-2. 在 **"产品** "选项卡上，找到要更新的订阅。 选择三个点 (操作) ，然后选择购买 **许可证**。
+2. 在 **"产品** "选项卡上，找到要更新的订阅。 Select the three dots (more actions) ， then select **Buy licenses**.
 3. 在"**购买许可证"****窗格的"** 许可证总数"框中的"新数量"下，输入要用于此订阅的许可证总数。 例如，如果你有 100 个许可证，并且你想要再添加 25 个，请输入 125。
 4. 选择“**保存**”。
 

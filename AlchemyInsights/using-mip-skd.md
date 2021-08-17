@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b5216f9ab67f50d0adffeac9154ef4ce2b28a8178e5857c64fbbd78884d77b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083976"
 ---
 # <a name="using-mip-skd"></a>使用 MIP SKD
 
-若要使用 MIP SDK，需要通过几个步骤来安装和配置 Office 365 订阅和客户端工作站。 这些步骤包括：
+若要使用 MIP SDK，需要通过几个步骤来安装和配置 Office 365 订阅和客户端工作站。这些步骤包括：
 
 - 注册 Office 365 订阅。
 - 配置敏感度标签。

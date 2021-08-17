@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918457"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312749"
 ---
 # <a name="frequent-excel-crashes"></a>频繁Excel崩溃？
 
-加载项Excel频繁崩溃可能是由出错的加载项导致的。 可以按照以下Excel禁用加载项：
+加载项Excel崩溃可能是由出错的加载项导致的。 可以按照以下Excel禁用加载项：
   
 1. 选择 **"** \> **文件选项** \> **"和"外接程序"。**
 
@@ -28,8 +28,7 @@ ms.locfileid: "53918457"
 
 3. 在"Add-Ins可用"框中，清除要禁用的外接程序旁边的复选框，然后单击"确定 **"。**
 
-> [!NOTE]
-> 如果Excel崩溃，请在启动程序时保险箱按住 Ctrl 以自动启动模式。
+**注意**：如果Excel崩溃，请在启动程序时保险箱按住 Ctrl 以自动启动模式。
   
 如果仍有问题，请参阅以下文章：
   

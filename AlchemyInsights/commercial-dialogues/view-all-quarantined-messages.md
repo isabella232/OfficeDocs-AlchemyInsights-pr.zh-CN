@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311389"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892857"
 ---
 # <a name="view-all-quarantined-messages"></a>查看所有隔离邮件
 
@@ -27,7 +27,7 @@ ms.locfileid: "58311389"
 
 2. 在" **隔离** "页上，验证 **是否选择了"电子邮件** "选项卡。
 3. 默认情况下，根据接收邮件的日期，将邮件从最新到最旧排序。 可以通过单击标题对字段进行排序。
-4. 您最多只能对 100 个项目执行批量操作，因此，如果项目数超过 100 个，筛选结果集还有助于减少您的邮件数。
+4. 您最多只能对 100 个项目执行批量操作，因此，如果项目数超过 100 个，则筛选结果集减少项目数。
 
 有关详细信息，请参阅以下文章：
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081852"
 ---
 # <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>将非 Windows 设备载入 Microsoft Defender 高级威胁防护 (MDATP) 
 
