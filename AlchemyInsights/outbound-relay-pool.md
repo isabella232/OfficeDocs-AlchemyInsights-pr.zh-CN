@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041576"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883121"
 ---
 # <a name="outbound-relay-pool"></a>出站中继池
 
-Microsoft 正在对配置进行一些更改，以通过 Microsoft 365 中继或转发Microsoft 365。 在某些情况下，邮件使用特殊的中继池通过 Microsoft 365转发或中继。 使用中继池发送的邮件最终可能位于收件人的垃圾邮件文件夹中。 有关详细信息，请参阅出 [站传递池](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft 正在对配置进行一些更改，以通过 Microsoft 365。 在某些情况下，邮件使用特殊的中继池通过 Microsoft 365转发或中继。 使用中继池发送的邮件最终可能位于收件人的垃圾邮件文件夹中。 有关详细信息，请参阅出 [站传递池](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 为了避免使用中继池的情况，请确保转发/中继邮件满足以下条件之一：
 
 - 出站发件人是租户的接受域。
 - 发件人策略 (SPF) 在邮件发送到邮件时通过Microsoft 365。
-- 当邮件发送到 (时) P2 发件人域中的域密钥标识的邮件和 DKIM Microsoft 365。
+- 当邮件发送到 (时) P2 发件人域中的域密钥标识邮件和 DKIM Microsoft 365。
  
 满足上述条件的邮件不会通过中继池中继。
 

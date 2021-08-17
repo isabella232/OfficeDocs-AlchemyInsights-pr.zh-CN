@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: a3c787005c24e6e107c8cbd2f0f80348e813e4c3dfcedeb1a132b798b1ef12bc
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 73f4b037ba2c68a7d4606942ff6af712091126d169079eef77007712959f58b5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54006556"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57885781"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>向音频会议网桥分配免费号码
 
@@ -28,4 +28,4 @@ ms.locfileid: "54006556"
 1. 突出显示要配置为默认的服务收费号码。
 1. 选择“**设为默认值**”。
 
-有关详细信息，请参阅[更改音频会议网桥中的电话号码](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge)。
+有关详细信息，请参阅[更改音频会议网桥中的电话号码](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge)。
