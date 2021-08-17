@@ -12,16 +12,16 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52853859"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311281"
 ---
 # <a name="information-about-gdpr"></a>有关 GDPR 的信息
 
-- [GDPR 简化：小型企业指南](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
+- [GDPR 简化：小型企业指南](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
 - 入门服务[信任门户。](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
@@ -31,7 +31,7 @@ ms.locfileid: "52853859"
 
   - [审核报告](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- 有关 **DSR** (数据主体) - 发现、访问、纠正、限制、删除、导出的信息 [在此处。](/microsoft-365/compliance/gdpr-dsr-office365)
+- 有关 **DSR** (数据主体) - 发现、访问、纠正、限制、删除、导出的信息 [在此处。](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
 
 - 有关数据 **泄露通知的信息**[，请参阅此处。](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 

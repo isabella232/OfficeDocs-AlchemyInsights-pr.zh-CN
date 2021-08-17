@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895877"
 ---
 # <a name="expired-subscription"></a>过期的订阅
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029722"
 3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 
-要了解详细信息，请参阅[重新激活订阅](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **进行新购买**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029722"
 3. 输入所需的许可证数，然后选择是每月支付还是整年支付。 选择是否要将许可证自动分配给当前没有许可证的每个人。 然后选择"**现在签出"。**
 4. 按照其余步骤完成签出。
 
-若要了解更多信息，请参阅 [购买另一个订阅](/microsoft-365/commerce/buy-another-subscription)。
+若要了解更多信息，请参阅 [购买另一个订阅](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)。

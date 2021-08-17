@@ -1,5 +1,5 @@
 ---
-title: 自定义 Windows 虚拟桌面的会话主机映像
+title: 自定义虚拟桌面的Windows映像
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49681454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118626"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>自定义 Windows 虚拟桌面的会话主机映像
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>自定义虚拟桌面的Windows映像
 
-使用 Windows 虚拟桌面的主虚拟硬盘 (虚拟机) 有两种方法：
+通过使用虚拟桌面的主虚拟 (虚拟) ，有两种方法可以准备虚拟机Windows虚拟机：
 
-1. [在 Azure 中从托管映像创建 VM，](https://go.microsoft.com/fwlink/?linkid=2127906)然后跳到 [软件准备和安装](https://go.microsoft.com/fwlink/?linkid=2128064)。
-1. [通过下载映像、](https://go.microsoft.com/fwlink/?linkid=2128065) 预配 Hyper-V [VM，](https://go.microsoft.com/fwlink/?linkid=2127907)然后根据您的需要自定义映像，在本地创建映像。
+1. [在 Azure 中从托管映像创建 VM，](https://go.microsoft.com/fwlink/?linkid=2127906)然后跳到 [软件的准备和安装](https://go.microsoft.com/fwlink/?linkid=2128064)。
+1. [通过下载映像、](https://go.microsoft.com/fwlink/?linkid=2128065) 预配虚拟机 [Hyper-V，](https://go.microsoft.com/fwlink/?linkid=2127907)然后自定义它以满足你的需求，在本地创建映像。
 
-若要了解更多信息，请参阅["准备和自定义主 VHD 映像"。](https://go.microsoft.com/fwlink/?linkid=2127838)
+若要了解更多信息，请参阅 [准备和自定义主 VHD 映像](https://go.microsoft.com/fwlink/?linkid=2127838)。

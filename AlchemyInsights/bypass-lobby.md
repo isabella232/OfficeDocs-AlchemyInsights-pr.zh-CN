@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059586"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>控制大厅设置和参与 Teams 的级别
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>控制大厅设置和参与Teams
 
 如果要允许所有人（包括拨入用户、外部用户和匿名用户）绕过大厅，请使用 PowerShell 完成此任务。  下面是修改组织的全局会议策略的示例。
 
@@ -32,9 +32,9 @@ ms.locfileid: "51820024"
 请务必先查看下面的文档，然后再进行这些更改，以准确了解这允许使用什么。
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>了解 Teams 会议厅策略控制
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>了解Teams控制
 
-这些设置控制哪些会议参与者在获准参加会议之前在会议厅中等待，以及允许他们参加会议的级别。 可以使用 PowerShell 更新尚未实现的会议策略设置， (Teams 管理中心中标记为"即将) "的会议策略设置。 有关允许所有用户绕过大厅的示例 PowerShell cmdlet，请参阅下文。
+这些设置控制哪些会议参与者在获准参加会议之前在会议厅中等待，以及允许他们参加会议的级别。 可以使用 PowerShell 更新尚未在 Teams 管理中心中 ("即将) 会议策略设置。 有关允许所有用户绕过大厅的示例 PowerShell cmdlet，请参阅下文。
 
 - [自动允许人员](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) 是每组织者策略，用于控制用户是直接加入会议，还是等待会议厅，直到经过身份验证的用户允许。
 
@@ -44,4 +44,4 @@ ms.locfileid: "51820024"
 
 - [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon)允许组织者覆盖即将 (**)** 的大厅设置是一个每组织者策略，可控制会议组织者是否可以覆盖管理员在"自动允许人员"和"允许拨入用户安排新会议时绕过会议厅"中设置的大厅设置。
 
-**注意：** 有关 Microsoft Teams [会议策略](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) 的完整概述，请参阅在 Teams 中管理会议策略。
+**注意：** 请参阅 [在会议Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)中管理会议策略，以全面Microsoft Teams会议策略。

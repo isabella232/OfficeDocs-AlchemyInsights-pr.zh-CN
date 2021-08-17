@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 028ae1b86a98c8dab1940b715c266f3d481c71ef1ec84e932e9c74817bccdef5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503246"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895817"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>如何购买教育产品/服务
 
@@ -34,4 +34,4 @@ ms.locfileid: "54503246"
 
 如果要购买与试用订阅不同的订阅，请转到"计费 \> [购买服务"](https://go.microsoft.com/fwlink/p/?linkid=868433)页。 在 **"教育** 计划"下，选择您需要的计划。
 
-若要了解更多信息，请参阅 [从免费试用版购买订阅](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)。
+若要了解更多信息，请参阅 [从免费试用版购买订阅](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)。

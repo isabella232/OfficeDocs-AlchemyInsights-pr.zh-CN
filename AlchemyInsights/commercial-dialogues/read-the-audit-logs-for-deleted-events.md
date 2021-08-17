@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967323"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896005"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>读取已删除事件的审核日志
 
 下面将对此进行说明：
 
-1. 转到安全Office 365[合规&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-1. 选择 **"搜索**  >  [**审核日志搜索"。**](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. 执行以下操作之一：
+   - In the Microsoft 365 合规中心 at <https://compliance.microsoft.com> ， go to **Solutions** \> **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://compliance.microsoft.com/auditlogsearch> 。
+   - In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://security.microsoft.com/auditlogsearch> 。
+
     > [!NOTE]
     > 如果看到需要启用该功能的通知，请继续，然后现在打开它。 如果未启用此功能，搜索结果将无法从以前的日期提取数据。
-1. 选择 **"活动**"，然后查找 **Exchange活动"**。 选择" **已删除邮件"文件夹中的** "已删除邮件"和" **将邮件移动到已删除邮件"** 文件夹选项。 完成后，在窗格外单击以最小化" **活动"** 窗格。
-1. 指定日期范围，然后在"用户 **"框中，** 选择要调查的用户的用户名。 一次可以选择多个用户。
-1. 选择“**搜索**”。 这些活动出现在“**结果**”下。
-1. 若要查看详细信息，请选择一个活动， **然后选择详细信息**。 有关已删除项目的其他信息（如主题行和项目被删除时的位置）将显示在 **AffectedItems** 字段中。
-    > [!NOTE]
-    > You can't restore deleted items using the 审核日志 feature. 若要还原已删除的项目，请参阅恢复已删除项目[或电子邮件Outlook Web App。](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-若要了解更多信息，请参阅[搜索Office 365 审核日志常见方案疑难解答](https://go.microsoft.com/fwlink/?linkid=2103944)。
+2. 在"**审核****"页的**"搜索"选项卡上，配置以下设置：
+   - **日期和时间范围**：在"开始"和"结束"框中 **选择日期** / **时间** 范围。
+   - **活动****：Exchange邮箱活动，** 然后选择以下值：
+     - **已从“已删除邮件”文件夹中删除邮件**
+     - **已将邮件移动到“已删除邮件”文件夹**
+
+       完成后，在窗格外单击以最小化" **活动"** 窗格。
+
+   - **用户**：接受空白默认值以返回所有用户的结果，或输入一个或多个用户。
+
+3. 完成后，单击"搜索 **"。** 活动显示在新的"审核搜索 **"页上** 。
+
+4. 在结果中选择一个活动以打开详细信息飞出。 有关已删除项目的其他信息（如主题行和项目被删除时的位置）将显示在 **AffectedItems** 字段中。
+
+   > [!NOTE]
+   > You can't restore deleted items using the 审核日志 feature. 若要还原已删除的项目，请参阅恢复已删除[的电子邮件Outlook 网页版。](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+
+有关详细信息，请参阅搜索 [审核日志以调查常见的支持问题](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)。

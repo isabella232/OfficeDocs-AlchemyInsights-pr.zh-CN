@@ -1,5 +1,5 @@
 ---
-title: 2637绕过垃圾邮件筛选以允许特定邮件？
+title: 2637 绕过垃圾邮件筛选以允许特定邮件？
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059550"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>绕过垃圾邮件筛选以允许特定邮件？
 
-我们建议您在创建允许列表时 [小心](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) 。 例如，如果您允许自己的域，则恶意发件人将能够以您的域的形式进行欺骗和发送。  相反，我们建议使用此 [误报故障排除指南](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)，这将帮助您确定将合法邮件标记为垃圾邮件的原因，以及您可以采取什么操作以安全地允许传递邮件。
+建议 [创建](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) 允许列表时小心。 例如，如果你允许自己的域，恶意发件人将能够欺骗并作为你的域发送。  相反，我们建议使用此 [误报](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)疑难解答指南 ，它将帮助您确定合法邮件被标记为垃圾邮件的原因，以及您可以采取哪些措施安全地允许传递邮件。

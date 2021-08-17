@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045122"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311389"
 ---
 # <a name="view-all-quarantined-messages"></a>查看所有隔离邮件
 
-1. 在管理中心，转到安全与& [中心。](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. 转到"**威胁管理**  >  **""审阅**  >  **隔离"。**
-3. 默认情况下，根据接收邮件的日期，从最新到最旧对邮件进行排序。 可以通过单击标题对字段进行排序。
-4. 您最多只能对 100 个项目执行批量操作，因此，如果项目数超过 100 个，则筛选结果集减少项目数。
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to Email & **Collaboration** \> **Review** \> **Quarantine**.
+
+   若要直接转到隔离 **页面，** 请使用 <https://security.microsoft.com/quarantine> 。
+
+2. 在" **隔离** "页上，验证 **是否选择了"电子邮件** "选项卡。
+3. 默认情况下，根据接收邮件的日期，将邮件从最新到最旧排序。 可以通过单击标题对字段进行排序。
+4. 您最多只能对 100 个项目执行批量操作，因此，如果项目数超过 100 个，筛选结果集还有助于减少您的邮件数。
+
+有关详细信息，请参阅以下文章：
+
+- [以用户身份查找并释放隔离的邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [以管理员身份管理隔离的邮件和文件](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
