@@ -1,5 +1,5 @@
 ---
-title: 1800019 Outlook mobile 中的重点收件箱
+title: 1800019移动版中重点Outlook收件箱
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117042"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Outlook mobile 的重点收件箱
+# <a name="focused-inbox-for-outlook-mobile"></a>适用于移动Outlook重点收件箱
 
 [什么是重点收件箱？](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[如何编辑将我的电子邮件移入和移出重点收件箱的规则？](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[如何编辑将我的电子邮件移进和移出重点收件箱的规则？](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[如何关闭重点收件箱或更改是否将我的徽章计数和通知同步到重点收件箱？](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[如何关闭重点收件箱或更改我的锁屏提醒计数和通知是否同步到重点收件箱？](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
 [如何关闭重点收件箱或更改通知是否同步到重点收件箱？](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[如何在焦点和其他之间切换？](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[如何在"重点"和"其他"之间进行切换？](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-了解详细信息：获取适用于 [iOS 和 Android 的 Outlook 相关应用程序帮助](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+了解更多信息[：获取适用于 iOS Outlook Android 的应用内帮助](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

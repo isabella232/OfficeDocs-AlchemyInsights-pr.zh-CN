@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966783"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313417"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>在 Microsoft Defender 中设置防钓鱼策略以Office 365
 
-1. 转到安全Office 365[合规&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-2. 选择 **威胁管理**  >  **策略**。 在策略 **页面上**，选择 [Microsoft Defender Office 365防钓鱼。](https://go.microsoft.com/fwlink/?linkid=2101369)
-3. 在 **"防钓鱼"页上** ，执行下列操作之一：
-    1. 若要添加新策略，请选择" **+ 创建"。**
-    1. 若要编辑现有策略，请从"反网络钓鱼"页面中显示的列表中选择 **策略** 名称。 在出现的页面上，选择要 **更改** 的设置旁边的"编辑"。 将启动一个向导，帮助你定义防钓鱼策略。
-4. 如果要创建新策略，请指定策略的名称、说明和设置。
-5. 查看设置后，请根据情况选择 **"创建此** 策略"或 **"保存**"。
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> ， go to Email & **Collaboration** Policies \> **& Rules** \> **Threat policies** \> **Anti-phishing** in the **Policies** section.
+
+   若要直接转到" **防钓鱼"页面** ，请使用 <https://security.microsoft.com/antiphishing> 。
+
+2. 在 **"防钓鱼"页上** ，执行下列步骤之一：
+   - 若要添加新策略，请选择" **+ 创建"。** 向导将启动，帮助你定义策略设置。
+   - 若要编辑现有策略，请通过单击该策略的名称来选择该策略。 在出现的详细信息飞出控件中，在包含要配置的设置的部分中选择"编辑"。
+
+3. 查看设置后，选择"提交新 (") "保存 (编辑) "。  
+
+有关详细信息，请参阅 Configure [anti-phishing policies in Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)。

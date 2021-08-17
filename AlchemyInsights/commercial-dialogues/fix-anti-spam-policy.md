@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7dfca35c17fb753102bdc80826c41fab12cac8d3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898846"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313453"
 ---
 # <a name="fix-anti-spam-policy"></a>修复反垃圾邮件策略
 
@@ -27,7 +27,7 @@ ms.locfileid: "57898846"
 
    若要直接转到“**反垃圾邮件策略**”页面，请使用 <https://security.microsoft.com/antispam>。
 
-2. 在"**反垃圾邮件** (策略"页上，单击策略名称"类型为自定义反垃圾邮件策略"或"名称为反垃圾邮件入站策略" (**默认** 策略) ) 。）
+2. 在 **"反垃圾邮件** (策略"页上，单击策略名称"类型为自定义反垃圾邮件策略"或"名称为反垃圾邮件入站策略" (**默认** 策略) ) 。
 
 3. In the details flyout that appears， click **Edit spam threshold and properties** in the Bulk email threshold & spam properties **section，** select **Edit actions**， and the review the Mark **as spam** settings.
 

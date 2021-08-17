@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: fc25928b601cd6c36d6c5569a44288c12b156857453f15c312110464e621f251
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54042332"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893841"
 ---
 # <a name="license-or-account-disabled"></a>已禁用许可证或帐户
 
@@ -34,4 +34,4 @@ ms.locfileid: "54042332"
 3. 在 **“重新激活此订阅”** 窗格中，从下拉列表中选择支付方式，或选择 **“添加付款方式”**。
 4. 选择“**保存**”。
 
-要了解详细信息，请参阅[重新激活订阅](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。

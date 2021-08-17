@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 849edc87c56b902a514cf3546eac3719bdadf55470a3011b694182b1e22e2433
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498818"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892417"
 ---
 # <a name="update-credit-card-information"></a>更新信用卡信息
 
@@ -44,4 +44,4 @@ ms.locfileid: "54498818"
 
 如果遇到页面加载问题，请尝试在其他浏览器中打开网页，或者尝试打开页面的专用浏览器窗口，如 Microsoft Edge 中的 InPrivate 窗口或 Google Chrome 中的隐身窗口。 
 
-有关详细信息，请参阅[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+有关详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。

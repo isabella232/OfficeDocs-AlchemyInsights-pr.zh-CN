@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060054"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>访问 Bitlocker 恢复密钥
 
-配置 Bitlocker 设置 Intune Endpoint Protection 策略时，可以定义 Bitlocker 恢复信息是否应该存储在 Azure Active Directory 中。
+配置 Bitlocker 设置 Intune Endpoint Protection 策略时，可以定义 Bitlocker 恢复信息是否应该存储在 Azure Active Directory。
 
 如果配置了该设置，则作为 Intune 设备边栏选项卡中的设备记录数据的一部分，存储的恢复数据应该对 Intune 管理员可见：
 
@@ -47,5 +47,5 @@ All Key Protectors
  
 如果设备是通过基于域的组策略进行配置而加密的，则恢复信息可能存储在本地 Active Directory 中。
 
-如果你已配置终结点保护策略以将恢复密钥存储在 Azure Active Directory 中，但特定设备的密钥尚未上载，则可以通过从 MEM 控制台旋转该设备的恢复密钥来触发上传。 有关详细信息，请参阅 [旋转 BitLocker 恢复密钥](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)。
+如果已配置终结点保护策略以将恢复密钥存储在 Azure Active Directory但是尚未上载特定设备的密钥，则可以通过从 MEM 控制台旋转该设备的恢复密钥来触发上载。 有关详细信息，请参阅 [旋转 BitLocker 恢复密钥](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)。
 

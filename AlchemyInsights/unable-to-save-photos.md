@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "11618"
 - "9001499"
-ms.openlocfilehash: 6583ea94b1169249571f57051c569ad3371edd72
-ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
+ms.openlocfilehash: 53cb5b223536cee2fbd5c896f38ed8d1938d615200f9151170070422da229448
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52854018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091679"
 ---
 # <a name="unable-to-save-user-photos"></a>无法保存用户照片
 
-管理员无法在管理中心中上传和保存Microsoft 365照片。
+管理员无法上传用户照片并将其保存在Microsoft 365 管理中心。
 
 有关最新信息，请参阅服务运行状况公告[M0260481。](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth/advisories/:/alerts/MO260481)

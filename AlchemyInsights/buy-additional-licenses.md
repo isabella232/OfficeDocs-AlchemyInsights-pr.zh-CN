@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499070"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313724"
 ---
 # <a name="buy-additional-licenses"></a>购买其他许可证
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499070"
 3. 在 **"许可证****总数"** 框中的"新数量"下，输入要用于此订阅的许可证总数。 例如，如果你有 100 个许可证，并且你想要再添加 25 个，请输入 125。
 4. 选择“**保存**”。
 
-若要了解更多信息，请参阅 [购买或删除许可证](/microsoft-365/commerce/licenses/buy-licenses)。
+若要了解更多信息，请参阅 [购买或删除许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。
 
 **其他资源**
 
-[将许可证分配给企业Microsoft 365中的用户](/microsoft-365/admin/manage/assign-licenses-to-users)
+[向企业版Microsoft 365许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
