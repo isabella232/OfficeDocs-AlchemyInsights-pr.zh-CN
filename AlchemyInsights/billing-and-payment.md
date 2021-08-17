@@ -15,22 +15,22 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502382"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314906"
 ---
 # <a name="billing-and-payment"></a>计费和付款
 
-帐单可在"帐单""帐单  >  [""&"选项卡](https://go.microsoft.com/fwlink/p/?linkid=848039)上找到。 默认情况下，显示最近 3 个月的发票。  若要查看较旧的发票，请调整筛选器。  单击" **下载发票 PDF"** 链接以查看发票。
+帐单位于"帐单""帐单  >  [""&"](https://go.microsoft.com/fwlink/p/?linkid=848039)选项卡上。 默认情况下，显示最近 3 个月的发票。  若要查看较旧的发票，请调整筛选器。  单击" **下载发票 PDF"** 链接以查看发票。
 
 **通过电子邮件接收发票**
 
-在 **"**  >  [计费计费通知](https://go.microsoft.com/fwlink/p/?linkid=853212)"页上，你可以打开此功能并管理将接收发票作为电子邮件附件的用户。 发票将发送到"通知收件人"列表中用户的电子邮件地址。 该列表包括所有计费和全局管理员。  可以通过更改角色来管理获得发票通知的人。  删除全局或帐单管理员角色将该用户从收件人列表中删除，添加全局或帐单管理员角色将用户添加到收件人列表。
+在 **"计费** 计费通知"页上，你可以打开此功能并管理将接收发票  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212)的电子邮件附件的用户。  发票将发送到"通知收件人"列表中用户的电子邮件地址。 该列表包括所有计费和全局管理员。  可以通过更改角色来管理获得发票通知的人。  删除全局或帐单管理员角色将该用户从收件人列表中删除，添加全局或帐单管理员角色将用户添加到收件人列表。
 
-注意：你将收到两封单独的电子邮件：一封通知你帐单已准备就绪，并指示你登录到管理中心查看帐单，另一封将帐单作为附件包含。
+注意：你将收到两封单独的电子邮件：一封通知你的帐单已准备就绪，并指示你登录到管理中心查看帐单，另一封将帐单作为附件包含。
 
 **付款**
 
@@ -46,8 +46,7 @@ ms.locfileid: "54502382"
 
 4. 若要使用现有付款方式，请从下拉列表中选择一个，然后选择“**替换**”。
 
-    > [!NOTE]
-    > 如果你有与计费对象信息相关联的订阅，则只能使用信用卡或借记卡支付。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
+    **注意**：如果你有与计费配置文件相关联的订阅，则只能使用信用卡或借记卡来支付费用。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
 
 5. 若要添加新的付款方式，请选择“**添加付款方式**”。
 
@@ -55,10 +54,10 @@ ms.locfileid: "54502382"
 
 7. 已在下拉列表中选择新的付款方式。 选择“**替换**”。
 
-若要了解详细信息，请参阅[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要了解详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **计费频率**
 
 帐单按月或按年生成，具体取决于在结帐时选择的计费频率。  
 
-**注意**：如果进行了更改（如添加或删除许可证），按年计费的订单可能会收到一份中期帐单。 [更改计费频率](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
+**注意**：如果进行了更改（如添加或删除许可证），按年计费的订单可能会收到一份中期帐单。 [更改计费频率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。

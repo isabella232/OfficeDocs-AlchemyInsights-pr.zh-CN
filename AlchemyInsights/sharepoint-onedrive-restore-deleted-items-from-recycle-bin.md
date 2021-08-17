@@ -1,5 +1,5 @@
 ---
-title: "\"对缺少的文件或文件夹进行故障排除"
+title: "\"疑难解答缺少的文件或文件夹"
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: 4c4a495c0d4628b449454b3e2fdc9a7d4956d57b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: aa109cace9ab0ac0fe09c322102c72cda1077373d0de0e1eaf0394ebf11a56e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085182"
 ---
-# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>解决 OneDrive 或 SharePoint 中缺少的文件或文件夹的问题
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>对文件夹中缺少的文件或文件夹进行OneDrive SharePoint
 
 - [检查网站的回收站](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
@@ -40,7 +40,7 @@ ms.locfileid: "50709348"
 
 使用 [文件活动](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) 窗格检查文件的历史记录。
 
-检查本地计算机上 OneDrive 同步客户端。  如果通过 OneDrive 同步客户端同步计算机中的文件，请检查本地同步文件夹以确保已正确上载。 确保还检查本地计算机上回收站。
+在本地计算机上OneDrive同步客户端。  如果你要通过 OneDrive 同步客户端同步你的计算机上的文件，请检查本地同步文件夹以确保已正确上传。 请确保还检查本地计算机上回收站。
 
 
 

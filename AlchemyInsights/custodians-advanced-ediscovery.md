@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "12580"
-ms.openlocfilehash: e7b971619744503cfe09f2ee1ae96ce89929f00943164ff1e0b26e15e74ab8b9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7999b2e7c4ab6523f9084d406484f2c58a3560a533a3137698f07a18c58d46f4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504046"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894953"
 ---
 # <a name="custodians-in-advanced-ediscovery"></a>高级电子数据展示中的保管人
 
@@ -32,6 +32,6 @@ ms.locfileid: "54504046"
 
 更多关于在高级电子数据展示中管理和查看保管人活动的信息，请参见:
 
-- [电子数据展示服务中的保管人和非疑源](/microsoft-365/compliance/managing-custodians)
+- [电子数据展示服务中的保管人和非疑源](https://docs.microsoft.com/microsoft-365/compliance/managing-custodians)
 
-- [查看保管人审核活动](/microsoft-365/compliance/view-custodian-activity)
+- [查看保管人审核活动](https://docs.microsoft.com/microsoft-365/compliance/view-custodian-activity)

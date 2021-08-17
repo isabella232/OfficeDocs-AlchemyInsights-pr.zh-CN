@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081816"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314798"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>查看电子邮件、URL 或附件提交的状态
 
@@ -25,5 +25,4 @@ ms.locfileid: "54081816"
 
 你将在页面上看到提交进度，还可以深入到以前的提交以查看提交的详细信息和结果。
 
-> [!NOTE]
-> 使用提交资源管理器提交项目后，可能需要几分钟时间才能显示结果。
+**注意**：使用提交资源管理器提交项目后，可能需要几分钟时间才能显示结果。

@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017086"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896145"
 ---
 # <a name="fix-languageip-filter-policy"></a>修复语言/IP 筛选器策略
 
-租户中的自定义反垃圾邮件策略影响此邮件。 若要查看策略，请执行下列操作：
+您的一个反垃圾邮件策略影响此邮件。 若要查看策略，请执行以下步骤：
 
-1. 转到安全 [Office 365安全&](https://go.microsoft.com/fwlink/p/?linkid=2077143)中心，然后转到威胁 **管理**  >  **策略**  >  [反垃圾邮件](https://go.microsoft.com/fwlink/?linkid=2101518)。
-2. 在"**自定义**"选项卡上，选择"**默认垃圾邮件** 筛选器策略"或您可能已创建任何其他自定义策略，然后选择"编辑 **策略"。**
-3. 展开" **国际垃圾邮件"** 选项并查看设置。
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> ， go to Email & **Collaboration** Policies \> **& Rules** \> **Threat policies** \> **Anti-spam** in the **Policies** section.
 
-有关配置垃圾邮件筛选器策略的信息，请参阅配置 [自定义垃圾邮件筛选器策略设置](https://go.microsoft.com/fwlink/?linkid=2101054)。
+   若要直接转到“**反垃圾邮件策略**”页面，请使用 <https://security.microsoft.com/antispam>。
+
+2. 在 **"反垃圾邮件** (策略"页上，单击策略名称"类型为自定义反垃圾邮件策略"或"名称为反垃圾邮件入站策略" (**默认** 策略) ) 。
+3. In the details flyout that appears， select **Edit spam threshold and properties** in the Bulk email threshold & spam **properties** section.
+4. 在" **标记为垃圾邮件"** 部分，查看" **包含特定语言"和** " **来自这些国家/地区"** 设置。
+
+有关详细信息，请参阅[在 EOP 中配置反垃圾邮件策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)。

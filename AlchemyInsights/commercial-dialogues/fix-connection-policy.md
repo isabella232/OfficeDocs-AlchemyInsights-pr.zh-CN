@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d27d570a7bc0f2c1081ba7fd52264a20bf25a453
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888396"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314834"
 ---
 # <a name="fix-connection-policy"></a>修复连接策略
 
@@ -33,7 +33,6 @@ ms.locfileid: "57888396"
 
 4. 查看"始终允许来自以下 **IP** 地址或地址范围的邮件"部分中的条目，并查看是否 **选择了"打开安全** 列表"。
 
-   > [!NOTE]
-   > Microsoft 订阅到第三方受信任发件人来源。 如果启用安全列表，这些受信任的发件人不会错误地标记为垃圾邮件。 建议选择此选项，因为这样可以减少归类为垃圾邮件 (邮件的误报数量) 您收到的垃圾邮件。
+   **注意**：Microsoft 订阅受信任发件人的第三方源。 如果启用安全列表，这些受信任的发件人不会错误地标记为垃圾邮件。 建议选择此选项，因为这样可以减少被归类为垃圾邮件 (垃圾邮件的误报) 数量。
 
 有关详细信息，请参阅[配置连接筛选](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)。

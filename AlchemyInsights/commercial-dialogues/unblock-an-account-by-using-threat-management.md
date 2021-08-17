@@ -13,17 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 742870fc586daa1f44c88f16405c7b14b5bd2f5000f7e13d396ad6d43829acbd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081420"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894997"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>使用威胁管理取消阻止帐户
 
-下面将对此进行说明： 
+下面将对此进行说明：
 
-1. 转到安全Office 365[合规&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-1. 选择 **威胁管理**  >  **审阅**。 在"**审阅"** 页上，选择"**[受限用户"。](https://go.microsoft.com/fwlink/?linkid=2103514)**
-1. 如果列表中显示遭到入侵的帐户，请单击"**取消阻止帐户"。** 帐户应该能够再次发送邮件，通常是在一小时内发送。
+1. 转到电子邮件Microsoft 365 Defender协作审阅受限& <https://security.microsoft.com> \>  \> **电子邮件** \> **门户**。
+
+   若要直接转到" **受限用户"** 页面，请使用 <https://security.microsoft.com/restrictedusers> 。
+
+2. 如果用户在列表中，请选择该用户，然后选择"**取消阻止"。** 按照飞出窗格中的步骤操作，然后选择" **是** "进行确认。
+
+   帐户应该能够再次发送邮件，通常是在一小时内发送。
+
+有关详细信息，请参阅从受限 [用户门户中删除被阻止的用户](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam)。
