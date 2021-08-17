@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001726"
 - "3825"
-ms.openlocfilehash: 0b13aac8deff4da1377dab5e287e7d251053accc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f3f37062e8d4b423786eaa727569205552dd18e34ea605edf09ffe5b12a16b6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044294"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>使用 Microsoft Forms 创建投票、表单或测验
 
-想要在 Microsoft Teams 中创建表单、投票或测验？ Microsoft Forms 可提供帮助！
+想要在 Microsoft Teams 中创建表单、投票、调查或测验？Microsoft Forms 可提供帮助！
 
  - 为你的组织“[开启或关闭 Forms](https://support.office.com/article/turn-off-or-turn-on-microsoft-forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43)”，或只对指定的用户启用。
  

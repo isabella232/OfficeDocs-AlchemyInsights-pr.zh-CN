@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52319169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076633"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>从设备清单中删除已载或已停用设备的问题
 
@@ -26,7 +26,7 @@ Microsoft Defender for Endpoint 当前不允许从设备清单中手动删除载
 
 出于安全目的，设备作为历史记录在门户中保留最多 180 天。 但是，设备数据将按照配置的保留期进行清除。
 
-**注意：** 载出或停用的设备会在七天后自动 **切换到** 非活动状态。 此外，过去 30 天内未处于活动状态的设备不会纳入反映组织威胁和漏洞管理曝光分数或 Microsoft 设备安全分数的数据中。
+**注意：** 载出或停用的设备会在七天后自动 **切换到** 非活动状态。 此外，过去 30 天内未处于活动状态的设备不会纳入反映你的组织曝光分数危险和漏洞管理 Microsoft 安全分数的数据中。
  
 如果仍不想在"设备清单"视图中看到某些设备，请尝试放置设备标记以从"设备清单"视图中筛选出停用的设备。
 
@@ -34,7 +34,7 @@ Microsoft Defender for Endpoint 当前不允许从设备清单中手动删除载
 
 [从 Microsoft Defender for Endpoint 服务载出设备](/microsoft-365/security/defender-endpoint/offboard-machines.md)
 
-[威胁和漏洞管理中的曝光评分](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
+[曝光分数（以危险和漏洞管理](/microsoft-365/security/defender-endpoint/tvm-exposure-score.md)
 
 [修复 Microsoft Defender for Endpoint 中的不正常传感器](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors#inactive-devices.md)
 

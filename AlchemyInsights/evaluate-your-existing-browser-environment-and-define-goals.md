@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9141"
 - "9005291"
-ms.openlocfilehash: 5b03d188aa78be83928cf262f1d86f3f933c85ab
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: ff965b3f2fd747763185fcf4cd43479b1cd7189ed737005c2aca4a723df135cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50529893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043646"
 ---
 # <a name="evaluate-your-existing-browser-environment-and-define-goals"></a>评估现有浏览器环境和浏览器需求
 
-请花些时间来了解当前的浏览器状态和项目远景，以确保所有项目利益相关方都保持一致并努力达到相同的结果。 请按以下步骤操作：
+请花些时间来了解当前的浏览器状态和项目愿景，以确保所有项目利益相关方都保持一致并为同一目标而努力。请按照以下步骤进行操作：
 
 1. 定义当前状态。 比如以下几种情况：
 - 当前在环境中部署了哪些浏览器？
