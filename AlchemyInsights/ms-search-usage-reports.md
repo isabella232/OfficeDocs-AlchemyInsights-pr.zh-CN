@@ -1,5 +1,5 @@
 ---
-title: 开始使用 Microsoft 搜索使用情况报告
+title: 开始使用Microsoft 搜索使用情况报告
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52642017"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077280"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>开始使用 Microsoft 搜索使用情况报告
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>开始使用Microsoft 搜索使用情况报告
 
 Microsoft 搜索使用情况报告提供有关搜索在组织中运行方式的见解。 这些见解将帮助您查找内容，使搜索对组织中用户更有用且更令人愉悦。
 
-若要了解更多信息，请参阅 [Microsoft 搜索使用率报告](https://go.microsoft.com/fwlink/?linkid=2152048)。
+若要了解更多信息，请参阅Microsoft 搜索[使用情况报告。](https://go.microsoft.com/fwlink/?linkid=2152048)

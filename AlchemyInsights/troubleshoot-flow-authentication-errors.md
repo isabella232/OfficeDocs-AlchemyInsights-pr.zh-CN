@@ -1,5 +1,5 @@
 ---
-title: 流身份验证错误疑难解答
+title: 身份验证Flow疑难解答
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e56325a2ff49e46779f0389592f8b429f38e66a9a8b74c1e84742768ce25437
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105810"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>流身份验证错误疑难解答
+# <a name="troubleshoot-flow-authentication-errors"></a>身份验证Flow疑难解答
 
-在许多情况下，流会因身份验证错误而失败。 如果您具有此类错误，则错误消息将包含 "未授权"，或者出现错误代码401或403。 您通常可以通过更新连接来修复身份验证错误：
+在许多情况下，由于身份验证错误，流会失败。 如果您具有此类型的错误，则会显示错误消息"Unauthorized"或错误代码 401 或 403。 通常可以通过更新连接来修复身份验证错误：
   
-1. 在 web 门户顶部，单击或点击齿轮图标以打开 "设置" 菜单，然后单击或点击 " **连接**"。
+1. 在 Web 门户顶部，单击或点击齿轮图标以打开设置菜单，然后单击或点击"连接 **"。**
     
-2. 滚动到您看到了未经授权的错误消息的连接。
+2. 滚动到您看到其"未授权"错误消息的连接。
     
-3. 在 "连接" 旁边，单击或点击 " **确认密码** " 链接，以了解有关未通过身份验证的连接的消息。 
+3. 在连接旁边，单击或点击消息中有关未通过身份验证的连接的"验证密码"链接。 
     
-4. 按照出现的说明验证您的凭据，返回到流运行失败，然后单击或点击 " **重新提交**"。
+4. 按照出现的说明验证凭据，返回到流运行失败，然后单击或点击"**重新提交"。**
     
-有关更多帮助，请参阅 [排除流故障](https://go.microsoft.com/fwlink/?linkid=872110)。
+有关更多帮助，请参阅 [排查流问题](https://go.microsoft.com/fwlink/?linkid=872110)。
   
 
