@@ -16,12 +16,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: a5a91adf124143d3ccaaa55d927da6a540d8d390f8a306b979f05b4eb279ffc2
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: b35a671b345600f9bbd03175ba2cc3d83ffb5602d0d5b0631e0a9c6bca09db50
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501050"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887660"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>如何更新信用卡信息？
 
@@ -29,6 +29,6 @@ ms.locfileid: "54501050"
 2. 选择要更新的付款方式行。 在右窗格中，选择“**编辑**”。
 3. 更新付款方式信息，包括信用卡或借记卡上的姓名、帐单邮寄地址或到期日期，然后选择“**保存**”。
 
-若要了解详细信息，请参阅[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+若要了解详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
 **请注意**：如果其他管理员购买了该订阅，则无法更新它的信用卡或银行帐户信息。如果该信用卡将要到期，而其他管理员无法更新它，则可以通过为订阅添加其他信用卡或新银行帐户来防止服务中断。

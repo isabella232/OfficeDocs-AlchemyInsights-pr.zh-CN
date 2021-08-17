@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11514"
 - "9003046"
-ms.openlocfilehash: ea9f78176bcc3208c01da5ccfaeb97af4373a5b5d1a4abc652422a0f85df7d9a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e524935c4600d4f043e39dc3c261eb21be97bfbaeb30dc1279676e2d5578ba4b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54004180"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888292"
 ---
 # <a name="drive-shipping-in-the-microsoft-365-import-service"></a>Microsoft 365 导入服务中的驱动器传送
 
@@ -41,4 +41,4 @@ ms.locfileid: "54004180"
 
 - 使用驱动器传送将 PST 文件导入到 Microsoft 365 邮箱的成本为每 GB 数据 2 美元。
 
-有关使用驱动器传送方法导入 PST 的其他信息，请参阅[使用驱动器传送导入组织的 PST 文件](/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)。
+有关使用驱动器传送方法导入 PST 的其他信息，请参阅[使用驱动器传送导入组织的 PST 文件](https://docs.microsoft.com/microsoft-365/compliance/use-drive-shipping-to-import-pst-files-to-office-365)。

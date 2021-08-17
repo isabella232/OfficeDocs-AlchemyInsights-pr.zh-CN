@@ -1,5 +1,5 @@
 ---
-title: 1800009 Outlook for Mac 内应用支持
+title: 1800009 Outlook for Mac应用内支持
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33ec262ed3f6bd45424476fded5d88b62f59cdf31542e675923a030f1d6b8fa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053456"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Outlook for Mac 中的应用程序内支持
+# <a name="in-app-support-in-outlook-for-mac"></a>应用程序中的应用内Outlook for Mac
 
-若要接收适用于 Outlook for Mac 问题的支持，请打开 outlook 并单击 " **帮助**" " \> **联系支持**"。 键入您的问题，Outlook for Mac 支持团队中的成员将与你联系。 
+若要接收应用内支持，Outlook for Mac问题，Outlook然后单击帮助 \> **联系支持** 人员。 键入你的问题，Outlook for Mac团队成员将联系你。 
 
-了解详细信息：[在 Outlook For Mac 中联系支持](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)人员
+了解更多信息：[联系支持人员Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

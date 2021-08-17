@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080340"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>创建组织关系，以允许你的用户与另一个组织进行协作
 
@@ -25,7 +25,7 @@ ms.locfileid: "51816118"
 2. 转到“**组织**” > “**共享**”。
 3. 在“**组织共享**”下，单击“**新建**”。
 4. 在“**新建组织关系**”中的“**关系名称**”框中，为组织关系键入友好名称。
-5. 在“**要共享的域**”框中，为允许其查看日历的外部 Office 365 或 Exchange 本地组织键入域。 如果需要输入多个域，请用逗号将域名分隔开。 例如，contoso.com、service.contoso.com。
+5. 在“**要共享的域**”框中，为允许其查看日历的外部 Office 365 或 Exchange 本地组织键入域。如果需要输入多个域，请用逗号将域名分隔开。例如，contoso.com, service.contoso.com。
 6. 选中“启用日历忙/闲信息共享”复选框，以开启与列出的域的日历共享。设置日历忙/闲信息的共享级别，并设置可以共享日历忙/闲信息的用户。  
 
 若要设置忙/闲访问级别，请选择以下项目之一：

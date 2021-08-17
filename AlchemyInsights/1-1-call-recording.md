@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: befb89c28396be3dc60d9d812a0c6aced69bea3c1c48d88a4ab81a34d6c259b0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918981"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886129"
 ---
 # <a name="11-call-recording"></a>1：1 呼叫录制
 
-如果在 **一** 对一呼叫中"开始录制"按钮灰显，则需要更改受影响用户的策略设置。 若要检查策略设置，请通过键入 **上面的 Diag： Teams 1：1 呼叫** 录制来为受到影响的用户运行诊断。     
+如果在 **一** 对一呼叫中"开始录制"按钮灰显，则需要更改受影响用户的策略设置。 若要检查策略设置，请通过键入 **上面的 Diag： Teams 1：1 呼叫** 录制，为受到影响的用户运行诊断。     
 
-从 2021 年 5 月 31 开始，我们将开始强制使用新的 Teams调用策略 *AllowCloudRecordingForCalls*。 在此更改之前，1：1 呼叫录制由 *AllowCloudRecording* 会议策略Teams控制。 此更改记录在消息中心文章： (更新)  [ 1：1 呼叫录制策略简介中](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)。  
+从 2021 年 5 月 31 开始，我们将开始强制使用新的 Teams 调用策略 *AllowCloudRecordingForCalls*。 在此更改之前，1：1 呼叫录制由 *AllowCloudRecording* 会议策略Teams控制。 此更改记录在消息中心文章： (更新)  [ 1：1 呼叫录制策略简介中](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)。  
 
 *AllowCloudRecordingForCalls*  默认情况下，呼叫策略选项 **$False** 策略选项。 如果你希望阻止所有用户录制一对一呼叫，则无需执行任何操作。  
 
-若要在一对一呼叫中为所有用户启用呼叫记录，Teams [PowerShell](/microsoftteams/teams-powershell-install)运行以下 cmdlet： 
+若要在一对一呼叫中为所有用户启用呼叫记录，Teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install)运行以下 cmdlet： 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-或者，你可以创建新策略，并将 **-AllowCloudRecordingForCalls** 设置为 $true **并将该** 策略分配给你的用户。 
+或者，你可以创建新策略，并将 **-AllowCloudRecordingForCalls** 设置为 $true并将该策略分配给你的用户。 
 
-有关详细信息，请参阅 ["1：1 呼叫录制策略控件 (几乎！) 此处](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)。
+有关详细信息，请参阅 [1：1 呼叫录制策略控件 (几乎！) 此处](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)。

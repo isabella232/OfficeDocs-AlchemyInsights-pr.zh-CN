@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499538"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886281"
 ---
 # <a name="too-many-licenses"></a>许可证过多？
 
@@ -33,7 +33,7 @@ ms.locfileid: "54499538"
 1. 在管理中心中，转到 **“计费”** \> **[“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页面。
 2. 在“**产品**”选项卡上，选择要更改的订阅。
 3. 在订阅详细信息页面上，选择”**删除许可证**”。
-4. 在"**删除许可证"** 窗格中的"许可证总数"**框中的"** 新数量"下，输入要用于此订阅的许可证总数。 例如，如果你有 100 个许可证，并且你想要删除其中 25 个，请输入 75。
+4. 在"**删除许可证"** 窗格中的 **"许可证总数**"框中的"新数量"下，输入要用于此订阅的许可证总数。 例如，如果你有 100 个许可证，并且你想要删除其中 25 个，请输入 75。
 5. 选择“**保存**”。
 
-若要了解更多信息，请参阅 [购买或删除许可证](/microsoft-365/commerce/licenses/buy-licenses)。
+若要了解更多信息，请参阅 [购买或删除许可证](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)。

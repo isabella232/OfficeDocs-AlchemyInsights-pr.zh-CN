@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058532"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888360"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>在 Microsoft Defender 保险箱设置附件策略Office 365
 
-1. 转到安全Office 365 [安全&中心，](https://go.microsoft.com/fwlink/p/?linkid=2077143)**然后选择"威胁** 管理策略保险箱  >    >  **附件"。**
-2. 若要为其他工作负载启用此功能，请选择"启用 **适用于 Office 365、SharePoint Online、OneDrive** 和 Microsoft Teams 的 Microsoft Defender Microsoft Teams" 。
-3. 若要创建新策略，请选择"新建 ()  **+** 图标。
-4. 指定策略的名称、说明和设置。
-5. 选择“保存”。
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> ， go to Email & **Collaboration** Policies & \> **Rules Threat** \> **policies** \> **保险箱 Attachments** in the **Policies** section.
+
+   若要直接转到"附件 **保险箱，** 请使用 <https://security.microsoft.com/safeattachmentv2> 。
+
+2. 在 **"保险箱"** 页上，执行下列任一步骤：
+   - 若要添加新策略，请选择" **+ 创建"。** 向导将启动，帮助你定义策略设置。
+   - 若要编辑现有策略，请通过单击该策略的名称来选择该策略。 在出现的详细信息飞出控件中，在包含要配置的设置的部分中选择"编辑"。
+   - 若要为 SharePoint、OneDrive 和 Microsoft Teams 启用或关闭"保险箱 附件"，请单击"全局设置"，打开或关闭该设置，然后单击"保存 **"。**
+
+3. 查看设置后，选择"提交新 ("或) " (编辑) "。 
+
+有关详细信息，请参阅以下文章：
+
+- [在 Microsoft Defender 保险箱设置附件策略Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [为 SharePoint、OneDrive 和 Microsoft Teams 启用安全附件](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

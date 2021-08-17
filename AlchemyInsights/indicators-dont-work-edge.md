@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: 4094371ee0a3b3ec8d29454fd66f3e9e7c3f35a91b9ea05f308325bc447ce11c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53926307"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887430"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>指示器使用 Edge 浏览器不起作用
 
-创建指示器后，Edge （Smartscreen） 不授予其荣誉。 有关详细信息，请参阅 [IP 和 URL/域标记](/microsoft-365/security/defender-endpoint/indicator-ip-domain)。
+创建指示器后，Edge （Smartscreen） 不授予其荣誉。 有关详细信息，请参阅 [IP 和 URL/域标记](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)。
 
 ## <a name="step-1-ensure-the-following"></a>步骤 1：确保以下内容
 
@@ -34,7 +34,7 @@ ms.locfileid: "53926307"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>步骤 2：解决潜在问题
 
-- 请确保客户端满足要求。 有关详细信息，请参阅 [创建 IP 和 URL/域指示器](/microsoft-365/security/defender-endpoint/indicator-ip-domain)。
+- 请确保客户端满足要求。 有关详细信息，请参阅 [创建 IP 和 URL/域指示器](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)。
 - 请确保正在运行最新版本的 Edge 浏览器。 若要了解最新版本，请参阅 [了解你拥有哪个版本的 Microsoft Edge](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)。
 - 重启 Edge 浏览器。
 - 导航到已设置指示器的网站。 如果网站未按预期显示，请继续执行步骤 3。 
