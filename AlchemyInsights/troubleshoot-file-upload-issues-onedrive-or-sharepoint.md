@@ -1,5 +1,5 @@
 ---
-title: OneDrive 或 SharePoint 文件上传问题疑难解答
+title: 文件OneDrive或SharePoint文件上载问题疑难解答
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200007"
 - "3422"
-ms.openlocfilehash: a1bdd799b4ebe902f119ad9bf75895d40548e1d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 743981dce91c7e3167506a6cb47b443169149a6ef3c96aa46774c396b4f2cb55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048182"
 ---
-# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>OneDrive 或 SharePoint 文件上传问题疑难解答
+# <a name="troubleshoot-onedrive-or-sharepoint-file-upload-issues"></a>文件OneDrive或SharePoint文件上载问题疑难解答
 
 如果在将文件上载或同步到 OneDrive 或 SharePoint 时遇到问题，以下文章可能会有所帮助：
 
@@ -29,5 +29,5 @@ ms.locfileid: "51824533"
 - [OneDrive、OneDrive for Business 和 SharePoint 中的无效文件名和文件类型](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 - [修复 OneDrive 同步问题](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 - [最大限度提高上传和下载速度](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
-- [在 Windows 中通过 OneDrive 同步文件](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [将文件与OneDrive同步Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
  
