@@ -1,5 +1,5 @@
 ---
-title: 1490-故障排除-电子数据展示-故障
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105558"
 ---
 # <a name="troubleshoot-content-search-errors"></a>内容搜索错误疑难解答
 
-在您导出搜索结果时，您是否遇到内容搜索问题或获取故障？
+导出搜索结果时，是否遇到内容搜索问题或遇到故障？
 
-例如，运行搜索时是否收到以下信息？
+例如，运行搜索时是否收到以下内容？
 
 - CS008 或 CS012 错误
 
-- 服务器忙/timeout 错误
+- 服务器繁忙/超时错误
 
-- 出现应用程序错误
+- 发生应用程序错误
 
-或者从大量邮箱中搜索或导出结果时 (超过100000个邮箱) ，您是否收到导出错误？
+或者，在超过 100，000 (邮箱中搜索或导出) 时，您是否收到导出错误？
 
-对于这些类型的错误，请重试对失败的内容位置的搜索。 有关详细信息，请参阅  [本文](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 。
+对于这些类型的错误，请重试搜索已失败的内容位置。 有关详细信息  [，](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) 请参阅本文。
 
-如果要导出超过10万个以上的邮箱，则需要使用以下 Powershell 下载导出结果：  [导出超过10个邮箱的结果](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)。
+如果要导出超过 10 万个邮箱，则需要使用以下 Powershell 下载导出结果：从  [超过 10 万](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)个邮箱导出结果。
