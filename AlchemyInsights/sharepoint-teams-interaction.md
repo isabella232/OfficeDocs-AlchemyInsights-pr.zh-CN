@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53957412"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898346"
 ---
 # <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>帮助实现SharePoint Microsoft Teams交互
 
-每个团队Microsoft Teams团队在 SharePoint 中都有一个团队网站，团队的每个标准频道都获取默认团队网站文档库中的文件夹。 每个私人频道都有自己的独立SharePoint网站。 有关详细信息，请参阅：
+Microsoft Teams团队SharePoint一个团队网站，团队的每个标准频道在默认团队网站文档库中都有一个文件夹。 每个私人频道都有自己的单独SharePoint网站。 有关详细信息，请参阅：
 
-- 若要详细了解私人频道交互，请参阅私人频道[Microsoft Teams。](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
+- 若要详细了解私人频道交互，请参阅私人频道[Microsoft Teams。](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-- 若要了解有关限制以及存储SharePoint的影响，请参阅限制和[Microsoft Teams。](/microsoftteams/limits-specifications-teams#storage) 
+- 若要了解有关限制以及存储SharePoint的影响，请参阅限制和[Microsoft Teams。](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage) 

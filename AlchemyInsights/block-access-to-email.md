@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003890"
 - "6944"
-ms.openlocfilehash: 06079800fee6ce3fb47a1e56c9f4429805d061e2
-ms.sourcegitcommit: 72536a4cf4b84235d3a16ffdd428a92f38dd5e87
+ms.openlocfilehash: 851fc0dea7adf9d5befcf29c3d0e34943e322fcdd35d32c22fd7d2c49a7eed0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49676560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060018"
 ---
 # <a name="block-access-to-email"></a>阻止访问电子邮件
 
@@ -26,7 +26,7 @@ ms.locfileid: "49676560"
 
 1. 转到 [Exchange 管理中心](https://go.microsoft.com/fwlink/?linkid=2138629)。
 1. 在 **"收件人"** 下，单击 **"邮箱"。**
-1. 双击用户的邮箱显示名称，然后单击 **邮箱功能**。
-1. Under **Mobile Devices，** select **Disable Exchange ActiveSync** and answer **Yes，** and then select **Disable OWA for Devices** and answer **Yes.**
-1. 在 **"电子邮件连接**"下，**选择"禁用**"并回答 **"是"。**
+1. 双击用户的邮箱显示名称，然后单击"**邮箱功能"。**
+1. 在 **"移动设备"** 下，选择"禁用Exchange ActiveSync回答 **是"，** 然后选择"**禁用适用于设备的 OWA"** 并回答 **"是"。**
+1. 在 **"电子邮件连接"** 下，**选择"禁用**"并回答 **"是"。**
 1. 单击“**保存**”。
