@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11084"
 - "9003537"
-ms.openlocfilehash: 4943287fe010aacc456670105761b0e8e6b4269ce24086bc5000c9ccc916c8f8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cefebe63e45caab176ba84a35280378ace7e6b3115c48694ed043a39b4d93c1e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994207"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890044"
 ---
 # <a name="defender-endpoint-check-sensor-status"></a>Defender Endpoint 检查传感器状态
 
@@ -40,6 +40,6 @@ ms.locfileid: "53994207"
 
 可以使用导出功能下载 CSV 格式的整个列表。
 
-有关详细信息，请参阅 [在 Microsoft Defender for Endpoint 中检查传感器运行状况](/microsoft-365/security/defender-endpoint/check-sensor-status)。
+有关详细信息，请参阅 [在 Microsoft Defender for Endpoint 中检查传感器运行状况](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/check-sensor-status)。
 
-有关导致设备处于非活动状态或配置错误的原因的详细信息，请参阅 [在 Microsoft Defender for Endpoint 中修复运行状况不正常的传感器](/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)。
+有关导致设备处于非活动状态或配置错误的原因的详细信息，请参阅 [在 Microsoft Defender for Endpoint 中修复运行状况不正常的传感器](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/fix-unhealthy-sensors)。

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 53c0b7aad5012afb2e923e6b52cb9ec4852f2e27d67dcbbf0845616a0a8e64ad
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503066"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310921"
 ---
 # <a name="payment-faq"></a>付款常见问题解答
 
@@ -28,12 +28,12 @@ ms.locfileid: "54503066"
 - 转到 **“账单”>[“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)** 来指定或更改订阅付款方式。
 - 转到 **账单 > [付款方式](https://go.microsoft.com/fwlink/p/?linkid=2018806)** 以添加、更新、替换或删除付款方式。
 
-- **付款方式** - 如果通过信用卡或银行帐户付款，则在创建账单后的几天内将向与订阅相关联的付款方式收取款项。 如果付款失败，请更新付款方式。 有关详细信息，请参阅[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+- **付款方式** - 如果通过信用卡或银行帐户付款，则在创建账单后的几天内将向与订阅相关联的付款方式收取款项。 如果付款失败，请更新付款方式。 有关详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
-- **过期通知** - 有几个原因会导致付款被拒绝，包括信用卡过期。 可随时使用“结算余额”功能更改信用卡信息，并立即重新提交付款。 有关详细信息，请参阅 [如果我有未结余额，我应该怎么做？](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- **过期通知** - 有几个原因会导致付款被拒绝，包括信用卡过期。 可随时使用“结算余额”功能更改信用卡信息，并立即重新提交付款。 有关详细信息，请参阅 [如果我有未结余额，我应该怎么做？](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-    **重要说明**：更新付款方式后，如果尚未将付款方式与订阅相关联，则可能仍会收到逾期未付或付款被拒绝通知。 可以更改单个或多个订阅的付款方式。 有关详细信息，请参阅[管理付款方式](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
+    **重要说明**：更新付款方式后，如果尚未将付款方式与订阅相关联，则可能仍会收到逾期未付或付款被拒绝通知。 可以更改单个或多个订阅的付款方式。 有关详细信息，请参阅[管理付款方式](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)。
 
-- **付款和计费频率** - 每月或每年生成账单，具体取决于结算时选择的计费频率。 可以随时更改此频率。 有关详细信息，请参阅[更改计费频率](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
+- **付款和计费频率** - 每月或每年生成账单，具体取决于结算时选择的计费频率。 可以随时更改此频率。 有关详细信息，请参阅[更改计费频率](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)。
 
-有关订阅付费的完整指南，请参阅[如何支付阅付费用](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+有关订阅付费的完整指南，请参阅[如何支付阅付费用](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。

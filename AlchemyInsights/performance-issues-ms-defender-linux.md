@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "11491"
 - "9001464"
-ms.openlocfilehash: 268f44640d3b2d8764133560d0cbf500eb4afd22
-ms.sourcegitcommit: 8242a824491f64be48dfe81da09766920fbd7feb
+ms.openlocfilehash: 26ad9631111c250fd8b9ec32d4a6122f37f82513b7542231e402317aea4949dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783416"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899390"
 ---
 # <a name="performance-issues-for-microsoft-defender-for-endpoint-on-linux"></a>Microsoft Defender for Endpoint on Microsoft 上的性能问题
 
 本文将引导你完成识别适用于 Microsoft Defender for Endpoint（Microsoft Defender for Endpoint）性能问题的步骤。
 
-首先验证您遇到的问题是否已通过[最新版本](/microsoft-365/security/defender-endpoint/linux-whatsnew)解决，这一点很重要。 
+首先验证您遇到的问题是否已通过[最新版本](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-whatsnew)解决，这一点很重要。 
 
-若要开始调查，请参阅 [Linux上的 Microsoft Defender for Endpoint 性能问题的疑难](/microsoft-365/security/defender-endpoint/linux-support-perf)。
+若要开始调查，请参阅 [Linux上的 Microsoft Defender for Endpoint 性能问题的疑难](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-support-perf)。
 
 ## <a name="exclusions"></a>排除项
 
 排除可帮助缓解性能问题。 开始之前应检查排除项，以便已知且记录任何其他风险。
 
-有关详细信息，请参阅 [并验证 Microsoft Defender for Endpoint 在Linux上的排除](/microsoft-365/security/defender-endpoint/linux-exclusions)。
+有关详细信息，请参阅 [并验证 Microsoft Defender for Endpoint 在Linux上的排除](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/linux-exclusions)。
 
 如果有多个要排除的文件和文件夹且它们均位于同一个挂载上，排除挂载项可能更简单。 从 2 月 101.22.80 版开始，可以排除整个挂载。
 

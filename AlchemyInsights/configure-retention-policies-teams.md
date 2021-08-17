@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 18361d69f8ddebaaa483b9665142fae4ae671061b49ae4d611bb5e85c7cb2d82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033484"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890136"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>配置保留策略Teams位置
 
 若要为用户配置保留Teams：
 
-1. 在 Microsoft 合规中心中，选择"**策略""**  >  **保留"。**
+1. 在 Microsoft 合规性中心中，选择"**策略保留**  >  **"。**
 
 1. 在 **"保留策略"** 下，选择 **"新建保留策略**"，命名策略，然后选择"下一步 **"。**
 
@@ -36,5 +36,5 @@ ms.locfileid: "54033484"
 
 注意：私人频道消息当前不受保留策略支持。
 
-有关团队保留和已知配置问题的信息，请参阅保留策略[Teams位置](/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
+有关团队保留和已知配置问题详细信息，请参阅保留策略[Teams位置](https://docs.microsoft.com/microsoft-365/compliance/create-retention-policies#retention-policy-for-teams-locations)
 
