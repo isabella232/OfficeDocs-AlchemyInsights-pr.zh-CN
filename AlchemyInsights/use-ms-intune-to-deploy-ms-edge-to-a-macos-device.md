@@ -1,5 +1,5 @@
 ---
-title: 使用 Microsoft Intune 将 Microsoft Edge 部署到 macOS 设备
+title: 使用 Microsoft Intune 将Microsoft Edge部署到 macOS 设备
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104370"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>使用 Microsoft Intune 将 Microsoft Edge 部署到 macOS 设备
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>使用 Microsoft Intune 将Microsoft Edge部署到 macOS 设备
 
-若要部署、配置、监视和保护 macOS 设备上的应用程序，您必须将应用程序添加到 Microsoft Intune。 应用程序必须为 Intune 支持的类型，且 Intune 中可用的管理选项将取决于应用程序的类型。 使用 Intune 也意味着您无需使用 macOS 应用程序包装工具。
+若要在 macOS 设备上部署、配置、监视和保护应用，必须将该应用添加到Microsoft Intune。 应用必须是 Intune 支持的类型，Intune 中可用的管理选项将取决于应用的类型。 使用 Intune 也意味着你不需要使用 macOS 应用包装工具。
 
-Intune 支持 Microsoft Edge。 若要了解详细信息，请参阅 [使用 Microsoft Intune 将 Microsoft Edge 添加到 macOS 设备](https://go.microsoft.com/fwlink/?linkid=2134949)。
+Intune 支持Microsoft Edge。 若要了解更多信息，请参阅使用[Microsoft Edge 添加到 macOS Microsoft Intune。](https://go.microsoft.com/fwlink/?linkid=2134949)

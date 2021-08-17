@@ -1,5 +1,5 @@
 ---
-title: 8000035离开 Outlook.com beta
+title: 8000035保留 Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042836"
 ---
 # <a name="the-new-outlookcom"></a>新 Outlook.com
 
-不再可以离开 Outlook.com beta 并返回 Outlook.com 的经典版。
+不再可能退出 Outlook.com beta 并返回到 Outlook.com 的经典版本。
   
-如果您想要提供有关新 Outlook.com 的反馈，请转到 [UserVoice 论坛](https://go.microsoft.com/fwlink/p/?linkid=851599)。 您可以对您想要了解的想法或问题进行投票，我们将直接答复顶部的评论和建议。
+如果你想要提供有关新 Outlook.com 的反馈，请转到[UserVoice 论坛](https://go.microsoft.com/fwlink/p/?linkid=851599)。 你可以对希望解决的想法或问题进行投票，我们将直接回复顶级评论和建议。
   
-[了解有关新 Outlook.com 的详细信息。](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[详细了解新的 Outlook.com。](https://go.microsoft.com/fwlink/p/?linkid=874356)
   
