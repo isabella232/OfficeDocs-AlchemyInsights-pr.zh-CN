@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 3009984f0582453cd9d37ee8240efcf71f93383c0cee7b7a26a629a963ba0091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b50f9c8d64a77865f03357fd3442c8d367b6e96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53936335"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314058"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>为用户创建或添加电子邮件别名
 
@@ -31,7 +31,7 @@ ms.locfileid: "53936335"
     
 4. 在"**别名**"框中，键入新电子邮件，然后选择"添加 **"。** 如果从 GoDaddy 或另一合作伙伴购买订阅，则必须转到 GoDaddy/合作伙伴管理控制台，才能将新别名设置为主要。 
     
-    **重要** 提示：如果收到错误消息" 找不到与参数名称 **"EmailAddresses"** 匹配的参数，则意味着 Microsoft 完成租户或自定义域设置（如果最近添加了一个）需要更长时间。 设置过程最多需要 4 个小时才能完成。 稍等片刻，待设置过程完成后重试。 如果问题仍然存在，请致电支持人员，他们会为你执行完全同步。
+    **重要** 说明：如果收到错误消息"找不到与参数名称 **"EmailAddresses"** 匹配的参数，则意味着 Microsoft 完成租户或自定义域设置（如果最近添加了一个）需要更长时间。 设置过程最多需要 4 个小时才能完成。 稍等片刻，待设置过程完成后重试。 如果问题仍然存在，请致电支持人员，他们会为你执行完全同步。
     
     新别名通常需要大约 30 分钟才能生效。
     

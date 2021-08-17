@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d4615d335b9aeef69148cd93ff9f44bec6d7d876
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889208"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314194"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory 未同步
 
@@ -31,6 +31,6 @@ ms.locfileid: "57889208"
 
 2. [按照快速安装的说明进行操作](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)。
 
-Azure AD Connect 必须安装在 Windows Server 2012 或以上版本。 服务器必须加入域，并且可以是域控制器或成员服务器。 有关 Azure AD 要求连接先决条件的完整列表，请查看[Prerequisites for Azure AD 连接。](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)
+Azure AD Connect 必须安装在 Windows Server 2012 或以上版本。 服务器必须加入域，并且可以是域控制器或成员服务器。 有关 Azure AD 要求连接先决条件的完整列表，请查看[Prerequisites for Azure AD 连接](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites)。
 
 有关 AADConnect 服务帐户的详细信息，请参阅 [Azure AD Connect：帐户和权限](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)。

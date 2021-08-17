@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3835"
-ms.openlocfilehash: 5eaf53633be10a10df9c040bc2852152f51daa6b248f3773997e203cbb6b86f7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 51a7e1c5d060f58a5bb0e551e31b8c9734858fc2ec88fc662b1d9a78d127bed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54108582"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893677"
 ---
 # <a name="set-up-advanced-ediscovery"></a>设置高级电子数据展示
 
@@ -40,6 +40,6 @@ ms.locfileid: "54108582"
 
 **4. 创建高级电子数据展示事例**
 
-有关设置高级电子数据展示所需步骤的信息，请参阅 [高级电子数据展示入门](/microsoft-365/compliance/get-started-with-advanced-ediscovery)。
+有关设置高级电子数据展示所需步骤的信息，请参阅 [高级电子数据展示入门](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-advanced-ediscovery)。
 
-有关如何创建和管理案件的信息，请参阅 [Microsoft 365 中创建和管理“高级电子数据展示”事例](/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)。
+有关如何创建和管理案件的信息，请参阅 [Microsoft 365 中创建和管理“高级电子数据展示”事例](https://docs.microsoft.com/microsoft-365/compliance/create-and-manage-advanced-ediscoveryv2-case)。
