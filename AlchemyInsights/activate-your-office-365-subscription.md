@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937739"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889304"
 ---
 # <a name="activate-your-subscription"></a>激活你的订阅
 
 **激活订阅**
 
-- 若要授予用户对服务的访问权限，请为用户分配许可证。 若要了解如何操作，请参阅[向用户分配许可证](/microsoft-365/admin/manage/assign-licenses-to-users)。
+- 若要授予用户对服务的访问权限，请为用户分配许可证。 若要了解如何操作，请参阅[向用户分配许可证](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 - 如果已分配许可证，可找到可从[“我的帐户”页面](https://portal.office.com/account/#installs)下载的应用程序。 此页面基于已分配的许可证提供可供下载的应用列表。
-- 如果你已下载 Office 应用程序，可能需要使用你的工作或学校帐户登录应用程序。 可在任何 Office 应用程序（Word、Excel 等）中单击“**文件”>“帐户**”（靠近底部）进行此操作。 在“用户信息”下，选择“**切换帐户**”。 有关详细信息，请参阅[安装 Office 应用程序](/microsoft-365/admin/setup/install-applications)。
+- 如果你已下载 Office 应用程序，可能需要使用你的工作或学校帐户登录应用程序。 可在任何 Office 应用程序（Word、Excel 等）中单击“**文件”>“帐户**”（靠近底部）进行此操作。 在“用户信息”下，选择“**切换帐户**”。 有关详细信息，请参阅[安装 Office 应用程序](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)。
 
 **重新激活订阅**
 
@@ -36,9 +36,9 @@ ms.locfileid: "53937739"
 3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 
-要了解详细信息，请参阅[重新激活订阅](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 **使用产品密钥激活新订阅**
 
 - 若要使用产品密钥激活新的 Microsoft 365 订阅，请参阅[以哪里输入 Office 产品密钥](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)。
-- 输入你的 Microsoft 365 产品密钥并按照提示激活订阅。如果有激活问题，请查看此[常见产品密钥错误和解决方案的列表](/microsoft-365/commerce/product-key-errors-and-solutions)。
+- 输入你的 Microsoft 365 产品密钥并按照提示激活订阅。如果有激活问题，请查看此[常见产品密钥错误和解决方案的列表](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)。
