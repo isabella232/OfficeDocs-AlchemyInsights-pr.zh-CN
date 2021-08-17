@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: c793ed6b7281a558a7a4ce0aa1a3fa432ba4863c7c473e3ec47d980d67c28b7b
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503930"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891521"
 ---
 # <a name="change-payment-method-fromto"></a>更改付款方式从/到
 
 1. **从发票更改为信用卡或银行帐户**
 
-    - 无法自动从发票支付改为使用不同的支付方式。 相反， 必须通过信用卡、借记卡或银行帐户付款[购买其他订阅](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) ，[将所有用户移动到新订阅](/microsoft-365/commerce/subscriptions/move-users-different-subscription)，然后[取消旧订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+    - 无法自动从发票支付改为使用不同的支付方式。 相反， 必须通过信用卡、借记卡或银行帐户付款[购买其他订阅](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) ，[将所有用户移动到新订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)，然后[取消旧订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
 
 2. **从信用卡或银行帐户更改为发票**
 
@@ -35,4 +35,4 @@ ms.locfileid: "54503930"
 
     - 请按照 [如何从信用卡付款更改为发票？](how-do-i-change-from-credit-card-payments-to-invoice.md) 中的步骤，完成手动更改。
 
-有关详细信息，请参阅 [如何为订阅付费](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
+有关详细信息，请参阅 [如何为订阅付费](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)。
