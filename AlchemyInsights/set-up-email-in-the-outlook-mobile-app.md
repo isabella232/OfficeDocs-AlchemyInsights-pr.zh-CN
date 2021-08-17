@@ -1,5 +1,5 @@
 ---
-title: 1800014在 Outlook 移动应用中设置电子邮件
+title: 1800014在移动应用中Outlook电子邮件
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -16,31 +16,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 218c50e1fb7cccb27001f20682785bab84fbfeb5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bc0d854d7033657bba8f0b72a379f82411dabc1c77d58007b8b93f8179daf5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073878"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>在 Outlook 移动应用程序中设置电子邮件
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>在移动应用中Outlook电子邮件
 
-1. 如果首次在移动应用程序中设置电子邮件，请选择 " **已启动** "。 否则，点击 " **菜单** "，然后点击 " **设置** \> **添加帐户**" "添加 \> **电子邮件帐户**"。
+1. 如果 **入门** 设置移动应用中的电子邮件，请选择"下一步"。 否则，点击 **菜单**，然后点击 **设置** \> **添加帐户** \> **添加电子邮件帐户"。**
 
-2. 输入完整的电子邮件地址，然后点击 " **继续** " 或 " **添加帐户**"。
+2. 输入完整电子邮件地址，然后点击"**继续"** 或"**添加帐户"。**
 
-3. 输入您的电子邮件帐户密码，然后点击 **"登录" 或 "** **下一步**"。
+3. 输入你的电子邮件帐户密码，然后点击 **登录或** 下一 **步**。
 
-4. 如果启用了 [多重身份验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) ，请使用设置 (6 个数字代码、电话呼叫或 Microsoft 身份验证器应用) 的方法进行验证。
+4. 如果[已启用多重身份验证](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication)，请通过使用你设置 6 (代码、电话呼叫或 Microsoft Authenticator应用) 。
 
-5. 如果已准备好其他 IT 管理员策略，请点击 " **激活** " 以启用它们。
+5. 如果其他 IT 管理员策略已就位，请点击 **"激活** "以启用它们。
 
-6. Outlook 可能会请求访问您的日历、联系人和其他信息的权限。 选择 **"是" 或 "** **允许**"。
+6. Outlook请求访问日历、联系人和其他信息的权限。 选择 **"是"** 或"**允许"。**
 
-在此处获取适用于 [outlook For Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) 或 [outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) 的详细设置说明。
+在此处获取适用于 Android Outlook[或](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) [Outlook for iOS 的详细设置](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx)说明。
   
- **需要帮助？**
+ **需要帮助?**
   
-- [移动电话上的电子邮件设置疑难解答](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [解决移动设备上的电子邮件设置问题](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [获取适用于 iOS 和 Outlook for Android 的应用程序帮助](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [获取适用于 iOS 和 android Outlook应用内帮助](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "9277"
-ms.openlocfilehash: 826e266d08aa68c0d4213d8058a0244f404fe965
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 12751288d04a2ec5993bf4a546b7d0c862f8f171f5bfd7a337cb79cb95792056
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50718176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040820"
 ---
 # <a name="password-policies"></a>密码策略
 
-**我遇到用户密码策略问题**
+**我在用户的密码策略方面遇到问题**
 
-- 用户的密码策略取决于用户是仅云还是本地。
-- 仅云用户必须选择满足本文中要求的密码：仅适用于云用户帐户 [的密码策略](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#password-policies-that-only-apply-to-cloud-user-accounts)
+- 用户的密码策略取决于用户是仅云用户还是本地用户。
+- 仅云用户必须选择满足以下文章中要求的密码：仅适用于云用户帐户 [的密码策略](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#password-policies-that-only-apply-to-cloud-user-accounts)
 - 本地用户必须选择满足本地要求的密码。 如果本地用户无法设置其密码，请检查您的本地要求。
 
 **不知道如何设置或检查密码过期策略**
 
-- 可以使用 PowerShell 为租户中的云用户设置和检查过期策略。 按照本文中的说明操作：使用 [PowerShell 设置或检查密码策略](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
+- 可以使用 PowerShell 为租户中的云用户设置和检查过期策略。 按照本文中的说明操作：使用 PowerShell 设置或 [检查密码策略](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#set-or-check-the-password-policies-by-using-powershell)
 - 本地用户的密码过期策略在本地 AD 中设置。
 
 **其他有用链接：**
