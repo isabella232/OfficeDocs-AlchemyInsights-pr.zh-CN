@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6245"
 - "9003346"
-ms.openlocfilehash: f0a95f4b045f2735c3aab879941b3237c6a27fb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b8e04a53a12cc2bd1a748ddc8df2f98df2d703fd6143f797d816e602005d13b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036806"
 ---
 # <a name="windows-10-dark-mode-does-not-work"></a>Windows 10 深色模式无法正常工作
 
 **检查（和更新）Windows 10 版本**
 
-首先，请检查你的 Windows 10 版本。 要使深色模式正常运行，你必须运行 2019 年 11 月更新以后的版本（也称为版本“1909”）。  
+首先，检查你的 Windows 10 版本。必须至少运行 2019 年 11 月更新（也称为版本 “1909”），深色模式才能正常工作。  
 
 1. 选择或点击任务栏中的“**开始**”按钮，然后键入 **winver**。 
 2. 选择或点击“**winver Run 命令**”选项，显示版本信息窗口。

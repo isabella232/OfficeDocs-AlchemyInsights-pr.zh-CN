@@ -1,5 +1,5 @@
 ---
-title: Office 365 服务将保持联机状态吗？
+title: 服务Office 365保持联机状态吗？
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49666639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036842"
 ---
-# <a name="will-office-365-services-stay-online"></a>Office 365 服务将保持联机状态吗？
+# <a name="will-office-365-services-stay-online"></a>服务Office 365保持联机状态吗？
 
-可以。 我们已在开发这些服务时牢记复原。 每个服务一次运行多个实例，因此即使一个实例遇到问题，我们的客户也不受影响。 每个服务也包含在内，因此如果一个服务出现问题，它将不会分布到其余服务。 最后，每个服务的代码中都内置了安全措施，以帮助防止问题通过服务进行级联。
+能。 我们以复原能力为考虑开发了这些服务。 每个服务一次运行多个实例，因此即使一个实例遇到问题，我们的客户也不受影响。 每个服务也包含在内，因此如果一个服务出现问题，它将不会分布到其他服务。 最后，每个服务的代码中内置了安全措施，以帮助防止问题通过该服务进行级联。
 
-若要了解有关我们保持服务稳定工作的信息，请参阅使用云服务的 EBCM ([) 业务连续性管理](https://go.microsoft.com/fwlink/?linkid=2124377)。
+若要了解有关我们保持服务稳定工作Enterprise，请参阅使用云服务 ([EBCM) 业务连续性管理](https://go.microsoft.com/fwlink/?linkid=2124377)。
 
-感谢你的反馈，因此 **请对出现的** 问题选择"是"，然后对 / 体验进行评分。
+感谢你的反馈，因此请对出现的问题选择"是 / **"，** 然后对体验进行评分。
