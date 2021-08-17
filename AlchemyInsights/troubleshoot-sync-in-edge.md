@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9128"
 - "9004429"
-ms.openlocfilehash: 499f8e2473848834ae03da69cb98ab844c344e32
-ms.sourcegitcommit: e9fcd72e64d35f5ba14dfa0fbde39eae20d86cfe
+ms.openlocfilehash: c93fb4ab70114496d99eeba9b946106ce73b3736862bf8cb754f91b787a7f5ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53603237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038829"
 ---
 # <a name="troubleshoot-problems-with-sync-in-microsoft-edge"></a>排查 Microsoft Edge 中的同步问题
 
 请尝试执行以下步骤：
 
-1. 运行[ Microsoft 帐户疑难解答](https://go.microsoft.com/fwlink/?linkid=2155661)。 如果这不能解决问题，请继续执行下一步。
+1. 运行 [Microsoft 帐户疑难解答](https://go.microsoft.com/fwlink/?linkid=2155661)。如果这不能解决问题，请继续执行下一步。
 
 1. 备份收藏夹：
 
