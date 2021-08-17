@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9ca4c7520cc733138944aecb581a9ad62d60c3f86f907030dc0a7780f30ddcc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51805460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047102"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Yammer 常见问题和解决方法
 
@@ -31,7 +31,7 @@ ms.locfileid: "51805460"
 
 - **电子数据展示**：运行 [本机模式对齐工具](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)，以为 [Yammer 网络中的电子数据展示](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)做好准备。 
 
-- **合规性**：设置用户 [使用策略](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy)、[导出 Yammer 数据](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)、了解 [如何处理 Yammer 的 GDPR 请求](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)，以及 [确定 Yammer 数据的托管位置](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency)。 视需要[禁用](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer 访问权限。
+- **合规性**：设置用户 [使用策略](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy)、[导出 Yammer 数据](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data)、了解 [如何处理 Yammer 的 GDPR 请求](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise)，以及 [确定 Yammer 数据的托管位置](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency)。如果需要，请 [禁用](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) Yammer 访问权限。
 
 - **外部协作**：与 [外部组](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-external-groups)中的外部用户协作，或在 [外部网络](https://docs.microsoft.com/yammer/work-with-external-users/create-and-manage-an-external-network)中托管更大的社区。 如果安全策略要求的话，[禁用外部消息传递和组](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging)。
 

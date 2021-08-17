@@ -1,5 +1,5 @@
 ---
-title: 了解 Bing 地图许可
+title: 了解必应地图许可
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9213"
-ms.openlocfilehash: 466d922699ba1a0c1978fd0dbd38e126dc025db3
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: a38a66bb70939a1b520e7133e3dc4d4d661ece7a7512a8a6f263bcc365c71165
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50753938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077928"
 ---
-# <a name="learn-about-bing-maps-licensing"></a>了解 Bing 地图许可
+# <a name="learn-about-bing-maps-licensing"></a>了解必应地图许可
 
-Bing 地图服务提供了多个灵活的许可选项，可支持组织的需要和技术要求。 此外，通过免费层，你现在可以使用 Bing 地图开始构建。
+the 必应地图 service offers several flexible licensing options that will support your organization's needs and technical requirements. 此外，通过免费层，你现在可以开始必应地图构建。
 
-有关详细信息，请参阅 [必应地图许可](https://go.microsoft.com/fwlink/?linkid=2150203)。
+有关详细信息，请参阅必应地图[许可。](https://go.microsoft.com/fwlink/?linkid=2150203)

@@ -1,5 +1,5 @@
 ---
-title: 团队班次
+title: TeamsShifts
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106463"
 ---
-# <a name="using-teams-shifts"></a>使用团队班次
+# <a name="using-teams-shifts"></a>使用 Teams Shifts
 
-有关管理倒班应用程序的信息，包括如何设置倒班、为用户启用班次以及管理倒班应用程序，请参阅：
+有关管理 Shifts 应用的信息，包括如何设置班次、为用户启用班次和管理 Shifts 应用，请参阅：
  
-- [在 Microsoft 团队中管理您的组织的倒班应用程序](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)。
-- [为组织中的特定用户启用或禁用班次](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)。
+- 在 Microsoft Teams 中管理组织的[Shifts Microsoft Teams。](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [为组织中特定用户启用或禁用班次](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)。
 
-若要了解有关团队班次的详细信息，包括管理班次日程安排，请参阅 [倒班 For 球队](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)。
+若要了解有关适用于排班Teams（包括管理班次计划[）Teams。](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**2020 年6月30日生效**，Microsoft Staffhub 已停用。 有关详细信息，请参阅 [Microsoft StaffHub 已停](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)用。
+**从 2020 年 6 月 30** 日开始，Microsoft Staffhub 已停用。 有关详细信息，请参阅 [Microsoft StaffHub 已停用](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)。
 

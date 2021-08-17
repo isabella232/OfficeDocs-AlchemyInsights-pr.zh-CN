@@ -1,5 +1,5 @@
 ---
-title: 安装和配置 OneDrive
+title: 安装和配置OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078108"
 ---
-# <a name="install-and-configure-onedrive"></a>安装和配置 OneDrive
+# <a name="install-and-configure-onedrive"></a>安装和配置OneDrive
 
-OneDrive 同步客户端是在 Windows 10 中预安装的。 若要安装 OneDrive for Windows 7 或 Mac，或者为你的手机或平板电脑获取移动应用，请转到 [https://onedrive.com/download](https://onedrive.com/download) 。
+OneDrive 同步客户端预安装Windows 10。 若要OneDrive Windows 7 或 Mac，或者获取手机或平板电脑的移动应用，请转到 [https://onedrive.com/download](https://onedrive.com/download) 。
   
-若要在 Windows 中设置 OneDrive 同步客户端，请参阅：
+若要在客户端OneDrive 同步客户端Windows，请参阅：
   
-- [Onedrive 设置指南](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) ，以开始使用 onedrive 文件存储、共享、协作和同步功能。
+- [OneDrive设置](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide)指南，以开始使用OneDrive、共享、协作和同步功能。
 
-- [将计算机设置为同步 OneDrive for Business 文件](https://go.microsoft.com/fwlink/?linkid=533375)
+- [设置计算机以同步OneDrive for Business文件](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [通过新的 OneDrive 同步客户端同步 SharePoint 文件](https://go.microsoft.com/fwlink/?linkid=871666)
