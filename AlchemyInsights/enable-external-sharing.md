@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057236"
 ---
 # <a name="enable-external-sharing"></a>启用外部共享
 
- 若要确保为 SharePoint Online 启用共享，请执行以下操作：
+ 若要确保为 SharePoint Online 启用共享：
   
 - **全局共享**
     
-  - 门户- \> 外部共享共享 \> 概述-网站，让外部人员访问你的网站：开
+  - 门户 - \> 外部共享 - \> 共享概述 - 网站，允许外部用户访问网站：ON
     
-  - Portal- \> 外部共享- \> 网站-"允许外部人员访问你的网站" 复选框
+  - 门户 - \> 外部共享 - \> 网站 - "允许外部人员访问网站"复选框
     
-- **管理共享-SharePoint 管理中心**
+- **管理共享 - SharePoint管理中心**
     
-    外部共享-确保选中两个选项之一：
+    外部共享 - 确保选中以下两个选项之一：
     
-  - "允许接受共享邀请并以已通过身份验证的用户身份登录的外部用户"
+  - "允许接受共享邀请和以经过身份验证的用户身份登录的外部用户"
     
   - "允许接受共享邀请和匿名来宾链接的外部用户"
     
 - **单个网站集**
     
-  - 网站集-选择 "有问题的网站集"，然后单击功能区上的 "共享"- \> 确保选择了 "共享选项"。
+  - 网站集 - 选择有关网站集，然后单击功能区中的"共享"， \> 确保选择任一共享选项。
     
-有关如何打开外部共享的详细信息，请参阅 [打开或关闭 SharePoint Online 的外部共享。](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+有关如何打开外部共享的其他信息，请参阅打开或关闭 SharePoint [Online 的外部共享。](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

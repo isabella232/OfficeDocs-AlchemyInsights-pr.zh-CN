@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11513"
 - "9006672"
-ms.openlocfilehash: a56abdaae182b840a1a96466e0581ef49b2b0075
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: e0c2b4fd09282cba72361372045ef0074ca9bd95e33b7447ae59c5fa8f489062
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688964"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891405"
 ---
 # <a name="enable-teams-webinars"></a>启用 Teams 网络研讨会
 
-默认情况下启用网络研讨会注册。 如果要关闭会议注册，可以使用 Teams 管理中心： 
+默认情况下启用网络研讨会注册。如果要关闭会议注册，可以使用 Teams 管理中心： 
 
 1. 转到 [Microsoft Teams 管理中心](https://admin.teams.microsoft.com/policies/meetings)。 
 
@@ -38,6 +38,6 @@ ms.locfileid: "53688964"
 
 3. 在 **常规** 下，转到“**谁可以注册**”设置，然后选择“**所有人**”或“**公司中的所有人**”。 
 
-**请注意**：如果在会议设置中关闭了匿名加入，则匿名用户无法加入网络研讨会。 要了解有关启用此设置的详细信息，请参阅  [管理 Microsoft Teams 中的会议设置](/microsoftteams/meeting-settings-in-teams)。 
+**请注意**：如果在会议设置中关闭了匿名加入，则匿名用户无法加入网络研讨会。 要了解有关启用此设置的详细信息，请参阅  [管理 Microsoft Teams 中的会议设置](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams)。 
 
-要详细了解如配置谁可以注册网络研讨会以及如何使用 Teams PowerShell 管理这些策略，请参阅  [配置谁可以注册网络研讨会](/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 有关 Microsoft Lists 设置的详细信息，请参阅  [Microsoft Lists 的控制设置](/sharepoint/control-lists)。 
+要详细了解如配置谁可以注册网络研讨会以及如何使用 Teams PowerShell 管理这些策略，请参阅  [配置谁可以注册网络研讨会](https://docs.microsoft.com/microsoftteams/set-up-webinars?source=docs#configure-who-can-register-for-webinars)。 有关 Microsoft Lists 设置的详细信息，请参阅  [Microsoft Lists 的控制设置](https://docs.microsoft.com/sharepoint/control-lists)。 
