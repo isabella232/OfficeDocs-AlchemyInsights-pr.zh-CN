@@ -1,5 +1,5 @@
 ---
-title: 分配安全管理权限
+title: 分配安全管理员权限
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 7c7572566516204a2a0b40234057b95c76d5e08cba065a4bd3c8d638006f4019
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 91faa95cfad782066b438b1e58782d3c21d59eb2d164ea6076238f6ea98aa1bd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894661"
 ---
-# <a name="assign-security-administration-permissions"></a>分配安全管理权限
+# <a name="assign-security-administrator-permissions"></a>分配安全管理员权限
 
 若要分配安全管理权限，请执行以下步骤：
 
-1. 在 [Office 365 安全与合规中心](https://sip.protection.office.com/homepage)中，选择“**权限”>“安全管理员**”。
-2. 在“**安全管理员**”窗格中，在“**成员**”旁边，单击“**编辑**”。
-3. 在“**编辑选择成员**”窗格中，单击“**选择成员**”。
-4. 在“**选择成员**”窗格中，单击“**+ 添加**”，然后选择用户的姓名。
-5. 选择“**添加”>“完成”>“保存**”。
+1. 在位于 <https://security.microsoft.com> 的 Microsoft 365 Defender 门户中，选择“**电子邮件和协作角色**”部分中的“**权限和角色**”\>“**角色**”。 或使用 <https://security.microsoft.com/emailandcollabpermissions> 直接转到“**权限**”页面。
+2. 从角色组列表中选择“**安全管理员**”。
+3. 在显示的详细信息浮出控件中，向下滚动到“**成员**”部分，然后单击“**编辑**”。
+4. 在出现的“**编辑选择成员**”浮出控件中，单击“**编辑**”。
+5. 在出现的“**选择成员**”浮出控件中，单击“**+ 添加**”，然后选择用户名。
+6. 完成后，单击“**添加**”\>“**完成**”\>“**保存**”\>“**关闭**”。

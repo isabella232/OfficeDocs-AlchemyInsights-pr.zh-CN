@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002564"
 - "4964"
-ms.openlocfilehash: e14be7908c5b44302ab3e90149c2027f77c5873ad610cb42cdff4e022c4409c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ce6ef3c408456cdcd2a8627294508c703212d33d5fd97631e1529e3f05e91bdc
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500330"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894729"
 ---
 # <a name="assign-power-bi-to-users"></a>将 Power BI 分配给用户
 
@@ -33,4 +33,4 @@ ms.locfileid: "54500330"
 5. 选择“**打开或关闭应用和服务**”，进行分配或删除。
 6. 单击“**分配**”，然后“**关闭**”。
 
-若要购买更多许可证或删除许可证，请参阅 [购买或删除](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
+若要购买更多许可证或删除许可证，请参阅 [购买或删除](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)。
