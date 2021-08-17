@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001098"
 - "3059"
-ms.openlocfilehash: b4ce32ceb9c79a149c784a43ef7aad9f951d2888
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b297aff26d3e194c642d9f3b42dff5a2e387feea0709bb23fcc8182360453307
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104838"
 ---
 # <a name="updating-your-email-account-password"></a>更新电子邮件帐户密码
 
@@ -35,6 +35,6 @@ ms.locfileid: "51827386"
 
 - [Gmail](https://support.google.com/mail/answer/41078?co=GENIE.Platform%3DDesktop&hl=en)
 
-- Exchange：需要联系 IT 管理员。
+- Exchange：你需要联系 IT 管理员。
 
 - IMAP：IMAP 提供程序的页面上可能有一个链接，或者你可能需要联系你的 IMAP 提供程序。

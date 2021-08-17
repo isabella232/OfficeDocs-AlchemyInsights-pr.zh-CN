@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919629"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304323"
 ---
 # <a name="understand-billing-amount"></a>了解帐单金额
 
@@ -67,7 +67,9 @@ ms.locfileid: "53919629"
 - 登录到 **企业门户**。 选择 **“报告”**
 - 在选项卡的右上角，将视图从 **M** 切换为 **C** 并匹配发票上的句点
 - **Azure 市场** 总额应与市场发票上的“**总销售额”** 相匹配
-- 转到“**下载使用情况**”，获取有关基于使用情况的费用的详细信息。 在“**市场费用**”下，选择“**下载**” **注意**：此报告不含税费或显示一次性购买
+- 转到“**下载使用情况**”，获取有关基于使用情况的费用的详细信息。 在“**市场收费**”下，选择“**下载**” 
+
+**注意**：此报表不包含税款或显示一次性购买
 
 **云解决方案提供商 (CSP)**
 
