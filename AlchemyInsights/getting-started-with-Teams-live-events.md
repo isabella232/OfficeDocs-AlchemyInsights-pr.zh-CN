@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088854"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333149"
 ---
 # <a name="getting-started-with-teams-live-events"></a>开始使用 Teams 实时事件
 
@@ -27,7 +27,9 @@ Microsoft Teams 实时事件是 Teams 会议的扩展，使您能够安排和制
 
 - 首先，请确认 Teams 实时事件[在你所在的国家和地区可用](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)；有些国家/地区尚不支持实时事件。  如果已分配许可证并设置了策略，但仍无法创建 Teams 实时事件，则可能是因为实时事件在你所在的国家或地区尚不可用。
 
-- [Office 365 企业版 E1、E3 或 E5 许可证，或 Office 365 A3 或 A5 许可证](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)。 **注意**：由于最近 Teams 使用量增加，当向用户分配 Teams 许可证时，可能需要大约 24 小时才能完全设置。 在此之前，将无法为他们分配团队策略，并且可能无法访问某些团队功能，例如呼叫和音频会议。
+- [Office 365 企业版 E1、E3 或 E5 许可证，或 Office 365 A3 或 A5 许可证](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)。 
+
+    **注意**：由于最近 Teams 使用量增加，当向用户分配 Teams 许可证时，可能需要大约 24 小时才能完全设置。 在此之前，将无法为他们分配团队策略，并且可能无法访问某些团队功能，例如呼叫和音频会议。
 
 - [在 Microsoft Teams 管理中心中创建实时事件](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy)的权限。
 

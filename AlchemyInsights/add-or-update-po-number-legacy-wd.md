@@ -13,16 +13,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 022743b5d61c139d96f5b9f682f0a3b9cf87a077
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53953859"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338878"
 ---
 # <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>添加或更新 PO 编号 - 旧 WD - 推荐步骤
 
-只有通过发票 (或) 支付 [的客户](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 才支持将采购订单添加到 PO 号码。 更新 PO 编号的说明取决于你的 [计费帐户类型](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)。
+仅对通过 (或) [支付的客户](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 支持将采购订单添加到 PO 号码。 更新 PO 编号的说明取决于你的 [计费帐户类型](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)。
 
 必须具有帐户管理员 [角色](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) 才能编辑 PO 号码。
 
@@ -33,7 +33,7 @@ ms.locfileid: "53953859"
 
 **推荐文档**
 
-- [支持的国家/地区和货币](https://azure.microsoft.com/en-us/pricing/faq/) 
+- [支持的国家/地区和货币](https://azure.microsoft.com/pricing/faq/) 
 - [如何按发票付款](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
 - [管理 Azure 计费帐户联系人信息](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 

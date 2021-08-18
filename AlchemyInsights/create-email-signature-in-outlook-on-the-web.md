@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 22155f87e9f604560ec74769e882d186e825a05e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53965523"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332251"
 ---
 # <a name="create-email-signature-in-outlook-on-the-web"></a>在电子邮件中Outlook 网页版
 
@@ -26,8 +26,7 @@ ms.locfileid: "53965523"
 3. 在"**选项"** 面板中的"**邮件"下**，选择"**布局**  >  **电子邮件签名"。**
 4. 在文本框中，键入签名并使用可用的格式选项更改其外观。
 
-    > [!TIP]
-    > 不支持插入图像文件 (例如，为签名插入 .gif 或 .jpg 格式) ，但可以从网页复制图像并将其粘贴到签名框中。
+    **提示**：不支持插入图像文件 (例如，为签名插入 .gif 或 .jpg 格式) ，但可以从网页复制图像并将其粘贴到签名框中。
 
 5. 如果希望签名显示在所有传出电子邮件（包括答复和转发）的底部，请选择"自动将我的签名包括在我撰写的新邮件 **上"。**
 6. 单击“**保存**”。

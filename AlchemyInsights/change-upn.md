@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082392"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332425"
 ---
 # <a name="change-a-users-email-address"></a>更改用户的电子邮件地址
 
@@ -31,7 +31,7 @@ ms.locfileid: "54082392"
     
 4. 在"**别名"** 框中，键入新电子邮件，然后选择"添加 **"。**
     
-    **重要** 提示：如果收到错误消息" 找不到与参数名称 **"EmailAddresses"** 匹配的参数，则意味着 Microsoft 完成租户或自定义域设置（如果最近添加了一个）需要更长时间。 设置过程最多需要 4 个小时才能完成。 稍等片刻，待设置过程完成后重试。 如果问题仍然存在，请致电支持人员，他们会为你执行完全同步。
+    **重要** 说明：如果收到错误消息"找不到与参数名称 **"EmailAddresses"** 匹配的参数，则意味着 Microsoft 完成租户或自定义域设置（如果最近添加了一个）需要更长时间。 设置过程最多需要 4 个小时才能完成。 稍等片刻，待设置过程完成后重试。 如果问题仍然存在，请致电支持人员，他们会为你执行完全同步。
     
     如果您收到错误消息"很抱歉，无法 **编辑用户。查看用户信息并重试**"这意味着你不是全局管理员，并且无权更改用户名。
     

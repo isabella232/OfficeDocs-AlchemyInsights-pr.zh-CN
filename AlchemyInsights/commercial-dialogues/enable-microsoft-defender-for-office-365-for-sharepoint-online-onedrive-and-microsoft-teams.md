@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 61372075ac8ccf04606a8003b4ec29f89fc048e5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894453"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332369"
 ---
 # <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>为 保险箱 Online、SharePoint 和 OneDrive 启用Microsoft Teams
 
@@ -28,11 +28,8 @@ ms.locfileid: "57894453"
 2. 在 **"保险箱"页上**，单击"**全局设置"。**
 3. On the flyout that appears， select **Turn on Microsoft Defender for Office 365 for SharePoint， OneDrive， and Microsoft Teams**， and then select **Save**.
 
-    > [!TIP]
-    >
-    > 执行以下步骤以增强对保险箱附件SharePoint OneDrive保护Microsoft Teams：
-    >
-    > - 若要阻止用户下载恶意文件，请使用 `$true` SharePoint Online PowerShell 中 **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** cmdlet 的 *DisallowInfectedFileDownload* 参数的值。 有关详细信息，请参阅[使用 SharePoint Online PowerShell 阻止用户下载恶意文件](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)。
-    > - [为检测到的文件创建警报策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
+    **提示**：执行以下步骤可增强对保险箱、SharePoint和OneDrive附件Microsoft Teams：
+    - 若要阻止用户下载恶意文件，请使用 `$true` SharePoint Online PowerShell 中 **[Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** cmdlet 的 *DisallowInfectedFileDownload* 参数的值。 有关详细信息，请参阅使用[SharePoint Online PowerShell 阻止用户下载恶意文件](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)。
+    - [为检测到的文件创建警报策略](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
 有关详细信息，请参阅 保险箱[Attachments for Office 365 for SharePoint， OneDrive， and Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041)。

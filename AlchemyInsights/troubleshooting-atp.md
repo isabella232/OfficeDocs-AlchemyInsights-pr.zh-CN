@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900642"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330806"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "57900642"
 
 - **是否要向 Microsoft 报告误报或漏报？** 使用 [提交资源管理器](https://protection.office.com/reportsubmission)。
 
--** 您是否知道您可以为在保险箱收件人之间发送的内部电子邮件启用链接保护？** 请按照以下步骤操作：
+-** 您是否知道您可以为在保险箱之间发送的内部电子邮件启用链接保护？** 请按照以下步骤操作：
 
   1. 转到 ， [https://protection.office.com](https://protection.office.com) 然后使用全局管理员或安全管理员帐户登录。
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963777"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339022"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>如何添加和管理管理员 - 建议的步骤
 
@@ -58,7 +58,7 @@ ms.locfileid: "53963777"
 你可以添加新用户或删除 Azure AD 组织Azure Active Directory (现有) 用户：
 
 1. 若要添加新用户，请以组织的用户管理员角色登录到 [Azure](https://ms.portal.azure.com/#home) 门户。
-2. 选择 **Azure Active Directory"，****选择"用户"，** 然后单击"**新建用户"。**
+2. 选择 **"Azure Active Directory"，****选择"用户**"，然后单击"**新建用户"。**
 3. 在 **"用户** "页上，填写所需信息。 单击“**创建**”。 用户已创建并添加到 Azure AD 租户。
 
 **了解更多信息**：
@@ -75,7 +75,7 @@ ms.locfileid: "53963777"
 - [教程：使用 RBAC 和 Azure 门户为用户授予访问权限](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Azure 中的 RBAC 疑难解答](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [使用 Azure 管理组组织资源](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [如何通过电子邮件请求 Azure 发票副本](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [如何通过电子邮件请求 Azure 发票副本](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [如何添加、更新或删除 Azure 中的信用卡或借记卡](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [管理 (重新激活/取消/切换) 订阅](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
