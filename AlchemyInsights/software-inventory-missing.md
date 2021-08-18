@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11382"
 - "9001470"
-ms.openlocfilehash: 191d6ae772dc1b1c6b15071da9c4aca14429cf2db17be6ee0db6b23ea0d29e2d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f26fab92d0159c06eb600cf9ec4161892561a719e8d113d15bfbac133301e793
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54084633"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897586"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>软件清单缺失或不准确
 
@@ -32,8 +32,8 @@ ms.locfileid: "54084633"
 
 1. 检查软件证据部分，了解系统是如何检测到软件的。
 1. 确保软件受支持。 软件可能仅在设备级别可见，即使威胁和漏洞管理当前也不支持该软件。 但是，只有有限的数据可用。
-1. 有关从门户网站报告不准确度的步骤，请参阅[报告不准确度](/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)。
+1. 有关从门户网站报告不准确度的步骤，请参阅[报告不准确度](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory?view=o365-worldwide#report-inaccuracy)。
    
     **注意**：从 MDE 门户报告不精确性是工程的一个单向通道。 如果问题紧急，请打开支持票证。
 
-有关详细信息，请参阅[软件清单 - 威胁和漏洞管理](/microsoft-365/security/defender-endpoint/tvm-software-inventory)。
+有关详细信息，请参阅[软件清单 - 威胁和漏洞管理](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/tvm-software-inventory)。

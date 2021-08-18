@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899322"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316348"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>警报来自"由于租户或用户覆盖而传递的网络钓鱼"策略的电子邮件
 
-在具有 Microsoft Defender for Office 365 P1 和 P2 许可证的组织中，可以使用名为 **Phish Delivered** due to tenant or user override 的默认警报策略。 如果您收到此警报，以下是要调查的步骤：
+在具有 Microsoft Defender for Office 365 P1 和 P2 许可证的组织中，可以使用名为 **"** 由于租户或用户覆盖而送达的网络钓鱼"的默认警报策略。 如果您收到此警报，以下是要调查的步骤：
 
 1. 在警报消息中，单击 **"查看警报**"以转到警报门户中的Microsoft 365 Defender页。
 

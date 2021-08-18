@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12463"
 - "9007456"
-ms.openlocfilehash: ec88343cf60f1e32a8dc7313b444c2e53c53d5d1424274355b4c96042f0dc629
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43d323d9baeaf676de19734cac4c4666c6a502e43ee263fdc3ed037567472208
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107779"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897197"
 ---
 # <a name="sharepoint-and-onedrive-integration-with-azure-ad-b2b"></a>通过 Azure AD B2B 集成 SharePoint 和 OneDrive
 
@@ -26,6 +26,6 @@ Azure AD B2B 提供对来宾用户的身份验证和管理。 当来宾没有工
 
 有关详细信息，请参阅： 
 
-- [ SharePoint 和 OneDrive 与 Azure AD B2B 的集成](/sharepoint/sharepoint-azureb2b-integration)
-- [发送一次性密码身份验证的电子邮件](/azure/active-directory/external-identities/one-time-passcode)
+- [ SharePoint 和 OneDrive 与 Azure AD B2B 的集成](https://docs.microsoft.com/sharepoint/sharepoint-azureb2b-integration)
+- [发送一次性密码身份验证的电子邮件](https://docs.microsoft.com/azure/active-directory/external-identities/one-time-passcode)
 

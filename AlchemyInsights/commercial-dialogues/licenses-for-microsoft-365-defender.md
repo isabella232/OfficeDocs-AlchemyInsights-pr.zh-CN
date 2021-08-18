@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315676"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>许可证Microsoft 365 Defender
 
-以下许可证可免费访问Microsoft 365 Defender安全Microsoft 365功能：
+以下许可证可免费访问 Microsoft 365 Defender安全Microsoft 365功能：
 
 - Microsoft 365 E5 或 A5
 - Microsoft 365 E5 安全性或 A5 安全性
@@ -33,8 +33,7 @@ ms.locfileid: "53967971"
 - Microsoft Cloud App Security
 - Microsoft Defender for Office 365 (计划 2) 
 
-    > [!NOTE]
-    > 目前，Office 365试用版许可证不提供对Microsoft 365 Defender。
+    **注意**：目前，Office 365试用版许可证不提供对Microsoft 365 Defender。
 
 有关详细信息，请参阅Microsoft 365 企业版[计划比较](https://go.microsoft.com/fwlink/?linkid=2143458)。
 
