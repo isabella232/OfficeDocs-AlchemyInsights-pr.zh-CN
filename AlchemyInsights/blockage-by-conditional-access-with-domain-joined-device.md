@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9834"
 - "9003257"
-ms.openlocfilehash: f0d092dfbc805b1e4fa7d26803227118b39ecacca9fa330bb5de8458d4aa0f57
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d71bb376615191f507d39b99d9e51ca77d929b90
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950286"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323428"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-domain-joined-device"></a>由于使用已加入域的设备被条件访问阻止
 
@@ -52,8 +52,7 @@ ms.locfileid: "53950286"
 
 若要解决此问题，请在受影响的设备上运行 `dsregcmd/leave`，让它们重新加入 Azure AD。有关详细信息，请参阅此[文档](https://docs.microsoft.com/azure/active-directory/devices/faq#q-why-do-my-users-see-an-error-message-saying-your-organization-has-deleted-the-device-or-your-organization-has-disabled-the-device-on-their-windows-10-devices)。
 
-> [!NOTE]
-> 如果设备是 Windows 10 1809 更新版本，且具有VPN / Cloud 代理，并且看到 "AzureAdPrt" 状态的问题或任何具有SSO问题的应用程序（即使拥有PRT，也无法连接到邮箱），确保拥有此修补程序 [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2)或四月累积更新 [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6)，以防止这些计算机上的 PRT 失败。
+**注意**：如果设备是 Windows 10 1809 更新版本，且具有VPN / Cloud 代理，并且看到 "AzureAdPrt" 状态的问题或任何具有SSO问题的应用程序（即使拥有PRT，也无法连接到邮箱），确保拥有此修补程序 [KB4554354](https://support.microsoft.com/topic/march-30-2020-kb4554354-os-build-17763-1132-deaba49b-4b29-55b9-caee-3e2d87dd75a2) 或四月累积更新 [KB4549949](https://support.microsoft.com/topic/april-14-2020-kb4549949-os-build-17763-1158-76d9a3af-b20b-8996-bd4d-7b50c505fda6)，以防止这些计算机上的 PRT 失败。
 
 
 

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893841"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322994"
 ---
 # <a name="license-or-account-disabled"></a>已禁用许可证或帐户
 
@@ -28,10 +28,9 @@ ms.locfileid: "57893841"
 **重新激活订阅**
 
 1. 在管理中心中，转到 **“账单”** > [“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)页面。
-2. 在“**产品**”选项卡上，找到要重新激活的订阅，选择三个点（更多操作），然后选择“**重新激活此订阅**”。
-    > [!NOTE]
-    > 如果看不到 **“重新激活此订阅”**，请联系支持人员。
-3. 在 **“重新激活此订阅”** 窗格中，从下拉列表中选择支付方式，或选择 **“添加付款方式”**。
+2. 在“**产品**”选项卡上，找到要重新激活的订阅。 选择三个点（更多操作），然后选择“**重新激活此订阅**”。
+    **注意**：如果看不到“**重新激活此订阅**”，请联系支持人员。
+3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 
 要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。

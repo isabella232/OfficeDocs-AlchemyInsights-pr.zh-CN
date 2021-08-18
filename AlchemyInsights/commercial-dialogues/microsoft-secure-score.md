@@ -13,27 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9300f9981ea98548f32d908cb6b06a1490793ebc2ba38e774dac45f5e341a869
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119202"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft 安全功能分数
 
-通过使用 Microsoft 安全分数，可以使环境更加安全。 将它视为安全性的信用评分。 它告诉你可以采取的可帮助提高组织安全性的操作。
+通过使用 Microsoft 安全分数，可以使环境更加安全。 将它视为安全性的信用评分。 它告诉你可以采取的操作，以帮助提高组织的安全性。
 
-1. 在 Microsoft 365 Defender门户中 <https://security.microsoft.com> ，转到安全 **分数**。
+1. 转到安全Office 365[合规&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
+1. 选择 Microsoft 安全分数卡或转到 [Microsoft 安全分数](https://go.microsoft.com/fwlink/?linkid=2099589)。
+    > [!TIP]
+    >  在"Microsoft 安全分数概述"页上，选择"改进操作"，获取有关保护组织的建议。您可以在表中选择"筛选"或"分组"，以快速标识如果按顺序排列操作可能更好。
+1. 从列表中选择改进操作。 将出现一个显示操作简短说明的飞出图。
+1. 单击 **"查看** 设置"，然后按照后续步骤中提供的 **指南操作**。
+    > [!NOTE]
+    > 你获得配置建议安全功能的分数，但请记住，某些操作标记为 **[Not Scored]**。 这意味着，即使实施该改进操作，也不会获得任何分数。 否则 *，可能需要 24 小时才能* 更新你的分数。
 
-   若要直接转到安全分数 **页面** ，请使用 <https://security.microsoft.com/securescore>
-
-2. 在"**要** 审阅的操作"**和"首要** 改进操作"部分中的"概述"选项卡上，记下有关保护组织的任何建议。
-
-3. 在"**改进操作**"选项卡上，注意"改进排名"操作条目的 **"** 状态"值为 **"To address"** 或 **"Regressed"。** 您可以使用表中的 **Filter** 或 **Group by** 快速标识如果按顺序排列操作可能更好。
-
-4. Select a **To address** or **Regressed** item from the list on the **Improvement actions** tab.将打开一个新页面，并给出完整的 **说明和一** 个"管理"按钮来修复该问题。
-
-    **注意**：你获得配置建议安全功能的分数，但请记住，某些操作被标记为 **[Not Scored]**。 这意味着，即使实施该改进操作，也不会获得任何分数。 否则 *，可能需要 24 小时* 才能更新你的分数。
-
-有关 Microsoft 安全分数详细信息，请参阅 [Microsoft 安全分数](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)。
+有关 Microsoft 安全分数详细信息，请参阅 [Microsoft 安全分数](https://go.microsoft.com/fwlink/?linkid=2103077)。

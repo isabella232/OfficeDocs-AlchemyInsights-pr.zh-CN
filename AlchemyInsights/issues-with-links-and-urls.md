@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054788"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321897"
 ---
 # <a name="issues-with-links-and-urls"></a>链接和 URL 的问题
 
@@ -40,17 +40,15 @@ ms.locfileid: "54054788"
     有关详细信息，请参阅 [桌面应用 - 应用注册 - 重定向 URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
 - 对于移动应用程序，重定向 URI 取决于：
     - 平台 (iOS/Android/UWP)
-    - 构建应用时所使用的信息（如 iOS 中的捆绑 ID，以及 Android 上的包名称和签名哈希）。Azure 门户应用注册将有所帮助。 有关详细信息，请参阅 [平台配置和重定向 URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)。
+    - 用于生成应用的信息（例如 iOS 中的捆绑 ID）以及 Android 上的包名称和签名哈希。Azure 门户应用注册将帮助你。有关详细信息，请参阅[平台配置和重定向 URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris)。
 
-> [!NOTE]
-> Web API 和获取令牌（IWA 和用户名/密码）的一些无提示方式不需要重定向 URI。
+**注意**：Web API 和一些获取令牌（IWA 和用户名/密码）的无提示方式不需要重定向 URI。
 
 **我已部署 Web 应用程序，但测试已部署的应用时，收到答复 URL 不匹配的消息**
 
 为部署 Web 应用程序的所有位置添加重定向 URI。 有关详细信息，请参阅 [使用 Azure 门户注册 Web 应用型应用](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration)。
 
-> [!NOTE]
-> 在将应用程序部署到某个位置后，立即为该位置添加重定向 URI。
+**注意**：在将应用程序部署到某个位置后，立即添加该位置的重定向 URI。
 
 **我无法注册足够的答复 URL**
 

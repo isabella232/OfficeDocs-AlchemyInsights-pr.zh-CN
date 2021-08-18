@@ -1,5 +1,5 @@
 ---
-title: 删除 SharePoint 网站
+title: 删除SharePoint网站
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118518"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>删除属于 Microsoft 365 组的网站
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>删除属于组Microsoft 365网站
 
-当用户从 SharePoint 主页创建新的工作组网站或从新的 SharePoint 管理中心创建新的团队网站时，将自动创建相应的 Microsoft 365 组。 当您在 Microsoft 团队中创建 Microsoft 365 组或团队时，也会创建 microsoft 365 组连接的工作组网站。 若要删除属于 Microsoft 365 组的 SharePoint 网站，您需要删除 Microsoft 365 组本身。 
+当用户从"主页"SharePoint创建新团队网站，或者从新的 SharePoint 管理中心创建新团队网站时，将自动Microsoft 365组。 Microsoft 365组连接的团队网站也会在Microsoft 365中创建组或团队时Microsoft Teams。 若要删除SharePoint组的网站，Microsoft 365组本身Microsoft 365网站。 
   
-1. 转到 [Microsoft 365 管理中心](https://portal.office.com/adminportal/home#/groups)的 "组" 页。
+1. 转到页面[的组Microsoft 365 管理中心。](https://portal.office.com/adminportal/home#/groups)
     
 2. 选中组旁边的复选框。
     
-3. 选择“删除”****。
+3. 选择“**删除**”。
     
-注意：删除组时，在从 SharePoint 中删除网站之前可能会有延迟。
+注意：删除组时，网站从网站中删除之前可能会SharePoint。
   
 **删除通信网站或经典网站：**
 
 1. 转到网站。
   
-2. 单击右上角的 " **设置** " 图标。 
+2. 单击设置 **右上角** 的"选择"图标。 
   
-3. 单击 " **网站设置**"。 在 " **网站信息** 或 **网站操作**" 下，单击 " **删除此网站**"，然后单击 " **删除**"。
+3. 单击"**网站设置"。** 在 **"网站信息**"或"**网站操作**"下，单击 **"删除此网站**"，然后单击"删除 **"。**
   
-**删除 SharePoint 网站集：**
+**删除SharePoint网站集：**
 
-若要删除网站，请执行以下操作：
+删除网站：
   
-1. 在新的 SharePoint 管理中心中，在 "网站" 页上，单击要删除的网站旁边的 **复选框** 。 
+1. 在新建SharePoint管理中心的"网站"页上，单击要删除的网站旁边的复选框。  
     
-2. 在功能区工具栏上，单击 " **删除"。**
+2. 在功能区工具栏上，单击" **删除"。**
     
-**意外删除了网站？**
+**是否因意外删除了网站？**
 
 请参阅 [还原已删除的网站集](https://go.microsoft.com/fwlink/?linkid=867660)。
   

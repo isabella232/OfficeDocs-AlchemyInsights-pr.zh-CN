@@ -15,12 +15,12 @@ ms.custom:
 - "9005291"
 - "11089"
 - "9006490"
-ms.openlocfilehash: 06ad41ae0d76b5734d6a399e023d1ae84f5b86d8b9b48d7696619dbf22d88618
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 19efa16e7cf665648a03dc95da9d68841ca9e531
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899934"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323230"
 ---
 # <a name="determine-channel-strategy"></a>确定频道策略
 
@@ -28,8 +28,7 @@ Microsoft Edge 有 4 个频道发布，控制更新浏览器的时间。 有关�
 
 想要向大多数设备部署"稳定频道"，但应考虑部署多个频道和设备。
 
-> [!NOTE]
-> 你可以在设备上安装多个渠道。
+**注意**：你可以在设备上安装多个频道。
 
 **多个设备和渠道**
 

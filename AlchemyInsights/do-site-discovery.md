@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9143"
 - "9005291"
-ms.openlocfilehash: 4653fdef7e9226f05809d56e9a445cd1da35b0578c088bea72252a281d4527d2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ae99192c769dd5d5acae1c6e8f9b021e824b465
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030748"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322157"
 ---
 # <a name="do-site-discovery"></a>进行站点发现
 
@@ -36,8 +36,7 @@ ms.locfileid: "54030748"
 
 如果当前仅使用 Internet Explorer，则可能不知道哪些站点已升级到新式 Web 标准，以及哪些仍需要 Internet Explorer。 你需要查找这些网站并将其添加到企业网站列表，以便只为这些站点使用 Internet Explorer 模式。
 
-> [!NOTE]
-> [企业网站发现](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) 发现可能需要 Internet Explorer 模式的网站。 它可以在通过 Windows 10、Windows 8.1 或 Windows 7 上的 Internet Explorer 11 运行 Windows Internet Explorer 8 的计算机上收集数据。
+**注意**：[企业网站发现](https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/collect-data-using-enterprise-site-discovery) 发现可能需要 Internet Explorer 模式的网站。 它可以在通过 Windows 10、Windows 8.1 或 Windows 7 上的 Internet Explorer 11 运行 Windows Internet Explorer 8 的计算机上收集数据。
 
 **分析数据**
 
@@ -47,8 +46,7 @@ ms.locfileid: "54030748"
 3. 测试应用以验证它是否未在本机工作。许多站点都会在检测到新式浏览器时将提供新式内容，并且仅在检测到 Internet Explorer 时才提供旧版内容。
 4. 如果应用未通过测试，请将该应用添加到企业站点列表中。
 
-> [!NOTE]
-> 作为最佳做法，请将构成应用的所有站点归为一组。 这样，当升级应用时，可以更轻松地从 Internet Explorer 模式中删除整个站点并开始将新式浏览器用于该应用。
+**注意**：作为最佳做法，请将构成应用的所有网站归为一组。 这样，当升级应用时，可以更轻松地从 Internet Explorer 模式中删除整个站点并开始将新式浏览器用于该应用。
 
 完成网站发现并分析数据后，即可开始查看频道策略。
 

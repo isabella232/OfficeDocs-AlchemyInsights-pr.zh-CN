@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070350"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322203"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>在 Microsoft Defender 保险箱设置链接策略Office 365
 
-Microsoft Defender 中保险箱链接的默认策略Office 365已创建。 若要更改配置，请运行以下操作：
+1. In the Microsoft 365 Defender portal at <https://security.microsoft.com/> ， go to Email & **Collaboration** Policies \> **& Rules** \> **Threat policies** \> **保险箱 Links** in the **Policies** section.
 
-1. 转到安全Office 365[合规&中心](https://go.microsoft.com/fwlink/p/?linkid=2077143)。
-2. 选择 **"威胁管理**  >  **策略"。** 在"**策略"** 页面上，选择 ["Microsoft Defender Office 365 保险箱链接"。](https://go.microsoft.com/fwlink/?linkid=2101058)
-3. 在" **应用于整个组织的策略"部分** ，选择" **默认**"，然后选择"编辑 **"** 图标。
-4. 在 **"阻止以下 URL"** 部分，指定要阻止组织中人员访问的一个或多个 URL。 若要了解更多信息，请参阅[链接链接的"阻止保险箱 URL"列表](https://go.microsoft.com/fwlink/?linkid=2092123)。
-5. In the **设置 that apply to content except email** section， select (or clear) the options you want to use.  (建议您选择所有选项。) 
-6. 选择“保存”。
+   若要直接转到"链接 **保险箱，** 请使用 <https://security.microsoft.com/safelinksv2> 。
+
+2. 在 **"保险箱链接**"页上，执行下列任一步骤：
+   - 若要添加新策略，请选择" **+ 创建"。** 向导将启动，帮助你定义策略设置。
+   - 若要编辑现有策略，请通过单击该策略的名称来选择该策略。 在出现的详细信息飞出控件中，在包含要配置的设置的部分中选择"编辑"。
+   - 若要阻止 URL 保险箱链接保护或配置受支持的 Office 365 应用中的 保险箱 链接的设置，请单击"全局设置"，配置您需要的设置，然后单击"保存 **"。**
+
+3. 查看设置后，选择"提交新 ("或) " (编辑) "。 
+
+有关详细信息，请参阅以下文章：
+
+- [在 Microsoft Defender 保险箱设置链接策略Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [在 Microsoft Defender for 保险箱 中配置链接的全局Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
