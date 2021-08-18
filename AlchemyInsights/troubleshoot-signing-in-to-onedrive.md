@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8283"
 - "9004614"
-ms.openlocfilehash: fb944ae8dac7a8a222d2946025d8009216d6ca02efa750977bc9037bf578c8a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea5000a06f86c0bc33cb057b67f6001fd1a4d5bddd39ac3324cd3b5c74ecdae7
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972598"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900678"
 ---
 # <a name="troubleshoot-signing-in-to-onedrive"></a>登录到OneDrive的故障排除
 
@@ -29,7 +29,7 @@ ms.locfileid: "53972598"
 
 **解决有关登录 OneDrive 同步客户端的问题**
 
-- 有关解决错误代码 0x004de40 的信息，请参阅 [登录 OneDrive 时遇到错误代码 0x8004de40](/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)。
+- 有关解决错误代码 0x004de40 的信息，请参阅 [登录 OneDrive 时遇到错误代码 0x8004de40](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-0x8004de40-in-onedrive)。
 - 通过访问OneDrive或SharePoint网站登录，然后点击网站菜单栏顶部的 **同步** 按钮。
 - 确保正在登录OneDrive for Business，而不是OneDrive.com。 如果访问的 URL 以 onedrive.live.com 开头，则不是 OneDrive for Business 的位置。 确保你登录OneDrive for Business的简单方法是通过这个链接：https://portal.office.com/onedrive 然后使用工作或学校帐户登录。
 - 如果仍然遇到问题，请考虑[充值OneDrive](https://support.microsoft.com/office/reset-onedrive-34701e00-bf7b-42db-b960-84905399050c)。
@@ -48,5 +48,5 @@ ms.locfileid: "53972598"
 
 **其他疑难解答提示**
 
-如果你是全局、许可证或用户管理员，[请将正确的许可证分配给受影响的用户](/microsoft-365/admin/manage/assign-licenses-to-users)。
+如果你是全局、许可证或用户管理员，[请将正确的许可证分配给受影响的用户](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)。
 

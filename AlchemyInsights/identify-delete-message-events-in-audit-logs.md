@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868408"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317584"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>已删除电子邮件的审核日志
 
@@ -32,7 +32,7 @@ ms.locfileid: "57868408"
 
 4. 单击"搜索"。
 
-在结果中，选择审核记录。 在详细信息飞出中，单击 **"详细信息"。** 有关已删除项目的其他信息 (例如，主题行和项目删除时的位置) **AffectedItems** 字段显示。 **ClientInfoString** 属性将显示删除是否发生在 Outlook、Outlook 网页版 (以前称为 Outlook Web App) 或其他任何设备中。
+在结果中，选择审核记录。 在详细信息飞出中，单击 **"详细信息"。** 有关已删除项目的其他信息 (，例如主题行和项目在删除时) 位置将显示在 **AffectedItems** 字段中。 **ClientInfoString** 属性将显示删除是否发生在 Outlook、Outlook 网页版 (以前Outlook Web App) 设备中。
 
 有关详细信息，请参阅确定 [谁为邮箱设置了电子邮件转发](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)。
 

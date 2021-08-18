@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071394"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900418"
 ---
 # <a name="cancel-project-subscription"></a>取消Project订阅
 
-管理员可以在Project中取消其组织的 Microsoft 365 管理中心。
+管理员可以在 Project 中取消其组织的 Microsoft 365 管理中心。
 
 1. 转到“**计费**”\>“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
 2. 在 **"产品**"选项卡上，Project要取消的订阅。 选择三个点（更多操作），然后选择“**取消订阅**”。
@@ -32,4 +32,4 @@ ms.locfileid: "54071394"
 
 **退还：** 在下一个计费周期内，将向你退还所有按比例分配的点数。
 
-若要了解更多信息，请参阅 [取消订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要了解更多信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

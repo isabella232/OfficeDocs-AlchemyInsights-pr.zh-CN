@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038795"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900642"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Microsoft Defender for Office 365
 
-- **你是否注意到邮件传递延迟？** 使用[Microsoft](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Defender for Office 365 保险箱 策略中的"动态传递"选项。 这有助于避免邮件延迟，同时保护收件人免受恶意文件的攻击。
+- **你是否注意到邮件传递延迟？** 使用[Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) Defender for Office 365 保险箱策略中的"动态传递"选项。 这有助于避免邮件延迟，同时保护收件人免受恶意文件的攻击。
 
 - **是否要向 Microsoft 报告误报或漏报？** 使用 [提交资源管理器](https://protection.office.com/reportsubmission)。
 
@@ -28,7 +28,7 @@ ms.locfileid: "54038795"
 
   1. 转到 ， [https://protection.office.com](https://protection.office.com) 然后使用全局管理员或安全管理员帐户登录。
 
-  2. 在左侧导航窗格中 **的"威胁** 管理"下 **，选择"** 策略 \> **保险箱链接"。**
+  2. 在左侧导航窗格中的"**威胁** 管理"下 **，选择"** 策略 \> **保险箱链接"。**
 
   3. 在"**应用于整个组织的策略"部分**，选择策略并单击"编辑 **"。**
 
