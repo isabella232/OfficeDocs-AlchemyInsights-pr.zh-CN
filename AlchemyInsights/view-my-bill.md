@@ -16,12 +16,12 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 963fb2af103f40e6b235edef2c9eb966ae11f098bb0d9ac4db544bb2f289813c
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 80b709c3474594858b3bc0e7104fdeb00343bee7cb2a5bdd414b791a1cb49564
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499502"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899970"
 ---
 # <a name="view-my-bill-or-invoice"></a>查看帐单或发票
 
@@ -31,4 +31,4 @@ ms.locfileid: "54499502"
 
 3. 若要打印帐单，请下载 PDF 文件格式的帐单，然后单击 **打印**。
 
-有关详细信息，请参阅[查看账单或发票](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
+有关详细信息，请参阅[查看账单或发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice)。
