@@ -13,12 +13,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910536"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329438"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only尝试使用"维护"或"维护"SharePoint OneDrive
 
@@ -38,8 +38,6 @@ ms.locfileid: "53910536"
 2. 在 **"清除浏览"** 下 **，选择"选择要清除哪些内容"。**
 3. 选择 **"Cookie 和保存的网站数据"，** 然后选择"清除 **"。**
 
->[!Note] 
-> 当使用 Mozilla Firefox 或 Google Chrome 等其他浏览器时，这些步骤可能会有所不同。
+**注意**：使用 Mozilla Firefox 或 Google Chrome 等其他浏览器时，这些步骤可能会有所不同。
 
->[!Note] 
-> 另一个选项是，在SharePoint InPrivate OneDrive打开您的网站或网站。
+**注意**：另一个选项是，在SharePoint InPrivate OneDrive打开网站或网站。

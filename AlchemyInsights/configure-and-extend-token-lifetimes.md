@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7778"
 - "9004351"
-ms.openlocfilehash: 97e89feda45439dae59acca5817fdf359623d647997d08a5cbe4a6314fa6db3a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ce100fcc2c62d62477f78e10b3cc9233fc2f5c5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54044906"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329076"
 ---
 # <a name="configure-and-extend-token-lifetimes"></a>配置和延长令牌生存期
 
@@ -34,8 +34,7 @@ ms.locfileid: "54044906"
 
 令牌生存期为 1 小时，会话生存期为 24 小时。 这意味着，如果 24 小时内没有任何请求，则需要在请求新令牌之前再次登录。
 
-> [!NOTE]
-> 2020 年 5 月 30 日之后，新租户将无法使用可配置令牌生存期策略来配置会话和刷新令牌。 弃用将在之后的几个月内发生，这意味着我们将停止执行现有会话并刷新令牌策略。 仍然可以在弃用之后配置访问令牌生存期。
+**注意**：2020 年 5 月 30 日之后，新租户将无法使用可配置令牌生存期策略来配置会话和刷新令牌。 弃用将在之后的几个月内发生，这意味着我们将停止执行现有会话并刷新令牌策略。 仍然可以在弃用之后配置访问令牌生存期。
 
 
 

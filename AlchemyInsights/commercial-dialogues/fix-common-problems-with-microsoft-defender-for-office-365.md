@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898234"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330050"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>修复 Microsoft Defender for Office 365
 
-以下是 Microsoft Defender for Office 365 常见问题的一Office 365：
+以下是 Microsoft Defender for Office 365 的常见问题的一Office 365：
 
 - **邮件延迟**：
 

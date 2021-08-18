@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901726"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330162"
 ---
 # <a name="canceling-your-subscription"></a>取消订阅？
 
@@ -30,7 +30,6 @@ ms.locfileid: "57901726"
   
 **退款：任何按比例计算退款将在下一个计费周期内退回给你。**
 
-> [!NOTE]
-> 如果看不到取消选项，请选择订阅以查看详细信息页面。 在"**订阅和付款设置"** 部分，选择"**取消订阅"。**
+**注意**：如果看不到取消选项，请选择订阅以查看详细信息页面。 在"**订阅和付款设置"** 部分，选择"**取消订阅"。**
 
 若要了解更多信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

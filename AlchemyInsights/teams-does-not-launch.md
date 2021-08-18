@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12673"
 - "9007646"
-ms.openlocfilehash: a37f980e700090da8199c703216af6f04f4aca464c21870beb3e907dd7b2d491
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ebfabf667092850e5045c56e34e355739944ba44
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100211"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329316"
 ---
 # <a name="teams-doesnt-launch"></a>Teams 未启动
 
@@ -28,7 +28,7 @@ ms.locfileid: "54100211"
 1. 删除文件夹的内容。
 1. 重启计算机，然后尝试启动 Teams。
 
-可能需要重新安装 Teams。 重新安装：
+可能需要重新安装 Teams。要重新安装：
 
 1. 使用控制面板卸载 Teams。
 1. 浏览到 **%appdata%\Microsoft\Teams\Application Cache**。

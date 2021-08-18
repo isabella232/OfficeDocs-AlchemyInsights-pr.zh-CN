@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090726"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329908"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Microsoft 365 中的通信合规性
 
@@ -33,7 +33,7 @@ ms.locfileid: "54090726"
 
 若要调查、审阅和修正通信合规性，请参阅调查和 [修正通信合规性警报](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate)。
 
-有关通信合规性功能概述，请参阅通信合规性[Microsoft 365。](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+有关通信合规性功能概述，请参阅通信[合规性Microsoft 365。](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
 
 许可证要求：由通信策略监视的用户必须具有以下项之一：
 
@@ -41,7 +41,6 @@ ms.locfileid: "54090726"
 - Office 365 企业版具有高级合规性加载项的 E3 许可证
 - Office 365 企业版 E5 订阅
 
-如果你没有上述任何一项，并且想要尝试通信合规性，请注册使用 **[E5 Office 365 企业版试用版](https://go.microsoft.com/fwlink/p/?LinkID=698279)**。
+如果你没有上述任何一项，并且想要尝试通信合规性，请注册 **[E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)** Office 365 企业版试用版。
 
-> [!NOTE]
-> 在策略中完全处理电子邮件可能需要 24 小时。 Microsoft Teams、Yammer 和第三方平台中的通信可能需要长达 48 小时才能完全执行策略处理。
+**注意**：可能需要 24 小时才能在策略中完全处理电子邮件。 Microsoft Teams、Yammer 和第三方平台中的通信可能需要长达 48 小时才能完全执行策略处理。

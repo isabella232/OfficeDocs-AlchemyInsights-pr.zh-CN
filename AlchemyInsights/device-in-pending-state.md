@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913993"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330362"
 ---
 # <a name="device-in-pending-state"></a>设备挂起状态
 
@@ -29,7 +29,7 @@ ms.locfileid: "53913993"
 
 混合 Azure AD 加入注册过程要求设备位于企业网络上。 它还通过 VPN 运行，但有一些注意事项。 我们收到客户在远程工作环境中需要有关混合 Azure AD 加入注册过程疑难解答的帮助。
 
-**使用 Azure AD (哈希同步或传递身份验证方法的云身份验证)**
+**云身份验证 (Azure AD 密码哈希同步或传递身份验证)**
 
 此注册流也称为"同步加入"。
 
@@ -40,8 +40,7 @@ ms.locfileid: "53913993"
     1. 设备首先尝试从注册表 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD] 中的客户端 SCP 检索租户信息。 有关详细信息， [请参阅文档](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)。
     1. 如果失败，设备会与本地 Active Directory 通信，以从 SCP 获取租户信息。 若要验证 SCP，请参阅 [此文档](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)。
 
-    > [!NOTE]
-    > 我们建议在 Active Directory 中启用 SCP，并且仅使用客户端 SCP 进行初始验证。
+    **注意**：我们建议在 Active Directory 中启用 SCP，并且仅使用客户端 SCP 进行初始验证。
 
 2. Windows 10尝试在系统上下文下与 Azure AD 进行通信，以针对 Azure AD 自行进行身份验证。
 
@@ -49,17 +48,15 @@ ms.locfileid: "53913993"
 
 3. Windows 10生成自签名证书，并存储在本地 Active Directory 中的计算机对象下。 这需要域控制器的"看到线"。
 
-4. 具有证书的设备对象通过 Azure AD 帐户同步到 Azure AD 连接。 默认情况下，同步周期每 30 分钟一次，但具体取决于 Azure AD 连接。 有关详细信息，请参阅此 [文档](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)。
+4. 具有证书的设备对象通过 Azure AD 连接。 默认情况下，同步周期每 30 分钟一次，但具体取决于 Azure AD 连接。 有关详细信息，请参阅此 [文档](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)。
 
 5. 在此阶段，你应该能够在 Azure 门户的设备边栏选项卡下看到处于"挂起"状态的主题设备。
 
 6. 下次用户登录到 Windows 10时，将完成注册。
 
-    > [!NOTE]
-    > 如果你使用 VPN 并且注销/登录终止了域连接，你可以手动触发注册。 为此，请执行以下操作：
-    >
-    > 通过管理员 `dsregcmd /join` 提示在本地或通过 PSExec 远程向电脑发出问题。
-    >
-    > 例如：`PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **注意**：如果你使用 VPN 并且注销/登录终止了域连接，你可以手动触发注册。 为此，请执行以下操作：
+    
+    通过管理员 `dsregcmd /join` 提示在本地或通过 PSExec 远程向电脑发出问题。\
+    例如：`PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 有关设备注册Azure Active Directory常见问题，请参阅[设备常见问题](https://docs.microsoft.com/azure/active-directory/devices/faq)。
