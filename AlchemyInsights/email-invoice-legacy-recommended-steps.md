@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003604"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326495"
 ---
 # <a name="e-mail-invoice---legacy"></a>电子邮件发票 - 旧版
 
@@ -52,5 +52,4 @@ ms.locfileid: "54003604"
 4. 选择你的 Azure 订阅，然后单击“**允许其他人下载发票**”。
 5. 选择“**开启**”，然后选择页面顶部的“**保存**”。
 
-> [!NOTE]
-如果你不是帐户管理员，请联系你的帐户管理员，按照上述说明选择加入、添加收件人或允许其他用户下载发票。
+**注意**：如果你不是帐户管理员，请联系你的帐户管理员，按照上述说明选择加入、添加收件人或允许其他用户下载发票。

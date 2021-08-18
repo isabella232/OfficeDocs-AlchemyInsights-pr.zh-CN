@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 00f01df15069ec779187655500812d7ba06d8e567093f9d6b89f96fe8e57a2dc
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500438"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326215"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>想要购买新订阅？
 
@@ -27,14 +27,14 @@ ms.locfileid: "54500438"
 
 2. 选择希望如何支付以及所需的用户许可证数。
 
-3. 选择" **立即结账**"。 下一页中，你可以查看订单并完成购买。
+3. 选择" **立即结账**"。 下一页上，你可以查看订单并完成购买。
 
 4. 购买完成后，你可能需要重新分配许可证或取消订阅。 有关此内容的帮助，请参阅下面的其他资源部分。
 
  **其他资源：**
   
-- [将许可证分配给企业Microsoft 365中的用户](/microsoft-365/admin/add-users/add-users)
+- [向企业版Microsoft 365许可证](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [取消订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- 如果你对切换订阅感兴趣，请参阅切换到适用于Microsoft 365[计划。](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- 如果你对切换订阅感兴趣，请参阅切换到适用于Microsoft 365[计划。](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
