@@ -1,5 +1,5 @@
 ---
-title: OneDrive 中的文件名称无效
+title: 文件名称无效OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088098"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>OneDrive 和 SharePoint 中的文件和文件夹名称无效
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>文件和文件夹中无效的文件和OneDrive SharePoint
 
-在文件和文件夹名称中不允许使用这些字符 " \* ： \< \> ？ / \ | 
+文件和文件夹名称中不允许这些字符：" \* ： \< \> ？ / \ | 
   
-有些组织尚不支持 # 和% 启用。 若要了解如何在组织中允许这些字符，请参阅 [启用 # 和% Support](https://go.microsoft.com/fwlink/?linkid=862611)。 
+某些组织尚未启用对 # 和 % 的支持。 若要了解如何在组织中允许这些字符，请参阅 [启用 # 和 % 支持](https://go.microsoft.com/fwlink/?linkid=862611)。 
   
-[有关文件和文件夹名称限制的详细信息](https://go.microsoft.com/fwlink/?linkid=866430)
+[有关文件和文件夹名称限制的信息](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

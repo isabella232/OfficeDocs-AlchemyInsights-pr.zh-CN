@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12451"
 - "9000181"
-ms.openlocfilehash: e197c43712c0ead9508a1cfdf48b51d01d2ae957649f73703f9c33733e332bf5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e2fc8fcf27eb916f64e4235cd116d9a7096e6078391e72363421ac3de721f5ee
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986762"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899754"
 ---
 # <a name="limitations-for-sensitivity-labels-for-office-files-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive 中 Office 文件的敏感性标签的限制
 
@@ -30,4 +30,4 @@ ms.locfileid: "53986762"
     - 下载带有标记的文件，然后将其上传到原来的 SharePoint 或 OneDrive 位置。
 - 对于加密文档，不支持打印。
 
-有关限制的其他细节，请参阅 [为 SharePoint 和 OneDrive 中的 Office 文件启用敏感标签](/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files#limitations)。
+有关限制的其他细节，请参阅 [为 SharePoint 和 OneDrive 中的 Office 文件启用敏感标签](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files#limitations)。

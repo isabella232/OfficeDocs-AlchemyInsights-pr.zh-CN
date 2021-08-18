@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113190"
 ---
 # <a name="network-migration"></a>网络迁移
 
-您的 O365 租户可能与一个1租户中的多个 Yammer 网络关联：许多网络配置。 从2018年10月16日开始，Yammer 将不再支持与一个租户关联的多个 Yammer 网络。 您可以执行网络迁移以获取首选的1:1 配置。
+O365 租户可能与 1 租户中的Yammer网络关联：多个网络配置。 从 2018 年 10 月 16 Yammer，将不再支持多个Yammer租户关联的网络。 可以执行网络迁移以进入首选的 1：1 配置。
   
-- 若要查看与你的租户关联的网络列表，请以全局管理员的身份登录 Yammer，然后浏览 **网络管理员**，然后再 **迁移网络**。 选择“**下一步**”。
+- 若要查看与租户关联的网络列表，请以全局管理员Yammer登录，然后浏览到网络管理员，然后是网络 **迁移**。  选择“下一步”。
 
-- 如果您看到在第2步（共3步）中列出了多个网络，则您有多个 Yammer 网络与 O365 租户相关联。
+- 如果看到步骤 2/3 中列出的多个网络，则有多个Yammer O365 租户关联的网络。
 
-- 若要将配置更正为1:1 配置，请继续使用网络迁移工具。
+- 若要将配置更正为一对一配置，请继续使用网络迁移工具。
 
-- 有关网络迁移的详细信息，请参阅 [网络迁移：合并多个 Yammer 网络](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
+- 有关网络迁移详细信息，请参阅网络迁移[：合并多个Yammer网络](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)。
 
 请注意：
   
-- **网络迁移仅迁移活动和待处理用户。** 除了活动用户之外，还将迁移用户的信息（如名称和配置文件图片）。 不迁移任何网络内容（包括组）。
+- **网络迁移仅迁移活动用户和待定用户。** 除了活动用户外，还会迁移用户的信息，如名称和个人资料图片。 不会迁移任何网络内容，包括组。
 
-- **无法还原网络迁移。** 迁移后，你将无法访问你的子公司网络及其内容。 因此，在考虑迁移之前，您需要仔细规划。
+- **无法恢复网络迁移。** 迁移后，你将无法访问子公司网络及其内容。 因此，在您考虑迁移之前，您需要仔细规划。

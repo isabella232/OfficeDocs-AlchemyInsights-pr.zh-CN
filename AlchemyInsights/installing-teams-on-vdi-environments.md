@@ -1,5 +1,5 @@
 ---
-title: 在 VDI 环境中安装 Teams
+title: 在 VDI Teams安装客户端
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1843caac062824ee531abda8e443903b98d94b4948759a0f63741ae17062bf8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088134"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>在 VDI 环境中安装 Teams
+# <a name="installing-teams-on-vdi-environments"></a>在 VDI Teams安装客户端
 
-有关在共享计算机、远程桌面服务 (RDS) 或虚拟桌面基础结构 (VDI) 上部署 Teams 的信息，请参阅使用 Microsoft Teams 共享计算机和 [VDI](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)环境。
+有关在共享计算机、远程桌面服务 (RDS) 或虚拟桌面基础结构 (VDI) 上部署 Teams 的信息，请参阅使用 Microsoft Teams 共享[计算机和 VDI 环境](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)。

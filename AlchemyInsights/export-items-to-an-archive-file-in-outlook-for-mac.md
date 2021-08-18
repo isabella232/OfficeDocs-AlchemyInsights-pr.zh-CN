@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100392"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316630"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>将项目导出到存档文件Outlook for Mac
 
@@ -24,16 +24,15 @@ ms.locfileid: "54100392"
 
 1. 在"工具 **"选项卡** 上，单击"导出 **"。**
 
-> [!NOTE]
-> 看不到"导出 **"按钮** ？ 确保拥有最新版本的 Outlook。 在 **"Outlook"** 菜单上，单击"**检查更新"。** 如果应用Outlook所有更新，但仍看不到"导出"按钮，在"文件"菜单上Outlook **导出**"。 
+    **注意**：看不到"导出 **"按钮** ？ 确保拥有最新版本的 Outlook。 在 **"Outlook"** 菜单上，单击"**检查更新"。** 如果Outlook所有更新，但仍看不到"导出"按钮，请从"文件"菜单上Outlook **导出**"。 
 
-2. 在"**导出到存档文件 (.olm**) 框中，选中要导出的项目，然后单击"继续 **"。**
+2. 在"**导出到存档文件 (.olm**) "框中，选中要导出的项目，然后单击"继续 **"。**
 
 3. 在"**另存为**"框中的 **"收藏夹"** 下，选择 **"下载"** 文件夹，然后单击"保存 **"。**
 
 4. 导出数据并收到通知后，单击"完成 **"。**
 
-若要了解如何访问已保存在 Outlook for Mac 数据文件 (.olm) 中的数据，请参阅将电子邮件、联系人和其他项目导入 Outlook 2016 for Mac [。](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
+若要了解如何访问已保存在 Outlook for Mac 数据文件 (.olm) 中的数据，请参阅将电子邮件、联系人和其他项目导入[Outlook 2016 for Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)。
 
 **我想要导出到 iCloud 或某种其他类型的存档文件**
 

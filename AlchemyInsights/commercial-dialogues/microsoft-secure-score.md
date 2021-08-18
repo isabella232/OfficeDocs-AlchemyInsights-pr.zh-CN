@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883345"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316966"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft 安全功能分数
 
 通过使用 Microsoft 安全分数，可以使环境更加安全。 将它视为安全性的信用评分。 它告诉你可以采取的可帮助提高组织安全性的操作。
 
-1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to Secure **score**.
+1. 在 Microsoft 365 Defender门户中 <https://security.microsoft.com> ，转到安全 **分数**。
 
    若要直接转到安全分数 **页面** ，请使用 <https://security.microsoft.com/securescore>
 
@@ -34,7 +34,6 @@ ms.locfileid: "57883345"
 
 4. Select a **To address** or **Regressed** item from the list on the **Improvement actions** tab.将打开一个新页面，并给出完整的 **说明和一** 个"管理"按钮来修复该问题。
 
-    > [!NOTE]
-    > 你获得用于配置建议安全功能的分数，但请记住，某些操作标记为 **[Not Scored]**。 这意味着，即使实施该改进操作，也不会获得任何分数。 否则 *，可能需要 24 小时* 才能更新你的分数。
+    **注意**：你获得配置建议安全功能的分数，但请记住，某些操作被标记为 **[Not Scored]**。 这意味着，即使实施该改进操作，也不会获得任何分数。 否则 *，可能需要 24 小时* 才能更新你的分数。
 
 有关 Microsoft 安全分数详细信息，请参阅 [Microsoft 安全分数](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)。

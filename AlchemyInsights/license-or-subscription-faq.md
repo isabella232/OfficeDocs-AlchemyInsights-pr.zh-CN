@@ -15,19 +15,18 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 0a6d169a0fdff9fe7dec9d7175f80d092a0251839f2c4d29f42f1b884c6a6f44
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53986728"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316440"
 ---
 # <a name="license-or-subscription-faq"></a>许可证或订阅常见问题解答
 
 - 若要查找组织所拥有的订阅或许可证，请转到 **“帐单”** > [“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)。
 - 从订阅中[添加或删除许可证](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)。
-    > [!NOTE]
-    > 你还会被收取未分配给用户的许可证的费用。 为了防止多余的费用，请删除许可证以减少许可证计数。
+    **注意**：你还会被收取未分配给用户的许可证的费用。 为了防止多余的费用，请删除许可证以减少许可证计数。
 . [帐户之间转移许可证](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants)。
 - [重新激活过期或禁用的订阅](https://go.microsoft.com/fwlink/p/?linkid=2117519)。
 - [编辑用于支付订阅的付款方式](https://go.microsoft.com/fwlink/p/?linkid=2117167)。

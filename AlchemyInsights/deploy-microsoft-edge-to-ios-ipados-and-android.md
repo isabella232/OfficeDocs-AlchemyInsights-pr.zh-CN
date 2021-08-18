@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 56ccfc2bff811d0a70582ace6278af76d2339cd7ddb14fe3488c15c1d4e9340b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914137"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316864"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>将 Microsoft Edge 部署到 iOS、iPadOS 和 Android
 
 下面总结的指导方案将帮助你将 Microsoft Edge 分配给 iOS、iPadOS 和 Android 设备的用户。
 
-> [!NOTE]
-> 如果你阻止用户注册移动设备，此指导方案将不起作用，并且用户需要自行安装 Microsoft Edge。
+**注意**：如果你阻止用户注册移动设备，此指导方案将不起作用，并且用户需要自行安装 Microsoft Edge。
 
 指导方案涉及以下步骤：
 
