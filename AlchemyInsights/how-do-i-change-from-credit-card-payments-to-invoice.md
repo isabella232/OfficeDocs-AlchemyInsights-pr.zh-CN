@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868668"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323776"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>如何从信用卡付款更改为发票？
 
-> [!NOTE]
-> 如果你的订阅费用超过一定金额，你只能更改为按发票支付。 必须首先支付信用卡、借记卡或银行帐户的任何未结余额，然后才能更改为按发票付款。
+**注意**：如果你的订阅费用超过一定金额，你只能更改为通过发票付款。 必须首先支付信用卡、借记卡或银行帐户的任何未结余额，然后才能更改为按发票付款。
 
 1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
 2. 在" **"** 选项卡上，找到你想要使用备用付款方式付款的订阅。

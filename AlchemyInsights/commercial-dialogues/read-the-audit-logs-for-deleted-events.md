@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ec8f845f599e397814bc9077c3fe59edb5324192
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896005"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324723"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>读取已删除事件的审核日志
 
@@ -28,8 +28,7 @@ ms.locfileid: "57896005"
    - In the Microsoft 365 合规中心 at <https://compliance.microsoft.com> ， go to **Solutions** \> **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://compliance.microsoft.com/auditlogsearch> 。
    - In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://security.microsoft.com/auditlogsearch> 。
 
-    > [!NOTE]
-    > 如果看到需要启用该功能的通知，请继续，然后现在打开它。 如果未启用此功能，搜索结果将无法从以前的日期提取数据。
+    **注意**：如果看到需要打开该功能的通知，请继续，然后打开它。 如果未启用此功能，搜索结果将无法从以前的日期提取数据。
 
 2. 在"**审核****"页的**"搜索"选项卡上，配置以下设置：
    - **日期和时间范围**：在"开始"和"结束"框中 **选择日期** / **时间** 范围。
@@ -45,7 +44,6 @@ ms.locfileid: "57896005"
 
 4. 在结果中选择一个活动以打开详细信息飞出。 有关已删除项目的其他信息（如主题行和项目被删除时的位置）将显示在 **AffectedItems** 字段中。
 
-   > [!NOTE]
-   > You can't restore deleted items using the 审核日志 feature. 若要还原已删除的项目，请参阅恢复已删除[的电子邮件Outlook 网页版。](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
+   **注意**：无法还原使用"已删除邮件"功能审核日志项。 若要还原已删除的项目，请参阅恢复已删除的电子邮件[Outlook 网页版。](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11)
 
 有关详细信息，请参阅搜索 [审核日志以调查常见的支持问题](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)。

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895781"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325061"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>攻击模拟器Microsoft 365
 
@@ -35,7 +35,7 @@ ms.locfileid: "57895781"
 
   - 根据设计，无法为网络钓鱼登录服务器 **URL 提供自定义值**。
 
-  - 如果收件人使用 ["](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) 启用报告邮件"外接程序将邮件报告为网络钓鱼邮件，则可能不会收到邮件提示 (因为这是模拟的攻击) 。
+  - 如果收件人使用 ["](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) 启用报告邮件"加载项将邮件报告为网络钓鱼邮件，则可能不会收到邮件提示 (因为这是模拟的攻击) 。
 
 - 报告：模拟攻击完成后，你可以单击" **攻击详细信息** "查看报告。
 

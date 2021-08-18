@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895877"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325285"
 ---
 # <a name="expired-subscription"></a>过期的订阅
 
@@ -29,9 +29,8 @@ ms.locfileid: "57895877"
 **重新激活**
   
 1. 在管理中心中，转到“**计费**”\>“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
-2. 在“**产品**”选项卡上，找到要重新激活的订阅。选择三个点（更多操作），然后选择“**重新激活此订阅**”。
-    > [!NOTE]
-    > 如果看不到重新 **激活此订阅，请致电** 支持人员。
+2. 在“**产品**”选项卡上，找到要重新激活的订阅。 选择三个点（更多操作），然后选择“**重新激活此订阅**”。
+    **注意**：如果看不到重新 **激活此订阅，请致电** 支持人员。
 3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 

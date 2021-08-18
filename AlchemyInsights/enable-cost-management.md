@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003559"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325453"
 ---
 # <a name="enable-cost-management"></a>启用成本管理
 
@@ -34,8 +34,7 @@ ms.locfileid: "54003559"
 2. 选择 **"发票"，****然后选择"访问发票"。**
 3. 打开访问权限，然后保存更改，以允许订阅范围内的角色中的用户下载发票。
 
-> [!NOTE]
-> 帐户管理员还可以配置为通过电子邮件发送发票。 若要了解更多信息，请参阅 [通过电子邮件获取发票](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)。
+**注意**：帐户管理员还可以配置为通过电子邮件发送发票。 若要了解更多信息，请参阅 [通过电子邮件获取发票](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)。
 
 **如何将用户添加到计费读取者角色**
 
@@ -49,7 +48,7 @@ ms.locfileid: "54003559"
 
 - [通过 EA 门户启用 DA 和 AO 视图](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
 - [成本管理中包含的成本](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
-- [受支持的Microsoft Azure产品/服务](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [支持Microsoft Azure产品/服务](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
 - [查看成本分析中的成本](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
 - [提供对计费信息的访问权限](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [检查 Microsoft 客户协议的访问权限](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

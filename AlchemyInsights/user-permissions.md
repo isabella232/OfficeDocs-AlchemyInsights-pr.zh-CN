@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908340"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324841"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>SharePoint 和 OneDrive
 
@@ -24,7 +24,7 @@ ms.locfileid: "53908340"
     
 2. 请确保在"**产品许可证"** 下分配许可证 **，SharePoint"Online"。** 
     
- 授予用户访问网站SharePoint权限： 
+ 若要向用户授予访问网站SharePoint权限： 
   
 1. 在 Web 浏览器中打开网站。
     
@@ -34,8 +34,7 @@ ms.locfileid: "53908340"
     
     对于经典团队网站 **，单击右上角** 的"共享"。 输入要邀请的人的姓名，或键入"所有人"与组织中的每个人共享。 单击“**共享**”。
     
-> [!NOTE]
-> 如果您是网站的成员，但不是所有者，您可以邀请用户访问该网站，但您的邀请将生成一个访问请求，该请求可通过网站所有者批准或拒绝。 
+**注意**：如果您是网站的成员，但不是所有者，您可以邀请用户访问该网站，但您的邀请将生成一个访问请求，该请求可通过网站所有者批准或拒绝。 
   
 [了解如何与用户共享文件或文件夹](https://go.microsoft.com/fwlink/?linkid=533408)
   

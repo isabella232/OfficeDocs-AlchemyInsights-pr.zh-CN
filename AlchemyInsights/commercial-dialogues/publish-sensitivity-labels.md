@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: df5acfc38095f03eeeff379d51a72332dcf366e3786ab0ff7ffcd655cbafd1cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b19b3cf229fd67f1df2b58b387b1f74818e35f48
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967359"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324759"
 ---
 # <a name="publish-sensitivity-labels"></a>发布敏感度标签
 
@@ -29,8 +29,9 @@ ms.locfileid: "53967359"
 3. 单击“**发布标签**”。
 4. 单击“**选择要发布的敏感度标签**”。 
 5. 选择希望在应用和服务中可用的标签，随后单击“**添加**”。
-> [!IMPORTANT]
-> 如果选择了子标签，请确保也选择了其父标签。
+
+**重要信息**：如果选择了子标签，请确保也选择了其父标签。
+
 6. 查看所选标签。 若要进行任何更改，请单击“**编辑**”；否则，请单击“**下一步**”。
 7. 按照提示配置策略设置。
 8. 如果不同的用户或位置需要不同的策略设置，请重复这些步骤。 例如，希望为一组用户创建附加标签，或用户为子集创建不同的默认标签。
