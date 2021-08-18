@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055544"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318638"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>如何启用托管语音邮件
 
@@ -29,7 +29,6 @@ ms.locfileid: "54055544"
 有关连接到 RPS 的信息，请参阅 Microsoft Teams [PowerShell 概述](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)，详细了解如何连接到 RPS。
 
 1. 管理员Teams登录远程 PowerShell 进行Teams。
-1. 在 PowerShell 提示符Teams管理员可运行 **set-csuser user@contoso.com -HostedVoiceMail $true** 其中 sip uri 是问题用户。
+1. 在 PowerShell 提示Teams管理员可运行 **set-csuser user@contoso.com -HostedVoiceMail $true** 其中 sip uri 是问题用户。
 
-> [!NOTE]
-> 对策略所做的更改最多可能需要 24 小时才能复制。
+**注意**：对策略所做的更改最多可能需要 24 小时才能复制。

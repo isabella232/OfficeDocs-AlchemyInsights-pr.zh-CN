@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303567"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902250"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>在"地址"中审核日志
 
@@ -28,7 +28,8 @@ ms.locfileid: "58303567"
    - In the Microsoft 365 合规中心 at <https://compliance.microsoft.com> ， go to **Solutions** \> **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://compliance.microsoft.com/auditlogsearch> 。
    - In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://security.microsoft.com/auditlogsearch> 。
 
-    **注意**：如果看到需要启用审核的通知，请继续，并打开它。 如果未启用此功能，搜索结果将无法从以前的日期提取数据。
+    > [!NOTE]
+    > 如果看到需要启用审核的通知，请继续，然后现在将其打开。 如果未启用此功能，搜索结果将无法从以前的日期提取数据。
 
 2. 在" **审核** "页上，验证"搜索 **"** 选项卡是否被选中，然后配置以下设置：
    - **日期和时间范围**：在"开始"和"结束"框中 **选择日期** / **时间** 范围。
@@ -41,4 +42,4 @@ ms.locfileid: "58303567"
 
 5. 在结果中选择审核记录以打开" **详细信息"** 飞出。
 
-有关详细信息，请参阅搜索 [审核日志以调查常见的支持问题](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)。
+有关详细信息，请参阅 Search [the 审核日志 to investigate common support issues](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)。

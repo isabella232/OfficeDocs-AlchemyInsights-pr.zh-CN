@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045848"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318940"
 ---
 # <a name="cancel-power-bi"></a>取消Power BI
 
@@ -33,7 +33,6 @@ Power BI中可以取消Microsoft 365 管理中心。
 
 **退款：任何按比例计算退款将在下一个计费周期内退回给你。**
 
-> [!NOTE]
-> 如果看不到取消选项，请选择订阅以查看详细信息页面。 在"**订阅和付款设置"** 部分，选择"**取消订阅"。**
+**注意**：如果看不到取消选项，请选择订阅以查看详细信息页面。 在"**订阅和付款设置"** 部分，选择"**取消订阅"。**
 
-若要了解更多信息，请参阅 [取消订阅](/microsoft-365/commerce/subscriptions/cancel-your-subscription)。
+若要了解更多信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

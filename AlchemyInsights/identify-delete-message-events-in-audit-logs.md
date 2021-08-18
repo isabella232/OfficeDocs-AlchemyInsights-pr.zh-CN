@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115638"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>已删除电子邮件的审核日志
 
@@ -28,12 +28,12 @@ ms.locfileid: "58317584"
 
 2. 单击 **"搜索和调查"，** 然后选择"**审核日志搜索"。**
 
-3. 在"开始日期"和"结束日期 **"** 字段中 **选择日期** 范围。 指定要调查的用户的用户名 (删除项目的用户) 。 在" **活动"** 字段中， **选择"已删除邮件"文件夹中** 的"已删除邮件"和"将邮件 **移动到已删除邮件"文件夹**。
+3. 在"开始日期"和"结束日期 **"** 字段中 **选择日期** 范围。 指定要调查的用户的用户名 (已删除项目的用户) 。 在" **活动"** 字段中， **选择"已删除邮件"文件夹中** 的"已删除邮件"和"将 **邮件移动到已删除邮件"文件夹**。
 
 4. 单击"搜索"。
 
-在结果中，选择审核记录。 在详细信息飞出中，单击 **"详细信息"。** 有关已删除项目的其他信息 (，例如主题行和项目在删除时) 位置将显示在 **AffectedItems** 字段中。 **ClientInfoString** 属性将显示删除是否发生在 Outlook、Outlook 网页版 (以前Outlook Web App) 设备中。
+在结果中，选择审核记录。 在详细信息飞出中，单击 **"详细信息"。** 有关已删除项目的其他信息 (，例如主题行和项目在删除项目时) 显示在 **AffectedItems** 字段中。 **ClientInfoString** 属性将显示删除是否发生在 Outlook、Outlook 网页版 (以前Outlook Web App) 设备中。
 
-有关详细信息，请参阅确定 [谁为邮箱设置了电子邮件转发](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)。
+有关详细信息，请参阅确定 [谁为邮箱设置了电子邮件转发](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)。
 
-**注意**：无法检索使用"已删除邮件"审核日志项。 若要检索已删除的邮件Outlook 网页版，请参阅恢复已删除[邮件Outlook Web App。](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
+**注意**：无法检索使用"已删除邮件"功能审核日志项。 若要检索邮件中的已删除Outlook 网页版，请参阅恢复邮件中的已删除[Outlook Web App。](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)

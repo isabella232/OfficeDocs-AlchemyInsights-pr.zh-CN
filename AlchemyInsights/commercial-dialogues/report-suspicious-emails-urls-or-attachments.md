@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895109"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318782"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>报告可疑电子邮件、URL 或附件
 
@@ -33,5 +33,4 @@ ms.locfileid: "57895109"
 
 有关详细信息，请参阅使用[管理员提交将可疑的垃圾邮件、网络钓鱼、URL 和文件提交到 Microsoft。](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
 
-> [!NOTE]
-> 使用报告邮件外接程序或报告网络钓鱼外接程序通知用户，他们应在收件箱中报告 [任何可疑邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)。
+**注意**：告知用户，他们应该使用"报告邮件"加载项或"报告网络钓鱼"加载项报告收件箱 [中任何可疑邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)。

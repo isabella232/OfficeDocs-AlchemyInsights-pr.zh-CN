@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8232"
 - "9004597"
-ms.openlocfilehash: 961c9bb3b99785cd9234ad43586e421ee48dd40cc3eb127c23bb2a3f74dcd890
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f58915cac2e85d8f29f2cb03f85c278e781effaa80d5981b7b5b68170094fc9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896773"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091761"
 ---
 # <a name="auto-apply-labeling"></a>自动应用标签
 
@@ -30,8 +30,8 @@ ms.locfileid: "57896773"
 1. 在向导中，在 **“定义此标签的作用域”** 下，选择 **“文件和电子邮件”**。 
 1. 按照向导上的步骤，然后为文件和电子邮件配置自动标签设置。 
 
-关于 Office 应用程序的自动标签的更多信息，请参阅 [如何配置 Office 应用程序的自动标签](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps)。
+关于 Office 应用程序的自动标签的更多信息，请参阅 [如何配置 Office 应用程序的自动标签](/microsoft-365/compliance/apply-sensitivity-label-automatically#how-to-configure-auto-labeling-for-office-apps)。
 
 若要为 SharePoint、OneDrive 和 Exchange 设置自动标记策略，请参阅 [如何为 SharePoint、OneDrive 和 Exchange 配置自动标记策略](https://go.microsoft.com/fwlink/?linkid=2148841)。
 
-有关自动将敏感度标签应用于内容的详细信息，请参阅 [将敏感度标签自动应用于内容](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)。
+有关自动将敏感度标签应用于内容的详细信息，请参阅 [将敏感度标签自动应用于内容](/microsoft-365/compliance/apply-sensitivity-label-automatically)。

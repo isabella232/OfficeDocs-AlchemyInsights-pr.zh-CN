@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317466"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902034"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>如何执行内容搜索和电子数据展示搜索
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317466"
 4. 输入所需的搜索条件，包括关键字和内容位置。
 5. 选择 **"&"** 以命名搜索、启动搜索，然后预览结果。
 
-**注意**：**在Microsoft 365** 解决方案中，  >  展开 **"电子数据** 展示"并选择所需的电子数据展示工具。
+> [!NOTE]
+> 在 **Microsoft 365中心**  >  **解决方案**"中，展开 **"电子数据展示"** 并选择所需的电子数据展示工具。
 
 有关内容搜索、导出结果和创建电子数据展示事例以保留数据的详细说明，请参阅内容[搜索](https://docs.microsoft.com/microsoft-365/compliance/content-search)[和电子数据展示事例](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)。
 

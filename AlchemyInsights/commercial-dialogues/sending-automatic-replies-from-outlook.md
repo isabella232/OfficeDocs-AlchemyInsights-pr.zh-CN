@@ -1,5 +1,5 @@
 ---
-title: 从 Outlook 发送自动答复
+title: 从用户发送自动Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735509"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090950"
 ---
-# <a name="sending-automatic-replies-from-outlook"></a>从 Outlook 发送自动答复
+# <a name="sending-automatic-replies-from-outlook"></a>从用户发送自动Outlook
 
 - 有两种方法可以发送自动外出答复，具体取决于你拥有的电子邮件帐户的类型。
-- 单击 **"** 文件"，然后选择 **"基于** Outlook 版本的自动答复"。
+- 单击 **"** 文件"，**然后选择"** 基于你的版本自动答复Outlook"。
