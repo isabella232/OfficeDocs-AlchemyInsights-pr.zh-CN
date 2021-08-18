@@ -16,12 +16,12 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 223f489e54c14fb7d72359f1c0acc72922f01b275991465219d52f592267d4ed
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5106dd1f34bbbe4a2d4335104a09f2baa04bcfce
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899046"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317834"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>生成帐单的时间
 
@@ -29,6 +29,6 @@ ms.locfileid: "57899046"
 
 在活动计费周期期间发生的其他费用将包含在下一个月的发票中。 发票的计费摘要中列出了每个发票的计费 **周期开始日期** 和结束日期。
 
-信用卡和/或银行帐户 (如果适用) 付款在发票 **日期** 后支付。
+信用卡和/或银行帐户 (如果适用) 付款在发票日期后 **支付。**
   
 若要了解更多信息，请参阅 [了解发票](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)。

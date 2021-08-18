@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090116"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>将 Android 设备注册到 Intune
 
-如果您想要将用户从 Android 设备管理员注册迁移到 Android 企业版，请查看： [将 android 设备从设备管理员移到工作配置文件管理](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)。
+如果你希望将用户从 Android 设备管理员注册迁移到 Android Enterprise，请查看：将 Android 设备从设备管理员移动到[工作配置文件管理](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)。
 
 Intune 支持注册以下 Android 设备：  
 
-- [Samsung Knox、Zebra、设备管理员](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Android 企业工作配置文件](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Android 企业专用](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [完全管理的 Android 企业版](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox，用户，设备管理员](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Android Enterprise工作配置文件](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise专用](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise完全托管](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-在为 Android 设备设置注册之前，请 [查看必备组件](https://docs.microsoft.com/intune/enrollment/android-enroll)。  
+在设置 Android 设备的注册之前， [请查看先决条件](https://docs.microsoft.com/intune/enrollment/android-enroll)。  
 
-有关在常规和一些 Android 注册错误中对设备注册进行疑难解答的信息，请参阅 [在 Microsoft Intune 中对设备注册进行故障排除](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)。
+有关一般设备注册疑难解答和一些 Android 注册错误的信息，请参阅疑[难解答设备注册Microsoft Intune。](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
-您还可以使用描述 Intune 故障排除边栏的内容来帮助确定用户遇到的 enrolment 问题。
+还可使用介绍 Intune 疑难解答边栏选项卡的内容来帮助确定用户遇到的问题。

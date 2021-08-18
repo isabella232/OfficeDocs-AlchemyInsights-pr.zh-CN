@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8322"
 - "9003227"
-ms.openlocfilehash: 7caf46f9988ddbcbb16c0a2751dbda85bd7da34c
-ms.sourcegitcommit: 616ae0cbd5769e12ae428e00088840cf05e52b6a
+ms.openlocfilehash: a988d792c51a81eac9aad3e8b2cd20fec9b2df51766f8919312e933a806e47ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50282806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114702"
 ---
 # <a name="managing-external-settings"></a>管理外部设置
 
@@ -33,8 +33,8 @@ ms.locfileid: "50282806"
 
 **管理来宾用户访问权限**
 
-1. 通过在“外部协作设置”页面上配置来宾访问权限，全局管理员就可以在目录中通过 Azure 门户管理来宾访问权限。 [了解有关此设置的详细信息](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support)。
-2. 如果希望来宾访问 Teams 或 SharePoint 等应用，请确认已配置这些应用以允许来宾访问。 了解更多关于 [Teams 设置](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support)和 [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support) 的详细信息。
+1. 通过在“外部协作设置”页面上配置来宾访问权限，全局管理员就可以在目录中通过 Azure 门户管理来宾访问权限。[了解此设置的详细信息](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?WT.mc_id=Portal-Microsoft_Azure_Support)。
+2. 如果希望来宾访问 Teams 或 SharePoint 等应用，请确认已配置这些应用以允许来宾访问。详细了解 [Teams 设置](https://docs.microsoft.com/microsoftteams/guest-access?WT.mc_id=Portal-Microsoft_Azure_Support)和 [SharePoint](https://docs.microsoft.com/sharepoint/external-sharing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)。
 
 **配置邀请：**
 

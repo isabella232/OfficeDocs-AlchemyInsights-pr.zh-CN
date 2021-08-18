@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090119"
 ---
 # <a name="endpoint-dlp-licensing-error"></a>终结点 DLP 许可错误
 
-尝试设置终结点 DLP 时，如果收到以下错误：
+尝试设置 Endpoint DLP 时，如果您收到以下错误：
 
 `Your organization is missing the licenses required to manage these devices`.
 
-确保您具有以下订阅或加载项之一：
+确保你具有以下订阅或加载项之一：
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
@@ -36,6 +36,6 @@ ms.locfileid: "49477646"
 - Microsoft 365 A5 信息保护和治理
 
 > [!NOTE]
-> 这将不适用于许可证组合，如 Win E5 + O365 E5 + EMS E5。 若要设置此功能，您必须具有一个纯 M365 E5 许可证。
+> 这适用于许可证组合，例如：Win E5 + O365 E5 + EMS E5。 您必须拥有纯 M365 E5 许可证才能设置此功能。
 
-有关 Endpoint DLP 许可的详细信息，请参阅 [ENDPOINT DLP 许可。](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+有关终结点 DLP 许可信息，请参阅 [Endpoint DLP Licensing。](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
