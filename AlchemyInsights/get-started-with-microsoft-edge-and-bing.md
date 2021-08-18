@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge + 必应入门
+title: 开始Microsoft Edge + 必应
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116394"
 ---
-# <a name="get-started-with-microsoft-edge--bing"></a>Microsoft Edge + 必应入门
+# <a name="get-started-with-microsoft-edge--bing"></a>开始Microsoft Edge + 必应
 
-无需额外设置 Microsoft Edge + 必应。 若要查找工作相关信息，只需在 Microsoft Edge 的地址栏中输入查询。
+无需额外设置，就无需进行 Microsoft Edge + 必应。 若要查找与工作有关的信息，只需在地址栏中输入查询Microsoft Edge。
 
-若要了解更多信息，请参阅使用 [Microsoft Edge + 必应获取更多信息](https://go.microsoft.com/fwlink/?linkid=2152963)。
+若要了解更多信息，请参阅使用 Microsoft Edge [+ 必应 获取必应。](https://go.microsoft.com/fwlink/?linkid=2152963)

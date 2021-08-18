@@ -1,5 +1,5 @@
 ---
-title: '开始使用 Microsoft Edge 中的开发人员工具 (Chromium) '
+title: '开发人员工具入门Microsoft Edge (Chromium) '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004029"
 - "7099"
-ms.openlocfilehash: ba44365906b3ccaf763c3e64a7ffd7d1b34b9ac0
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: d1238ac3f3af4857aebe3c51b900e755ff86814fa425ec47be1e83cd5f9faa20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116358"
 ---
-# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>开始使用 Microsoft Edge 中的开发人员工具 (Chromium) 
+# <a name="get-started-with-the-developer-tools-in-microsoft-edge-chromium"></a>开发人员工具入门Microsoft Edge (Chromium) 
 
-Microsoft Edge 采用了 Chromium 开放源代码项目，这旨在使 web 的零散和 web 平台的兼容性更小。 此更改使您能够使用 Microsoft Edge 生成和测试在其他基于 Chromium 的浏览器上运行的网站。
+Microsoft Edge采用了开放Chromium项目，旨在减少 Web 零碎和 Web 平台的兼容性。 此更改将让你能够Microsoft Edge构建和测试在基于其他浏览器Chromium的网站。
 
-Microsoft Edge (Chromium) 还提供了 [一流的开发人员工具](https://go.microsoft.com/fwlink/?linkid=2134941) ，这些工具应熟悉您并与已使用的工具兼容。
+Microsoft Edge (Chromium) 还提供[一](https://go.microsoft.com/fwlink/?linkid=2134941)流的开发人员工具，你应该熟悉这些工具并与您已使用的工具兼容。
 
-若要了解详细信息，请参阅 [Microsoft Edge (Chromium) DevTools 中的新增功能](https://go.microsoft.com/fwlink/?linkid=2135020)。
+若要了解更多信息，请参阅开发人员[工具中的Microsoft Edge (Chromium) 新增功能](https://go.microsoft.com/fwlink/?linkid=2135020)。

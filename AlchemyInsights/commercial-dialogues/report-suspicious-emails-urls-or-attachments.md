@@ -12,25 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091116"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>报告可疑电子邮件、URL 或附件
 
-我了解你需要帮助调查可疑电子邮件或未正确筛选的电子邮件。 我可以帮助你使用提交门户提交问题进行分析，这将提供即时反馈。 以下是步骤的摘要：
+我了解你需要帮助调查可疑电子邮件或未正确筛选的电子邮件。 我可以帮助你使用提交资源管理器提交问题进行分析，这将提供即时反馈。 以下是步骤摘要：
 
-1. In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to Email & **collaboration** \> **Submissions**.
-
-   若要直接转到 **提交页面，** 请使用 <https://security.microsoft.com/reportsubmission> 。
-
-2. 在"**提交"** 页上，验证"**已提交进行分析**"选项卡是否选中，然后单击 **"+ 提交到 Microsoft 进行分析"。**
-
-3. 将显示一个飞出页面，并包含提交电子邮件、URL 或文件的选项。
-
-有关详细信息，请参阅使用[管理员提交将可疑的垃圾邮件、网络钓鱼、URL 和文件提交到 Microsoft。](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
-
-**注意**：告知用户，他们应该使用"报告邮件"加载项或"报告网络钓鱼"加载项报告收件箱 [中任何可疑邮件](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)。
+1. 转到安全 [Office 365安全&中心，](https://go.microsoft.com/fwlink/p/?linkid=2077143)然后转到威胁 **管理**  >  [提交](https://go.microsoft.com/fwlink/?linkid=2101521)。
+2. 选择 **+ 新提交**。 将显示一个飞出页面，其中显示用于提交电子邮件、URL 或文件的选项。
+    > [!NOTE]
+    > 使用"报告邮件"加载项通知用户，他们应将其收件箱中任何可疑邮件[报告给 Microsoft。](https://go.microsoft.com/fwlink/?linkid=2092385)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087198"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319882"
 ---
 # <a name="your-payment-was-declined"></a>你的付款被拒绝
 
@@ -35,8 +35,7 @@ Microsoft 将在发票日期后的 3-4 周内多次尝试从你的信用卡扣�
 
 4. 若要使用现有付款方式，请从下拉列表中选择一个，然后选择“**替换**”。
 
-    > [!NOTE]
-    > 如果你有与计费对象信息相关联的订阅，则只能使用信用卡或借记卡支付。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
+    **注意**：如果你有与计费用户配置相关联的订阅，则只能使用信用卡或借记卡进行支付。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
 
 5. 若要添加新的付款方式，请选择“**添加付款方式**”。
 

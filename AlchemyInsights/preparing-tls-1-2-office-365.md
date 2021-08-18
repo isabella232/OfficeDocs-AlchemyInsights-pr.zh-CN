@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "11220"
 - "9006570"
-ms.openlocfilehash: 1d5876918729ffe531f0d8973a98cb219a3776241344335a10b4cde4d0775a99
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 34976cdfb35943d5dbcc3ab924b1a0c996ac7643
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890992"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319378"
 ---
 # <a name="preparing-for-tls-12-in-office-365"></a>在 Office 365 中准备 TLS 1.2
 
-为了为客户提供一流的加密，Microsoft 将在 Office 365 和 Office 365 GCC 中弃用传输层安全性 (TLS) 1.0 和 1.1 Office 365 GCC。 
+为了为客户提供一流的加密，Microsoft 将在 Office 365 和 Office 365 GCC 中弃用传输层安全性 (TLS) 版本 1.0 和 1.1。 
 
 有关详细信息，请参阅：
 

@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5d5a82afa849b7de7750ec997da007cd89763696
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e8965db163c659a80c8515b133302ec64aa0fdf6e742bbbe56b0d7dc25d7656
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318466"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115971"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>如何重新激活订阅和管理定期计费
 
@@ -32,7 +32,7 @@ ms.locfileid: "58318466"
 3. 在“**重新激活此订阅**”窗格中，从下拉列表中选择支付方式，或选择“**添加付款方式**”。
 4. 选择“**保存**”。
 
-要了解详细信息，请参阅[重新激活订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
+要了解详细信息，请参阅[重新激活订阅](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)。
 
 要管理月度或年度计费，可以打开或关闭“**定期计费**”。
   
@@ -42,4 +42,4 @@ ms.locfileid: "58318466"
 4. 在“**编辑定期计费设置**”窗格中，选择“**开**”，“**开，但续订一次**”或“**关**”。
 5. 选择“**保存**”。
 
-请参阅[打开或关闭定期计费](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)了解详细信息。
+请参阅[打开或关闭定期计费](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on)了解详细信息。

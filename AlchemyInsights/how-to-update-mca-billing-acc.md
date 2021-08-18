@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001492"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320020"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>更新与 MCA 关联的售达地址和帐单支付地址 - 推荐步骤
 
-你可以更新与 MCA (Microsoft 客户协议关联的销售对象和帐单) 。 
+你可以更新与 MCA 客户协议关联的销售对象和帐单 () 。 
 
-> [!NOTE]
-> 只有用户管理员才能更改Azure Active Directory用户配置文件信息。 如果未向用户分配用户管理员角色，请与用户管理员联系。 有关更改用户配置文件的信息，请参阅使用"添加或更新用户[Azure Active Directory"。](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**注意**：只有用户管理员才能更改Azure Active Directory用户配置文件信息。 如果未向用户分配用户管理员角色，请与用户管理员联系。 有关更改用户配置文件的信息，请参阅使用"添加或更新用户的配置文件[Azure Active Directory"。](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **售达地址** - 售达地址是负责计费帐户的组织或个人的地址和联系信息。 它显示在为计费帐户生成的所有发票中。
 
