@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 47b83d482a1deb6add5c6283d7e2e0f6035e2c13cf7e1cd78ffc4ff7c9ffc85b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54033988"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320433"
 ---
 # <a name="retrieve-the-audit-logs"></a>检索审核日志
 
 第一次打开审核日志时，它将为空。 请搜索查看其中有什么内容。 以下是对所有活动进行常规搜索的方式：
 
-1. 转到审核日志 [搜索页面， (](https://protection.office.com/#/unifiedauditlog)或导航到管理 **中心** 安全& 合规中心 搜索  >    >  **&调查** 审核  >  **日志) 。**
-1. 在"**活动**"框中，接受默认值 **"显示所有活动的结果"。**
-1. 指定日期范围，并在“**用户**”框中接受默认以返回所有用户的结果，或选择要调查用户的用户名。
-1. 单击"搜索"。 这些活动出现在“**结果**”下。
-1. 若要查看详细信息，请单击某个活动，然后选择"**详细信息"。** 你将看到更多信息，如客户端、已执行的操作的用户等。
+1. 执行以下操作之一：
+   - In the Microsoft 365 合规中心 at <https://compliance.microsoft.com> ， go to **Solutions** \> **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://compliance.microsoft.com/auditlogsearch> 。
+   - In the Microsoft 365 Defender portal at <https://security.microsoft.com> ， go to **Audit**. 或者，若要直接转到审核 **页面** ，请使用 <https://security.microsoft.com/auditlogsearch> 。
+
+2. 在"**审核****"页的**"搜索"选项卡上，配置以下设置：
+   - **日期和时间范围**：在"开始"和"结束"框中 **选择日期** / **时间** 范围。
+   - **活动**：验证 **是否选择了"显示所有活动** 的结果"。
+   - **用户**：接受空白默认值以返回所有用户的结果，或输入一个或多个用户。
+
+3. 完成后，单击"搜索 **"。** 活动显示在新的"审核搜索 **"页上** 。
+
+4. 在结果中选择一个活动以打开详细信息飞出。 你将看到更多信息，如客户端、已执行的操作的用户等。
+
+若要了解更多信息，请参阅 [搜索审核日志以调查常见的支持问题](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)。

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896101"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320479"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>修复发件人地址/域列表规则
 
@@ -27,7 +27,7 @@ ms.locfileid: "57896101"
 
    若要直接转到“**反垃圾邮件策略**”页面，请使用 <https://security.microsoft.com/antispam>。
 
-2. 在"**反垃圾邮件** (策略"页上，单击策略名称"类型为自定义反垃圾邮件策略"或"名称为反垃圾邮件入站策略" (**默认** 策略) ) 。）
+2. 在 **"反垃圾邮件** (策略"页上，单击策略名称"类型为自定义反垃圾邮件策略"或"名称为反垃圾邮件入站策略" (**默认** 策略) ) 。
 3. 在出现的详细信息飞出控件中，选择"允许和阻止的发件人和域"部分中的"编辑允许和阻止的发件人 **和** 域"。
 4. 在" **允许** "部分，单击"管理发件人"或" **允许域 \<nn\>** "，查看发件人 **和域**。
 

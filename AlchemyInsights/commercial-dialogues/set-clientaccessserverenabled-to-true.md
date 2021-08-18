@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994855"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320346"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>将 ClientAccessServerEnabled 设置为 True
 
@@ -26,11 +26,10 @@ ms.locfileid: "53994855"
 
 1. 连接到 Exchange Online PowerShell。
 
-> [!NOTE]
-> 若要连接到 Exchange Online PowerShell，必须使用全局管理员或 Exchange管理员帐户登录。
+    **注意**：若要连接到 Exchange Online PowerShell，必须使用全局管理员或管理员Exchange登录。
 
    a. 打开Windows PowerShell，然后运行以下命令：`$UserCredential = Get-Credential`
-b. 在 **"Windows PowerShell凭据请求**"对话框中，输入你的工作或学校帐户和密码 c。 单击“**确定**”。 
+   b. 在 **"Windows PowerShell凭据请求**"对话框中，输入你的工作或学校帐户和密码 c。 单击“**确定**”。 
 
 2. 运行以下命令以创建新会话：
 
@@ -46,8 +45,7 @@ b. 在 **"Windows PowerShell凭据请求**"对话框中，输入你的工作或�
 
     a. 如果 **ClientAccessServerEnabled** 设置设置为 **False，** 请运行以下 cmdlet： `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> 始终通过以下命令关闭 powershell 会话： `Remove-PSSession $Session`
+**提示**：始终通过以下命令关闭 powershell 会话： `Remove-PSSession $Session`
 
-有关详细信息，请参阅[Exchange Online PowerShell。](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+有关详细信息，请参阅 Exchange Online [PowerShell。](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: 27b5a2a88a82d837ae953f88866cf778fd74a2b6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5b3ded474f8fd6589d8a9e324a0bab72818d4a14893d5855502088c448bab150
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117654"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>尝试在 Microsoft Teams 中创建 Planner 选项卡时出现"创建计划失败"错误
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>尝试在规划器中创建 Planner 选项卡时出现"创建计划失败Microsoft Teams
 
-如果在 Microsoft Teams 中尝试创建 Planner 选项卡时收到"创建计划失败"错误，请执行以下步骤，确保管理员是该组的成员：
+如果在尝试在 Microsoft Teams 中创建 Planner 选项卡时收到"创建计划失败"错误，请按照以下步骤确保管理员是组的成员：
 
 1. 在管理中心中，转到组  >  [组](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups)。 
 2. 选择该组，然后在“成员”选项卡上，选择“查看全部并管理成员”。

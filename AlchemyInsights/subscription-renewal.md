@@ -16,16 +16,16 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: aeabecf82e22369ed78f00a7e32a99fa7cf9b5f9a8e3a0f5f84ea68bdbc33642
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0148fdbf6a88d1a057aecef60277d20173d8573e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894901"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321707"
 ---
 # <a name="subscription-recurring-billing"></a>订阅定期计费
 
-如果你希望了解按月或按年计费的时间 (如果定期计费是打开) ，还是当 (如果定期计费关闭) ，则使用以下步骤： 
+如果你希望了解按月或按年计费的时间 (如果定期计费为) ，或者当 (如果定期计费关闭) ，请使用以下步骤： 
   
 1. 在管理中心中，转到“**计费**”\>“[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
 2. 在 **"产品** "选项卡上，找到想要了解的订阅。 " **订阅状态** "列显示续订或到期日期。

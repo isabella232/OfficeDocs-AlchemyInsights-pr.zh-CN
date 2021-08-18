@@ -1,5 +1,5 @@
 ---
-title: Windows 10 中的网络文件共享
+title: Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52b398388410eb63c05ae7cdd8d2ca6f16d74a69a44f25a5c38e95bf163e9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117264"
 ---
-# <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10 中的网络文件共享
+# <a name="file-sharing-over-a-network-in-windows-10"></a>Windows 10
 
-**注意**：如果你之前使用家庭组进行文件共享，请注意家庭组已从 Windows 10 (版本 1803) 。 你现在可以使用 Windows 10 中的内置功能共享打印机和文件。
+**注意**：如果你之前使用家庭组进行文件共享，请注意家庭组已从版本 1803 Windows 10 (中删除) 。 现在，可以使用 Windows 10 中的内置功能共享打印机和Windows 10。
 
 **通过网络共享文件或文件夹**
 
