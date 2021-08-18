@@ -1,5 +1,5 @@
 ---
-title: 使用 SPMT 进行 SharePoint 迁移
+title: SharePoint使用 SPMT 迁移
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828286"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085758"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>使用 SPMT 进行 SharePoint 迁移
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint使用 SPMT 迁移
 
 SharePoint 迁移工具旨在用于从最小文件集到大规模企业迁移的迁移，它将允许你将信息转移到云，并利用 Microsoft 365 中最新的协作、智能和安全解决方案。
 

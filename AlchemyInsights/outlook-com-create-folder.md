@@ -14,16 +14,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: 8b1d182f350165ae025d198f74ed69b0cd734877
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2df6749cac63e1f2dfbc0caacd5872abf31eadedb7819efaa2d4a05be56f8e4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111966"
 ---
 # <a name="create-a-folder-in-outlookcom"></a>在 Outlook.com 中创建文件夹
 
-1. 在文件夹窗格的底部，选择 " **新建文件夹**"。 您可能需要在文件夹窗格中向下滚动才能看到 " **新建文件夹** " 按钮。
+1. 在文件夹窗格底部，选择"新建 **文件夹"。** 可能需要在文件夹窗格中向下滚动才能看到" **新建文件夹"** 按钮。
 2. 在文本框中，输入文件夹的名称，然后按 Enter。
 
-若要了解详细信息，请参阅 [在 Outlook.com 中创建文件夹](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)。
+若要了解更多信息，请参阅[在 Outlook.com 中创建文件夹](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy)。

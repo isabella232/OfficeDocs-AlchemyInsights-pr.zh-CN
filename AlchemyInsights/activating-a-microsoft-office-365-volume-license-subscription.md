@@ -16,12 +16,12 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.date: 04/21/2020
-ms.openlocfilehash: 373d517c29a98bb035e8b0785f9d9889b37734d80fa6113de34544d49f08cdf1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4fd484d890f08e4a85a23993655f46a0fea26926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937703"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315358"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>激活 Microsoft 批量许可证订阅
 
@@ -31,5 +31,5 @@ ms.locfileid: "53937703"
 4. 激活电子邮件为您提供了两个选项 **：注册** 或 **登录**。 如果之前创建了试用版，请选择"**登录"。** 如果还没有租户，Microsoft 365注册 **"。**
 5. 使用现有管理员 [https://admin.microsoft.com](https://admin.microsoft.com) Microsoft 365 管理中心 () 登录网站。 成功登录后，你将收到另一封确认购买的电子邮件。
 6. 登录后，转到"帐单""产品"页面 \> [](https://go.microsoft.com/fwlink/p/?linkid=842054)，验证已购买的订阅现在是否处于活动状态。 
-    > [!NOTE]
-    > 您还可以选择 VLSC 中的"订阅"选项卡以查看验证订阅是否已激活的详细信息。) 
+
+    **注意**：还可以选择 VLSC 中的"订阅"选项卡查看详细信息，以验证订阅是否已激活。) 
