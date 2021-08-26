@@ -29,4 +29,4 @@ Teams 基于以下内容设置你的状态：
 
 有关详细信息，请参阅 [Teams 中的用户状态](https://docs.microsoft.com/microsoftteams/presence-admins)。  
 
-但是，可以通过选择当前状态并选择其他状态来设置替代这些状态的 Teams 状态。有关详细信息，请参阅[在 Teams 中更改状态](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e)。
+但是，可以通过选中当前状态并选择其他状态来设置 Teams 状态以替代它们。有关详细信息，请参阅[在 Teams 中更改状态](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e)。
