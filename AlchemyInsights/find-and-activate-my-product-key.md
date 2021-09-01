@@ -3,7 +3,6 @@ title: Microsoft 开放式许可证计划
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviwer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 8c0556d2e0d2427d856d226b976ced81a2ca1e65
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: a57380d7bd979bd8d217d529a4fc39c77ac4fad5
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58322055"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842756"
 ---
 # <a name="microsoft-open-license-program"></a>Microsoft 开放式许可证计划
 
-如果你通过 Microsoft Microsoft 365许可证计划购买了企业[](https://go.microsoft.com/fwlink/p/?LinkID=613298)版证书，下面将说明如何查找和激活产品密钥。
+如果你通过[Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=613298)Microsoft 365计划购买了企业版证书，下面将说明如何查找和激活产品密钥。
 
 1. 从合作伙伴购买密钥Microsoft 365，检查收件箱中是否包含来自 Microsoft 的包含激活链接的电子邮件。
 
