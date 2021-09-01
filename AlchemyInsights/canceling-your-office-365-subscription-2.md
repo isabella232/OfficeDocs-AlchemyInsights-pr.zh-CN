@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 6ede93972410f77addda2a3ce40ff564284a5b53
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 697cd622573ae5536363a9bfefa63dfc14b4f2d0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324082"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842612"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消你的Microsoft 365订阅？
 
@@ -29,7 +30,7 @@ ms.locfileid: "58324082"
 
 1. 删除用户许可证，直到授权用户少于 25 个。
 2. 转到" **计费** \> **[你的产品"](https://go.microsoft.com/fwlink/p/?linkid=842054)** 页面。
-3. 在"**产品**"选项卡上，找到要取消的订阅，选择三个点 (执行更多) ，然后选择"取消 **订阅"。**
+3. 在"**产品**"选项卡上，找到要取消的订阅，选择三个点 (执行) 操作，然后选择"取消 **订阅"。**
 
 **退还：** 在下一个计费周期内，将向你退还所有按比例分配的点数。
 

@@ -3,7 +3,6 @@ title: 发票和付款信息
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: b28778c821b4440636a3edea450920306ee9f6a0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321953"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845312"
 ---
 # <a name="invoice-and-payment-information"></a>发票和付款信息
 
@@ -31,7 +31,7 @@ ms.locfileid: "58321953"
 
 **发票/帐单**
 
-您可以在"帐单""帐单"或"付款"页面上  >  [&发票](https://go.microsoft.com/fwlink/p/?linkid=848039)。  
+您可以在"帐单""帐单"或"付款"页面上&  >  [发票](https://go.microsoft.com/fwlink/p/?linkid=848039)。  
 
 **注意**：如果看不到发票，可能需要调整日期范围筛选器。  默认情况下，显示最近 3 个月的发票。
 

@@ -12,13 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
+ms.date: 08/11/2021
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca706a13805ba837128664de1dcf3794e1875380
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900462"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845420"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>取消你的Microsoft 365订阅？
 
@@ -30,7 +31,6 @@ ms.locfileid: "57900462"
 
 **退款：任何按比例计算退款将在下一个计费周期内退回给你。**
 
-> [!NOTE]
-> 如果看不到取消选项，请选择订阅以查看详细信息页面。 在"**订阅和付款设置"** 部分，选择"**取消订阅"。**
+**注意**：如果看不到取消选项，请选择订阅以查看详细信息页面。 在"**订阅和付款设置"** 部分，选择"**取消订阅"。**
 
 若要了解更多信息，请参阅 [取消订阅](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)。

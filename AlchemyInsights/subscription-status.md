@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: dc7669ddd868f49e510e99ad5e37252c5d2305208b938dacf65fd92a1d9fb137
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: 6a9cfec820a25167262f9d2c4cf0db948a6a695b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009094"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842684"
 ---
 # <a name="subscription-status"></a>订阅状态
 
-订阅状态、到期日期和许可证数量可在"你的产品"页上找到Microsoft 365 管理中心。 
+订阅状态、到期日期和许可证数量可在"你的产品"页面上找到Microsoft 365 管理中心。 
 
-1. 在管理中心中，转到“**账单**” > “[你的产品](https://go.microsoft.com/fwlink/p/?linkid=842054)”页面。
+1. 在管理中心中，转到 **“账单”** > [“你的产品”](https://go.microsoft.com/fwlink/p/?linkid=842054)页面。
 2. 默认情况下 **，在** "产品"选项卡上，可以看到所有订阅及其状态 (活动、过期、已禁用或已删除) 。 To see a subset of all subscriptions， select the filter icon， then select the **Subscription status** that you want to see.
 3. 若要重新激活已过期或已禁用的订阅，请选择三个点 (执行) 操作，然后选择"重新 **激活此订阅"。**
 4. " **你的产品** "页还显示以下信息：
