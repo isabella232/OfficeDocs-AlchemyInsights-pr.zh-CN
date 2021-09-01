@@ -3,7 +3,6 @@ title: 计费和付款
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314906"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844952"
 ---
 # <a name="billing-and-payment"></a>计费和付款
 
-帐单位于"帐单""帐单  >  [""&"](https://go.microsoft.com/fwlink/p/?linkid=848039)选项卡上。 默认情况下，显示最近 3 个月的发票。  若要查看较旧的发票，请调整筛选器。  单击" **下载发票 PDF"** 链接以查看发票。
+帐单可在"帐单""帐单  >  [""&"选项卡](https://go.microsoft.com/fwlink/p/?linkid=848039)上找到。 默认情况下，显示最近 3 个月的发票。  若要查看较旧的发票，请调整筛选器。  单击" **下载发票 PDF"** 链接以查看发票。
 
 **通过电子邮件接收发票**
 
@@ -46,7 +46,7 @@ ms.locfileid: "58314906"
 
 4. 若要使用现有付款方式，请从下拉列表中选择一个，然后选择“**替换**”。
 
-    **注意**：如果你有与计费配置文件相关联的订阅，则只能使用信用卡或借记卡来支付费用。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
+    **注意**：如果你有与计费用户配置相关联的订阅，则只能使用信用卡或借记卡进行支付。 如果“**付款方式**”页面上列出了银行帐户，则不能在下拉列表中选择它们。
 
 5. 若要添加新的付款方式，请选择“**添加付款方式**”。
 

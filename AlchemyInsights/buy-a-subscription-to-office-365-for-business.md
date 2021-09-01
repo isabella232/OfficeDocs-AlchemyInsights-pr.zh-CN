@@ -3,7 +3,6 @@ title: 从免费试用版Microsoft 365商业版订阅
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,15 +14,16 @@ ms.custom:
 - commerce_purchase
 - "257"
 - "1400007"
+ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ea808a1d98ade11fc65ef9cafed8d71a79ed347
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325757"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845060"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>购买免费试用版Microsoft 365订阅
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>从免费试用版Microsoft 365订阅订阅
 
 你已Microsoft 365，现在已准备好购买。 从试用版购买Microsoft 365有两个选项：
   
