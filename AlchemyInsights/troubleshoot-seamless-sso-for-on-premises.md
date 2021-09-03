@@ -34,7 +34,7 @@ ms.locfileid: "54105489"
 
 **公告**
 
-- [Azure Active Directory 无缝单一登录：常见问题解答](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq) - 在此篇文章中，我们处理了有关 Azure Active Directory 无缝单一登录（无缝 SSO）的常见问题。请定期检查此页面，可能会有新内容。
+- [Azure Active Directory 无缝单一登录：常见问题解答](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq) - 在本文中，我们解决了有关 Azure Active Directory 无缝单一登录（无缝 SSO）的常见问题。请持续查看此页面以发现新内容。
 - [Microsoft 问答](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - 本文提供有关如何就无缝 SSO 提出功能请求或技术问题的信息。
 
 **疑难解答**
