@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Connections 可用性
+title: 设置 Viva 连接桌面应用
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000454"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923688"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections 可用性
+# <a name="set-up-the-viva-connections-desktop-app"></a>设置 Viva 连接桌面应用
 
-Microsoft Viva Connections 将于 2021 年上半年推出桌面版，2021 年夏季推出移动版。 其他功能将在 2022 年推出。
+Viva Connections for Teams Desktop 有两个主要要求。 
 
-有关详细信息，请参阅[Microsoft Viva Connections 帮助每个人保持参与和及时了解最新信息](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)。
+- 必须SharePoint应用栏并启用租户，才能充分利用 Viva 连接的全部优势。 强烈建议将主网站用作网站中的登录Teams。 
+- 第一个版本的 Viva 连接可以使用 PowerShell (使用最新版本的 SharePoint [PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps)) 。 然后，将 Viva 连接作为应用上载到 Teams管理中心。 PowerShell 脚本自 2021 年 3 月 31 日起可用。 从官方 Microsoft 下载中心 下载 Viva 连接 [桌面](https://www.microsoft.com/download/confirmation.aspx?id=102888)。 
+
+有关详细信息，请参阅[Add Viva Connections for Microsoft Teams desktop](https://docs.microsoft.com/SharePoint/viva-connections) and Microsoft Teams [PowerShell overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)。

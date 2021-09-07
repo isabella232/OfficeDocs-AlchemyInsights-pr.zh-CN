@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978151"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923544"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - 安全基准
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978151"
 有关如何最有效地更改所部署的基线版本的指导，请参阅 [Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)。
 
 部署安全基准后，可监视部署状态并按设备查看设置。
+
+由于安全基线包含许多设置，因此审查配置变化并进行测试以确保所有的设置都适合你的设备和业务需求是非常重要的。
 
 **注意：** 基准的报告数据可能需要多达 24 小时才能从初始部署显示到设备，而进一步更新最多需要 6 小时。 
 
