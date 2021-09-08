@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58577701"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923508"
 ---
 # <a name="activating-office-365-applications-on-windows-365-pcs"></a>在 Windows 365 电脑上激活 Office 365 应用程序
+
+**注意**：此问题不适用于具有 Windows 365 企业版许可证的用户。
 
 Windows 365 电脑映像包括 Office 365 应用程序的已安装副本，这些副本在首次打开任何 Office 应用程序时激活。
 
