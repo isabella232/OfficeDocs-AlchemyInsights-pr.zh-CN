@@ -15,12 +15,12 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "58896344"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327804"
 ---
 # <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Microsoft 365 管理中心中的报告不显示可读的用户名
 
@@ -30,5 +30,5 @@ Microsoft 365 管理中心中的报告不显示用户名，而是显示字母数
 
 如果全局管理员的组织隐私实践允许，则全局管理员可为其租户还原此更改并显示可识别的用户信息。若要为租户还原此更改，请执行以下操作：
 
-1. 在管理中心，转到“**设置**” > “**组织设置**” > [“**服务**”](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)，然后选择“**报表**”。 
+1. 在管理中心，转到“**设置**” > “**组织设置**” > [“**服务**”](https://admin.microsoft.com/Adminportal/Home#/Settings/Services )，然后选择“**报表**”。 
 1. 在“**选择如何显示用户信息**”下，选择“**在报表中显示可识别的用户信息**”，然后重新运行该报表。
