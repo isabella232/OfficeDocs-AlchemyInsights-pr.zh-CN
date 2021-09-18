@@ -1,9 +1,9 @@
 ---
-title: OfficeLTSC 预览版
+title: OfficeLTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076407"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447085"
 ---
-# <a name="office-ltsc-preview"></a>OfficeLTSC 预览版
+# <a name="office-ltsc"></a>OfficeLTSC
 
-Microsoft OfficeLong Term Servicing Channel (LTSC) for Windows and Office 2021 for Mac 目前提供公共预览版。 有关详细信息，请参阅：
+OfficeLtSC (2021) 长期服务频道现在通常在批量许可服务中心 (VLSC) 上提供。
 
-- [LTSC Office概述](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**重要** 提示：Office LTSC 2021 与Office或 Microsoft 365 (计划提供Office 365) 分开。 例如，如果已经将Microsoft 365 企业应用版 (名为 Office 365 专业增强版) 的用户部署到了组织中，则不需要Office LTSC 2021。 你已拥有 ltSC 2021 Office中包含的所有功能，以及许多其他在 Office LTSC 2021 中不可用的功能。
 
-- [安装Office LTSC 预览版](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+有关详细信息和部署注意事项，请参阅：
 
-- [Office 2021 Standard for Mac (Preview) ](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[OFFICE LTSC 概述](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [OfficeLTSC 商业预览常见问题解答](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office适用于 Windows 和 Mac 常见问题解答的 LTSC](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**注意：** 如果当前运行的是 Microsoft 365 企业应用版 或 Microsoft 365 商业应用版，则已在 Office LTSC 2021 或 Office 2021 for Mac 中提供这些功能，无需参与预览版。
+[OfficeLTSC 2021 系统要求](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-如果你在预览期间需要有关OFFICE LTSC 的帮助，请参阅[获取支持和提供反馈](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)。
+[Deploy Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[将OFFICE LTSC 2021 预览版Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
