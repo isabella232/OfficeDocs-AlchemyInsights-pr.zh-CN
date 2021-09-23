@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097368"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482658"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream 是一种企业视频服务，组织内部的人员可安全地在其中上传、查看和共享视频。 可以共享课堂、会议、演示文稿、培训课程或其他有助于团队协作的视频的录制。  
+Microsoft Stream 的新愿景使用户能够像创建、共享、发现和管理任何其他文件一样创建、共享和管理视频。 有关详细信息，请参阅：
 
-- [新 Microsoft Stream](https://docs.microsoft.com/stream/new-stream)
-- [什么是 Microsoft Stream（经典）？](https://docs.microsoft.com/stream/overview)
-- [从 Microsoft Stream (经典) 迁移到新的 Microsoft Stream](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (构建SharePoint) Microsoft Stream 的新版本的 SharePoint) ](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [从 Microsoft Stream (经典) 迁移到基于 (构建的 Stream SharePoint) ](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
