@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062862"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475207"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>发布敏感度标签
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062862"
 1. 如果创建多个可能导致用户或位置发生冲突的标签策略，请查看策略顺序，并根据需要向上或向下移动。 若要更改标签策略的顺序，请选择三个点（更多操作），然后选择“**上移**”或“**下移**”。
 
 完成向导会自动发布标签策略。
+
+有关详细信息，请参阅 [创建和配置敏感度标签及其策略](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)。
