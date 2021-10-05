@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077204"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102355"
 ---
 # <a name="uk-domain-transfers"></a>.uk 域传输
 
 英国域传输需要新注册机构的 IPS 标记。 可以在 Microsoft 管理门户的域传输向导中输入 IPS 标记：
 
-- 转到设置域"，双击该域，然后选择"转移域"  >  以启动传输向导。 
+- 转到设置  >  [**域**](https://admin.microsoft.com/#/Domains)"，双击该域，选择"转移域"以启动传输向导。
 
 标记更改后，域将立即转移到新注册机构。 然后，你需要与新的注册机构合作来完成转移，可能支付转移费用，并借助你的新注册机构将已转移的域添加到你的帐户。
 
